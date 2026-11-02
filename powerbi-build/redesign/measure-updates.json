@@ -1,0 +1,170 @@
+[
+  {
+    "name": "FY Sales",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Sales]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Total Income",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Total Income]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Total Expenses",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Total Expenses]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Net Profit",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Net Profit]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Profit Before Tax",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Profit Before Tax]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Interest",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Interest]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Current Tax",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Current Tax]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Deferred Tax",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Deferred Tax]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Depreciation and Amortization",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Depreciation and Amortization]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Reported EBITDA",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Reported EBITDA]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Other Income",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Other Income]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Purchases",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Purchases]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Inventory Change",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Inventory Change]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Material Consumed",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Material Consumed]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Equity",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Equity]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Long Term Debt",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Long Term Debt]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Short Term Debt",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Short Term Debt]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Unsecured Long Term Debt",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Unsecured Long Term Debt]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Unsecured Short Term Debt",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Unsecured Short Term Debt]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Current Assets",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Current Assets]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Current Liabilities",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Current Liabilities]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Inventory",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Inventory]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Debtors",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Debtors]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Creditors",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Creditors]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Intangible Assets",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Intangible Assets]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Retained Earnings Proxy",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Retained Earnings Proxy]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Non Current Liabilities",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Non Current Liabilities]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  },
+  {
+    "name": "FY Total Assets",
+    "tableName": "Financials",
+    "expression": "VAR Y=IF(ISINSCOPE('Financials'[Financial Year]),MAX('Financials'[Financial Year]),[Review Financial Year]) RETURN CALCULATE(SUM('Financials'[Total Assets]),'Financials'[Financial Year]=Y)",
+    "description": "Selected Review Year for cards; financial-year axis for trend charts. Default FY2023-2024."
+  }
+]

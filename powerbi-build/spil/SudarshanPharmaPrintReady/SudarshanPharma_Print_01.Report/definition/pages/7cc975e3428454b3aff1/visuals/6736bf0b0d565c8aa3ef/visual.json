@@ -1,0 +1,120 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "6736bf0b0d565c8aa3ef",
+  "position": {
+    "x": 42.666666666666664,
+    "y": 412.5333333333333,
+    "width": 1037.186351706037,
+    "height": 66.8,
+    "z": 7,
+    "tabOrder": 7
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "GST-0053 | Month: 2025-11 | GSTIN: 27AAMCS2601L1Z6 | Registration State: Maharashtra | Taxable Sales: 382,630,224.13 | Exempt Sales: 0 | Zero Rated Sales: 13,069,807.9 | Non GST",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Sales: 10,920,000 | Total Outward Supplies: 406,620,032.03 | Output Tax: 69,674,476.1 | Net ITC: 83,095,783 | Late Fee: 0 | Interest Paid: 0 | Filed On: 2025-12-20 | Source ID: 141 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Source: GSTR3B_27AAMCS2601L1Z6_112025.pdf | Filing Evidence: ARN date present",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

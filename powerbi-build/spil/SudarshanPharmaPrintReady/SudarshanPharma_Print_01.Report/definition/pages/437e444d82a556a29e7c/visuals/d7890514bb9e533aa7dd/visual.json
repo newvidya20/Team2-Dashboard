@@ -1,0 +1,108 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "d7890514bb9e533aa7dd",
+  "position": {
+    "x": 42.666666666666664,
+    "y": 570.9333333333333,
+    "width": 1037.186351706037,
+    "height": 49.86666666666667,
+    "z": 11,
+    "tabOrder": 11
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "REC-0009 | Month: 2025-12 | GST Supplies: 563,036,491.9 | Gross Bank Credits: 1,089,154,790.94 | Own Account Credit Markers: 265,312,350 | Loan Candidates: 42,498,112.22 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Adjusted Credit Candidates: 781,344,328.72 | GST Registrations: 5 | Bank Accounts With Entries: 6 | Coverage: All five GST registrations supplied",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

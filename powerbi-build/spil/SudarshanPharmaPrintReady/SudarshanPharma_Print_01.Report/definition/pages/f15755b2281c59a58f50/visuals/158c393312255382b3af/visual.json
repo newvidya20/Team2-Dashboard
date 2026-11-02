@@ -1,0 +1,120 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "158c393312255382b3af",
+  "position": {
+    "x": 42.666666666666664,
+    "y": 192.13333333333333,
+    "width": 1037.186351706037,
+    "height": 66.8,
+    "z": 4,
+    "tabOrder": 4
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "GST-0002 | Month: 2026-02 | GSTIN: 24AAMCS2601L1ZC | Registration State: Gujarat | Taxable Sales: 61,524,809.86 | Exempt Sales: 0 | Zero Rated Sales: 0 | Non GST Sales: 0 | Total",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Outward Supplies: 61,524,809.86 | Output Tax: 11,074,465.82 | Net ITC: 12,020,700.34 | Late Fee: 0 | Interest Paid: 0 | Filed On: 2026-03-20 | Source ID: 90 | Source:",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "GSTR3B_24AAMCS2601L1ZC_022026.pdf | Filing Evidence: ARN date present",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

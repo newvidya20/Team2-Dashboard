@@ -1,0 +1,1964 @@
+
+--- PAGE 1 ---
+Acknowledgement Number:177757940161025
+Date of filing : 
+16-Oct-2025
+INDIAN INCOME TAX RETURN ACKNOWLEDGEMENT
+[Where the data of the Return of Income in Form ITR-1(SAHAJ), ITR-2, ITR-3, 
+ITR-4(SUGAM), ITR-5, ITR-6, ITR-7
+filed and verified]
+(Please see Rule 12 of the Income-tax Rules, 1962)
+Assessment
+Year
+2025-26
+PAN
+BFJPC3507H
+Name
+NEERAJ 
+GHANSHYAM 
+CHACHLANI
+Address
+FLAT NO-G-604 PLOT NO-1, 
+BHAGWATI IMPERIA, 
+SECTOR-9, 
+ULWE, RAIGAD , 
+RAIGARH(MH) 
+, 
+19-Maharashtra,
+91-India, 
+410206
+Status
+Individual
+Form Number
+ITR-3
+Filed u/s
+139(1)- On or Before due date
+e-Filing Acknowledgement Number
+177757940161025
+Current Year business loss, if any
+1
+0
+Total Income
+1A
+7,02,49,270
+Book Profit under MAT, where applicable
+2
+0
+Adjusted Total Income under AMT, where applicable
+3
+0
+Net tax payable
+4
+2,69,94,215
+Interest and Fee Payable
+5
+32,52,796
+Total tax, interest and Fee payable
+6
+3,02,47,011
+Taxes Paid
+7
+3,02,47,011
+(+) Tax Payable /(-) Refundable (6-7)
+8
+0
+Accreted Income as per section 115TD
+9
+0
+Additional Tax payable u/s 115TD
+10
+0
+Interest payable u/s 115TE
+11
+0
+Additional Tax and interest payable
+12
+0
+Tax and interest paid
+13
+0
+(+) Tax Payable /(-) Refundable (12-13)
+14
+(+) 0
+Income Tax Return electronically transmitted on 
+16-Oct-2025 18:18:14
+ 
+from IP address 
+45.127.45.196
+and veriﬁed by 
+NEERAJ GHANSHYAM CHACHLANI
+ having PAN 
+BFJPC3507H
+ on 
+16-Oct-
+2025
+ using paper ITR-Veriﬁcation Form /Electronic 
+Veriﬁcation Code 
+ENM1EJDSFI
+ generated through
+Aadhaar OTP
+ mode
+System Generated 
+Barcode/QR Code
+BFJPC3507H0317775794016102577aa0826e6e232c97f36da47a8f517984292c72e
+ DO NOT SEND THIS ACKNOWLEDGEMENT TO CPC, BENGALURU 
+ 
+Taxable Income and Tax Details
+Accreted Income and Tax Detail
+
+
+--- PAGE 2 ---
+Name               : NEERAJ GHANSHYAM CHACHLANI
+Father's Name : GHANSHYAM GEIMAL CHACHLANI
+Address           : FLAT NO-G-604 PLOT NO-1
+                          BHAGWATI IMPERIA
+                          SECTOR-9
+                          ULWE, RAIGAD - 410 206
+Rs. Rs. Rs.
+ Profits and gains of Business or Profession
+Business-1
+     Net Profit Before Tax as per P & L a/c 7,02,49,274
+     Add: Inadmissible expenses & Income not included
+          Depreciation debited to P & L a/c 8,12,336
+     Adjusted Profit of Business-1 7,10,61,610
+Total income of Business and Profession 7,10,61,610
+Less: Depreciation as per IT Act 2 8,12,336
+Income chargeable under the head "Business and Profession" 7,02,49,274
+ Total Income 7,02,49,274
+Total income rounded off u/s 288A 7,02,49,270
+Tax on total income 2,07,64,781
+Add: Surcharge 51,91,195
+Tax with Surcharge 2,59,55,976
+Add: Cess 10,38,239
+Tax with surcharge and cess 2,69,94,215
+Interest u/s 234B 18,89,594
+Interest u/s 234C 13,63,202 32,52,796
+Net tax payable 3,02,47,011
+Self-assessment tax paid 1 3,02,47,011
+ Balance tax payable 0
+A.Y. 2025-2026
+Statement of Income
+Previous Year : 2024-2025
+PAN                : BFJPC 3507 H
+Aadhaar No.   : 6290 1835 1791
+Date of Birth   : 15-Aug-1979
+Status             : Individual
+Resident
+Tax u/s 115BAC
+
+
+--- PAGE 3 ---
+PARTICULARS AMOUNT PARTICULARS AMOUNT
+To Opening Stock 2248150.00 By Gross Sale 2,00,13,59,690.00
+To Purchase 1,94,56,74,788.00 By Closing Stock 3,51,47,582.00
+To Labour Charges 9,48,750.00
+To Transpotation Charges 36,25,490.00
+To Gross Profit 8,40,10,093.05
+2,03,65,07,271.05 2,03,65,07,272.00
+To Salary & Wages 34,25,185.00 By Gross Profit 8,40,10,093.05
+To Electricity  Charges 1,02,540.00
+To Tea & Refreshment 1,06,583.00
+To Conveyance 1,29,475.00
+To  Rent Paid 5,04,000.00
+To Sundry Expenses 38,941.00
+To Bank Charges 5,248.00
+To Telephone Exp. 18,659.00
+To Professional Charge 1,50,000.00
+To Accounting Charges 3,00,000.00
+To Repaired & Maitances 47,481.00
+To Audit Fees 25,000.00
+To Depreciation 8,12,336.05
+To Interest On Loan 80,95,371.00
+To Net Profit 7,02,49,274.00
+TOTAL 8,40,10,093.05 TOTAL 8,40,10,093.05
+Gajanan Sakla & Associates                             
+Chartered Accountants M/S. ROYAL ENTERPRISES
+FRN: 139814W                                        
+CA Gajanan S. Sakla MR.NEERAJ CHACHLANI
+Proprietor                                                Proprietor
+M. No: 160794
+Date: 15/10/2025
+UDIN: 25160794BMJVLE8069
+MR.NEERAJ GHANSHYAM CHACHLANI
+M/S. ROYAL ENTERPRISES
+PROFIT & LOSS A/C  As on 31st  March 25
+
+
+--- PAGE 4 ---
+AMOUNT AMOUNT
+Capital A/c. Fixed Assets :
+Op. Balance 6,41,51,571.00 As Per Schedule 'A' 2,54,26,842.95
+Add: Profit 7,02,49,274.00
+13,44,00,845.00
+Less:  Drawings 48,75,250.00 12,95,25,595.00
+CURRENT ASSETS
+SECURED LOAN Gold & Ornaments 3,45,960.00
+As Per Schedule 'C' 1,99,09,794.00 Closing Stock 3,51,47,582.00
+Sundry Receivable 18,34,35,254.00
+UNSECURED LOAN
+As Per Schedule 'D' 4,49,38,235.00
+Loan From Friends & Relavties 3,96,19,000.00
+CURRENT LIABILITIES Cash & Bank Balance
+Sundry payable 1,80,35,375.00 As Per Shedule 'B" 86,60,315.00
+other Payable 9,87,955.00
+TOTAL 25,30,15,954.00 25,30,15,953.95 0.05
+-0.05
+Gajanan Sakla & Associates                             
+Chartered Accountants M/S. ROYAL ENTERPRISES
+FRN: 139814W                                        
+CA Gajanan S. Sakla MR.NEERAJ CHACHLANI
+Proprietor                                                Proprietor
+M. No: 160794
+Date: 15/10/2025
+UDIN: 25160794BMJVLE8069
+MR, NEERAJ GHANSHYAM CHACHLANI
+LIABILITIES ASSETS
+TOTAL
+M/S. ROYAL ENTERPRISES
+BALANCE SHEET AS ON 31 st  MARCH 2025
+
+
+--- PAGE 5 ---
+Depreciation W.D.V  On 31.3.2024
+Rate of 
+Depreciation
+W.D.V On 
+01/04/2024
+Before & Put to 
+Use 03.09.2024
+After & Put to 
+Use 01.10.2024 Total
+Total 
+Depreciation 
+As at 
+31.03.2025
+As at 31.03.2025
+1 Flat 0% 857000.00 0.00 0.00 857000.00 0.00 857000.00
+2 Flat  at Pune 0% 1,99,37,117.00 19937117.00 ‐ 19937117.00
+3 Furniture 10% 1,32,195.00 0.00 0.00 132195.00 13219.50 118975.50
+4 Mobile Handset 15% 13,381.00 0.00 0.00 13381.00 2007.15 11373.85
+5 House Hold app 15% 28,603.00 0.00 0.00 28603.00 4290.45 24312.55
+6 Two Wheeler 15% 18,343.00 0.00 0.00 18343.00 2751.45 15591.55
+7 Computer 40% 8,746.00 0.00 0.00 8746.00 3498.40 5247.60
+8 Four Wheeler 15% 33,01,825.00 0.00 0.00 3301825.00 495273.75 2806551.25
+9 New Four Wheeler 15% 1941969.00 0.00 0.00 1941969.00 291295.35 1650673.65
+6302062.00 0.00 19937117.00 26239179.00 812336.05 25426842.95
+Gajanan Sakla & Associates                             
+Chartered Accountants M/S. ROYAL ENTERPRISES
+FRN: 139814W                                        
+CA Gajanan S. Sakla MR.NEERAJ CHACHLANI
+Proprietor                                                Proprietor
+M. No: 160794
+Date: 15/10/2025
+UDIN: 25160794BMJVLE8069
+Total A
+Fixed Assets Shedule 'A'
+MR, NEERAJ GHANSHYAM CHACHLANI
+M/S. ROYAL ENTERPRISES
+Sr. 
+No Assets
+Cost / Gross Block
+
+
+--- PAGE 6 ---
+PARTICULAR AMOUNT
+CASH IN HAND 17,650.00
+Bank of Baroda 80,86,717.00
+Vighnaharta Credit Society 2,06,673.00
+ICICI Bank 1,46,606.00
+Canara Bank 6,463.00
+HDFC Bank 1,96,206.00
+Total  86,60,315.00
+PARTICULAR AMOUNT
+ICICI Bank 4615512
+HDFC Bank 270107
+Fulletron Indi 489190
+UNITY SMALL FINANCE 375226
+UNITY SMALL FINANCE 2162430
+TATA FINANCE 1077890
+EPIMONEY PRIVATE LIMITED 370767
+FED BANK 1782600
+HERO FINANCE 931684
+CLIX CAPITAL 3123880
+IIFL 2704863
+Poonawal Fin 4451260
+Credit Saisons 1916224
+Arka Finance 2238274
+NFL 2118730
+Ambvit Finance 2266151
+INDUSIND BANK 2591377
+KINARA FINANCE 2359087
+FULLERTON INDIA 2639934
+DEUTCH BANK 4225506
+MAAS FINANCE 2227543
+Total  4,49,38,235.00
+MR, NEERAJ GHANSHYAM CHACHLANI
+M/S. ROYAL ENTERPRISES
+STATEMENT OF CASH & BANK BALANCE
+SCHEDULE 'B'
+MR, NEERAJ GHANSHYAM CHACHLANI
+M/S. ROYAL ENTERPRISES
+STATEMENT OF UNSECURED LOAN
+SCHEDULE 'D'
+
+
+--- PAGE 7 ---
+PARTICULAR AMOUNT
+HDFC BANK 1956985
+ICICI BANK HL 13306051
+YES BANK 1853873
+YES BANK 2792885
+Total  1,99,09,794.00
+Gajanan Sakla & Associates      M/S. ROYAL ENTERPRISES
+Chartered Accountants
+FRN: 139814W                                        
+MR.NEERAJ CHACHLANI
+CA Gajanan S. Sakla Proprietor
+Proprietor                                               
+M. No: 160794
+Date: 15/10/2025
+UDIN: 25160794BMJVLE8069
+MR, NEERAJ GHANSHYAM CHACHLANI
+M/S. ROYAL ENTERPRISES
+STATEMENT OF SECURED LOAN
+SCHEDULE 'C'
+
+
+--- PAGE 8 ---
+Acknowledgement Number:177711390161025
+FORM 3CB [See rule 6G(1)(b)]
+Audit report under section 44AB of the Income-tax Act, 1961, in the case of a person referred to in clause (b) of sub-rule (1) of rule 6G
+1. I
+Name NEERAJ CHACHLANI
+Address
+PAN BFJPC3507H
+Aadhaar Number of the assessee, if available
+2.
+3.
+b. Subject to above,-
+A. I have obtained all the information and explanations which, to the best of My knowledge and belief, were necessary for the purposes of the audit.
+B. In My opinion, proper books of account have been kept by the head office and branches of the assessee so far as appears from My examination of the books.
+C. In My opinion and to the best of My information and according to the explanations given to Me the said accounts, read with notes thereon, if any, give a true and fair view:-
+i. In the case of the balance sheet, of the state of the affairs of the assessee as at 31st March 2025 ; and
+ii. In the case of the Profit and loss account, of the Profit of the assessee for the year ended on that date.
+4.
+5.
+Sl.
+No. Qualification Type Observations/Qualifications
+1 All the information and explanations which to the best of
+my/our knowledge and belief were necessary for the
+purpose of my/our audit has not been provided by the
+assessee
+All the information and explantions to the best of my knowledge were not made available.
+2 Proper books of account, to enable reporting in form
+3CD, have not been maintained by the assessee
+Proper Accounting and Books were not maintained by the assessee, so it was not possible for us to report the
+points mentioned uder 3CB & 3CD.
+3 Others In respect of payments and /or receipts by chq or draft . It was not possible for us to verify whether such
+payments and /or receipts are by crossed cheques/drafts as necessary proofs was not in possession of
+assessee.
+4 Others It is not possible to determine break-up of total expenditure of entities registered or not registered under the GST,
+as necessary information is not maintained by the assessee in its books of accounts.
+5 Others Information required as per clause 44 of Form 3CD has not been maintained in absence of any disclosure
+requirement thereof under the Goods and Service Tax Act. Further the standard accounting software used by
+Assessee is not configured to generate reports as required under this clause in absence of any prevailing
+statutory requirement.
+6 Documents necessary to verify the reportable
+transaction were not made available
+Necessary Documents to verify Reportable transaction were not made available
+7 Proper stock records are not maintained by the
+assessee
+As explained to us, it is not possible to maintain stock record
+8 Records necessary to verify personal nature of
+expenses not maintained by the assessee
+Records necessary to verify personal nature of expenses are not maintained by the assessee
+have examined the balance sheet as on 31st March 2025 , and the Profit and loss account
+for the period beginning from 01-Apr-2024 to ending on 31-Mar-2025 attached herewith, of
+404 C WING, CHEWAL CLASS, NEAR METRO STATION , OPP
+AZAD NAGAR ANDHERI , 19-Maharashtra , 91-India , Pincode -
+400058
+I certify that the balance sheet and the Profit and loss account are in agreement with the books of account maintained at the head office at RAIGAD and 0 branches.
+a. I report the following observations/comments/discrepancies/inconsistencies if any: All the information and explantions to the best of my knowledge were not made
+available.,Proper Accounting and Books were not maintained by the assessee, so it was not possible for us to report the points mentioned uder 3CB & 3CD.,In respect of
+payments and /or receipts by chq or draft . It was not possible for us to verify whether such payments and /or receipts are by crossed cheques/drafts as necessary proofs
+was not in possession of assessee,It is not possible to determine break-up of total expenditure of entities registered or not registered under the GST, as necessary
+information is not maintained by the assessee in its books of accounts.,Information required as per clause 44 of Form 3CD has not been maintained in absence of any
+disclosure requirement thereof under the Goods and Service Tax Act. Further the standard accounting software used by Assessee is not configured to generate reports as
+required under this clause in absence of any prevailing statutory requirement.,Necessary Documents to verify Reportable transaction were not made available,As explained
+to us, it is not possible to maintain stock record,Records necessary to verify personal nature of expenses are not maintained by the assessee,GST Return and details were
+not available for verification, as explained and written confirmation given by assessee that sales purchase figure are shown in GST Return and tax liability is paid on
+that.,Supporting documents for deduction claimed under chapter VI are not available to verify,For freight payment all the declarations were not provided at the time of audit
+but assessee's written confirmation was accepted for that freight payment was made to transporter who were below the limits for deducting TDS. Hence TDS was not
+deducted on that part.
+The statement of particulars required to be furnished under section 44AB is annexed herewith in Form No. 3CD.
+In My opinion and to the best of My information and according to the explanations given to Me , the particulars given in the said Form No. 3CD are true and correct, subject to the
+following observations/qualifications, if any:
+
+
+--- PAGE 9 ---
+Acknowledgement Number:177711390161025
+9 Others GST Return and details were not available for verification, as explained and written confirmation given by
+assessee that sales purchase figure are shown in GST Return and tax liability is paid on that.
+10 Documents necessary to verify the reportable
+transaction were not made available
+Supporting documents for deduction claimed under chapter VI are not available to verify
+11 Others For freight payment all the declarations were not provided at the time of audit but assessee's written confirmation
+was accepted for that freight payment was made to transporter who were below the limits for deducting TDS.
+Hence TDS was not deducted on that part.
+Accountant Details
+Name Gajanan Sakla
+Membership Number 160794
+FRN(Firm Registration Number) 0139814W
+Address
+Date of signing Tax Audit Report 15-Oct-2025
+Place AKOLA
+Date 16-Oct-2025
+This form has been digitally signed by GAJANAN SUNIL SAKLA having PAN BQKPS5839Q from IP Address 103.62.16.198 on 16/10/2025 06:11:14 PM Dsc Sl.No and issuer
+,C=IN,O=Pantagon Sign Securities Pvt. Ltd.,OU=Certifying Authority
+01 , Madhuri Building, Khedkar Nagar ,
+19-Maharashtra , 91-India , Pincode -
+444001
+
+
+--- PAGE 10 ---
+Acknowledgement Number:177711390161025
+FORM 3CD [See rule 6G(2)]
+Statement of particulars required to be furnished under section 44AB of the Income-tax Act, 1961
+PART - A
+1. Name of the Assessee NEERAJ CHACHLANI
+2. Address of the Assessee
+3. Permanent Account Number (PAN) BFJPC3507H
+Aadhaar Number of the assessee, if available
+4. Whether the assessee is liable to pay indirect tax like excise duty, service tax, sales tax, goods and services tax,customs duty,etc. if yes, please
+furnish the registration number or,GST number or any other identification number allotted for the same ?
+Yes
+Sl. No. Type Registration /Identification Number
+1 Goods and Services Tax
+19-Maharashtra
+27BFJPC3507H1ZP
+5. Status Individual
+6. Previous year 01-Apr-2024 to 31-Mar-2025
+7. Assessment year 2025-26
+8. Indicate the relevant clause of section 44AB under which the audit has been conducted
+Sl. No. Relevant clause of section 44AB under which the audit has been conducted
+1 Clause 44AB(a)- Total sales/turnover/gross receipts of business exceeding specified limits
+8(a). Whether the assessee has opted for taxation under section 115BA / 115BAA / 115BAB / 115BAC(1A) / 115BAD / 115BAE ? Yes
+Section under which option exercised 115BAC
+PART - B
+9.(a). If firm or Association of Persons, indicate names of partners/members and their profit sharing ratios. In case of AOP, whether shares of
+members are indeterminate or unknown?
+Sl. No. Name Profit Sharing Ratio (%)
+No records added
+(b). If there is any change in the partners or members or in their profit sharing ratio since the last date of the preceding year, the particulars of such
+change ?
+Sl. No. Date of change Name of Partner/Member Type of change Old profit sharing ratio (%) New profit Sharing Ratio (%) Remarks
+No records added
+10.(a). Nature of business or profession (if more than one business or profession is carried on during the previous year, nature of every business or
+profession).
+Sl. No. Sector Sub Sector Code
+1 AGRICULTURE, ANIMAL HUSBANDRY & FORESTRY Other agriculture, animal husbandry or forestry activity n.e.c 01018
+(b). If there is any change in the nature of business or profession, the particulars of such change ? No
+Sl. No. Business Sector Sub Sector Code
+No records added
+404 C WING, CHEWAL CLASS, NEAR METRO STATION , OPP
+AZAD NAGAR ANDHERI , 19-Maharashtra , 91-India , Pincode -
+400058
+
+
+--- PAGE 11 ---
+Acknowledgement Number:177711390161025
+11.(a). Whether books of accounts are prescribed under section 44AA, if yes, list of books so prescribed ? Yes
+Sl. No. Books prescribed
+1 Bank book
+2 Cash book
+3 Journal
+4 Ledger
+5 Purchase register
+6 Sales register
+(b). List of books of account maintained and the address at which the books of accounts are kept. (In case books of account are maintained in a
+computer system, mention the books of account generated by such computer system. If the books of accounts are not kept at one location, please
+furnish the addresses of locations along with the details of books of accounts maintained at each location.)
+No records added
+(c). List of books of account and nature of relevant documents examined.
+No records added
+12. Whether the profit and loss account includes any profits and gains assessable on presumptive basis, if yes, indicate the amount and the
+relevant section (44AD, 44ADA, 44AE, 44AF, 44B, 44BB, 44BBA, 44BBB, 44BBC, Chapter XII-G, First Schedule or any other relevant section.) ?
+No
+Sl. No. Section Amount
+No records added
+13.(a). Method of accounting employed in the previous year. Mercantile system
+(b). Whether there had been any change in the method of accounting employed vis-a-vis the method employed in the immediately preceding
+previous year ?
+No
+(c). If answer to (b) above is in the affirmative, give details of such change , and the effect thereof on the profit or loss ?
+Sl. No. Particulars Increase in profit Decrease in profit
+No records added
+(d). Whether any adjustment is required to be made to the profits or loss for complying with the provisions of income computation and disclosure
+standards notified under section 145(2) ?
+No
+(e). If answer to (d) above is in the affirmative, give details of such adjustments:
+Sl. No. ICDS Increase in profit Decrease in profit Net effect
+No records added
+(f). Disclosure as per ICDS:
+Sl. No. ICDS Disclosure
+14.(a). Method of valuation of closing stock employed in the previous year
+(b). In case of deviation from the method of valuation prescribed under section 145A, and the effect thereof on the profit or loss, please furnish: No
+Sl. No. Booksmaintained AddressLine 1 AddressLine 2 City Or Town Or District Zip Code / Pin Code Country State
+Sl. No. Books examined
+
+
+--- PAGE 12 ---
+Acknowledgement Number:177711390161025
+Sl. No. Particulars Increase in profit Decrease in profit
+No records added
+15. Give the following particulars of the capital asset converted into stock-in-trade
+Sl. No. Description of capital asset (a) Date of acquisition (b) Cost of acquisition (c) Amount at which the asset is converted into stock-in trade (d)
+No records added
+16. Amounts not credited to the profit and loss account, being, -
+(a). The items falling within the scope of section 28;
+Sl. No. Description Amount
+No records added
+(b). The proforma credits, drawbacks, refunds of duty of customs or excise or service tax, or refunds of sales tax or value added tax or Goods & Services Tax, where such credits,
+drawbacks or refunds are admitted as due by the authorities concerned;
+Sl. No. Description Amount
+No records added
+(c). Escalation claims accepted during the previous year;
+Sl. No. Description Amount
+No records added
+(d). any other item of income;
+Sl. No. Description Amount
+₹  0
+(e). Capital receipt, if any.
+Sl. No. Description Amount
+No records added
+17. Where any land or building or both is transferred during the previous year for a consideration less than value adopted or assessed or
+assessable by any authority of a State Government referred to in section 43CA or 50C, please furnish:
+Sl.
+No.
+Details of
+property
+Address of Property Consideration
+received or
+accrued
+Value adopted
+or assessed or
+assessable
+Whether provisions of second
+proviso to sub-section (1) of
+section 43CA or fourth
+proviso to clause (x) of sub-
+section (2) of section 56
+applicable ?
+Address
+Line 1
+Address
+Line 2
+City Or
+Town Or
+District
+Zip
+Code
+/Pin
+Code
+Country State
+No records added
+18. Particulars of depreciation allowable as per the Income-tax Act, 1961 in respect of each asset or block of assets, as the case may be, in the
+following form:-
+Sl.
+No.
+Method of
+Depreciation
+Description of the
+Block of
+Assets/Class of
+Assets
+Rate
+of
+Depre
+ciatio
+n (%)
+Opening
+WDV/Actual
+Adjustment
+made to the
+written down
+value under
+section
+115BAA(3)/11
+5BAC(3)/115B
+Adjustment
+made to the
+written down
+value of
+Intangible
+asset due to
+excluding
+Adjusted
+written
+down
+value(A)
+Purchas
+e Value
+Total Value
+of
+Purchases
+(B)
+Deductions
+(C)
+Other
+Adjustments
+Depreciation
+Allowable (D)
+Written
+Down
+Value at
+the end of
+the
+year(A+B-
+C-D)
+
+
+--- PAGE 13 ---
+Acknowledgement Number:177711390161025
+AD(3) (To be
+filled in only
+for
+assessment
+year 2020-21,
+2021-22 and
+2024-25 only,
+as applicable)
+value of
+goodwill of a
+business or
+profession
+1 WDV Furnitures & Fittings
+@ 10%
+10 ₹ 1,32,196 ₹ 0 ₹ 0 ₹ 1,32,196 ₹ 0 ₹ 0 ₹ 0 ₹ 0 ₹ 13,220 ₹  1,18,976
+2 WDV Plant and Machinery
+@ 15%
+15 ₹ 53,04,123 ₹ 0 ₹ 0 ₹ 53,04,123 ₹ 0 ₹ 0 ₹ 0 ₹ 0 ₹ 7,95,618 ₹
+45,08,505
+3 WDV Plant and Machinery
+@ 40%
+40 ₹ 8,746 ₹ 0 ₹ 0 ₹ 8,746 ₹ 0 ₹ 0 ₹ 0 ₹ 0 ₹ 3,498 ₹  5,248
+19. Amount admissible under section-
+Sl.
+No. Section Amount debited toprofit and loss account Amounts admissible as per the provisions of the Income-tax Act, 1961 and also fulfils the conditions, if any specified underthe relevant provisions of Income-tax Act, 1961 or Income-tax Rules, 1962 or any other guidelines, circular, etc., issued inthis behalf.
+No records added
+20. (a).Any sum paid to an employee as bonus or commission for services rendered, where such sum was otherwise payable to him as profits or dividend. [Section 36(1)(ii)]
+Sl. No. Description Amount
+No records added
+(b).Details of contributions received from employees for various funds as referred to in section 36(1)(va):
+Sl.
+No.
+Nature of
+fund
+Sum received from
+employees
+Due date for
+payment
+The actual amount
+paid
+The actual date of payment to the concerned
+authorities
+No records added
+21.(a). Please furnish the details of amounts debited to the profit and loss account, Being in the nature of capital, personal, advertisement
+expenditure etc.
+Capital expenditure
+Sl. No. Particulars Amount
+No records added
+Personal expenditure
+Sl. No. Particulars Amount
+No records added
+Advertisement expenditure in any souvenir, brochure, tract, pamphlet or the like published by a political party
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred at clubs being entrance fees and subscriptions
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred at clubs being cost for club services and facilities used.
+Sl. No. Particulars Amount
+
+
+--- PAGE 14 ---
+Acknowledgement Number:177711390161025
+No records added
+Expenditure for any purpose which is an offence or is prohibited by law or expenditure by way of penalty or fine for violation of any law (enacted in India or outside India)
+Sl. No. Particulars Amount
+No records added
+Expenditure by way of any other penalty or fine not covered above
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred to compound an offence under any law for the time being in force, in India or outside India.
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred to provide any benefit or perquisite, in whatever form, to a person, whether or not carrying on a business or exercising a profession, and acceptance of such benefit or
+perquisite by such person is in violation of any law or rule or regulation or guideline, as the case may be, for the time being in force, governing the conduct of such person
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred to settle proceedings initiated in relation to contravention under such law as notified by the Central Government in the Official Gazette in this behalf
+Sl. No. Particulars Amount
+No records added
+(b). Amounts inadmissible under section 40(a);
+i. as payment to non-resident referred to in sub-clause (i)
+A. Details of payment on which tax is not deducted:
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code /
+Pin Code
+Country State
+No records added
+B. Details of payment on which tax has been deducted but has not been paid on or before the due date specified in sub-section (1) of section 139
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of
+the payee
+Permanent Account Number of
+the payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town
+Or District
+Zip Code /
+Pin Code
+Country State Amount of tax
+deducted
+No records added
+ii. as payment referred to in sub-clause (ia)
+A. Details of payment on which tax is not deducted:
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code /
+Pin Code
+Country State
+No records added
+B. Details of payment on which tax has been deducted but has not been paid on or before the due date specified in sub-section (1) of section 139.
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of
+the payee
+Permanent Account Number
+of the payee,if available
+Aadhaar Number of
+the payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or
+Town Or
+District
+Zip Code /
+Pin Code
+Country State Amount
+of tax
+deducte
+d
+Amount
+deposite
+d out of
+"Amoun
+t of tax
+deducte
+d"
+No records added
+
+
+--- PAGE 15 ---
+Acknowledgement Number:177711390161025
+iii. as payment referred to in sub-clause (ib)
+A. Details of payment on which levy is not deducted:
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code /
+Pin Code
+Country State
+No records added
+B. Details of payment on which levy has been deducted but has not been paid on or before the due date specified in sub-section (1) of section 139.
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of
+the payee
+Permanent Account Number
+of the payee,if available
+Aadhaar Number of
+the payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or
+Town Or
+District
+Zip Code /
+Pin Code
+Country State Amount
+of levy
+deducted
+Amount
+deposite
+d out of
+"Amoun
+t of Levy
+deducte
+d"
+No records added
+iv. Fringe benefit tax under sub-clause (ic) ₹  0
+v. Wealth tax under sub-clause (iia) ₹  0
+vi. Royalty, license fee, service fee etc. under sub-clause (iib) ₹  0
+vii. Salary payable outside India/to a non resident without TDS etc. under sub-clause (iii)
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the payee, if
+available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code / Pin
+Code
+Country State
+No records added
+viii. Payment to PF /other fund etc. under sub-clause (iv) ₹  0
+ix. Tax paid by employer for perquisites under sub-clause (v) ₹  0
+(c). Amounts debited to profit and loss account being, interest, salary, bonus, commission or remuneration inadmissible under section 40(b)/40(ba)
+and computation thereof;
+Sl. No. Particulars Section Amount debited to P/L A/C Amount admissible Amount inadmissible Remarks
+No records added
+(d). Disallowance/deemed income under section 40A(3):
+A. On the basis of the examination of books of account and other relevant documents/evidence, whether the expenditure covered under section
+40A(3) read with rule 6DD were made by account payee cheque drawn on a bank or account payee bank draft. If not, please furnish the details ?
+Yes
+Sl.
+No.
+Date of
+Payment
+Nature of
+Payment Amount Name of thepayee Permanent Account Number of the payee, ifavailable Aadhaar Number of the payee, ifavailable
+No records added
+B. On the basis of the examination of books of account and other relevant documents/evidence, whether payment referred to in section 40A(3A)
+read with rule 6DD were made by account payee cheque drawn on a bank or account payee bank draft. If not, please furnish the details of amount
+deemed to be the profits and gains of business or profession under section 40A(3A) ?
+Yes
+Sl.
+No.
+Date of
+Payment
+Nature of
+Payment Amount Name of thepayee Permanent Account Number of the payee, ifavailable Aadhaar Number of the payee, ifavailable
+No records added
+(e). Provision for payment of gratuity not allowable under section 40A(7); ₹ 0
+(f). Any sum paid by the assessee as an employer not allowable under section 40A(9); ₹ 0
+(g). Particulars of any liability of a contingent nature;
+Sl. No. Nature of Liability Amount
+No records added
+(h). Amount of deduction inadmissible in terms of section 14A in respect of the expenditure incurred in relation to income which does not form part
+of the total income;
+
+
+--- PAGE 16 ---
+Acknowledgement Number:177711390161025
+Sl. No. Particulars Amount
+No records added
+(i). Amount inadmissible under the proviso to section 36(1)(iii). ₹ 0
+22. (i) Amount of interest inadmissible under section 23 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act) ₹ 0
+(ii) Total amount required to be paid to to a micro or small enterprise, as referred to in section 15 of the MSMED Act, during the previous year ₹ 0
+(iii) Of amount referred to in (ii) above, amount
+(a) paid up to time given under section 15 of the MSMED Act ₹ 0
+(b) not paid up to time given under section 15 of the MSMED Act and inadmissible for the previous year ₹ 0
+23. Particulars of any payments made to persons specified under section 40A(2)(b).
+Sl.
+No.
+Name of Related
+Person
+PAN of Related
+Person
+Aadhaar Number of the related person, if
+available Relation Nature ofTransaction PaymentMade
+No records added
+24. Amounts deemed to be profits and gains under section 32AC or 32AD or 33AB or 33AC or 33ABA.
+Sl. No. Section Description Amount
+No records added
+25. Any Amount of profit chargeable to tax under section 41 and computation thereof.
+Sl.
+No.
+Name of
+person
+Amount of Income credited to
+Profit and Loss account
+Amount of Income not credited
+to Profit and Loss account
+Total Amount of
+income Section Description ofTransaction Computation ifany
+No records added
+26.i. In respect of any sum referred to in clause section 43B, the liability for which:
+A. pre-existed on the first day of the previous year but was not allowable in the assessment of any preceding previous year and was
+a. paid during the previous year;
+Sl. No. Section Nature of liability Amount
+₹  0
+b. not paid during the previous year;
+Sl. No. Section Nature of liability Amount
+₹  0
+B. was incurred in the previous year and for clauses other than clause (h) of section 43B was
+a. paid on or before the due date for furnishing the return of income of the previous year under section 139(1);
+Sl. No. Section Nature of liability Amount
+₹  0
+
+
+--- PAGE 17 ---
+Acknowledgement Number:177711390161025
+b. not paid on or before the aforesaid date.
+Sl. No. Section Nature of liability Amount
+₹  0
+State whether sales tax,goods & services Tax, customs duty, excise duty or any other indirect tax,levy,cess,impost etc.is passed through the profit
+and loss account ?
+No
+27.a. Amount of Central Value Added Tax Credits/ Input Tax Credit(ITC) availed of or utilised during the previous year and its treatment in profit and
+loss account and treatment of outstanding Central Value Added Tax Credits/Input Tax Credit(ITC) in accounts.
+No
+CENVAT /ITC Amount Treatment in Profit & Loss/Accounts
+Opening Balance ₹  0
+Credit Availed ₹  0
+Credit Utilized ₹  0
+Closing /Oustanding Balance ₹  0
+b. Particulars of income or expenditure of prior period credited or debited to the profit and loss account.
+Sl. No. Type Particulars Amount Prior period to which it relates (Year in yyyy-yy format)
+No records added
+Clause 28 to omitted from AY 2025-26 and onwards
+29. Whether during the previous year the assessee received any consideration for issue of shares which exceeds the fair market value of the
+shares as referred to in section 56(2) (viib) ?
+(Applicable till AY 2024-25)
+Please furnish the details of the same
+Sl.
+No.
+Name of the person from whom
+consideration received for issue of shares
+PAN of the person,
+if available
+Aadhaar Number of the
+payee, if available
+No. of
+shares
+issued
+Amount of
+consideration received
+Fair Market value
+of the shares
+No records added
+A.a. Whether any amount is to be included as income chargeable under the head 'income from other sources' as referred to in clause (ix) of sub-
+section (2) of section 56 ?
+No
+b. Please furnish the following details:
+Sl. No. Nature of income Amount
+No records added
+B.a. Whether any amount is to be included as income chargeable under the head 'income from other sources' as referred to in clause (x) of sub-
+section (2) of section 56 ?
+No
+b. Please furnish the following details:
+Sl. No. Nature of income Amount
+No records added
+30. Details of any amount borrowed on hundi or any amount due thereon (including interest on the amount borrowed) repaid, otherwise than
+through an account payee cheque. [Section 69D]
+No
+Sl.
+No.
+Name of the person
+from whom amount
+PAN of the
+person, if
+Aadhaar Number
+of the person, if
+Address
+Line 1
+Address
+Line 2
+City Or
+Town Or
+Zip
+Code /
+Country State Amount
+borrowed
+Date of
+borrowing
+Amount due
+including
+Amount
+repaid
+Dat
+e of
+
+
+--- PAGE 18 ---
+Acknowledgement Number:177711390161025
+borrowed or repaid on
+hundi
+available available District Pin
+Code
+interest Rep
+ay
+me
+nt
+No records added
+A.a. Whether Primary adjustment to transfer price, as referred to in sub-section (1) of section 92CE, has been made during the previous year ? No
+b. Please furnish the following details:
+Sl.
+No.
+Under which clause of
+sub-section (1) of
+section 92CE primary
+adjustment is made ?
+Amount (in
+Rs.) of primary
+adjustment
+Whether the excess money
+available with the associated
+enterprise is required to be
+repatriated to India as per the
+provisions of sub-section (2) of
+section 92CE ?
+If yes, whether the
+excess money has
+been repatriated
+within the prescribed
+time ?
+If no, the amount (in Rs.) of
+imputed interest income on
+such excess money which
+has not been repatriated
+within the prescribed time
+Expected date
+of repatriation
+of money
+No records added
+B.a. Whether the assessee has incurred expenditure during the previous year by way of interest or of similar nature exceeding one crore rupees as
+referred to in sub-section (1) of section 94B ?
+No
+b. Please furnish the following details
+Sl.
+No.
+Amount of
+expenditure by way
+of interest or of
+similar nature
+incurred(i)
+Earnings before
+interest,tax, depreciation
+and amortization
+(EBITDA) during the
+previous year(ii)
+Amount of expenditure by
+way of interest or of similar
+nature as per (i) above which
+exceeds 30% of EBITDA as
+per (ii) above.(iii)
+Details of interest expenditure
+brought forward as per sub-
+section (4) of section 94B.(iv)
+Details of interest expenditure
+carried forward as per sub-section
+(4) of section 94B.(v)
+Assessment Year Amount Assessment Year Amount
+No records added
+C.a. Whether the assessee has entered into an impermissible avoidance arrangement, as referred to in section 96, during the previous year ? No
+b. Please furnish the following details
+Sl. No. Nature of the impermissible avoidance arrangement Amount of tax benefit in the previous year arising, in aggregate, to all the parties to the arrangement
+No records added
+31.a.Particulars of each loan or deposit in an amount exceeding the limit specified in section 269SS taken or accepted during the previous year :-
+Sl.
+No.
+i) Name of
+the lender
+or
+depositor
+ii) Address of
+the lender or
+depositor
+iii(a)
+Permanent
+Account
+Number (if
+available
+with the
+assessee)
+of the
+lender or
+depositor
+iii(b)
+Aadhaar
+Number
+of the
+lender or
+depositor,
+if
+available
+iv) Amount
+of each loan
+or deposit
+taken or
+accepted
+v) Whether
+the
+loan/deposit
+was
+squared up
+during the
+previous
+year ?
+vi)
+Maximum
+amount
+outstanding
+in the
+account at
+any time
+during the
+previous
+year
+vii)
+Whether
+the loan
+or
+deposit
+was
+taken or
+accepted
+by
+cheque
+or bank
+draft or
+use of
+electronic
+clearing
+system
+through a
+bank
+account ?
+vii(a)
+Code of
+the nature
+of such
+amount
+(as
+mentioned
+in field (iv)
+above)
+vii(b)
+Please
+Specify
+viii) In
+case the
+loan or
+deposit
+was
+taken or
+accepted
+by
+cheque
+or bank
+draft,
+whether
+the same
+was
+taken or
+accepted
+by an
+account
+payee
+cheque
+or an
+account
+payee
+bank
+draft.
+1 CHANDAN
+MOTWANI
+AURANGABAD ₹ 1,25,00,000 No ₹ 60,00,000 Yes RTGS
+2 JITENDRA PUNE ₹ 1,23,19,000 No ₹ 75,00,000 Yes RTGS
+
+
+--- PAGE 19 ---
+Acknowledgement Number:177711390161025
+MONDHAN
+3 PIYUSH
+MOTWANI
+AURANGABAD ₹ 1,48,00,000 No ₹ 50,00,000 Yes RTGS
+b.Particulars of each specified sum in an amount exceeding the limit specified in section 269SS taken or accepted during the previous year:-
+Sl.
+No.
+i) Name
+of the
+person
+from
+whom
+specified
+sum is
+received
+ii)
+Address
+of the
+person
+from
+whom
+specified
+sum is
+received
+iii(a) Permanent
+Account Number
+(if available with
+the assessee) of
+the person from
+whom specified
+sum is received
+iii(b)
+Aadhaar
+Number of
+the person
+from whom
+specified
+sum is
+received, if
+available
+iv)
+Amount
+of each
+loan or
+deposit
+taken or
+accepted
+v) Whether the
+specified sum was
+taken or accepted by
+cheque or bank draft
+or use of electronic
+clearing system
+through a bank
+account ?
+v(a) Code
+of the
+nature of
+such
+amount (as
+mentioned
+in field (iv)
+above)
+v(b)
+Please
+Specify
+vi) In case the specified
+sum was taken or accepted
+by cheque or bank draft,
+whether the same was
+taken or accepted by an
+account payee cheque or
+an account payee bank
+draft.
+No records added
+Note: Particulars at (a) and (b) need not be given in the case of a Government company, a banking company or a corporation established by a Central, State or Provincial Act.
+b.(a). Particulars of each receipt in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect of
+transactions relating to one event or occasion from a person, during the previous year, where such receipt is otherwise than by a cheque or bank draft or use of electronic clearing system
+through a bank account
+Sl.
+No.
+i) Name of
+the payer
+ii) Address of
+the payer
+iii(a) Permanent Account Number (if
+available with the assessee) of the payer
+iii(b) Aadhaar Number of
+the payer, if available
+iv) Nature of
+transaction
+v) Amount of
+receipt
+vi) Date of
+receipt
+No records added
+b.(b). Particulars of each receipt in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect of
+transactions relating to one event or occasion from a person, received by a cheque or bank draft, not being an account payee cheque or an account payee bank draft, during the previous
+year:-
+Sl.
+No.
+i) Name of the
+payer
+ii) Address of the
+payer
+iii(a) Permanent Account Number (if available with the
+assessee) of the payer
+iii(b) Aadhaar Number of the payer,
+if available
+iv) Amount of
+receipt
+No records added
+b.(c). Particulars of each payment made in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect
+of transactions relating to one event or occasion to a person, otherwise than by a cheque or bank draft or use of electronic clearing system through a bank account during the previous year
+Sl.
+No.
+i) Name of
+the payee
+ii) Address of
+the payee
+iii(a) Permanent Account Number (if
+available with the assessee) of the
+payee
+iii(b) Aadhaar Number of
+the payee, if available
+iv) Nature of
+transaction
+v) Amount of
+payment
+vi) Date of
+payment
+No records added
+b.(d). Particulars of each payment made in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect
+of transactions relating to one event or occasion to a person, made by a cheque or bank draft, not being an account payee cheque or an account payee bank draft, during the previous
+year
+Sl.
+No.
+i) Name of the
+payee
+ii) Address of the
+payee
+iii(a) Permanent Account Number (if available with the
+assessee) of the payee
+iii(b) Aadhaar Number of the
+payee, if available
+iv) Amount of
+payment
+No records added
+Note: Particulars at (ba), (bb), (bc) and (bd) need not be given in the case of receipt by or payment to a Government company, a banking Company, a post office savings bank, a cooperative
+bank or in the case of transactions referred to in section 269SS or in the case of persons referred to in Notification No. S.O. 2065(E) dated 3rd July, 2017
+c. Particulars of each repayment of loan or deposit or any specified advance in an amount exceeding the limit specified in section 269T made during the previous year:-
+Sl.
+No.
+i)
+Name
+of the
+payee
+ii)
+Address
+of the
+payee
+iii(a)
+Permanent
+Account
+Number (if
+available with
+the assessee)
+of the payee
+iii(b)
+Aadhaar
+Number of
+the payee,
+if
+available
+iv) Amount
+of each
+repayment of
+loan or
+deposit or
+any specified
+advance
+v) Maximum
+amount
+outstanding in
+the account at
+any time
+during the
+previous year
+vi) Whether the
+repayment was
+made by
+cheque or bank
+draft or use of
+electronic
+clearing
+system
+through a bank
+account ?
+vi(a) Code of
+the nature of
+such amount
+(as
+mentioned in
+field (iv)
+above)
+vi(b)
+Please
+Specify
+vii) In case the
+repayment was
+made by cheque
+or bank draft,
+whether the
+same was repaid
+by an account
+payee cheque or
+an account
+payee bank
+draft.
+No records added
+
+
+--- PAGE 20 ---
+Acknowledgement Number:177711390161025
+d. Particulars of repayment of loan or deposit or any specified advance in an amount exceeding the limit specified in section 269T received otherwise than by a cheque or bank draft or use
+of electronic clearing system through a bank account during the previous year:-
+Sl.
+No.
+i) Name of
+the payer
+ii) Address
+of the payer
+iii(a) Permanent Account
+Number (if available with the
+assessee) of the payer
+iii(b) Aadhaar
+Number of the
+payer, if available
+iv) Amount of repayment of loan or deposit or any specified advance
+received otherwise than by a cheque or bank draft or use of electronic
+clearing system through a bank account during the previous year
+No records added
+e. Particulars of repayment of loan or deposit or any specified advance in an amount exceeding the limit specified in section 269T received by a cheque or bank draft which is not an
+account payee cheque or account payee bank draft during the previous year:-
+Sl.
+No.
+i) Name of
+the payer
+ii) Address
+of the payer
+iii(a) Permanent Account
+Number (if available with the
+assessee) of the payer
+iii(b) Aadhaar
+Number of the
+payer, if available
+iv) Amount of repayment of loan or deposit or any specified advance
+received by a cheque or bank draft which is not an account payee
+cheque or account payee bank draft during the previous year
+No records added
+Note: Particulars at (c), (d) and (e) need not be given in the case of a repayment of any loan or deposit or specified advance taken or accepted from Government, Government company,
+banking company or a corporation established by a Central, State or Provincial Act
+32.a. Details of brought forward loss or depreciation allowance, in the following manner, to the extent available
+Sl.
+No.
+Assessment
+Year
+Nature of
+loss/allowance
+Amount as
+returned (if the
+assessed
+depreciation is
+less and no
+appeal pending
+then take
+assessed)
+All
+losses/allowances
+not allowed under
+section 115BAA /
+115BAC / 115BAD /
+115BAE
+Amount as adjusted by withdrawal
+of additional depreciation on
+account of opting for taxation
+under section
+115BAC/115BAD/115BAE(To be
+filled in only for assessment year
+2021-22 and 2024-25 only, as
+applicable)
+Amount as assessed (give
+reference to relevant order)
+Remarks
+Amount OrderU/s Dateoforder
+No records added
+b. Whether a change in share holding of the company has taken place in the previous year due to which the losses incurred prior to the previous
+year cannot be allowed to be carried forward in terms of section 79 ?
+Not Applicable
+c. Whether the assessee has incurred any speculation loss referred to in section 73 during the previous year ? No
+If yes, please furnish the details of the same. ₹  0
+d. Whether the assessee has incurred any loss referred to in section 73A in respect of any specified business during the previous year ? No
+If yes, please furnish the details of the same. ₹  0
+e. In case of a company, please state that whether the company is deemed to be carrying on a speculation business as referred in explanation to
+section 73.
+Not Applicable
+If yes, please furnish the details of the same. ₹  0
+33. Section-wise details of deductions, if any admissible under Chapter VIA or Chapter III (Section 10A, Section 10AA). No
+Sl.
+No.
+Section under which
+deduction is claimed
+Amounts admissible as per the provision of the Income-tax Act,1961 and fulfils the conditions, if any, specified under the relevant
+provisions of Income-tax Act, 1961 or Income-tax Rules, 1962 or any other guidelines, circular, etc, issued in this behalf.
+No records added
+34.(a). Whether the assessee is required to deduct or collect tax as per the provisions of Chapter XVII-B or Chapter XVII-BB, please furnish ? No
+Sl.
+No.
+(1)Tax
+deduction
+and
+collection
+Account
+Number
+(TAN)
+(2)Sectio
+n
+(3)Nature
+of
+payment
+(4)Total
+amount of
+payment or
+receipt of the
+nature
+specified in
+column (3)
+(5)Total
+amount on
+which tax was
+required to be
+deducted or
+collected out
+of (4)
+(6)Total
+amount on
+which tax was
+deducted or
+collected at
+specified rate
+out of (5)
+(7)Amount of
+tax deducted
+or collected
+out of (6)
+(8)Total
+amount on
+which tax was
+deducted or
+collected at
+less than
+specified rate
+out of (7)
+(9)Amount
+of tax
+deducted or
+collected on
+(8)
+(10)Amount of tax
+deducted or
+collected not
+deposited to the
+credit of the
+Central
+Government out of
+(6) and (8) (10)
+No records added
+
+
+--- PAGE 21 ---
+Acknowledgement Number:177711390161025
+(b). Whether the assessee is required to furnish the statement of tax deducted or tax collected ? No
+Please furnish the details:
+Sl.
+No.
+Tax deduction and
+collection Account
+Number (TAN)
+Type
+of
+Form
+Due date
+for
+furnishing
+Date of
+furnishing,
+if furnished
+Whether the statement of tax deducted or collected contains
+information about all details/transactions which are required
+to be reported
+Please furnish list of
+details/transactions which
+are not reported.
+No records added
+(c). Whether the assessee is liable to pay interest under section 201(1A) or section 206C(7) ? Not Applicable
+Please furnish:
+Sl.
+No.
+Tax deduction and collection Account Number
+(TAN)(1)
+Amount of interest under section 201(1A)/206C(7) is
+payable(2)
+Amount paid out of column (2) along with date of
+payment.(3)
+Amount Date of payment
+No records added
+35.(a). In the case of a trading concern, give quantitative details of prinicipal items of goods traded;
+Sl.
+No.
+Item
+Name
+Unit
+Name
+Opening
+stock
+Purchases during the pervious
+year
+Sales during the pervious
+year
+Closing
+stock
+Shortage/excess, if
+any
+No records added
+(b). In the case of manufacturing concern,give quantitative details of the prinicipal items of raw materials, finished products and by-products.
+A. Raw materials:
+Sl.
+No.
+Item
+Name
+Unit
+Name
+Opening
+stock
+Purchases
+during the
+pervious year
+Consumption
+during the
+pervious year
+Sales during
+the pervious
+year
+Closing
+stock
+Yield of
+finished
+products
+Percentage
+of yield
+Shortage/excess,
+if any
+No records added
+B. Finished products :
+Sl.
+No.
+Item
+Name
+Unit
+Name
+Opening
+stock
+Purchases during the
+pervious year
+Quantity manufactured during
+the pervious year
+Sales during the
+pervious year
+Closing
+stock
+Shortage/excess, if
+any
+No records added
+C. By-products
+Sl.
+No.
+Item
+Name
+Unit
+Name
+Opening
+stock
+Purchases during the
+pervious year
+Quantity manufactured during
+the pervious year
+Sales during the
+pervious year
+Closing
+stock
+Shortage/excess, if
+any
+No records added
+36. In the case of Domestic Company, details of tax on distributed profits under section 115-O in the following forms :-
+(Applicable till AY 2020-21)
+Sl.
+No.
+Total amount of
+distributed profits
+Amount of reduction as referred to in
+section 115-O(1A)(i)
+Amount of reduction as referred to in
+section 115-O(1A)(ii)
+Total tax paid
+thereon
+Dates of payment with
+amounts(e).
+Amount
+(i)
+Date of
+payment (ii)
+No records added
+36.(a). Whether the assessee has received any amount in the nature of dividend as referred to in sub-clause (e) of clause (22) of section 2 ? No
+Please furnish the following details:-
+Sl. No. Amount received Date of receipt
+
+
+--- PAGE 22 ---
+Acknowledgement Number:177711390161025
+No records added
+36B.(a). Whether the assessee has received any amount for buyback of shares as referred to in sub-clause (f) of clause (22) of section 2? No
+b. If yes, please furnish the following details:-
+Sl. No. (i) Amount received (in Rs.) (ii) Cost of acquisition of shares bought back
+No records added
+37. Whether any cost audit was carried out ? Not Applicable
+Give the details, if any, of disqualification or disagreement on any matter/item/value/quantity as may be reported/identified by the cost auditor
+38. Whether any audit was conducted under the Central Excise Act, 1944 ? Not Applicable
+Give the details, if any, of disqualification or disagreement on any matter/item/value/quantity as may be reported/identified by the auditor.
+39. Whether any audit was conducted under section 72A of the Finance Act, 1994 in relation to valuation of taxable services as may be
+reported/identified by the auditor. ?
+Not Applicable
+give the details, if any, of disqualification or disagreement on any matter/item/value/quantity as may be reported/identified by the auditor.
+40. Details regarding turnover, gross profit, etc., for the previous year and preceding previous year:
+Sl. No. Particulars Previous Year % Preceding previous Year %
+(a) Total turnover of the assessee 2001359690 752729622
+(b) Gross profit / Turnover 84010093 2001359690 4.20 29051151 752729622 3.86
+(c) Net profit / Turnover 70249274 2001359690 3.51 20137262 752729622 2.68
+(d) Stock-in-Trade / Turnover 35147582 2001359690 1.76 2248150 752729622 0.30
+(e) Material consumed / Finished goods produced 0 0 0.00 0 0 0.00
+41. Please furnish the details of demand raised or refund issued during the previous year under any tax laws other than Income-tax Act, 1961 and Wealth-tax Act, 1957 alongwith details of
+relevant proceedings.
+Sl.
+No.
+Financial year to which demand/refund
+relates to
+Name of other
+Tax law
+Type (Demand raised/Refund
+received)
+Date of demand raised/refund
+received Amount Remarks
+No records added
+42.a. Whether the assessee is required to furnish statement in Form No.61 or Form No. 61A or Form No. 61B ? No
+b. Please furnish
+Sl.
+No.
+Income-tax Department
+Reporting Entity
+Identification Number
+Type of
+Form
+Due date for
+furnishing
+Date of
+furnishing, if
+furnished
+Whether the Form contains information
+about all details/ furnished transactions
+which are required to be reported ?
+If not, please furnish list of the
+details/transactions which are not
+reported.
+No records added
+
+
+--- PAGE 23 ---
+Acknowledgement Number:177711390161025
+43.a. Whether the assessee or its parent entity or alternate reporting entity is liable to furnish the report as referred to in sub-section (2) of section
+286 ?
+No
+b. Please furnish the following details:
+Whether report has been furnished by the assessee or its parent entity or an alternate reporting entity?
+Name of parent entity
+Name of alternate reporting entity (if applicable)
+Date of furnishing of report
+c.Please enter expected date of furnishing the report
+44. Break-up of total expenditure of entities registered or not registered under the GST.
+Sl.
+No.
+Total amount of
+Expenditure incurred
+during the year
+Expenditure in respect of entities registered under GST Expenditure relating to
+entities not registered
+under GSTRelating to goods or
+services exempt from
+GST
+Relating to entities falling
+under composition
+scheme
+Relating to other
+registered entities
+Total payment to
+registered entities
+No records added
+Accountant Details
+Accountant Details
+Name Gajanan Sakla
+Membership Number 160794
+FRN(Firm Registration Number) 0139814W
+Address
+Place AKOLA
+Date 16-Oct-2025
+Additions Details (From Point No.18)
+Description of the
+Block of Assets/Class
+of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Furnitures & Fittings @
+10%
+No records added
+Description of the
+Block of Assets/Class
+of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Plant and Machinery @
+15%
+No records added
+Description of the
+Block of Assets/Class
+of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Plant and Machinery @
+40%
+No records added
+01 , Madhuri Building, Khedkar Nagar ,
+19-Maharashtra , 91-India , Pincode -
+444001
+
+
+--- PAGE 24 ---
+Acknowledgement Number:177711390161025
+Deductions Details (From Point No.18)
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Furnitures & Fittings @ 10% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Plant and Machinery @ 15% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Plant and Machinery @ 40% No records added
+This form has been digitally signed by GAJANAN SUNIL SAKLA having PAN BQKPS5839Q from IP Address 103.62.16.198 on 16/10/2025 06:11:14 PM Dsc Sl.No and issuer
+,C=IN,O=Pantagon Sign Securities Pvt. Ltd.,OU=Certifying Authority

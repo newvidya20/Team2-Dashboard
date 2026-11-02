@@ -1,0 +1,349 @@
+
+--- PAGE 1 ---
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+Joint Holder :- -
+301,3RD FLOOR, AURA BIPLEX
+ABOVE KALYAN JEWELLERS
+S. V. ROAD, BORIVALI (WEST)
+MUMBAI                                                                                                                                                                                               Customer ID :863275844
+MAHARASHTRA-INDIA                                                                                                                                                                                  IFSC Code :UTIB0000018
+PIN400092                                                                                                                                                                                            MICR Code :400211003
+Currency :INR                                                                                                                                                                                         Nominee Registered : N
+Scheme :OPEN CASH CREDIT-HYP                                                                                                                                                       CKYC NUMBER :XXXXXXXXXX5339
+
+                                                        Statement of Axis Account No :921030007131058 for the period (From : 01-08-2025  To : 31-08-2025)
+
+
+   Tran Date        Value Date                            Transaction Particulars                                Chq No              Amount(INR)            DR/CR          Balance(INR)      Branch Name
+
+                                                                                                                                                                                             -
+                                    OPENING BALANCE                                                                                                                          104811305.89
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  02-08-2025        02-08-2025      BRN-CLG-CHQ PAID TO Mona Bipin Shah/IDBI BANK LTD                                    104411                     9775.00         DR       104821080.89                   TG
+                                    RTGS/KKBKR22025080218210128/SUDARSHAN PHARMA                                                                                                             -
+  02-08-2025        02-08-2025      INDUS/KOTAK MAHINDRA BANK /                                                                                3000000.00           CR       101821080.89               RTGS HUB
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  02-08-2025        02-08-2025      BRN-LC-0018LCI-00000424:POSTAGE CHARGES/- ADV                                                                     500.00        DR       101821580.89                  [MH]
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  02-08-2025        02-08-2025      BRN-LC-0018LCI-00000424:POSTAGE CHARGES/- ADV                                                                      90.00        DR       101821670.89                  [MH]
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  02-08-2025        02-08-2025      BRN-LC-0018LCI-00000424:GST/- ADV                                                                                 270.00        DR       101821940.89                  [MH]
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  02-08-2025        02-08-2025      BRN-LC-0018LCI-00000424:LC ADV CHRGS                                                                            1500.00         DR       101823440.89                  [MH]
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  02-08-2025        02-08-2025      ACH-DR-0001252130000106-DRBUY8862099-UTIB00000000                                                              50042.03         DR       101873482.92                  [MH]
+                                                                                                                                                                                             - CENTRALISED CTS MUM
+  02-08-2025        02-08-2025      ACH-DR-0001251250000289-DRBUY8                                                                             4588598.00           DR       106462080.92                   MH
+                                    RTGS/UBINR22025080401525808/SUDARSHAN PHARMA                                                                                                             -
+  04-08-2025        04-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                         2000000.00           CR       104462080.92               RTGS HUB
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  04-08-2025        04-08-2025      BRN-CLG-CHQ PAID TO Ms Shah Amitabe/IDBI BANK LTD                                    104396                     9775.00         DR       104471855.92                   TG
+                                    BRN-CLG-CHQ PAID TO Kamgar Motor Tr/THE SARASWAT                                                                                                         -CCGOI HYDERABAD  HYD
+  05-08-2025        05-08-2025      C                                                                                    100819                    36708.00         DR       104508563.92                   TG
+                                    RTGS/CBINR52025080510004259/PARTH PHARMACHEM                                                                                                             -
+  05-08-2025        05-08-2025      INDUS/CENTRAL BANK OF INDI////////////////////////////                                                       500000.00          CR       104008563.92               RTGS HUB
+                                                                                                                                                                                             - RANIP, AHMEDABA AHM
+  05-08-2025        05-08-2025      MOB/TPFT/CHEMAX PHARMA C/923020062684251                                                                     262432.00          CR       103746131.92                    GJ
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  05-08-2025        05-08-2025      921030007131058:Int.Coll:06-07-2025 to 05-08-2025                                                            873136.00          DR       104619267.92                  [MH]
+                                    RTGS/ICICR42025080600505667/SUDARSHAN PHARMA                                                                                                             -
+  06-08-2025        06-08-2025      INDUS/ICICI BANK LIMITED//URGENT/pay                                                                       1000000.00           CR       103619267.92               RTGS HUB
+                                    RTGS/ICICR42025080600505734/SUDARSHAN PHARMA                                                                                                             -
+  06-08-2025        06-08-2025      INDUS/ICICI BANK LIMITED//URGENT/                                                                          1000000.00           CR       102619267.92               RTGS HUB
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  06-08-2025        06-08-2025      BRN-CLG-CHQ PAID TO Shree Vishnu Mo/STATE BANK OF                                    100828                     7480.00         DR       102626747.92                   TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  06-08-2025        06-08-2025      BRN-CLG-CHQ PAID TO As Roadlines/ICICI BANKING                                       100837                    37000.00         DR       102663747.92                   TG
+                                    BRN-CLG-CHQ PAID TO Jehlum Roadways/BANK OF                                                                                                              -CCGOI HYDERABAD  HYD
+  06-08-2025        06-08-2025      BARODA                                                                               100824                  143416.00          DR       102807163.92                   TG
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  06-08-2025        06-08-2025      ACH-DR-0001251280000537-DRBUY8899018-UTIB00000000                                                          3299901.00           DR       106107064.92                  [MH]
+                                                                                                                                                                                             -
+  06-08-2025        06-08-2025      DOC_CHG_SUDARNSHAN_PHARMA                                                                                      17700.00         DR       106124764.92             CBB MUMBAI
+                                                                                                                                                                                             -
+  06-08-2025        06-08-2025      CERSAI_CHG_SUDARSHAN_PHARMA                                                                                       900.00        DR       106125664.92             CBB MUMBAI
+                                    RTGS/ICICR42025080600560210/SUDARSHAN PHARMA                                                                                                             -
+  06-08-2025        06-08-2025      INDUS/ICICI BANK LIMITED//URGENT/                                                                          9000000.00           CR        97125664.92               RTGS HUB
+                                    RTGS/BKIDR52025080600211953/SACHIN                                                                                                                       -
+  06-08-2025        06-08-2025      CHEMICALS/BANK OF INDIA/Ref                                                                                7000000.00           CR        90125664.92               RTGS HUB
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  07-08-2025        07-08-2025      0018-IBC2218                                                                                               4605094.00           DR        94730758.92                  [MH]
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  07-08-2025        07-08-2025      BRN-CLG-CHQ PAID TO A S Chem Carrie/H D F C BANK L                                   100821                  156099.00          DR        94886857.92                   TG
+                                    RTGS/UBINR22025080701777484/SUDARSHAN PHARMA                                                                                                             -
+  07-08-2025        07-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                         2000000.00           CR        92886857.92               RTGS HUB
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  07-08-2025        07-08-2025      BRN-CLG-CHQ PAID TO Padmashri Roadl/STATE BANK OF                                    100829                    47419.00         DR        92934276.92                   TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  07-08-2025        07-08-2025      BRN-CLG-CHQ PAID TO Ark Trans Logis/YES BANK LTD.                                    100830                  153350.00          DR        93087626.92                   TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+  07-08-2025        07-08-2025      BRN-CLG-CHQ PAID TO Ark Trans Logis/YES BANK LTD.                                    100831                  149900.00          DR        93237526.92                   TG
+                                    BRN-CLG-CHQ PAID TO North Roadways /PUNJAB                                                                                                               -CCGOI HYDERABAD  HYD
+  07-08-2025        07-08-2025      NATIONA                                                                              100836                    11682.00         DR        93249208.92                   TG
+                                    RTGS/IDIBR52025080746857669/SUDARSHAN PHARMA                                                                                                             -
+  07-08-2025        07-08-2025      INDUS/INDIAN BANK///URGENT  //..                                                                           1000000.00           CR        92249208.92               RTGS HUB
+                                    RTGS/UBINR22025080701779461/SUDARSHAN PHARMA                                                                                                             -
+  07-08-2025        07-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                         4000000.00           CR        88249208.92               RTGS HUB
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  07-08-2025        07-08-2025      ACH-DR-0001251290001565-DRBUY8913404-UTIB00000000                                                            435336.00          DR        88684544.92                  [MH]
+                                                                                                                                                                                             -  BORIVALI(W), MUMBAI
+  07-08-2025        07-08-2025      ACH-DR-0001251290001575-DRBUY8913414-UTIB00000000                                                            876045.00          DR        89560589.92                  [MH]
+
+--- PAGE 2 ---
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001563-DRBUY8913402-UTIB00000000                                                            580466.00          DR        90141055.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001573-DRBUY8913412-UTIB00000000                                                            980456.00          DR        91121511.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001576-DRBUY8913415-UTIB00000000                                                            980456.00          DR        92101967.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290000466-DRBUY8913352-UTIB00000000                                                           1432738.00          DR        93534705.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001564-DRBUY8913403-UTIB00000000                                                            580466.00          DR        94115171.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001574-DRBUY8913413-UTIB00000000                                                            876045.00          DR        94991216.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001570-DRBUY8913409-UTIB00000000                                                            986399.00          DR        95977615.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001569-DRBUY8913408-UTIB00000000                                                            986399.00          DR        96964014.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001648-DRBUY8913437-UTIB00000000                                                            984701.00          DR        97948715.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001567-DRBUY8913406-UTIB00000000                                                           1014953.00          DR        98963668.92                   [MH]
+                                                                                                                                                                                           - BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001572-DRBUY8913411-UTIB00000000                                                            980456.00          DR        99944124.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001571-DRBUY8913410-UTIB00000000                                                            879086.00          DR       100823210.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001568-DRBUY8913407-UTIB00000000                                                           1245024.00          DR       102068234.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001647-DRBUY8913436-UTIB00000000                                                            984701.00          DR       103052935.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+07-08-2025       07-08-2025      ACH-DR-0001251290001649-DRBUY8913438-UTIB00000000                                                           2957817.00          DR       106010752.92                   [MH]
+                                 RTGS/BKIDR52025080800447229/SACHIN                                                                                                                       -
+08-08-2025       08-08-2025      CHEMICALS/BANK OF INDIA/Ref                                                                                 3000000.00           CR      103010752.92               RTGS HUB
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+08-08-2025       08-08-2025      BRN-CLG-CHQ PAID TO Jeena And Compa/ICICI BANKING                                    100826                  122960.00          DR       103133712.92                    TG
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+08-08-2025       08-08-2025      BRN-CLG-CHQ PAID TO Jeena And Compa/ICICI BANKING                                    100827                  117856.00          DR       103251568.92                    TG
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+08-08-2025       08-08-2025      BRN-CLG-CHQ PAID TO Moksh Inter Che/ICICI BANKING                                    100843                  563657.00          DR       103815225.92                    TG
+                                 RTGS/UBINR22025080801870669/SUDARSHAN PHARMA                                                                                                             -
+08-08-2025       08-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                          1500000.00           CR      102315225.92               RTGS HUB
+                                 RTGS/UBINR22025080801871162/SUDARSHAN PHARMA                                                                                                             -
+08-08-2025       08-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                          1500000.00           CR      100815225.92               RTGS HUB
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+08-08-2025       08-08-2025      ACH-DR-0001251300000103-DRBUY8936411-UTIB00000000                                                           2032330.00          DR       102847555.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+08-08-2025       08-08-2025      ACH-DR-0001251300000053-DRBUY8936410-UTIB00000000                                                            580466.00          DR       103428021.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+08-08-2025       08-08-2025      BRN-LC-0018XLADV250017:GST/- ADV                                                                                  270.00        DR       103428291.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+08-08-2025       08-08-2025      BRN-LC-0018XLADV250017:LC ADV CHRGS                                                                              1500.00        DR       103429791.92                   [MH]
+                                                                                                                                                                                          -  CENTRALISED CTS MUM
+10-08-2025       10-08-2025      ECSIRFYNACH DEBIT RET CHG/0001251290001566                                                                        885.00        DR       103430676.92                    MH
+                                 BRN-CLG-CHQ PAID TO Bhanushali Expr/KOTAK                                                                                                                - CCGOI HYDERABAD  HYD
+11-08-2025       11-08-2025      MAHINDRA                                                                             100834                  116033.00          DR       103546709.92                    TG
+                                 BRN-CLG-CHQ PAID TO Bhanushali Expr/KOTAK                                                                                                                - CCGOI HYDERABAD  HYD
+11-08-2025       11-08-2025      MAHINDRA                                                                             100835                  104157.00          DR       103650866.92                    TG
+                                 RTGS/IDIBR52025081146903978/SUDARSHAN PHARMA                                                                                                             -
+11-08-2025       11-08-2025      INDUS/INDIAN BANK///URGENT  //..                                                                            1000000.00           CR      102650866.92               RTGS HUB
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+11-08-2025       11-08-2025      BRN-CLG-CHQ PAID TO Vm Express Logi/ICICI BANKING                                    100818                    51450.00         DR       102702316.92                    TG
+                                 RTGS/ICICR42025081100508336/SUDARSHAN PHARMA                                                                                                             -
+11-08-2025       11-08-2025      INDUS/ICICI BANK LIMITED//URGENT/                                                                           2000000.00           CR      100702316.92               RTGS HUB
+                                 RTGS/ICICR42025081100508651/SUDARSHAN PHARMA                                                                                                             -
+11-08-2025       11-08-2025      INDUS/ICICI BANK LIMITED//URGENT/                                                                            500000.00           CR      100202316.92               RTGS HUB
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+11-08-2025       11-08-2025      BRN-CLG-CHQ PAID TO Shree Momai Log/ICICI BANKING                                    100820                    64113.00         DR       100266429.92                    TG
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      ACH-DR-0001251330001042-DRBUY8948864-UTIB00000000                                                           4039608.00          DR       104306037.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      ACH-DR-0001251330001033-DRBUY8948862-UTIB00000000                                                           2344441.00          DR       106650478.92                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      ACH-DR-0001252170002004-DRBUY8951622-UTIB00000000                                                            115486.91          DR       106765965.83                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      ACH-DR-0001252170002007-DRBUY8951628-UTIB00000000                                                            113212.20          DR       106879178.03                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      ACH-DR-0001252170002005-DRBUY8951624-UTIB00000000                                                            112976.35          DR       106992154.38                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      ACH-DR-0001252170002006-DRBUY8951626-UTIB00000000                                                            112976.35          DR       107105130.73                   [MH]
+                                 RTGS/UBINR22025081101975965/SUDARSHAN PHARMA                                                                                                             -
+11-08-2025       11-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                          1000000.00           CR      106105130.73               RTGS HUB
+                                 BRN-TD/925040073117937/03-05-2026/SUDARSHAN                                                                                                              -  BORIVALI(W), MUMBAI
+11-08-2025       11-08-2025      PHARMA                                                                                                       939447.00           CR      105165683.73                   [MH]
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+12-08-2025       12-08-2025      BRN-CLG-CHQ PAID TO Ramljeswani/INDIAN BANK                                          104368                    19800.00         DR       105185483.73                    TG
+                                                                                                                                                                                          - CCGOI HYDERABAD  HYD
+12-08-2025       12-08-2025      BRN-CLG-CHQ PAID TO Sumit Ramchand /UNION BANK OF                                    104356                    19800.00         DR       105205283.73                    TG
+                                 BRN-CLG-CHQ PAID TO Jehlum Roadways/BANK OF                                                                                                              - CCGOI HYDERABAD  HYD
+12-08-2025       12-08-2025      BARODA                                                                               100823                  142342.00          DR       105347625.73                    TG
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+12-08-2025       12-08-2025      ACH-DR-0001252200001545-DRBUY8965551-UTIB00000000                                                              44808.93         DR       105392434.66                   [MH]
+                                                                                                                                                                                          -  BORIVALI(W), MUMBAI
+12-08-2025       12-08-2025      ACH-DR-0001252200001544-DRBUY8965549-UTIB00000000                                                              44808.93         DR       105437243.59                   [MH]
+
+--- PAGE 3 ---
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+13-08-2025        13-08-2025      BRN-CLG-CHQ PAID TO Shree Bhagwati /H D F C BANK L                                   100817                   123970.00          DR       105561213.59                    TG
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+13-08-2025        13-08-2025      ACH-DR-0001252240000547-DRBUY8984798-UTIB00000000                                                              99484.94          DR       105660698.53                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+13-08-2025        13-08-2025      ACH-DR-0001252240000546-DRBUY8984796-UTIB00000000                                                              99484.94          DR       105760183.47                   [MH]
+                                  TD/925040093254579/SUDARSHAN PHARMA INDUSTRIES                                                                                                             - BORIVALI(W), MUMBAI
+13-08-2025        13-08-2025      LIM                                                                                  104105                   970000.00          DR       106730183.47                   [MH]
+                                  RTGS/ICICR42025081300546036/SUDARSHAN PHARMA                                                                                                               -
+13-08-2025        13-08-2025      INDUS/ICICI BANK LIMITED//URGENT/                                                                           1000000.00           CR       105730183.47                RTGS HUB
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+14-08-2025        14-08-2025      ACH-DR-0001252250000793-DRBUY9001761-UTIB00000000                                                              28849.90          DR       105759033.37                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+14-08-2025        14-08-2025      ACH-DR-0001251360000864-DRBUY9004863-UTIB00000000                                                             401200.00          DR       106160233.37                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+14-08-2025        14-08-2025      ACH-DR-0001251360000866-DRBUY9004864-UTIB00000000                                                             401200.00          DR       106561433.37                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+14-08-2025        14-08-2025      ACH-DR-0001251360000867-DRBUY9004865-UTIB00000000                                                             200600.00          DR       106762033.37                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+14-08-2025        14-08-2025      ACH-DR-0001252240001873-DRBUY9000231-UTIB00000000                                                              37460.00          DR       106799493.37                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+14-08-2025        14-08-2025      ACH-DR-0001252240001798-DRBUY9000228-UTIB00000000                                                              27937.63          DR       106827431.00                   [MH]
+                                  RTGS/ICICR42025081600504566/SUDARSHAN PHARMA                                                                                                               -
+16-08-2025        16-08-2025      INDUS/ICICI BANK LIMITED//URGENT/                                                                           2000000.00           CR       104827431.00                RTGS HUB
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+16-08-2025        16-08-2025      BRN-ILC-0018LCO-0001554:COMM/ISS                                                                               20000.00          DR       104847431.00                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+16-08-2025        16-08-2025      BRN-ILC-0018LCO-0001554:GST/ISS                                                                                  3600.00         DR       104851031.00                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+16-08-2025        16-08-2025      BRN-ILC-0018LCO-0001554:GST/ISS                                                                                    180.00        DR       104851211.00                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+16-08-2025        16-08-2025      BRN-ILC-0018LCO-0001554:SFMS CHARGES/ISS                                                                         1000.00         DR       104852211.00                   [MH]
+                                                                                                                                                                                             -
+16-08-2025        16-08-2025      PROF_FEES_P_MADHU                                                                                              19293.00          DR       104871504.00              CBB MUMBAI
+                                                                                                                                                                                             -
+18-08-2025        18-08-2025      INB/IFT/METLOK PRIVATE LIMITED/TPARTY TRANSFER                                                                105020.00          CR       104766484.00             NAGPUR [MH]
+                                  BRN-CLG-CHQ PAID TO SHRI SHYAM ROAD/H D F C                                                                                                                -CCGOI HYDERABAD  HYD
+19-08-2025        19-08-2025      BANK L                                                                               104109                   188572.00          DR       104955056.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+20-08-2025        20-08-2025      BRN-CLG-CHQ PAID TO As Roadlines/ICICI BANKING                                       104107                    84000.00          DR       105039056.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+20-08-2025        20-08-2025      BRN-CLG-CHQ PAID TO Ark Trans Logis/YES BANK LTD.                                    100839                   123900.00          DR       105162956.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+20-08-2025        20-08-2025      BRN-CLG-CHQ PAID TO Ark Trans Logis/YES BANK LTD.                                    100838                   177100.00          DR       105340056.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+20-08-2025        20-08-2025      BRN-CLG-CHQ PAID TO Ark Trans Logis/YES BANK LTD.                                    100841                   175100.00          DR       105515156.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+20-08-2025        20-08-2025      BRN-CLG-CHQ PAID TO Ark Trans Logis/YES BANK LTD.                                    100840                   174100.00          DR       105689256.00                    TG
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+20-08-2025        20-08-2025      0018-IBC2460                                                                                                       150.00        DR       105689406.00                   [MH]
+                                  IFT/CB0091157702/17389928/ATUL BIOSCIENCE                                                                                                                  -
+20-08-2025        20-08-2025      LIMITED/SUDARSHAN PHARMA I/UTIB0000018                                                                        632480.00          CR       105056926.00          ATUL, VALSAD [GJ]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+21-08-2025        21-08-2025      0018-IBC2460                                                                                                       150.00        DR       105057076.00                   [MH]
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+22-08-2025        22-08-2025      BRN-CLG-CHQ PAID TO Powernet Broadb/UNION BANK OF                                    104110                      2250.00         DR       105059326.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+22-08-2025        22-08-2025      BRN-CLG-CHQ PAID TO Hi Vogue Intern/H D F C BANK L                                   104077                   800000.00          DR       105859326.00                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+22-08-2025        22-08-2025      BRN-CLG-CHQ PAID TO Hi Vogue Intern/H D F C BANK L                                   104078                   459213.00          DR       106318539.00                    TG
+                                  NEFT/HDFCH00437748053/SRF LIMITED 683/HDFC                                                                                                                 -
+22-08-2025        22-08-2025      BANK/00011564653                                                                                            1525597.02           CR       104792941.98                RTGS HUB
+                                  INB/RTGS/UTIBR62025082321006374/SUDARSHAN                                                                                                                  - BORIVALI(W), MUMBAI
+23-08-2025        23-08-2025      PHARM/UNION BANK OF INDIA//////                                                                             1000000.00           DR       105792941.98                   [MH]
+                                  INB/RTGS/UTIBR62025082321004523/SUDARSHAN                                                                                                                  - BORIVALI(W), MUMBAI
+23-08-2025        23-08-2025      PHARM/UNION BANK OF INDIA//////                                                                               500000.00          DR       106292941.98                   [MH]
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+25-08-2025        25-08-2025      BRN-CLG-CHQ PAID TO Hi Vogue Intern/H D F C BANK L                                   104079                   966427.00          DR       107259368.98                    TG
+                                  RTGS/MHCBR52025082500174537/AJINOMOTO BIO-                                                                                                                 -
+25-08-2025        25-08-2025      PHARMA S/MIZUHO BANK LTD/                                                                                     342760.00          CR       106916608.98                RTGS HUB
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+26-08-2025        26-08-2025      BRN-CLG-CHQ PAID TO New Line Transp/DCB BANK LIMIT                                   104108                    44895.00          DR       106961503.98                    TG
+                                  RTGS/UBINR22025082601957355/SUDARSHAN PHARMA                                                                                                               -
+26-08-2025        26-08-2025      INDUS/UNION BANK OF INDIA//URGENT/                                                                          3000000.00           CR       103961503.98                RTGS HUB
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+26-08-2025        26-08-2025      BRN-CLG-CHQ PAID TO New Line Transp/DCB BANK LIMIT                                   104111                   109543.00          DR       104071046.98                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+26-08-2025        26-08-2025      BRN-CLG-CHQ PAID TO Vardhaman Indus/H D F C BANK L                                   104101                   900000.00          DR       104971046.98                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+26-08-2025        26-08-2025      BRN-CLG-CHQ PAID TO Vardhaman Indus/H D F C BANK L                                   104100                   900000.00          DR       105871046.98                    TG
+                                                                                                                                                                                             -CCGOI HYDERABAD  HYD
+26-08-2025        26-08-2025      BRN-CLG-CHQ PAID TO Vardhaman Indus/H D F C BANK L                                   104102                   973420.00          DR       106844466.98                    TG
+                                  NEFT/HDFCH00443317562/RELIABLE PAINTS(INDIA) PVT                                                                                                           -
+26-08-2025        26-08-2025      L/HDFC BANK/0001NEFT  - 516-9999987961149                                                                   1743461.00           CR       105101005.98                RTGS HUB
+                                  IMPS/P2A/523816876374/INTEGRIT/ICICIBAN/sudarsha/91972                                                                                                     - BORIVALI(W), MUMBAI
+26-08-2025        26-08-2025      43523009229894                                                                                                400000.00          CR       104701005.98                   [MH]
+                                                                                                                                                                                             -RANIP, AHMEDABA AHM
+26-08-2025        26-08-2025      MOB/TPFT/CHEMAX PHARMA C/923020062684251                                                                      532416.00          CR       104168589.98                    GJ
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+27-08-2025        27-08-2025      BRN-REF NO 0018-BE707296 INR 2378393/PUR                                                                    2378393.00           CR       101790196.98                   [MH]
+                                                                                                                                                                                             - BORIVALI(W), MUMBAI
+27-08-2025        27-08-2025      BRN-REF NO 0018-BE707296 INR 2378393/PUR                                                                       46726.59          DR       101836923.57                   [MH]
+
+--- PAGE 4 ---
+                                                                                                                                                                      -BORIVALI(W), MUMBAI
+  28-08-2025      28-08-2025   0018-IBC2256                                                                                   3839709.00       DR      105676632.57              [MH]
+                               BRN-TD/925040079402334/06-06-2026/SUDARSHAN                                                                                            -BORIVALI(W), MUMBAI
+  29-08-2025      29-08-2025   PHARMA                                                                                           781885.00      CR      104894747.57              [MH]
+                                                                                                                                                                      -BORIVALI(W), MUMBAI
+  31-08-2025      31-08-2025   Loan Recovery For922060052832458                                                                 443333.00      DR      105338080.57              [MH]
+                                                                                                                                                                      -BORIVALI(W), MUMBAI
+  31-08-2025      31-08-2025   Loan Recovery For925060051738978                                                               1162521.00       DR      106500601.57              [MH]
+                                                                                                                                                                      -BORIVALI(W), MUMBAI
+  31-08-2025      31-08-2025   Loan Recovery For922060052832458                                                                   93865.00     DR      106594466.57              [MH]
+                                                                                                                                                                      -BORIVALI(W), MUMBAI
+  31-08-2025      31-08-2025   Loan Recovery For922060049800541                                                                   49712.00     DR      106644178.57              [MH]
+
+
+                               TRANSACTION TOTAL DR/CR                                                           58476763.70/56643891.02
+
+                                                                                                                                                                     -
+                               CLOSING BALANCE                                                                                                         106644178.57
+
+
+
+
+
+
+Unless the constituent notifies the bank immediately of any discrepancy found by him/her in this statement of Account, it will be taken that
+he/she has found the account correct.
+The closing balance as shown/displayed includes not only the credit balance and / or overdraft limit, but also funds which are under clearing. It
+excludes the amount marked as lien, if any. Hence the closing balance displayed may not be the effective available balance. For any further
+clarifications, please contact the Branch.
+We would like to reiterate that, as a policy, Axis Bank never asks you to share, disclose, or revalidate your login Id, password or debit card
+number  number through emails OR phone call Further,we would like to reiterate that Axis Bank shall not be liable for any losses arising from
+you sharing/disclosing of your login id, password and debit card number to anyone. Please co-operate by forwarding all such suspicious/spam
+emails, if received by you, to customer.service@axisbank.com
+With effect from 1st August 2016, the replacement charges for Debit card and ATM card applicable on Current accounts have been revised. To
+know more about the applicable charges,please visit www.axisbank.com
+Deposit Insurance and Credit Guarantee Corporation (DICGC) insurance cover is applicable in all Banks' deposits, such as savings, current,
+fixed, recurring etc* up to maximum amount of Rs 5 Lakh including principal & interest both* (* or exceptions and details please refer
+www.dicgc.org.in )
+In compliance with regulatory guidelines, the non-CTS cheque books attached to the accounts would be destroyed in banks core banking
+System. Thus, Non CTS cheques will not be valid for CASH, Clearing and Transfer transactions
+To ensure you never miss any critical communication from us, it is important that your latest / correct mobile number and email ID are updated
+in our records. Kindly visit your nearest Axis Bank Loan Centre /Branch / Agri area office for updating your latest / correct mobile number and
+email ID in our records. You can also update your email ID using Internet Banking & Mobile Banking App, open
+REGISTERED OFFICE - AXIS BANK LTD,TRISHUL,Opp. Samartheswar Temple, Near Law Garden, Ellisbridge, Ahmedabad . 380006.
+BRANCH ADDRESS - AXIS BANK LTD, BORIVALI(W), MUMBAI [MH], GR. FLOOR / 1ST FLOOR,JALARAM, BUSINESS
+CENTRE,OFF.CHAMUNDA,  CIRCLE,GANJAWALA LANE,BORIVALI (W),,  400092,  MUMBAI,  MAHARASHTRA, INDIA,
+TEL:9167000182  FAX:28950388
+
+Legends :
+ICONN - Transaction trough Internet Banking                                                                                        BRN -Branch
+AUTOSWEEP - Transfer to linked fixed deposit                                                                                       LDG -Lodge
+REV SWEEP - Interest on Linked fixed Deposit                                                                                       INB -Internet Banking
+SWEEP TRF - Transfer from Linked Fixed Deposit / Account                                                                           RLZ -Realise
+VMT - Visa Money Transfer through ATM                                                                                              DLK -Delink
+CWDR - Cash Withdrawal through ATM                                                                                                 DHR -Dishonour
+PUR - POS purchase                                                                                                                 REC -Recovery
+TIP/ SCG - Surcharge on usage of debit card at pumps/railway ticket purchase or hotel tips                                         LN -Loan
+RATE.DIFF - Difference in rates on usage of card internationally                                                                   HCY -Home Currency Advance
+CLG - Cheque Clearing Transaction                                                                                                  TFR -Transfer
+VMT-ICON - Visa Money Transfer Via Internet Banking                                                                                INT -Interest Run
+EDC - Credit transaction through EDC Machine                                                                                       BKNG -Booking
+SETU - Seamless electronic fund transfer through AXIS Bank                                                                         CNCL -Cancellation
+Int.pd - Interest paid to customer  ISSUE -Issuance                                                                                ISSUE -Issuance
+Int.Coll - Interest collected from the customer                                                                                    AMEND -Amendment
+OW RTN-Outward return                                                                                                              PUR-Purchase
+
+This is a system generated output and requires no signature.
+
+                                                                                   ++++ End of Statement ++++

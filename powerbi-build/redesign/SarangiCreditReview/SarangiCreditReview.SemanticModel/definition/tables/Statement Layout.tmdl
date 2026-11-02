@@ -1,0 +1,51 @@
+/// Statement comparison layout; all amounts derive from supplied statements, no synthetic balancing items.
+table 'Statement Layout'
+	lineageTag: d2bee7cb-81b8-4e1a-bd35-03c77b3bf22e
+
+	/// Statement Current Cr
+	measure 'Statement Current Cr' = DIVIDE(SWITCH(SELECTEDVALUE('Statement Layout'[Metric]),"FY Sales",[FY Sales],"FY Other Income",[FY Other Income],"FY Total Income",[FY Total Income],"FY Reported EBITDA",[FY Reported EBITDA],"FY Depreciation and Amortization",[FY Depreciation and Amortization],"FY Interest",[FY Interest],"FY Profit Before Tax",[FY Profit Before Tax],"FY Net Profit",[FY Net Profit],"Tangible Net Worth",[Tangible Net Worth],"Total Debt",[Total Debt],"FY Current Assets",[FY Current Assets],"FY Current Liabilities",[FY Current Liabilities],"FY Debtors",[FY Debtors],"FY Creditors",[FY Creditors],"FY Inventory",[FY Inventory],"Working Capital",[Working Capital],"FY Total Assets",[FY Total Assets]),10000000)
+		formatString: 0.00;[Red](0.00);0.00
+		displayFolder: Credit Review
+		lineageTag: a78a1cb0-d86a-49bc-827d-e7be88d39da8
+
+	/// Statement Prior Cr
+	measure 'Statement Prior Cr' = VAR Y=VALUE(LEFT([Review Financial Year],4))-1 VAR P=FORMAT(Y,"0000") & "-" & FORMAT(Y+1,"0000") VAR Exists=COUNTROWS(FILTER(ALL('Review Year'),'Review Year'[Financial Year]=P)) RETURN IF(Exists>0,CALCULATE([Statement Current Cr],REMOVEFILTERS('Review Year'),TREATAS({P},'Review Year'[Financial Year])))
+		formatString: 0.00;[Red](0.00);0.00
+		displayFolder: Credit Review
+		lineageTag: 7b3a314e-08ce-40e3-ba9f-b3b6e270e416
+
+	/// YoY growth only for positive prior base; negative/zero/absent prior base shown blank to avoid misleading percentages.
+	measure 'Statement Change' = VAR P=[Statement Prior Cr] RETURN IF(P>0,DIVIDE([Statement Current Cr]-P,P))
+		formatString: 0.0%;[Red](0.0%);0.0%
+		displayFolder: Credit Review
+		lineageTag: a43e1500-1d4d-47ce-8c1b-eff028c04d31
+
+	column Order
+		dataType: int64
+		lineageTag: 7dbb2d1e-3ded-4b85-b2b8-7a2605e1e94b
+		summarizeBy: none
+		sourceColumn: Order
+
+	column Statement
+		dataType: string
+		lineageTag: c4eaa388-e3e4-40a9-8259-3f9f14a370ba
+		summarizeBy: none
+		sourceColumn: Statement
+
+	column 'Line Item'
+		dataType: string
+		lineageTag: 61aec4ab-ef9c-42e6-9a8c-2ccb2b78de3e
+		summarizeBy: none
+		sourceColumn: Line Item
+		sortByColumn: Order
+
+	column Metric
+		dataType: string
+		lineageTag: e17bd3cf-f889-4ea4-b3f7-fe377485f9d6
+		summarizeBy: none
+		sourceColumn: Metric
+
+	partition 'Statement Layout' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/32Sy07DMBBFf2WUBasgUcpz2QeVKiFAUAmhqotJMm0tgh2Np+XxY+z5MmTHKQmYLn3jc+TM3Pm8l0Jyx2apBA6gNNYmKSS3FTGK0itg2pLekAsnT/CAJdlkkcL8OIrJmhiUzs1LQ9TRtI4c2I+BMyNYdsE6aoEn+x96NZzOxgP4+gRrNpw3mnuqDAsV4bs3ncZMY6qYcoWijIYDwBfDoj78Mag6N1AXMGjfceKzmHiiNOqcIDdW6uAJplqIyYqnzmNUCDJaGiYQfAtkyId1PsM3r7jYo8ClELcMNyTB4tHLFJIhlv6Jdk0kfh+oVyorCTQJvBqWdSd1ikefOkPvKKZofvEwI2S3oIKy2u0XO3YnT/di9GjDTFoAraXd1JpwUIeePt5HlwozVSpR9Ftx3friPf3oGBgLAqac1BYzV/2mCZkYDqTr5T9khe9tbMRUqB/Q1TAyti1pMfy+a0pz9oxr2B/GrePV8LObco6VEixd/BiiUYi8wJXt72v9SjqzrqNm0otvZg2EtigEAAA=",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Order","Statement","Line Item","Metric"}), X=Table.TransformColumnTypes(T,{{"Order", Int64.Type},{"Statement", type text},{"Line Item", type text},{"Metric", type text}}) in X
+

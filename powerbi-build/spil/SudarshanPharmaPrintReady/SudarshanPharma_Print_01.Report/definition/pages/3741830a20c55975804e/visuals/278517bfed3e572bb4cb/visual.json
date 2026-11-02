@@ -1,0 +1,108 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "278517bfed3e572bb4cb",
+  "position": {
+    "x": 42.666666666666664,
+    "y": 231.73333333333335,
+    "width": 1037.186351706037,
+    "height": 49.86666666666667,
+    "z": 5,
+    "tabOrder": 5
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "CC-0003 | As Of: 2026-06-30 | Account: Indian • 1131 | Sanctioned: 300,000,000 | Schedule Outstanding: 286,133,205 | Schedule Utilisation: 0.953777 | Statement Drawn: 286,133,205.48 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Statement Less Schedule: 0.48 | Interpretation: Loan schedule snapshot; bank closing may differ in scope/date",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

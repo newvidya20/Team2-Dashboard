@@ -1,0 +1,32 @@
+﻿Area,Requirement,Status,Evidence or Gap
+GST,Buyer and supplier totals / concentration,Available,Monthly party values and selected-period share measures.
+GST,Export ratio,Available,Bifurcation export values divided by adjusted total revenue.
+GST,Filing dates / delays,Available,Supplied due dates and filing dates; delay recomputed.
+GST,Late fees,Missing source,No GST late-fee amount field in supplied filing data.
+GST,State and revenue breakup,Available,State Wise taxable amounts; party profile covers top parties only.
+GST,Intra-group sales / purchases,Needs review,Intra Group shows zero group revenue; financial common directorship list suggests related parties. No authoritative related-party transaction mapping.
+GST,HSN product summary,Missing source,No HSN-level transaction schedule supplied.
+Banking,Inflows / outflows / credit counts,Available,882 consolidated transactions; repeated account blocks excluded.
+Banking,BTO / net credits,Available,Source-reported consolidated net credits; gross credits shown separately.
+Banking,Cheque and EMI returns / penalties,Available,Source MoM metrics and transaction categories; dash means not reported.
+Banking,Internal transfers,Available,Separate consolidated Internal & Group subset.
+Banking,Party flows / loans / cash deposits,Available,Source party/category attribution retained; blank counterparties explicitly unidentified.
+Banking,CC utilisation %,Missing source,Utilization sheet says No data available; sanction limit missing. Registered charge amount is not used as a sanction limit.
+Reconciliation,Party GST vs banking,Partial,"Apr-Sep 2024, exact normalized names only. No invoice or GSTIN link in banking. Cash and GST tax bases differ."
+Financial,EBIT / EBITDA / net profit,Available,"PAT + interest + current/deferred tax. PDF EBITA adds D&A, labelled EBITDA (PDF EBITA). Includes other income; source reported EBITDA separate."
+Financial,Operating profit,Needs review,PDF formula equals EBIT and includes other income. Core operating EBIT excludes Other Income and is separately labelled.
+Financial,Promoter net worth,Missing source,Corporate net worth supplied; no personal promoter asset/liability statements.
+Financial,DSCR,Missing source,Annual principal repayment absent. Bank EMI payments from a different period cannot substitute.
+Financial,Current / quick / working capital ratios,Available,Closing statement balances; working capital ratio equals current ratio.
+Financial,Debt equity / adjusted debt equity,Available,Total debt already includes disclosed unsecured borrowings. Standard adjusted ratio avoids counting them twice; PDF literal variant retained separately.
+Financial,Interest coverage / TOL-TNW / debt EBITDA,Available,TOL=total current + noncurrent liabilities; TNW=equity less intangible assets.
+Financial,Net profit to sales,Available,PAT divided by revenue from operations.
+Financial,Operating cash flow / interest,Missing source,No operating cash flow statement supplied.
+Financial,Retained earnings / equity,Partial,"Only reserves and surplus is available; displayed as a proxy, not certified retained earnings."
+Financial,Debtor / creditor / stock days,Available,Closing balances; purchases of stock in trade and COGS (materials + purchases + inventory change).
+Financial,Drawing power,Missing source,"Eligibility ageing, margins and eligible stock/debtors absent."
+Financial,Invoice ageing,Missing source,"No invoice-level dates, outstanding amounts or settlements."
+Credit,CIBIL / CMR,Missing source,Credit Bureau tab states no reported defaults; no score/CMR report supplied. Does not establish clean bureau status.
+Credit,SWOT / review observations,Partial,Evidence-linked historical observations and source flags; no automated lending recommendation.
+Data quality,Reporting periods,Needs review,"GST Aug2022-Sep2024; banking Apr-Dec2024 with missing dates; financial statements FY2021-22 to FY2023-24. Historical source data, not current 2026 performance."
+Data quality,Source EBITDA inconsistency,Needs review,Detailed P&L EBITDA excludes other income; PAT-based EBITDA includes it. Both are exposed; no silent replacement.

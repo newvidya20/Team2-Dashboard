@@ -1,0 +1,264 @@
+
+--- PAGE 1 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/12/2025 to 31/12/2025 for Account Number 8026481131.
+
+
+                                                                                                                              INDIAN BANK
+                                                                                                                      MCB FORT MUMBAI
+                                                                                                                IFSC CODE:IDIB000M367
+                                                            1st FLOOR, UNITED INDIA BUILDING , SIR P M ROAD , FORT MUMBAI
+                                                                                                                       Branch Code :03281
+                                                                                                           Account Number : 8026481131
+                                                                                        Product type :  MICRO-SMALL-ENT-OCC-REPO
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301, 3rd Floor, Senate Aura Biplex,
+Above Kalyan Jewellers
+S.V. Road, Borivali West
+Mumbai - 400092
+Nominee Name :No
+Email : sachin@sudarshanpharma.org
+Statement Date :Sat Jan 03 11:00:36 IST 2026
+Cleared Balance :4501683.62
+Uncleared Amount :0.00
+Drawing Power :00
+Interest Rate : 11.200
+
+              Value    Post      Remitter          Description       Cheque No          DR            CR          Balance
+               Date    Date       Branch
+                                               BALANCE B/F                                                      297937414.
+                                                                                                                        36DR
+              01/12   01/12   MUMBAI FORT      WITHDRAWAL                           1000058.41                  298937472.
+              /2025   /2025                    TRANSFER                                                                 77DR
+                                               RTGS/BKID/IDIBR52
+                                               025120148960655/S
+                                               ACHIN C/. Txn Amt.
+                                               10,00,000.00
+                                               Charges.       58.41
+                                               TRANSFER TO
+                                               98906000129
+              09/12   09/12   SERVICE          CHEQUE DEPO           00000119                     2108741.00    296828731.
+              /2025   /2025   BRANCH           CLEARING                                                                 77DR
+                              (CHENNAI)        08/12/2025
+                                               STANDARD
+                                               CHARTERED BANK
+                                               CHQ DEP 000119
+                                               600036007 0691
+              09/12   09/12   SERVICE          CHEQUE DEPO           00000120                     1669039.00    295159692.
+              /2025   /2025   BRANCH           CLEARING                                                                 77DR
+                              (CHENNAI)        08/12/2025
+                                               STANDARD
+                                               CHARTERED BANK
+                                               CHQ DEP 000120
+                                               600036007 0691
+              09/12   09/12   SERVICE          CHEQUE DEPO           00132697                     319800.00     294839892.
+              /2025   /2025   BRANCH           CLEARING                                                                 77DR
+                              (CHENNAI)        08/12/2025 PATAN
+                                               CO OPERATIVE
+                                               BANK CHQ DEP
+                                               132697 400149003
+                                               0691
+              09/12   09/12   SERVICE          CHEQUE DEPO           00133453                     300000.00     294539892.
+              /2025   /2025   BRANCH           CLEARING                                                                 77DR
+                              (CHENNAI)        08/12/2025 PATAN
+                                               CO OPERATIVE
+                                               BANK CHQ DEP
+                                               133453 400149003
+                                               0691
+
+
+
+
+
+
+
+
+
+                                                                   Page No:1
+
+--- PAGE 2 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/12/2025 to 31/12/2025 for Account Number 8026481131.
+
+
+              Value    Post      Remitter         Description       Cheque No          DR           CR          Balance
+               Date    Date      Branch
+              09/12   09/12   MUMBAI FORT     BY TRANSFER                                       2309496.00    292230396.
+              /2025   /2025                   NEFT/DEUT/DEUTN                                                         77DR
+                                              52025120901019561
+                                              /TATA AIG G/
+                                              TRANSFER FROM
+                                              97164000128
+              12/12   12/12   MCB FORT        CHQ TRANSFE          00977007       4730677.00                  296961073.
+              /2025   /2025   MUMBAI          RTGS/CBIN/IDIBR52                                                       77DR
+                                              025121249178978/P
+                                              OLO QUE/Supplier
+                                              Txn Amt.
+                                              47,30,619.00
+                                              Charges.       58.00
+              12/12   12/12   SERVICE         CHEQUE DEPO          00133455                     300000.00     296661073.
+              /2025   /2025   BRANCH          CLEARING                                                                77DR
+                              (CHENNAI)       12/12/2025 PATAN
+                                              CO OPERATIVE
+                                              BANK CHQ DEP
+                                              133455 400149003
+                                              0691
+              16/12   16/12   MUMBAI FORT     BY TRANSFER                                       2306596.00    294354477.
+              /2025   /2025                   NEFT/SRCB/SRCBN                                                         77DR
+                                              52025121626960393
+                                              /RESEARCH L/
+                                              TRANSFER FROM
+                                              94965000129
+              16/12   16/12   SERVICE         CHEQUE DEPO          00133457                     300000.00     294054477.
+              /2025   /2025   BRANCH          CLEARING                                                                77DR
+                              (CHENNAI)       16/12/2025 PATAN
+                                              CO OPERATIVE
+                                              BANK CHQ DEP
+                                              133457 400149003
+                                              0010
+              18/12   18/12   MCB FORT        CHQ TRANSFE          00977008       5124640.00                  299179117.
+              /2025   /2025   MUMBAI          RTGS/CBIN/IDIBR52                                                       77DR
+                                              025121849292037/P
+                                              OLO QUE/Supplier
+                                              Txn Amt.
+                                              51,24,582.00
+                                              Charges.       58.00
+              18/12   18/12   SERVICE         CHEQUE DEPO          00622739                      75874.00     299103243.
+              /2025   /2025   BRANCH          CLEARING                                                                77DR
+                              (CHENNAI)       18/12/2025 015 CHQ
+                                              DEP 622739
+                                              143015002 0691
+              18/12   18/12   SERVICE         CHEQUE DEPO          00832047                     446699.12     298656544.
+              /2025   /2025   BRANCH          CLEARING                                                                65DR
+                              (CHENNAI)       18/12/2025 002 CHQ
+                                              DEP 832047
+                                              380002068 0691
+              20/12   20/12   MCB FORT        WITHDRAWAL                            10000.00                  298666544.
+              /2025   /2025   MUMBAI          TRANSFER                                                                65DR
+                                              INSPECTION
+                                              CHARGES
+                                              DEC2025
+                                              TRANSFER TO
+                                              96272032813
+              20/12   20/12   MCB FORT        WITHDRAWAL                             7700.00                  298674244.
+              /2025   /2025   MUMBAI          TRANSFER                                                                65DR
+                                              INSPECTION
+                                              CHARGES
+                                              DEC2025
+                                              TRANSFER TO
+                                              96272032813
+              24/12   24/12   SERVICE         CHEQUE DEPO          00549812                     194700.00     298479544.
+              /2025   /2025   BRANCH          CLEARING                                                                65DR
+                              (CHENNAI)       24/12/2025 UNION
+                                              BANK OF INDIA
+                                              (UBI) CHQ DEP
+                                              549812 400026007
+                                              0691
+
+
+
+
+
+
+
+
+                                                                  Page No:2
+
+--- PAGE 3 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/12/2025 to 31/12/2025 for Account Number 8026481131.
+
+               Value    Post      Remitter          Description         Cheque No           DR            CR          Balance
+                Date    Date       Branch
+               24/12   24/12    SERVICE         CHEQUE DEPO            00004423                       57584.00      298421960.
+               /2025   /2025    BRANCH          CLEARING                                                                    65DR
+                                (CHENNAI)       24/12/2025 BANK
+                                                OF BARODA (BOB)
+                                                CHQ DEP 004423
+                                                560012028 0691
+               24/12   24/12    SERVICE         CHEQUE DEPO            00004424                      195880.00      298226080.
+               /2025   /2025    BRANCH          CLEARING                                                                    65DR
+                                (CHENNAI)       24/12/2025 BANK
+                                                OF BARODA (BOB)
+                                                CHQ DEP 004424
+                                                560012028 0691
+               24/12   24/12    SERVICE         CHEQUE DEPO            00851932                      889106.00      297336974.
+               /2025   /2025    BRANCH          CLEARING                                                                    65DR
+                                (CHENNAI)       24/12/2025 U T I
+                                                BANK LTD CHQ
+                                                DEP 851932
+                                                600211036 0691
+               30/12   30/12    SERVICE         CHEQUE DEPO            00832311                      1178528.00     296158446.
+               /2025   /2025    BRANCH          CLEARING                                                                    65DR
+                                (CHENNAI)       30/12/2025 002 CHQ
+                                                DEP 832311
+                                                380002068 6505
+               30/12   30/12    SERVICE         CHEQUE DEPO            00133459                      179700.00      295978746.
+               /2025   /2025    BRANCH          CLEARING                                                                    65DR
+                                (CHENNAI)       30/12/2025 PATAN
+                                                CO OPERATIVE
+                                                BANK CHQ DEP
+                                                133459 400149003
+                                                6505
+               30/12   30/12    SERVICE         CHEQUE DEPO            00092018                      162725.00      295816021.
+               /2025   /2025    BRANCH          CLEARING                                                                    65DR
+                                (CHENNAI)       30/12/2025 211 CHQ
+                                                DEP 092018
+                                                160211010 6505
+               31/12   31/12                    DEBIT INTEREST                         2836506.00                   298652527.
+               /2025   /2025                                                                                                65DR
+   * Statement Downloaded By SUDARSHAN PHARMA INDUSTRIES LIMITED on Sat Jan 03 11:00:36 IST 2026
+
+
+ Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found
+
+the a/c correct.
+ END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     Page No:3

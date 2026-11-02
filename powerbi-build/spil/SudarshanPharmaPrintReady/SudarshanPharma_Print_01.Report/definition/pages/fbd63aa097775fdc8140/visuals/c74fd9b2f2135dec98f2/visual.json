@@ -1,0 +1,156 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "c74fd9b2f2135dec98f2",
+  "position": {
+    "x": 42.666666666666664,
+    "y": 118.66666666666667,
+    "width": 1037.186351706037,
+    "height": 117.59999999999998,
+    "z": 3,
+    "tabOrder": 3
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "FIN2025-0001 | Financial Year: 2025-26 | Statement Status: Audited | Sales: 6,674,985,000.000001 | Other Income: 84,044,000 | PAT: 219,816,000 | Tax: 66,865,000 | Interest: 252,974,000",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "| Depreciation: 34,065,000 | Equity: 1,527,051,000 | Noncurrent Borrowings: 303,926,000 | Current Borrowings: 2,506,968,000 | Lease Liabilities: 13,942,000 | Unsecured Debt: 70,625,000 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Current Assets: 4,447,450,000 | Current Liabilities: 4,100,478,000 | Inventory: 2,066,552,000 | Debtors: 1,992,285,000 | Creditors: 1,471,154,000 | Purchases: 6,559,900,999.999999 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Material Consumed: 29,768,000 | Inventory Change: -706,344,000 | Intangible Assets: 99,675,000 | Total Assets: 5,941,797,000 | Retained Earnings: 670,078,000 | Operating Cash Flow:",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "-27,522,000 | Basis: Ind AS standalone | Source: FY2025-26 financial PDF • pp2,4,5,17 | Total Income: 6,759,029,000.000001 | EBIT: 539,655,000 | EBITDA: 573,720,000 | Total Debt:",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "2,824,836,000 | TNW: 1,427,376,000 | Outside Liabilities: 4,414,746,000 | COGS: 5,883,324,999.999999",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

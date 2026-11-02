@@ -1,0 +1,402 @@
+[
+  {
+    "name": "Review Financial Year",
+    "expression": "SELECTEDVALUE('Review Year'[Financial Year],\"2023-2024\")",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Review Financial Year"
+  },
+  {
+    "name": "GST Revenue Cr",
+    "expression": "DIVIDE([GST Revenue],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "GST Revenue Cr"
+  },
+  {
+    "name": "GST Purchases Cr",
+    "expression": "DIVIDE([GST Purchases],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "GST Purchases Cr"
+  },
+  {
+    "name": "GST Exports Cr",
+    "expression": "DIVIDE([GST Exports],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "GST Exports Cr"
+  },
+  {
+    "name": "Buyer Sales Cr",
+    "expression": "DIVIDE([Buyer Sales],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Buyer Sales Cr"
+  },
+  {
+    "name": "Supplier Purchases Cr",
+    "expression": "DIVIDE([Supplier Purchases],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Supplier Purchases Cr"
+  },
+  {
+    "name": "State Revenue Cr",
+    "expression": "DIVIDE([State Revenue],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "State Revenue Cr"
+  },
+  {
+    "name": "Party Amount Cr",
+    "expression": "DIVIDE([Party Amount],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Party Amount Cr"
+  },
+  {
+    "name": "Bank Inflows Cr",
+    "expression": "DIVIDE([Gross Inflows],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Bank Inflows Cr"
+  },
+  {
+    "name": "Bank Outflows Cr",
+    "expression": "DIVIDE([Gross Outflows],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Bank Outflows Cr"
+  },
+  {
+    "name": "BTO Cr",
+    "expression": "DIVIDE([Banking Turnover],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "BTO Cr"
+  },
+  {
+    "name": "Bank Net Flow Cr",
+    "expression": "DIVIDE([Net Cash Flow],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Bank Net Flow Cr"
+  },
+  {
+    "name": "Cash Deposits Cr",
+    "expression": "DIVIDE([Cash Deposits],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Cash Deposits Cr"
+  },
+  {
+    "name": "Loan Disbursements Cr",
+    "expression": "DIVIDE([Loan Disbursements],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Loan Disbursements Cr"
+  },
+  {
+    "name": "EMI Payments Cr",
+    "expression": "DIVIDE([EMI Payments],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "EMI Payments Cr"
+  },
+  {
+    "name": "Internal Debit Cr",
+    "expression": "DIVIDE([Internal Debit],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Internal Debit Cr"
+  },
+  {
+    "name": "Internal Credit Cr",
+    "expression": "DIVIDE([Internal Credit],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Internal Credit Cr"
+  },
+  {
+    "name": "Return Amount Cr",
+    "expression": "DIVIDE([Cheque Return Amount],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Return Amount Cr"
+  },
+  {
+    "name": "Common GST Sales Cr",
+    "expression": "DIVIDE([Common GST Sales],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Common GST Sales Cr"
+  },
+  {
+    "name": "Common Receipts Cr",
+    "expression": "DIVIDE([Common Bank Receipts],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Common Receipts Cr"
+  },
+  {
+    "name": "Common GST Purchases Cr",
+    "expression": "DIVIDE([Common GST Purchases],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Common GST Purchases Cr"
+  },
+  {
+    "name": "Common Payments Cr",
+    "expression": "DIVIDE([Common Bank Payments],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Common Payments Cr"
+  },
+  {
+    "name": "Finance Revenue Cr",
+    "expression": "DIVIDE([FY Sales],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance Revenue Cr"
+  },
+  {
+    "name": "Finance PAT Cr",
+    "expression": "DIVIDE([FY Net Profit],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance PAT Cr"
+  },
+  {
+    "name": "Finance EBITDA Cr",
+    "expression": "DIVIDE([FY Reported EBITDA],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance EBITDA Cr"
+  },
+  {
+    "name": "Finance TNW Cr",
+    "expression": "DIVIDE([Tangible Net Worth],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance TNW Cr"
+  },
+  {
+    "name": "Finance Debt Cr",
+    "expression": "DIVIDE([Total Debt],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance Debt Cr"
+  },
+  {
+    "name": "Finance Assets Cr",
+    "expression": "DIVIDE([FY Current Assets],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance Assets Cr"
+  },
+  {
+    "name": "Finance Liabilities Cr",
+    "expression": "DIVIDE([FY Current Liabilities],10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance Liabilities Cr"
+  },
+  {
+    "name": "GST Period",
+    "expression": "VAR A=MIN('GST Monthly'[Month]) VAR B=MAX('GST Monthly'[Month]) RETURN IF(ISBLANK(A),\"No GST data in selection\",FORMAT(A,\"MMM yyyy\") & \" – \" & FORMAT(B,\"MMM yyyy\"))",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "GST Period"
+  },
+  {
+    "name": "Bank Period",
+    "expression": "VAR A=MIN('Bank Monthly'[Month]) VAR B=MAX('Bank Monthly'[Month]) RETURN IF(ISBLANK(A),\"No banking data in selection\",FORMAT(A,\"MMM yyyy\") & \" – \" & FORMAT(B,\"MMM yyyy\"))",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Bank Period"
+  },
+  {
+    "name": "Top Buyer Cr",
+    "expression": "VAR R=RANKX(ALLSELECTED('GST Parties'[Party]),[Buyer Sales],,DESC,DENSE) RETURN IF(R<=6,[Buyer Sales Cr])",
+    "formatString": "0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Top Buyer Cr"
+  },
+  {
+    "name": "Top Supplier Cr",
+    "expression": "VAR R=RANKX(ALLSELECTED('GST Parties'[Party]),[Supplier Purchases],,DESC,DENSE) RETURN IF(R<=6,[Supplier Purchases Cr])",
+    "formatString": "0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Top Supplier Cr"
+  },
+  {
+    "name": "Top Bank Receipts Cr",
+    "expression": "VAR R=RANKX(ALLSELECTED('Bank Transactions'[Party]),[Gross Inflows],,DESC,DENSE) RETURN IF(R<=6,[Bank Inflows Cr])",
+    "formatString": "0.00",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Top Bank Receipts Cr"
+  },
+  {
+    "name": "Source Penal Charges",
+    "expression": "IF(ISBLANK([Penal Charges]),\"Not reported\",\"₹ \" & FORMAT([Penal Charges],\"#,0.00\"))",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Source Penal Charges"
+  },
+  {
+    "name": "Return Summary",
+    "expression": "FORMAT([Cheque Return Count],\"0\") & \" inward returns · ₹\" & FORMAT([Cheque Return Amount]/100000,\"0.00\") & \" lakh\"",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Return Summary"
+  },
+  {
+    "name": "EMI Return Display",
+    "expression": "IF(ISBLANK([EMI Return Count]),\"Not reported\",FORMAT([EMI Return Count],\"0\"))",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "EMI Return Display"
+  },
+  {
+    "name": "Name Match Display",
+    "expression": "FORMAT([Name Match Coverage],\"0.0%\") & \" of receipts have an exact GST party name\"",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Name Match Display"
+  },
+  {
+    "name": "Finance Sales Growth",
+    "expression": "VAR Y=VALUE(LEFT([Review Financial Year],4))-1 VAR P=FORMAT(Y,\"0000\") & \"-\" & FORMAT(Y+1,\"0000\") VAR V=CALCULATE(SUM('Financials'[Sales]),REMOVEFILTERS('Financials'),'Financials'[Financial Year]=P) RETURN IF(NOT ISBLANK(V),DIVIDE([FY Sales]-V,V))",
+    "formatString": "0.0%;(0.0%);0.0%",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Finance Sales Growth"
+  },
+  {
+    "name": "Statement Current Cr",
+    "expression": "DIVIDE(SWITCH(SELECTEDVALUE('Statement Layout'[Metric]),\"FY Sales\",[FY Sales],\"FY Other Income\",[FY Other Income],\"FY Total Income\",[FY Total Income],\"FY Reported EBITDA\",[FY Reported EBITDA],\"FY Depreciation and Amortization\",[FY Depreciation and Amortization],\"FY Interest\",[FY Interest],\"FY Profit Before Tax\",[FY Profit Before Tax],\"FY Net Profit\",[FY Net Profit],\"Tangible Net Worth\",[Tangible Net Worth],\"Total Debt\",[Total Debt],\"FY Current Assets\",[FY Current Assets],\"FY Current Liabilities\",[FY Current Liabilities],\"FY Debtors\",[FY Debtors],\"FY Creditors\",[FY Creditors],\"FY Inventory\",[FY Inventory],\"Working Capital\",[Working Capital],\"FY Total Assets\",[FY Total Assets]),10000000)",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Statement Layout",
+    "displayFolder": "Credit Review",
+    "description": "Statement Current Cr"
+  },
+  {
+    "name": "Statement Prior Cr",
+    "expression": "VAR Y=VALUE(LEFT([Review Financial Year],4))-1 VAR P=FORMAT(Y,\"0000\") & \"-\" & FORMAT(Y+1,\"0000\") VAR Exists=COUNTROWS(FILTER(ALL('Review Year'),'Review Year'[Financial Year]=P)) RETURN IF(Exists>0,CALCULATE([Statement Current Cr],REMOVEFILTERS('Review Year'),TREATAS({P},'Review Year'[Financial Year])))",
+    "formatString": "0.00;(0.00);0.00",
+    "tableName": "Statement Layout",
+    "displayFolder": "Credit Review",
+    "description": "Statement Prior Cr"
+  },
+  {
+    "name": "Statement Change",
+    "expression": "VAR P=[Statement Prior Cr] RETURN IF(P>0,DIVIDE([Statement Current Cr]-P,P))",
+    "formatString": "0.0%;(0.0%);0.0%",
+    "tableName": "Statement Layout",
+    "displayFolder": "Credit Review",
+    "description": "YoY growth only for positive prior base; negative/zero/absent prior base shown blank to avoid misleading percentages."
+  },
+  {
+    "name": "Credit Interpretation",
+    "expression": "SWITCH(SELECTEDVALUE('Credit Notes'[Topic]),\"Strength\",\"Reported PAT ₹\" & FORMAT([FY Net Profit]/100000,\"0.00\") & \" lakh. \" & IF(ISBLANK([Finance Sales Growth]),\"No earlier comparable revenue supplied.\",\"Revenue changed \" & FORMAT([Finance Sales Growth],\"+0.0%;-0.0%\") & \" versus prior FY.\"),\"Weakness\",\"Assess PAT margin \" & FORMAT([Net Profit Margin],\"0.00%\") & \"; debt/equity \" & FORMAT([Debt Equity Ratio],\"0.00\") & \"x; core interest cover \" & FORMAT([Operating Interest Coverage],\"0.00\") & \"x.\",\"Opportunity\",\"Obtain receivable ageing, cash-flow and principal-repayment schedules to verify collection and debt-servicing capacity.\",\"Threat\",\"Historical 2024 provider litigation and GST-delay flags require current verification. No bureau score is supplied.\")",
+    "formatString": "General",
+    "tableName": "Credit Notes",
+    "displayFolder": "Credit Review",
+    "description": "Credit Interpretation"
+  },
+  {
+    "name": "Calculation Numeric",
+    "expression": "SWITCH(SELECTEDVALUE('Calculation Register'[No]),1,[EBIT],2,[EBITDA - PDF EBITA],3,[FY Net Profit],4,[EBIT],7,[Current Ratio],8,[Quick Ratio],9,[Debt Equity Ratio],10,[PDF Literal Adjusted Debt Equity],11,[Interest Coverage Ratio],12,[TOL TNW Ratio],13,[Net Profit Margin],14,[Debt EBITDA Ratio],16,[Reserves Equity Proxy],17,[Debtor Days],18,[Creditor Days],19,[Stock Days],20,[Working Capital Ratio])",
+    "formatString": "0.00",
+    "tableName": "Calculation Register",
+    "displayFolder": "Credit Review",
+    "description": "Calculation Numeric"
+  },
+  {
+    "name": "Calculation Result",
+    "expression": "VAR V=[Calculation Numeric] VAR U=SELECTEDVALUE('Calculation Register'[Unit]) VAR S=SELECTEDVALUE('Calculation Register'[Evidence Status]) RETURN IF(ISBLANK(V),IF(S=\"Banking tab\",\"See Banking\",IF(S=\"Finance tab\",\"See Finance\",\"Not available\")),SWITCH(U,\"Currency\",\"₹ \" & FORMAT(V/100000,\"#,0.00\") & \" lakh\",\"Percent\",FORMAT(V,\"0.00%\"),\"Days\",FORMAT(V,\"0.0\") & \" days\",FORMAT(V,\"0.00\") & \"x\"))",
+    "formatString": "General",
+    "tableName": "Calculation Register",
+    "displayFolder": "Credit Review",
+    "description": "Calculation Result"
+  },
+  {
+    "name": "Calculation Evidence",
+    "expression": "SELECTEDVALUE('Calculation Register'[Evidence Status])",
+    "formatString": "General",
+    "tableName": "Calculation Register",
+    "displayFolder": "Credit Review",
+    "description": "Calculation Evidence"
+  },
+  {
+    "name": "Calculation Color",
+    "expression": "SWITCH(SELECTEDVALUE('Calculation Register'[Evidence Status]),\"Missing evidence\",\"#B45309\",\"Definition caveat\",\"#A34D22\",\"Proxy only\",\"#A34D22\",\"#117D75\")",
+    "formatString": "General",
+    "tableName": "Calculation Register",
+    "displayFolder": "Credit Review",
+    "description": "Calculation Color"
+  },
+  {
+    "name": "Calculation Count",
+    "expression": "COUNTROWS('Calculation Register')",
+    "formatString": "0",
+    "tableName": "Calculation Register",
+    "displayFolder": "Credit Review",
+    "description": "Calculation Count"
+  },
+  {
+    "name": "Calculation Missing",
+    "expression": "CALCULATE(COUNTROWS('Calculation Register'),'Calculation Register'[Evidence Status]=\"Missing evidence\")",
+    "formatString": "0",
+    "tableName": "Calculation Register",
+    "displayFolder": "Credit Review",
+    "description": "Calculation Missing"
+  },
+  {
+    "name": "Tax and PAT Check",
+    "expression": "IF(ABS([PAT Check])<0.01,\"PAT reconciles to statements\",\"PAT arithmetic needs review\")",
+    "formatString": "General",
+    "tableName": "Financials",
+    "displayFolder": "Credit Review",
+    "description": "Tax and PAT Check"
+  }
+]

@@ -1,0 +1,74 @@
+
+--- PAGE 1 ---
+Statement of AccountSUDARSHAN PHARMA INDUSTRIES LIMITED
+C/O SUDARSHAN PHARMA INDUSTRIA P L
+301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER
+S V ROAD BORIVALI  WEST
+MUMBAI
+MAHARASHTRA
+INDIA
+400092
+919819267453
+sudarshanspeciality@gmail.com
+Statement Date : 01/08/2025 10:05
+Union Bank of India
+LOKHANDWALACOMPLEX
+Customer Id 263166590
+Account No 696701010050084
+Account Currency INR
+Account Type Current Account
+MICR Code 400026176
+IFSC Code UBIN0569674
+CKYC Number 70082478095339
+Date Tran Id-1Remarks UTR Number Instr. ID Withdrawals Deposits Balance
+05-07-2025
+17:46:56
+X6250444eTXN/By:6967050100
+00102
+- 5,00,000.00 7,05,738.56
+08-07-2025
+14:32:27
+Y77633263NACH/10/0635472875
+/UC MONTHLYD
+- 10.00 7,05,728.56
+10-07-2025
+12:47:07
+S97514559MAND DR- TCP2589- - 1,58,234.00 5,47,494.56
+15-07-2025
+11:17:07
+V94409006NACH/10/0794909993
+/HDFC BANK L
+- 55,814.00 4,91,680.56
+15-07-2025
+11:46:46
+V96698559MAND DR- TCP2589- - 66,394.00 4,25,286.56
+20-07-2025
+11:31:28
+Y95909945NACH/10/1036728283
+/HDFC BANK L
+- 1,49,584.00 2,75,702.56
+22-07-2025
+16:29:49
+T28636119ePAY/To:e-DIRECT
+TAX
+COLLE/531922089/20
+20-21 IT
+- 39,520.00 2,36,182.56
+31-07-2025
+11:19:39
+Y33309945eTXN/By:6967050100
+00102
+- 3,00,000.00 5,36,182.56
+Records from 1 to 8. No more records available.
+City
+State
+Country
+Zip
+Mobile No
+E-mail
+Branch
+Statement Period From -01/07/2025  To 31/07/2025
+Page No1
+For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

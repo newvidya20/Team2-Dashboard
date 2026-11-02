@@ -1,0 +1,26 @@
+/// Consolidated banking control panel. Amounts in crore unless expressly labelled INR. No inferred sanction limit.
+table 'Bank Controls'
+	lineageTag: b8c65024-0d08-4fbc-9e7d-392a598687ff
+
+	measure 'Bank Control Result' = VAR N=SELECTEDVALUE('Bank Controls'[Order]) VAR V=SWITCH(N,1,[Gross Outflows],2,[Loan Disbursements],3,[Cash Deposits],4,[EMI Payments],5,[Internal Debit],6,[Internal Credit]) RETURN SWITCH(TRUE(),N=7,[Source Penal Charges],N=8,[EMI Return Display],N=9,"Not available",ISBLANK(V),"Not reported","₹ " & FORMAT(V/10000000,"0.00") & " Cr")
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: 082fef43-fd16-46e6-9f2d-2569251984ca
+
+	column Order
+		dataType: int64
+		lineageTag: df7fbded-da55-4970-9e29-40cee7199718
+		summarizeBy: none
+		sourceColumn: Order
+
+	column Control
+		dataType: string
+		lineageTag: d9247a78-ff9d-4147-9fac-ebf5f765f304
+		summarizeBy: none
+		sourceColumn: Control
+		sortByColumn: Order
+
+	partition 'Bank Controls' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/22OywrCMBREf2XIOuDb6lKKaEFFdFm7SO1VAzWRexPEv5daixu3M2ceeT7QUCv2IvAxXGr/FFVo5EMNtfHGobJSRha6kwutNdJQqZEbKnp4sV91rKGW2wwP8/qhEw2VuUDsTI3AxsmFGBWVXWr6FzgzVR2RaKg9Nfb5ZvhKglPs98sE2e7wAWbf4R6W6RE97BbpGkwhsmsb5s3fFDHY2ooJ1jtVFG+npHtU+QAAAA==",BinaryEncoding.Base64),Compression.GZip)),T=Table.FromRows(R,{"Order","Control"}),X=Table.TransformColumnTypes(T,{{"Order",Int64.Type},{"Control",type text}}) in X
+

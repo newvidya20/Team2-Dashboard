@@ -1,0 +1,199 @@
+
+--- PAGE 1 ---
+                                                                    Account Statement
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301 3rd Flr Aura Biplex                                                                             Cust. Reln. No.               301079096
+Above Kalyan Jewellers                                                                              Account No.                   0148095487
+Sv Rd Borivali W MUMBAI CITY                                                                        Period                        From 01/02/2026 To 28/02/2026
+Mumbai                                                                                              Currency                      INR
+MAHARASHTRA                                                                                         Branch                        MUMBAI - BKC 27
+INDIA                                                                                               Nomination Regd               N
+400092                                                                                              Nominee Name
+
+
+
+
+
+
+ Sl. No.              Date                        Description                Chq / Ref number                   Amount              Dr / Cr             Balance             Dr / Cr
+1        28/02/2026                      MMCCHG_SUDHPHAR_FEB                                                    118.00                DR            -219,798,051.88          DR
+                                         2026
+2        27/02/2026                      IFT-BENZO CHEM                    FCM-260227LH7DK7                   111,820.00              CR            -219,797,933.88          DR
+                                         INDUSTRIES PRI-FCM-
+                                         260227LH7DK7
+3        26/02/2026                      BARBD26057847589 PARA            NEFTINW-1504366981                  59,366.00               CR            -219,909,753.88          DR
+                                         FINE  CHEM INDUSTRIES
+                                         PRIVAT
+4        26/02/2026                      IB: FUND TRANSFER TO                        IB                       718,304.00              DR            -219,969,119.88          DR
+                                         0150421717
+5        25/02/2026                      FD PREMAT PROCEEDS:                  0150330804TO                    579,890.00              CR            -219,250,815.88          DR
+                                         0150330804
+6        24/02/2026                      BKIDY26055715876                 NEFTINW-1502156396                  138,414.00              CR            -219,830,705.88          DR
+                                         AZEOCRYST ORGANICS
+                                         PVT LTD SUDARS
+7        16/02/2026                      RTGS-SUDARSHAN                    FCM-260216LBF1RK                   685,750.00              DR            -219,969,119.88          DR
+                                         PHARMA IND-
+                                         KKBKR22026021621225110
+
+8        15/02/2026                      Loan Recovery For -                                                  895,833.32              DR            -219,283,369.88          DR
+                                         1368TL0100000144
+9        15/02/2026                      Loan Recovery For -                                                  358,357.00              DR            -218,387,536.56          DR
+                                         1368TL0100000144
+10       14/02/2026                      UBINR22026021401050267           RTGSINW-0101292475                  500,000.00              CR            -218,029,179.56          DR
+                                         SUDARSHAN PHARMA
+                                         INDUSTRI
+11       14/02/2026                      CMSM                                                                   118.00                DR            -218,529,179.56          DR
+                                         MMCCHG_SUDHPHAR_NO
+                                         V2025 (Value
+                                         Date:12/02/2026)
+12       13/02/2026                      HDFCH00805042986 TATA            NEFTINW-1491747952                  791,991.68              CR            -218,529,061.56          DR
+                                         CAPITAL LIMITED 701
+                                         SUDARSHA
+13       13/02/2026                      NEFT-VRINDA CHEMICALS             FCM-260213L9ZV62                   46,374.00               DR            -219,321,053.24          DR
+                                         IND-CMS0442678099123
+14       13/02/2026                      NEFT-SHREE RAVECHI                FCM-260213L9ZV61                   20,650.00               DR            -219,274,679.24          DR
+                                         TRANSL-
+                                         CMS0442678099122
+15       12/02/2026                      NEFT-ALLCARGO                     FCM-260212L96ZA0                   14,152.00               DR            -219,254,029.24          DR
+                                         TERMINALS L-
+
+--- PAGE 2 ---
+ Sl. No.              Date                       Description                Chq / Ref number                  Amount              Dr / Cr            Balance             Dr / Cr
+                                        CMS0432677612841
+
+16       12/02/2026                     RTGS-SULAKI CHEMICALS             FCM-260212L97JQ2                  496,605.00              DR           -219,239,877.24           DR
+                                        PRI-
+                                        KKBKR22026021221167783
+
+17       12/02/2026                     RTGS-ANUJ                         FCM-260212L97JQ3                  442,630.00              DR           -218,743,272.24           DR
+                                        CORPORATION-
+                                        KKBKR22026021221167784
+
+18       12/02/2026                     RTGS-EBIDA TRADING CO -           FCM-260212L97JQ1                  231,683.00              DR           -218,300,642.24           DR
+                                        KKBKR22026021221167782
+
+
+19       12/02/2026                     ICICR42026021200543256           RTGSINW-0101182982                1,400,000.00             CR           -218,068,959.24           DR
+                                        SUDARSHAN PHARMA
+                                        INDUSTRI
+20       11/02/2026                     NEFT-ADVANCED                     FCM-260211L8L18H                  139,966.00              DR           -219,468,959.24           DR
+                                        CHROMATOGRA-
+                                        CMS0422677458089
+21       11/02/2026                     NEFT-RANG BIRANG COM-             FCM-260211L8L18F                  124,650.00              DR           -219,328,993.24           DR
+                                        CMS0422677458087
+22       11/02/2026                     NEFT-QCL CERTIFICATION            FCM-260211L8L18G                   16,520.00              DR           -219,204,343.24           DR
+                                        PR-CMS0422677458088
+23       11/02/2026                     NEFT-SANNIDHHI                    FCM-260211L8L18E                   7,965.00               DR           -219,187,823.24           DR
+                                        CHEMICAL I-
+                                        CMS0422677458086
+24       11/02/2026                     RTGS-VASTANI                      FCM-260211L8L7D2                  293,377.00              DR           -219,179,858.24           DR
+                                        CHEMICALS LT-
+                                        KKBKR22026021121156303
+
+25       11/02/2026                     RTGS-PASHUPATI ROAD               FCM-260211L8L7CY                  250,047.00              DR           -218,886,481.24           DR
+                                        CARRI-
+                                        KKBKR22026021121156299
+
+26       11/02/2026                     RTGS-PSYCO REMEDIES               FCM-260211L8L7D0                  213,203.00              DR           -218,636,434.24           DR
+                                        LIMIT-
+                                        KKBKR22026021121156301
+
+27       11/02/2026                     RTGS-AKSHAY TRADING               FCM-260211L8L7D1                  264,320.00              DR           -218,423,231.24           DR
+                                        CO-
+                                        KKBKR22026021121156302
+
+28       11/02/2026                     RTGS-EBULLIENT                    FCM-260211L8L7CZ                  254,880.00              DR           -218,158,911.24           DR
+                                        PACKAGING -
+                                        KKBKR22026021121156300
+
+29       11/02/2026                     UBINR22026021101813242           RTGSINW-0101128228                2,000,000.00             CR           -217,904,031.24           DR
+                                        SUDARSHAN PHARMA
+                                        INDUSTRI
+30       11/02/2026                     CMSM_NUCCHG_SPHARM                                                    590.00                DR           -219,904,031.24           DR
+                                        A01_JAN26 (Value
+                                        Date:10/02/2026)
+31       10/02/2026                     REV OF EXCESS CREDIT                                                 2,780.06               CR           -219,903,441.24           DR
+                                        OF AMOUNT TOWARDS LC
+                                        BILL
+32       09/02/2026                     RTGS-SUDARSHAN                    FCM-260209L6OH84                  700,000.00              DR           -219,906,221.30           DR
+                                        PHARMA IND-
+                                        KKBKR22026020921105699
+
+33       07/02/2026                     HDFCH00789947006                 NEFTINW-1484890905                  69,856.00              CR           -219,206,221.30           DR
+                                        CHEMLINE INDIA LIMITED
+                                        SUDARSHAN
+34       07/02/2026                     GST_0151_DOCUMENTATI                   301079096                      900.00                DR           -219,276,077.30           DR
+                                        ON
+                                        CHARGES_301079096_SUD
+
+--- PAGE 3 ---
+ Sl. No.               Date                        Description                 Chq / Ref number                    Amount               Dr / Cr             Balance              Dr / Cr
+                                          ARSHAN
+
+35       07/02/2026                       0151_DOCUMENTATION                      301079096                       5,000.00                DR            -219,275,177.30            DR
+                                          CHARGES_301079096_SUD
+                                          ARSHAN PHA
+36       06/02/2026                       RTGS-SUDARSHAN                     FCM-260206L4V2OI                   1,000,000.00              DR            -219,270,177.30            DR
+                                          PHARMA IND-
+                                          KKBKR22026020621083285
+
+37       06/02/2026                       COSBR52026020600628302            RTGSINW-0100833542                   271,341.00               CR            -218,270,177.30            DR
+                                          GARGI INDUSTRIES
+                                          SUDARSHA
+38       05/02/2026                       FD PREMAT PROCEEDS:                   0150423100PO                    1,191,674.08              CR            -218,541,518.30            DR
+                                          0150423100
+39       02/02/2026                       NEFT-MIRA INFORM                   FCM-260202L1S26N                     7,670.00                DR            -219,733,192.38            DR
+                                          PRIVATE -
+                                          CMS0332674553454
+40       02/02/2026                       NEFT-GV JAIN AND CO-               FCM-260202L1S26O                     4,820.00                DR            -219,725,522.38            DR
+                                          CMS0332674553455
+41       02/02/2026                       FD PREMAT PROCEEDS:                   0150423117PO                      9,927.48                CR            -219,720,702.38            DR
+                                          0150423117
+42       02/02/2026                       ILD251057361C001 POC002            TIP-d56245ba-c3ad-4f              12,020,235.28              DR            -219,730,629.86            DR
+                                          SHREE SAI ENTERPRISE
+
+43       02/02/2026                       UBINR22026020201979440            RTGSINW-0100576429                  3,000,000.00              CR            -207,710,394.58            DR
+                                          SUDARSHAN PHARMA
+                                          INDUSTRI
+44       02/02/2026                       FD PREMAT PROCEEDS:                   0150406370TO                     630,248.88               CR            -210,710,394.58            DR
+                                          0150406370
+45       02/02/2026                       FD PREMAT PROCEEDS:                   0150400545TO                     777,250.71               CR            -211,340,643.46            DR
+                                          0150400545
+46       02/02/2026                       BKIDR52026020200304668            RTGSINW-0100568370                  3,000,000.00              CR            -212,117,894.17            DR
+                                          SACHIN CHEMICALS
+                                          SUDARSHA
+47       02/02/2026                       Penal Chrg                                                            1,322,392.01              DR            -215,117,894.17            DR
+                                          0148095487:020126 to
+48       01/02/2026                       Int.Coll:0148095487:02-01-                                            1,479,765.00              DR            -213,795,502.16            DR
+                                          2026 to 01-02-2026
+
+
+
+
+
+
+
+Opening balance                           as on 01/02/2026   INR -212,315,737.16
+Closing balance                           as on 28/02/2026   INR -219,798,051.88
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 You may call our 24-hour Customer Contact Centre at our number 1860 266 2666
+                                   Write to us at Customer Contact Centre. Kotak Mahindra Bank Ltd. Post Box Number 16344, Mumbai 400 013

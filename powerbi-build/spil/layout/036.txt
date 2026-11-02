@@ -1,0 +1,260 @@
+
+--- PAGE 1 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/11/2025 to 30/11/2025 for Account Number 8026481131.
+
+
+                                                                                                                                            INDIAN BANK
+                                                                                                                                       Branch Code :03281
+                                                                                                                           Account Number : 8026481131
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301  3rd Floor  Senate Aura Biplex
+Above Kalyan Jewellers
+S.V. Road  Borivali West
+Mumbai 400092
+
+                Value    Post      Credit Amount           Debit Amount          Closing Balance                   Description
+                 Date    Date
+                05/11/  05/11/   3000000                                       -292046679.83           NO BOOK DEPOSIT TRANSFER
+                 2025   2025
+
+                                                                                                       RTGS/BKID/BKIDR52025110500591
+                                                                                                       121/SACHIN C/
+                07/11/  07/11/                          1000058.41             -293046738.24           WITHDRAWAL TRANSFER
+                 2025   2025
+
+                                                                                                       RTGS/UBIN/IDIBR52025110748515
+                                                                                                       356/SUDARSHA/.
+                                                                                                        Txn Amt.      1000000.00 Charges.
+                                                                                                       58.41
+                08/11/  08/11/   1500000                                       -291546738.24           NO BOOK DEPOSIT TRANSFER
+                 2025   2025
+
+                                                                                                       RTGS/UBIN/UBINR2202511080133
+                                                                                                       1270/SUDARSHA/
+                10/11/  10/11/                          8000058                -299546796.24           CAS REMITTANCE THROUGH
+                 2025   2025                                                                           CHEQUE
+
+
+                                                                                                       RTGS/ICIC/IDIBR520251110485333
+                                                                                                       55/SUDARSHA/FOR LC P
+                                                                                                        Txn Amt.      8000000.00 Charges.
+                                                                                                       58.00
+                10/11/  10/11/   8000000                                       -291546796.24           NO BOOK DEPOSIT TRANSFER
+                 2025   2025
+
+                                                                                                       OWRN/IDIBR52025111048533355/2
+                                                                                                       0251110
+                10/11/  10/11/                          8000058                -299546854.24           CAS REMITTANCE THROUGH
+                 2025   2025                                                                           CHEQUE
+
+
+                                                                                                       RTGS/ICIC/IDIBR520251110485379
+                                                                                                       98/SUDARSHA/LC Payme
+                                                                                                        Txn Amt.      8000000.00 Charges.
+                                                                                                       58.00
+                                                                                                        OWC CHQ RTN 048571 400211012
+                                                                                                       0010
+                15/11/  15/11/                          236                    -299547090.24           CHQ DISHONOUR
+                 2025   2025
+                15/11/  15/11/   89208                                         -299457882.24           CHEQUE DEPOSIT
+                 2025   2025                                                                            CLEARING-14/11/2025 BANK OF
+
+                                                                                                       BARODA (BOB)
+                                                                                                        CHQ DEP 004309 560012028 0010
+                17/11/  17/11/   15488                                         -299442394.24           NO BOOK DEPOSIT TRANSFER
+                 2025   2025                                                                            /IMPS/P2A/532113368477/
+
+                                                                                                       /Sudarshan ph/EEUREKA I
+
+
+
+
+
+
+                                                                           Page No:1
+
+--- PAGE 2 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/11/2025 to 30/11/2025 for Account Number 8026481131.
+
+
+                Value    Post      Credit Amount           Debit Amount          Closing Balance                   Description
+                 Date    Date
+                18/11/  18/11/   69768                                         -299372626.24          NO BOOK DEPOSIT TRANSFER
+                 2025   2025
+
+                                                                                                      NEFT/DBSS/DBSSN5202511183444
+                                                                                                      0950/VIPUL LIFE/
+                18/11/  18/11/   29683                                         -299342943.24          CHEQUE DEPOSIT
+                 2025   2025                                                                           CLEARING-18/11/2025 BANK OF
+
+                                                                                                      BARODA (BOB)
+                                                                                                       CHQ DEP 004322 560012028 0691
+                                                                                                       OWC CHQ RTN 831863 380002068
+                                                                                                      0691
+                                                                                                       OWC CHQ RTN 091937 143015002
+                                                                                                      0691
+                21/11/  21/11/   564505.2                                      -298778438.04          CHEQUE DEPOSIT
+                 2025   2025                                                                           CLEARING-21/11/2025 002
+
+                                                                                                       CHQ DEP 831863 380002068 0691
+                24/11/  24/11/   6042423                                       -292736015.04          NO BOOK DEPOSIT TRANSFER
+                 2025   2025
+
+                                                                                                      RTGS/SRCB/SRCBR920251124051
+                                                                                                      93072/RESEARCH/
+                25/11/  25/11/   2086034                                       -290649981.04          CHEQUE DEPOSIT
+                 2025   2025                                                                           CLEARING-24/11/2025 ICICI
+
+                                                                                                      BANKING CORPORATION
+                                                                                                       CHQ DEP 000292 600229140 1938
+                25/11/  25/11/   1                                             -290649980.04          NO BOOK DEPOSIT TRANSFER
+                 2025   2025                                                                           /IMPS/P2A/532984748290/
+
+                                                                                                      /IMPS/TATAAIGGENER
+                                                                                                       OWC CHQ RTN 002018 390012027
+                                                                                                      0691
+                25/11/  25/11/                          236                    -290650216.04          CHQ DISHONOUR
+                 2025   2025
+                25/11/  25/11/   97350                                         -290552866.04          CHEQUE DEPOSIT
+                 2025   2025                                                                           CLEARING-25/11/2025 UNION
+
+                                                                                                      BANK OF INDIA (UBI)
+                                                                                                       CHQ DEP 549811 400026007 0691
+                26/11/  26/11/                          5000058                -295552924.04          CAS REMITTANCE THROUGH
+                 2025   2025                                                                          CHEQUE
+
+
+                                                                                                      RTGS/PUNB/IDIBR52025112648856
+                                                                                                      244/WELCOME /Vendor P
+                                                                                                       Txn Amt.      5000000.00 Charges.
+                                                                                                      58.00
+                26/11/  26/11/                          1000058.41             -296552982.45          WITHDRAWAL TRANSFER
+                 2025   2025
+
+                                                                                                      RTGS/ICIC/IDIBR520251126488704
+                                                                                                      51/SUDARSHA/.
+                                                                                                       Txn Amt.      1000000.00 Charges.
+                                                                                                      58.41
+                27/11/  27/11/   392017.5                                      -296160964.95          CHEQUE DEPOSIT
+                 2025   2025                                                                           CLEARING-26/11/2025 002
+
+                                                                                                       CHQ DEP 831865 380002068 0691
+                                                                                                       OWC CHQ RTN 003380 390012027
+                                                                                                      0691
+
+
+
+
+
+
+                                                                           Page No:2
+
+--- PAGE 3 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/11/2025 to 30/11/2025 for Account Number 8026481131.
+
+
+                  Value    Post       Credit Amount             Debit Amount           Closing Balance                      Description
+                  Date     Date
+                  28/11/  28/11/                            236                       -296161200.95            CHQ DISHONOUR
+                  2025    2025
+                  28/11/  28/11/                            1000058.41                -297161259.36            WITHDRAWAL TRANSFER
+                  2025    2025
+
+                                                                                                               RTGS/ICIC/IDIBR520251128489130
+                                                                                                               03/SUDARSHA/.
+                                                                                                                Txn Amt.      1000000.00 Charges.
+                                                                                                               58.41
+                  29/11/  29/11/   2013986                                            -295147273.36            CHEQUE DEPOSIT
+                  2025    2025                                                                                  CLEARING-28/11/2025 STANDARD
+
+                                                                                                               CHARTERED BANK
+                                                                                                                CHQ DEP 000117 600036007 0691
+                  30/11/  30/11/                            2790141                   -297937414.36            DR INT TRANSACTION
+                  2025    2025
+
+Statement Downloaded by :SUDARSHAN PHARMA INDUSTRIES LIMITED on Mon Dec 01 14:49:47  IST 2025
+
+Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found the a/c
+correct.
+
+END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 Page No:3

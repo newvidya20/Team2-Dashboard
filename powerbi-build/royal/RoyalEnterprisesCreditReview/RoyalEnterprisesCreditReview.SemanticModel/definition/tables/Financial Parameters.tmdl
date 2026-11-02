@@ -1,0 +1,51 @@
+/// All 25 financial checklist parameters for each of the three statement years. Missing values are explicit, not zero.
+table 'Financial Parameters'
+	lineageTag: 19d934fd-a22c-4a7b-9fa7-ebdb4f1fe47a
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: fec44705-3b7d-416f-9947-485ac3adde77
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	column No
+		dataType: int64
+		formatString: #,0
+		lineageTag: 4d46d1cd-8a63-4aef-b2f7-9d97c142c124
+		summarizeBy: none
+		sourceColumn: No
+
+	column Parameter
+		dataType: string
+		lineageTag: a4e96029-83bb-4b4b-bebe-c4f274aa5fdf
+		summarizeBy: none
+		sourceColumn: Parameter
+
+	column Formula
+		dataType: string
+		lineageTag: 7ca083d8-e496-48c9-9c76-06b3befe8326
+		summarizeBy: none
+		sourceColumn: Formula
+
+	column Result
+		dataType: string
+		lineageTag: 47ff9f29-f966-4b96-909d-9f399292d18a
+		summarizeBy: none
+		sourceColumn: Result
+
+	column Evidence
+		dataType: string
+		lineageTag: 81ae4d5a-3ae6-42fd-b729-d9d74dc5bb84
+		summarizeBy: none
+		sourceColumn: Evidence
+
+	column Interpretation
+		dataType: string
+		lineageTag: 214c97ae-bb33-4acc-9c9e-a943301277cb
+		summarizeBy: none
+		sourceColumn: Interpretation
+
+	partition 'Financial Parameters' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("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",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Financial Year","No","Parameter","Formula","Result","Evidence","Interpretation"}), X=Table.TransformColumnTypes(T,{{"Financial Year", type text},{"No", Int64.Type},{"Parameter", type text},{"Formula", type text},{"Result", type text},{"Evidence", type text},{"Interpretation", type text}}) in X
+

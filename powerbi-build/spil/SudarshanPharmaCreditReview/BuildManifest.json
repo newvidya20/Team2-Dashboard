@@ -1,0 +1,65 @@
+{
+  "company": "Sudarshan Pharma Industries Limited",
+  "pages": [
+    "1. GST Review",
+    "2. Banking Review",
+    "3. Banking & GST Reconciliation",
+    "4. Financial & Credit Analysis"
+  ],
+  "visuals": 148,
+  "financialYears": [
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "basis": "Standalone, FY2025 restated Ind AS; FY2024 prior GAAP",
+  "snapshot": true,
+  "dataChecks": {
+    "bank": {
+      "raw_rows": 25558,
+      "deduplicated_rows": 25180,
+      "overlap_rows_removed": 378,
+      "accounts": [
+        "Axis • 1058",
+        "BOI • 0001",
+        "ICICI • 0192",
+        "Indian • 1131",
+        "Kotak • 5487",
+        "Union • 0084",
+        "Union • 0102"
+      ],
+      "date_range": [
+        "2025-04-01",
+        "2026-08-24"
+      ],
+      "confirmed_internal_credit": 1717510968.13,
+      "narration_internal_credit": 3515997316.03
+    },
+    "bank_balance_errors": 0,
+    "gst_returns": 74,
+    "gst_states": [
+      "Gujarat",
+      "Haryana",
+      "Maharashtra",
+      "Telangana",
+      "Uttarakhand"
+    ],
+    "common_months": 16,
+    "financial_years": [
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "financial_parameters": 75,
+    "loan_rows": 32,
+    "emi_row_sum": 5131667.0,
+    "emi_printed_total": 323308,
+    "loan_limit_row_sum": 2340771621.0,
+    "loan_outstanding_row_sum": 1823651197.0,
+    "balance_sheet_residuals": {
+      "2023-24": 0.0,
+      "2024-25": 1000.0,
+      "2025-26": 0.0
+    }
+  }
+}

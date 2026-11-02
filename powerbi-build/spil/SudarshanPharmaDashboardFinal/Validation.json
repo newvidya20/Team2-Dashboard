@@ -1,0 +1,11 @@
+{
+  "pages": 28,
+  "nativeSchemaFiles": 492,
+  "financialParameters": 75,
+  "allThreeYears": true,
+  "tableRowBounds": "passed",
+  "nativeChartsRetained": 6,
+  "nativeCardsRetained": 16,
+  "transactionPolicy": "Original interactive lists retained; PDF shows 15-row previews across continuation pages.",
+  "pdfRenderer": "Source snapshot rendered from the same native layout; Power BI export may differ slightly in font rendering."
+}

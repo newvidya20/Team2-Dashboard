@@ -1,0 +1,36 @@
+
+--- PAGE 1 ---
+INCOME TAX DEPARTMENT
+Challan Receipt
+ITNS No. : 280
+PAN : AAMCS2601L
+Name : SUDARSHAN PHARMA INDUSTRIES LIMITED
+Assessment Year : 2025-26
+Financial Year : 2024-25
+Major Head : Corporation Tax (0020)
+Minor Head : Self-Assessment Tax (300)
+Amount (in Rs.) : ₹ 5,12,67,807
+Amount (in words) : Rupees Five Crore Twelve Lakh Sixty Seven Thousand Eight Hundred And Seven Only
+CIN : 26033100407135ICIC
+Mode of Payment : Net Banking
+Bank Name : ICICI Bank
+Bank Reference Number : 2062205278
+Date of Deposit : 31-Mar-2026
+BSR code : 6390009
+Challan No : 40261
+Tender Date : 31/03/2026
+Tax Breakup Details (Amount In ₹)
+A Tax ₹ 5,12,67,807
+B Surcharge ₹ 0
+C Cess ₹ 0
+D Interest ₹ 0
+E Penalty ₹ 0
+F Others ₹ 0
+Total (A+B+C+D+E+F) ₹ 5,12,67,807
+Total (In Words) Rupees Five Crore Twelve Lakh Sixty Seven Thousand Eight Hundred 
+And Seven Only
+Thanks for being a committed taxpayer!
+Please print this challan receipt only if absolutely required. Save Paper, Save Environment.
+Congrats! Here’s what you have just achieved by choosing to pay online: 
+Time Paper e-Receipt
+Quick and Seamless Save Environment Easy Access

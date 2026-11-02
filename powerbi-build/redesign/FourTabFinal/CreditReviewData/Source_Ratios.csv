@@ -1,0 +1,71 @@
+﻿Financial Year,Metric,Value,Source Row
+2022-2023,Revenue Growth (%),31447.26,9
+2023-2024,Revenue Growth (%),448.49,9
+2021-2022,EBITDA Margins (%),11.15,10
+2022-2023,EBITDA Margins (%),0.0,10
+2023-2024,EBITDA Margins (%),2.84,10
+2021-2022,EBT Margins (%),10.69,11
+2022-2023,EBT Margins (%),1.56,11
+2023-2024,EBT Margins (%),1.19,11
+2021-2022,PAT Margins (%),10.69,12
+2022-2023,PAT Margins (%),1.15,12
+2023-2024,PAT Margins (%),0.86,12
+2021-2022,Return on Equity (%),2.88,13
+2022-2023,Return on Equity (%),49.51,13
+2023-2024,Return on Equity (%),66.95,13
+2022-2023,Return on Fixed Assets (%),240.45,14
+2023-2024,Return on Fixed Assets (%),427.04,14
+2021-2022,Return on Capital Employed (%),3.0,15
+2022-2023,Return on Capital Employed (%),0.0,15
+2023-2024,Return on Capital Employed (%),21.98,15
+2021-2022,Current Ratio,26.79,17
+2022-2023,Current Ratio,1.73,17
+2023-2024,Current Ratio,1.23,17
+2021-2022,Quick Ratio,26.79,18
+2022-2023,Quick Ratio,1.73,18
+2023-2024,Quick Ratio,1.21,18
+2021-2022,Interest Coverage Ratio,24.58,20
+2022-2023,Interest Coverage Ratio,0.0,20
+2023-2024,Interest Coverage Ratio,1.18,20
+2021-2022,Long-term Debt/Equity,0.0,21
+2022-2023,Long-term Debt/Equity,0.0,21
+2023-2024,Long-term Debt/Equity,0.0,21
+2021-2022,Total Assets/Equity,1.04,22
+2022-2023,Total Assets/Equity,59.22,22
+2023-2024,Total Assets/Equity,46.94,22
+2021-2022,Total Debt/Equity,0.0,23
+2022-2023,Total Debt/Equity,0.0,23
+2023-2024,Total Debt/Equity,13.05,23
+2021-2022,Total Debt/Total Assets,0.0,24
+2022-2023,Total Debt/Total Assets,0.0,24
+2023-2024,Total Debt/Total Assets,0.28,24
+2023-2024,Total Debt/EBITDA,5.9,25
+2022-2023,Fixed Assets Turnover,208.35,27
+2023-2024,Fixed Assets Turnover,496.06,27
+2021-2022,Total Asset Turnover,0.26,28
+2022-2023,Total Asset Turnover,0.76,28
+2023-2024,Total Asset Turnover,1.67,28
+2021-2022,Working Capital Turnover,0.0,29
+2022-2023,Working Capital Turnover,2.0,29
+2023-2024,Working Capital Turnover,4.0,29
+2021-2022,Inventory Days,0.0,30
+2022-2023,Inventory Days,0.0,30
+2023-2024,Inventory Days,6.0,30
+2021-2022,Receivables Days*,0.0,31
+2022-2023,Receivables Days*,268.0,31
+2023-2024,Receivables Days*,130.0,31
+2021-2022,Payable Days*,0.0,32
+2022-2023,Payable Days*,117.0,32
+2023-2024,Payable Days*,92.0,32
+2021-2022,Cash Conversion Cycle*,0.0,33
+2022-2023,Cash Conversion Cycle*,151.0,33
+2023-2024,Cash Conversion Cycle*,44.0,33
+2021-2022,Raw Material Consumption (% of Sales),49.82,35
+2022-2023,Raw Material Consumption (% of Sales),77.62,35
+2023-2024,Raw Material Consumption (% of Sales),80.85,35
+2021-2022,Total Employee Cost (% of Sales),0.0,36
+2022-2023,Total Employee Cost (% of Sales),11.03,36
+2023-2024,Total Employee Cost (% of Sales),2.14,36
+2021-2022,Finance Cost (% of Sales),0.45,37
+2022-2023,Finance Cost (% of Sales),0.07,37
+2023-2024,Finance Cost (% of Sales),2.34,37

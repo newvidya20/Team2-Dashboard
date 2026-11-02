@@ -1,0 +1,161 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                               Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                      Branch                LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                           Customer Id           263166590
+    City                    MUMBAI                                                                                    Account No            696701010050084
+    State                   MAHARASHTRA                                                                               Account Currency      INR
+    Country                 INDIA                                                                                     Account Type          Current Account
+    Zip                     400092                                                                                    MICR Code             400026176
+    Mobile No               919819267453                                                                              IFSC Code             UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                             CKYC Number           70082478095339
+    Statement Date : 03/11/2025 11:50                                                                    Statement Period From -01/10/2025  To 31/10/2025
+    Records from 1 to 21.               No more records available.
+
+  Date              Remarks              Tran Id-1      UTR Number               Instr. ID         Withdrawals             Deposits               Balance
+31-10-2025    MMSD-Charges for           T24946973      -                                                     177.00                                 3,53,692.30
+12:25:23      NACH Mandate
+              Processing
+29-10-2025    eTXN/By:6967050100         S28148525      -                                                                      3,00,000.00           3,53,869.30
+18:51:54      00102/102 to 084
+
+27-10-2025    eTXN/To:6967050100         Y15915546      -                                                3,00,000.00                                   53,869.30
+19:44:08      00102
+
+20-10-2025    NACH/10/3306471691         T72223586      -                                                1,49,584.00                                 3,53,869.30
+11:22:37      /HDFC BANK L
+
+15-10-2025    MAND DR- TCP2589-          X33123303      -                                                  64,638.00                                 5,03,453.30
+12:16:13
+
+15-10-2025    NACH/10/3284047662         X29681571      -                                                  55,814.00                                 5,68,091.30
+11:28:21      /HDFC BANK L
+
+10-10-2025    RTGSO-SUDARSHAN            U7884109       -                                               50,00,000.00                                 6,23,905.30
+12:19:08      PHARMA INDU
+              UBINR220251010011
+              70653
+10-10-2025    Charges for PORD           U7884109       -                                                      58.41                               56,23,905.30
+12:19:08      Customer
+              Payment:UBINH25283
+              170653
+10-10-2025    MAND DR- TCP2589-          U6224992       -                                                1,54,633.00                               56,23,963.71
+11:54:10
+
+10-10-2025    RTGS:TATA CAPITAL          U905123        -                                                                     50,00,000.00         57,78,596.71
+10:32:43      LIMITED
+              ICICR4202510100050
+              7683
+09-10-2025    RTGSO-TATA                 T64005570      -                                               50,00,000.00                                 7,78,596.71
+18:31:58      CAPITAL FINANCIA
+              UBINR220251009011
+              41466
+09-10-2025    Charges for PORD           T64005570      -                                                      58.41                               57,78,596.71
+18:31:57      Customer
+              Payment:UBINH25282
+              141466
+09-10-2025    RTGS:TATA CAPITAL          T62632080      -                                                                     50,00,000.00         57,78,655.12
+18:17:33      LIMITED
+              ICICR4202510090056
+              2775
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+09-10-2025     RTGSO-TATA                 T38808517       -                                               50,00,000.00                                   7,78,655.12
+12:27:28       CAPITAL FINANCIA
+               UBINR220251009010
+               71779
+09-10-2025     Charges for PORD           T38808517       -                                                        58.41                               57,78,655.12
+12:27:28       Customer
+               Payment:UBINH25282
+               071779
+08-10-2025     RTGS:TATA CAPITAL          S97183201       -                                                                      50,00,000.00          57,78,713.53
+18:57:17       LIMITED
+               ICICR4202510080057
+               4048
+08-10-2025     RTGS:RATNAAFIN             S95029971       -                                                                        3,63,650.00           7,78,713.53
+18:49:32       CAPITAL PRIV
+               SBINR120251008015
+               51043
+08-10-2025     RTGSO-TATA                 S90744204       -                                               50,00,000.00                                   4,15,063.53
+17:50:10       CAPITAL FINANCIA
+               UBINR220251008010
+               36509
+08-10-2025     Charges for PORD           S90744204       -                                                        58.41                               54,15,063.53
+17:50:09       Customer
+               Payment:UBINH25281
+               036509
+08-10-2025     RTGS:TATA CAPITAL          S84134769       -                                                                      50,00,000.00          54,15,121.94
+16:30:19       LIMITED
+               ICICR4202510080055
+               3302
+07-10-2025     NACH/10/3242277958         S4162804        -                                                        10.00                                 4,15,121.94
+13:08:17       /UC MONTHLYD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Page No2
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                  TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

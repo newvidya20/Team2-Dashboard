@@ -1,0 +1,736 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "6c56852fc6c6445aa73b",
+  "position": {
+    "x": 32,
+    "y": 238,
+    "width": 1376,
+    "height": 880,
+    "z": 9,
+    "tabOrder": 9
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Filing and return evidence | INR'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#243B50'"
+                    }
+                  }
+                }
+              }
+            },
+            "bold": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Segoe UI'"
+                }
+              }
+            },
+            "titleWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#E0E7EF'"
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "5D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "general": [
+        {
+          "properties": {
+            "altText": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Filing and return evidence | INR'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "objects": {
+      "grid": [
+        {
+          "properties": {
+            "gridVertical": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "gridHorizontal": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "rowPadding": {
+              "expr": {
+                "Literal": {
+                  "Value": "9D"
+                }
+              }
+            },
+            "outlineColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#E0E7EF'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#243B50'"
+                    }
+                  }
+                }
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#EDF2F7'"
+                    }
+                  }
+                }
+              }
+            },
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11D"
+                }
+              }
+            },
+            "fontColorPrimary": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#243B50'"
+                    }
+                  }
+                }
+              }
+            },
+            "backColorPrimary": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "backColorSecondary": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#F8FAFC'"
+                    }
+                  }
+                }
+              }
+            },
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnWidth": [
+        {
+          "selector": {
+            "metadata": "GST Monthly.Month"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "116.98823529411764D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "GST Monthly.Registration State"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "154.21176470588236D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "GST Monthly.Filed On"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "138.25882352941176D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "GST Monthly.Total Outward Supplies"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "233.9764705882353D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "GST Monthly.Output Tax"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "191.43529411764706D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "GST Monthly.Late Fee"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "159.52941176470588D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "GST Monthly.Filing Evidence"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "361.6D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Month"
+                }
+              },
+              "queryRef": "GST Monthly.Month",
+              "nativeQueryRef": "Month"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Registration State"
+                }
+              },
+              "queryRef": "GST Monthly.Registration State",
+              "nativeQueryRef": "Registration State"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Filed On"
+                }
+              },
+              "queryRef": "GST Monthly.Filed On",
+              "nativeQueryRef": "Filed On"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Total Outward Supplies"
+                }
+              },
+              "queryRef": "GST Monthly.Total Outward Supplies",
+              "nativeQueryRef": "Total Outward Supplies"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Output Tax"
+                }
+              },
+              "queryRef": "GST Monthly.Output Tax",
+              "nativeQueryRef": "Output Tax"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Late Fee"
+                }
+              },
+              "queryRef": "GST Monthly.Late Fee",
+              "nativeQueryRef": "Late Fee"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "GST Monthly"
+                    }
+                  },
+                  "Property": "Filing Evidence"
+                }
+              },
+              "queryRef": "GST Monthly.Filing Evidence",
+              "nativeQueryRef": "Filing Evidence"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "GST Monthly"
+                  }
+                },
+                "Property": "Month"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": false
+      }
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "2631c5f07bc84d48bdfc",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "GST Monthly"
+              }
+            },
+            "Property": "Month"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "s",
+              "Entity": "GST Monthly",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Month"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "GSTIN"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-05'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'05AAMCS2601L1ZC'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-06'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'24AAMCS2601L1ZC'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-06'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'06AAMCS2601L1ZA'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-06'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'36AAMCS2601L1Z7'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-06'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'27AAMCS2601L1Z6'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-06'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'05AAMCS2601L1ZC'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-07'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'24AAMCS2601L1ZC'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-07'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'06AAMCS2601L1ZA'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-07'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'36AAMCS2601L1Z7'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-07'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'27AAMCS2601L1Z6'"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2026-07'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'05AAMCS2601L1ZC'"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

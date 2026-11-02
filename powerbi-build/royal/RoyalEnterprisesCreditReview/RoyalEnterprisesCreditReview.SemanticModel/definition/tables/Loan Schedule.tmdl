@@ -1,0 +1,79 @@
+/// Source obligation sheet as of 7 July 2026. Row EMI sum INR5687124 vs printed INR5445112; difference INR242012 equals Siemens EMI. Monthly EMI is not annual principal repayment; amounts are not substituted into historical DSCR.
+table 'Loan Schedule'
+	lineageTag: ed0ad955-19e4-4c26-a405-521c241004a6
+
+	/// Monthly EMI Lakh
+	measure 'Monthly EMI Lakh' = DIVIDE(SUM('Loan Schedule'[Monthly EMI]),100000)
+		formatString: #,0.00
+		lineageTag: f45a596a-842e-4a63-9769-4f7fd3250757
+
+	column No
+		dataType: int64
+		formatString: #,0
+		lineageTag: d8f10285-acf3-4dd7-9aa0-661afe1f4182
+		summarizeBy: none
+		sourceColumn: No
+
+	column Lender
+		dataType: string
+		lineageTag: 0c8062e9-9d29-430d-9670-e18ee18f1f63
+		summarizeBy: none
+		sourceColumn: Lender
+
+	column 'Loan Type'
+		dataType: string
+		lineageTag: 854d85d8-be69-4b35-8d50-78a6ba7a1e32
+		summarizeBy: none
+		sourceColumn: Loan Type
+
+	column Security
+		dataType: string
+		lineageTag: f7fa3725-0601-4058-9079-fcab5dff95f0
+		summarizeBy: none
+		sourceColumn: Security
+
+	column Sanctioned
+		dataType: double
+		formatString: #,0.00
+		lineageTag: d42d9561-e1ea-4170-b9fd-2c3aff63652e
+		summarizeBy: none
+		sourceColumn: Sanctioned
+
+	column Disbursed
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 6d287a86-dca9-4a41-b3f2-36b254c6376e
+		summarizeBy: none
+		sourceColumn: Disbursed
+
+	column 'Disbursement Date'
+		dataType: string
+		lineageTag: fc2a4a5a-e180-4801-8334-5baba956ed91
+		summarizeBy: none
+		sourceColumn: Disbursement Date
+
+	column 'Interest Rate'
+		dataType: double
+		formatString: 0.00%
+		lineageTag: 31246b44-1d48-4d70-88f5-b9ee4a262b7a
+		summarizeBy: none
+		sourceColumn: Interest Rate
+
+	column 'Tenure Months'
+		dataType: int64
+		formatString: #,0
+		lineageTag: 3813d19c-0762-4f72-8bfb-800bad638bca
+		summarizeBy: none
+		sourceColumn: Tenure Months
+
+	column 'Monthly EMI'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: fb3ce7b8-1d23-4cbb-b7d1-6f3a04e5d5d5
+		summarizeBy: none
+		sourceColumn: Monthly EMI
+
+	partition 'Loan Schedule' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/52XXW+rSAyG/8qIi70iPfZ4Pi+nCTmZLYEKSD+2Ov//b6wMMwHSbks2UiW3inhq+/Vr8/GBpSj6WJ2rpi9KUQxVdxZ1Gxr+pa/2l646FKVAUADeywdYx4U0O6CdBGmKUsADqlIYKIVUElA+wJ9SfMhSFNVzPLdN9S6eu/gShkrU8RyH8dFr5KWZoQb4wxhtpMUxKkDuABmoRqB0pSAGOiA18agUxb6Ob2IfnuMQan7s46WPTdX3X3JIK20t8uOJvPHgr6n5mYS+FGRKgdJ7m1CqFMVz1w7xchbH2IRmX4l6OPxIRKNIT8RFOOYmmagnIudmSuG1pVRLXYqiFn+J4UeEBo1GjjVTTmmjp/Kh3SEuENrqlJY13rqJYkpRxHjcUDkgbYH4ydKDQqunysG6cikPBG9VQlhGHI57cYxdP4jH0Dz9nBJeBaGcNsabKSV5k5Jm/fGPU5YmnONGtW0TXkPNndpSPgAY27IIC0nrzK7Vc0igJ5YvRRG6p5AV8SNLam1IjaWT+ppiIeUO7Gf9ebKZhPy1fVcd4iD6EPt2muHnquvbJtRfD9U8VdIRKDklhi4llopocmaSlHKpachmMYThjtTgSkNPCPyfl6IgSKnRSiBWXouI7Bq/20NX/b0ZpmYYOXIm11H9QvlrNVWjPFjxJtHYM05V125mEaCmVEYrAbTKPVtpMbEQDLB/jSw2jdgc+OmHjcKfE1uEBag1jFs20qzSOgkf2THeq34rSF8nzAMaSCbv1r5k8oBZaZIT8t+KSxOHd9GfQ13fI/6rHudwHLSV+I1ffrIzKsqexaUu4j7u4zXVb+fAzpO2CAtwqaZJmSaPgdGYzYQnsWg22KMkI3Nuc3hrIlKmZEBCqqbkr4Xz40sc7igkOe/H1bUIx1H7Yot5ApsEKXmqn2ITuu1zTYtRWypS78DN1aNS6FH96FTOjOf6eKnrqhvaRsTmEMOPvaLJRsbUDCpIngW01n9e0JacSq2SPNiH6jLsT3ePmnIGZNpohGs55o1mnXY2oXiuzyH0m4toZtYiHO8OuxzrpEAkj8mvJE91eIvbWeu8vMRUQkzXVDrf3HWfSUCfYDza/amLXTjf4cU4e7EHUrNA6HNuqAgo58anQVO1v7v2dTiJtN6eX4ZNl9VkIZNVkjM+9Q/9DuHmRhjB3iqTwewg53CKzeGeSdDkcqIKjSE7NfEG6Lhl0/noSGMispE8he7SiZf3/vQe/odGefek0w5v7qDs0lJRGge+lIv27f2f7YtuBWMaXG1FLYTDu2ecCrSOkiUTGwtP+DGK2BzbDa6i2OancxIBWYHTzQpmZknOjO8D6ZSiVEpiXznxQZlL+FKd4r6uvniZkdLwqTBi5rAAu0M5mxf4aRnmD5bCKe6hcrmatFo54jRuhFN7/gqKRM4iv6Os4wLzFp+sBTy3jL8kQeVrmdhb+sf4PUKOSsz7Zo5vL2Sw46XA2aDjMU2Q21Phmwouzjq03qXjWKc+zSbJ74Ia9FURZjNi4fmEfG19y7AGs38Q+0cfutC/hvnF4r9BFkfzHQ+BOZxBk+jA+aUYshoQlaN0shL7xx1gaeVU/FX4GUwTSkmHXMY//wK1Hn7HtA8AAA==",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"No","Lender","Loan Type","Security","Sanctioned","Disbursed","Disbursement Date","Interest Rate","Tenure Months","Monthly EMI"}), X=Table.TransformColumnTypes(T,{{"No", Int64.Type},{"Lender", type text},{"Loan Type", type text},{"Security", type text},{"Sanctioned", type number},{"Disbursed", type number},{"Disbursement Date", type text},{"Interest Rate", type number},{"Tenure Months", Int64.Type},{"Monthly EMI", type number}}) in X
+

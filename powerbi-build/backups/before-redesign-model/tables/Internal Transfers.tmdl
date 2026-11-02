@@ -1,0 +1,88 @@
+/// Consolidated internal-transfer detail from Internal & Group. Separate analytical subset; do not add to Raw Data totals.
+table 'Internal Transfers'
+	lineageTag: c9b4fdc1-345f-4460-b62d-cef738933ba3
+
+	/// Internal Debit
+	measure 'Internal Debit' = SUM('Internal Transfers'[Debit])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Banking
+		lineageTag: c6aa12cb-62f5-4be0-97f7-d532620e67fe
+
+	/// Internal Credit
+	measure 'Internal Credit' = SUM('Internal Transfers'[Credit])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Banking
+		lineageTag: 878f00e6-9894-47a5-845d-cd617e8e8d44
+
+	/// Internal Transfer Count
+	measure 'Internal Transfer Count' = COUNTROWS('Internal Transfers')
+		formatString: #,0
+		displayFolder: Banking
+		lineageTag: 2b5538fd-1e0c-413c-a2f7-c3a5b4f403a6
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 3aae308e-6e0c-45af-9ed9-186d6958ed99
+		summarizeBy: none
+		sourceColumn: Date
+
+		variation Variation
+			isDefault
+			relationship: 7e3be6a0-ac0b-4015-a6ab-ebf92ba201f3
+			defaultHierarchy: LocalDateTable_e42982ff-ada0-4e8c-86b6-e31afcdf21a3.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: ba22728b-2c11-405b-ac13-42b1dcda68c6
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Narration
+		dataType: string
+		lineageTag: ad8bde16-8b2d-46c5-88f7-e662375b63bc
+		summarizeBy: none
+		sourceColumn: Narration
+
+	column Classification
+		dataType: string
+		lineageTag: a55a9d55-2821-4378-8118-4f363d091d8e
+		summarizeBy: none
+		sourceColumn: Classification
+
+	column Debit
+		dataType: double
+		lineageTag: dcdc1717-8564-49ee-98dd-b8122807dee0
+		summarizeBy: sum
+		sourceColumn: Debit
+
+	column Credit
+		dataType: double
+		lineageTag: 0415b39d-7d8e-4376-914e-e746ad1d7e90
+		summarizeBy: sum
+		sourceColumn: Credit
+
+	column 'Source Row'
+		dataType: double
+		lineageTag: 4ca3ba68-e1da-4764-a0a9-142d8a6269e2
+		summarizeBy: sum
+		sourceColumn: Source Row
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition 'Internal Transfers' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/73WTW/TQBAG4L9i5ZzFM+/OfnFzXIOspk5lp22g6iGIgCpoDqH8f+SQrFOUEmjqHNeW7GfGu/P69nYAgijySvNgGBfULqri3TSZpDfqQ9HkM4EIW0YIXjWjsiIiL8Kq+flw/5ic/3yYr5Jmvpovv96rKhsMB+XycbFazr8n09V8+ePLYpWcLT7dP6p4fTRffos3B0NxRPSGhjRkvhv+N0wTiSrzMiciAszrwbzRIr9h6GBBkURYeAbm2QKebT8wMNmwaZnelbE9JLMEDvAElVf1qIW51/yWFvFbyhOY+xNWXlw2aZWls9lsxtqbtK6rtwLL7Jx1YpDmDmBHAcJOtA5p28ty/cZ0Dzh9EZhJR7HZFSP8o9hpZnKeXWjFjLAWMyz5rTirzpNxeVFOi7PXk7ed3srtUfJg09xp18mNOZncHSMHtXL2UR7odHJ/lJx1mjuDKHf6dPJwlByU5s6FKPegU8lBu3JNh4adE0BcO4Z7Di7wi2DQfQWX2cK64GJSHIOLaT/Me7Ah7/vqmIkd009g9hAsECAmWOkpt2IKQJ7AwkGYBoyw9z1FfdexLp6Ydn6OtrD9x1aT4aC19ta3o9K2hxjCQYR0r8fWd/AunZgVTITzTkfzlbq8qkZEhsCkqrK+zqpsNJklddFMruq8aJLLurzOpsXGqpqszqr3ZXJRTLNxcjOpz5ukrKZFXWXTclJl4+Ry/cyPEK3JtpvZ7y0kXy0+/6USGvJ2BKGLK4ai+FPTLk5RyhiiBV5EgJeVYsOmki6+GApxYm0reWY3GQPNJsg6eAODGBBoANLrbmqP52Y3hbu7XwK+oly+DAAA", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Date","Month","Narration","Classification","Debit","Credit","Source Row"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Date", type nullable date},{"Month", type nullable date},{"Narration", type text},{"Classification", type text},{"Debit", type nullable number},{"Credit", type nullable number},{"Source Row", type nullable number}}, "en-US")
+				in Typed
+

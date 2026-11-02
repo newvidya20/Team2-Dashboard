@@ -1,0 +1,75 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                               Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                      Branch                 LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                           Customer Id            263166590
+    City                    MUMBAI                                                                                    Account No             696701010050084
+    State                   MAHARASHTRA                                                                               Account Currency       INR
+    Country                 INDIA                                                                                     Account Type           Current Account
+    Zip                     400092                                                                                    MICR Code              400026176
+    Mobile No               919819267453                                                                              IFSC Code              UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                             CKYC Number            70082478095339
+    Statement Date : 01/08/2025 10:05                                                                     Statement Period From -01/07/2025  To 31/07/2025
+    Records from 1 to 8.                No more records available.
+
+  Date              Remarks              Tran Id-1       UTR Number               Instr. ID        Withdrawals              Deposits              Balance
+05-07-2025    eTXN/By:6967050100         X6250444        -                                                                      5,00,000.00          7,05,738.56
+17:46:56      00102
+
+08-07-2025    NACH/10/0635472875         Y77633263       -                                                      10.00                                7,05,728.56
+14:32:27      /UC MONTHLYD
+
+10-07-2025    MAND DR- TCP2589-          S97514559       -                                               1,58,234.00                                 5,47,494.56
+12:47:07
+
+15-07-2025    NACH/10/0794909993         V94409006       -                                                 55,814.00                                 4,91,680.56
+11:17:07      /HDFC BANK L
+
+15-07-2025    MAND DR- TCP2589-          V96698559       -                                                 66,394.00                                 4,25,286.56
+11:46:46
+
+20-07-2025    NACH/10/1036728283         Y95909945       -                                               1,49,584.00                                 2,75,702.56
+11:31:28      /HDFC BANK L
+
+22-07-2025    ePAY/To:e-DIRECT           T28636119       -                                                 39,520.00                                 2,36,182.56
+16:29:49      TAX
+              COLLE/531922089/20
+              20-21 IT
+31-07-2025    eTXN/By:6967050100         Y33309945       -                                                                      3,00,000.00          5,36,182.56
+11:19:39      00102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

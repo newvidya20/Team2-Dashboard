@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Sudarshan Pharma Credit Review"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "31e47fa7-23e7-5e97-bf87-a02e93986ec2"
+  }
+}

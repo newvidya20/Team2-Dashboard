@@ -1,0 +1,426 @@
+ms-pbi.pbi.microsoft.com/minerva/reportView.html
+ms-pbi.pbi.microsoft.com/minerva/reportView.html - Web content
+SudarshanPharmaDashboardFinal
+Save
+Undo
+Redo
+SudarshanPharmaDashboardFinal Last saved: Today at 6:10 PM
+Search
+0 Suggestions available,
+Settings
+Using light theme
+Sign in
+Minimize
+Maximize
+Close
+File
+Ribbon tabs
+Home
+Insert
+Modeling
+Design
+View
+Optimize
+Help
+Share
+Share this document, and see who it's shared with.
+Clipboard
+Format painter
+Like the formatting of something in your document? Use Format painter to apply that look to other content. 1. Select content with formatting you like. 2. On the Home tab, choose Format painter. 3. Select something else to apply the formatting.
+Data
+Get data
+Queries
+Refresh
+New visual
+Calculations
+New measure
+Sensitivity
+Apply a label to classify the sensitivity of your report and protect its content.
+Publish
+Copilot
+Prep data for AI
+Uncover insights in your data with the help of AI.
+Switch ribbons
+Report view
+Table view
+Model view
+DAX query view
+TMDL View
+Show keyboard shortcuts
+Show screen reader tips
+Show screen reader tips (opens in new tab)
+Skip to main content
+Power BI Report
+ 1. GST Review
+
+
+SUDARSHAN PHARMA / GST REVIEW PARAMETERS
+1. GST Review
+74 GSTR-3B documents | April 2025-July 2026 | Five registrations | INR crore unless stated | Registration-state scope
+GST financial year GST financial year
+GST financial year
+Financial Year
+All
+?
+GST month GST month
+GST month
+Month
+Registration state Registration state
+Registration state
+Registration State
+Telangana starts Oct 2025 in supplied records
+Declared outward supplies
+Zero-rated supplies
+GST documents supplied
+Reported late fee
+GST Sales Cr 902.16.
+902.16
+Zero Rated Cr 26.94.
+26.94
+GST Filings 74.
+74
+GST Late Fee ? 0.00.
+? 0.00
+Before any inter-registration elimination
+Export vs SEZ split unavailable
+One document has no ARN/date
+INR • may relate to earlier tax periods
+Monthly declared supplies | INR crore GST Sales Cr by Month Monthly declared supplies | INR crore
+Monthly declared supplies | INR crore
+GST Sales Cr by Month
+0
+100
+2025-04
+2025-05
+2025-06
+2025-07
+2025-08
+2025-09
+2025-10
+2025-11
+2025-12
+2026-01
+2026-02
+2026-03
+2026-04
+2026-05
+2026-06
+2026-07
+Forecast area
+Plot area
+Month 2025-04. GST Sales Cr 36.77.
+Series labels
+Registration-state supplies | INR crore GST Sales Cr by Registration State Registration-state supplies | INR crore
+Visual container header
+Filters on Visual
+?
+Focus mode
+More options
+?
+Registration-state supplies | INR crore
+GST Sales Cr by Registration State
+200
+400
+600
+Maharashtra
+Gujarat
+Telangana
+Haryana
+Uttarakhand
+GST Sales Cr
+698.284206967
+135.150346708
+68.7283372
+698.28
+135.15
+68.73
+0.00
+Filing and return evidence | INR Filing and return evidence | INR
+Filing and return evidence | INR
+Scroll up
+Scroll down
+Scroll left
+Scroll right
+Row Selection Month Registration State Filed On Total Outward Supplies Output Tax Late Fee Filing Evidence
+Row Selection
+Filed On
+Total Outward Supplies
+Output Tax
+Late Fee
+Filing Evidence
+Select Row 2025-04 Gujarat 2025-05-19 4,97,98,890.47 89,63,800.29 0.00 ARN date present
+Select Row
+2025-05-19
+4,97,98,890.47
+89,63,800.29
+ARN date present
+Select Row 2025-04 Haryana 2025-05-19 0.00 0.00 0.00 ARN date present
+Select Row 2025-04 Maharashtra 2025-05-20 31,78,64,904.84 5,38,39,679.50 0.00 ARN date present
+2025-05-20
+31,78,64,904.84
+5,38,39,679.50
+Select Row 2025-04 Uttarakhand 2025-05-19 0.00 0.00 0.00 ARN date present
+Select Row 2025-05 Gujarat 2025-06-19 1,90,62,537.50 34,31,256.75 0.00 ARN date present
+2025-06-19
+1,90,62,537.50
+34,31,256.75
+Checklist coverage & supporting records Checklist coverage & supporting records
+Checklist coverage & supporting records
+Row Selection Parameter Status Evidence or Requirement
+Parameter
+Status
+Evidence or Requirement
+Select Row Buyer / supplier totals and shares Not supplied Need GSTR-1 B2B, GSTR-2B and sales/purchase party ledgers.
+Buyer / supplier totals and shares
+Not supplied
+Need GSTR-1 B2B, GSTR-2B and sales/purchase party ledgers.
+Select Row Exports / export share Partial Zero-rated declarations shown; export vs SEZ split absent.
+Exports / export share
+Partial
+Zero-rated declarations shown; export vs SEZ split absent.
+Select Row Filing date / late fee Available ARN dates and section 5.1 late fee; prior-period fees not assigned as current delay days.
+Filing date / late fee
+Available
+ARN dates and section 5.1 late fee; prior-period fees not assigned as current delay days.
+Select Row HSN product summary Not supplied Need GSTR-1 HSN tables or item ledger.
+HSN product summary
+Need GSTR-1 HSN tables or item ledger.
+SOURCE EXCEPTION
+Haryana February 2026 displays FILED but has no ARN, ARN date or taxpayer name. Filing date remains unavailable; the document is not treated as independently verified filing evidence.
+State breakdown is by GST registration, not buyer location. Gross declarations may include inter-branch supplies.
+Buyer/supplier concentration, HSN, party reconciliation and export-only ratios need GSTR-1/GSTR-2B or invoice ledgers. ITC cannot establish purchase turnover.
+SUDARSHAN PHARMA INDUSTRIES LIMITED | PDF CREDIT REVIEW
+01 / 28 | Credit review
+Filters
+Show or hide the filter pane from report readers
+Collapse or expand the filter pane while editing. This also determines how report readers see it
+Search Filters on this page
+Filters on this page
+Add data fields here
+Filters on all pages
+Desktop layout
+Mobile layout
+Previous pages
+Next pages
+2. Banking Review
+3. Banking & GST Reconciliation
+4. Financial & Credit Analysis
+Filing and return evidence (1/4)
+Filing and return evidence (2/4)
+Filing and return evidence (3/4)
+Filing and return evidence (4/4)
+Account flows (1/1)
+Party-wise receipts and payments (1/1)
+Returns and penal-charge candidates (1/1)
+CC source snapshot and statement differences (1/1)
+Transaction evidence (1/1)
+Monthly bridge with coverage counts (1/1)
+Checklist coverage & supporting records (1/1)
+FY2023-24 / Formula, result and evidence register (1/2)
+FY2023-24 / Formula, result and evidence register (2/2)
+FY2024-25 / Formula, result and evidence register (1/2)
+FY2024-25 / Formula, result and evidence register (2/2)
+FY2025-26 / Formula, result and evidence register (1/2)
+FY2025-26 / Formula, result and evidence register (2/2)
+Facility schedule (1/2)
+Facility schedule (2/2)
+FY2023-24 / Financial statement detail
+FY2024-25 / Financial statement detail
+FY2025-26 / Financial statement detail
+New page
+Visualizations
+Build visual
+Format page
+Theme
+All visual types
+Stacked bar chart
+Stacked column chart
+Clustered bar chart
+Clustered column chart
+100% Stacked bar chart
+100% Stacked column chart
+Line chart
+Area chart
+Stacked area chart
+100% Stacked area chart
+Line and stacked column chart
+Line and clustered column chart
+Ribbon chart
+Waterfall chart
+Funnel
+Scatter chart
+Pie chart
+Donut chart
+Treemap
+Map
+Filled map
+Shape map
+Azure Maps
+Gauge
+Card
+KPI
+Slicer
+Table
+Matrix
+R script visual
+Python visual
+Key influencers
+Decomposition tree
+Narrative
+Goals (Preview)
+Gantt chart (Preview)
+Paginated report
+Button slicer
+Input slicer
+List slicer (Preview)
+Image
+ArcGIS for Power BI
+Power Apps for Power BI
+Power Automate for Power BI
+Get more visuals
+ValuesAdd data fields here
+Values
+No data fields added. Add data fields here
+Drill through
+Cross-report
+Off
+Keep all filters
+On
+Add drill-through fields here
+Table Bank Transactions
+Bank Transactions
+Table CC Snapshot
+CC Snapshot
+Table Finance Year
+Finance Year
+Table Financial Parameters
+Financial Parameters
+Table Financials
+Financials
+Table GST Monthly
+GST Monthly
+Table Loan Schedule
+Loan Schedule
+Table Period
+Period
+Table Reconciliation
+Reconciliation
+Table Review Coverage
+Review Coverage
+Page 1 of 26
+Zoom Out
+Zoom In
+Zoom level. Click to open the Zoom dialog box
+Fit to page
+Power BI Desktop
+Report Zoomed To 67%. 10 results
+ms-pbi.pbi.microsoft.com/minerva/dataExploreView.html
+ms-pbi.pbi.microsoft.com/minerva/dataExploreView.html - Web content
+Excel workbook
+OneLake ??catalog
+SQL Server
+Enter data
+Dataverse
+Recent sources
+Manage and connect to recent sources.
+Transform data
+Relationships
+Manage relationships
+Quick measure
+New column
+New table
+Security
+Manage roles
+View as
+Formula bar
+Expand to full page
+Cancel
+Commit
+This field or table is visible in report view. Select to hide it.
+10 results
+ms-pbi.pbi.microsoft.com/minerva/modelView.html
+ms-pbi.pbi.microsoft.com/minerva/modelView.html - Web content
+Calculation group
+Parameters
+New parameter
+Add parameters to visuals and DAX expressions to act as variables. Report readers can use slicers to adjust the inputs and see different outcomes.
+Q&A
+Q&A setup
+Many to one relationship from Bank Transactions to Period
+Many to one relationship from Financials to Finance Year
+Many to one relationship from Financial Parameters to Finance Year
+Many to one relationship from GST Monthly to Period
+Many to one relationship from Reconciliation to Period
+ Bank Transactions table 1 of 10 Unselected 27 Columns 
+table content
+Collapse
+ CC Snapshot table 2 of 10 Unselected 8 Columns 
+ Finance Year table 3 of 10 Unselected 1 Columns 
+ Financial Parameters table 4 of 10 Unselected 7 Columns 
+ Financials table 5 of 10 Unselected 44 Columns 
+ GST Monthly table 6 of 10 Unselected 23 Columns 
+ Loan Schedule table 7 of 10 Unselected 9 Columns 
+ Period table 8 of 10 Unselected 2 Columns 
+ Reconciliation table 9 of 10 Unselected 14 Columns 
+ Review Coverage table 10 of 10 Unselected 5 Columns 
+All tables
+New Layout
+Properties
+Cards
+Show the database in the header when applicable
+Show related fields when card is collapsed
+Pin related fields to top of card
+Tables
+Model
+100%
+Reset layout
+Report Zoomed To 100%. No results found
+ms-pbi.pbi.microsoft.com/minerva/daxQueryView.html
+ms-pbi.pbi.microsoft.com/minerva/daxQueryView.html - Web content
+Editing
+Format
+Comment
+Uncomment
+Find
+Replace
+Command palette
+DAX queries will be saved to your model
+  They won't be visible when published in the Power BI service. 
+https://go.microsoft.com/fwlink/?linkid=2247952
+Learn more Opens in new window
+Expand
+Run the selected portion of the DAX query or the whole thing if nothing is selected (F5 or CTRL + SHIFT + E)
+Update model with changes (0)
+Editor content;Press Alt+F1 for Accessibility Options.
+Toggle results container
+Results
+Your query results will show up here
+Query 1
+New query
+Query 1 of 1
+Copilot isn't available because you're not signed in.
+ms-pbi.pbi.microsoft.com/minerva/tmdlView.html
+ms-pbi.pbi.microsoft.com/minerva/tmdlView.html - Web content
+Switch to editing mode to apply your changes.
+Preview how the script would change the semantic model.
+Problems 0
+Output 0
+Expand/Collapse toggle bottom
+Script 1
+New script
+View and organize all of the items in your semantic model. 
+Learn how 
+ Semantic model
+Semantic model
+ Calculation groups (0)
+ Cultures (0)
+ Expressions (0)
+ Functions (0)
+ Measures (0)
+Measures (32)
+ Perspectives (0)
+ Relationships (5)
+Relationships (5)
+ Roles (0)
+ Tables (10)
+Tables (10)

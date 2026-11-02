@@ -1,0 +1,1151 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                              Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                     Branch                LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                          Customer Id           263166590
+    City                    MUMBAI                                                                                   Account No            696701010050084
+    State                   MAHARASHTRA                                                                              Account Currency      INR
+    Country                 INDIA                                                                                    Account Type          Current Account
+    Zip                     400092                                                                                   MICR Code             400026176
+    Mobile No               919819267453                                                                             IFSC Code             UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                            CKYC Number           70082478095339
+    Statement Date : 22/08/2026 10:00
+    Records from 1 to 293.              No more records available.
+
+  Date              Remarks              Tran Id-1      UTR Number               Instr. ID        Withdrawals             Deposits               Balance
+21-08-2026    NEFTO-UPENDRA              X13803759      -                                                  6,000.00                                2,42,440.32
+18:44:04      KALIKA GUPTA (AXI
+              002930056738
+21-08-2026    Charges for PORD           X13803759      -                                                       2.66                               2,48,440.32
+18:44:04      Customer
+              Payment:UBINJ26233
+21-08-2026    NEFTO-RAJU                 X13157591      -                                                 25,000.00                                2,48,442.98
+18:37:46      GOPALRAI
+              SANGHAVI
+              002930035041
+21-08-2026    Charges for PORD           X13157591      -                                                       5.61                               2,73,442.98
+18:37:46      Customer
+              Payment:UBINJ26233
+21-08-2026    NEFTO-ARJUN B              X12701843      -                                                 10,000.00                                2,73,448.59
+18:32:57      VAISHYA
+              002930018679
+21-08-2026    Charges for PORD           X12701843      -                                                       2.66                               2,83,448.59
+18:32:57      Customer
+              Payment:UBINJ26233
+21-08-2026    NEFTO-V TRANS              X1651639       -                                                 84,100.00                                2,83,451.25
+16:10:10      INDIA LTD
+              002929761772
+21-08-2026    Charges for PORD           X1651639       -                                                       5.61                               3,67,551.25
+16:10:10      Customer
+              Payment:UBINJ26233
+21-08-2026    NEFTO-V TRANS              W86884146      -                                                 52,859.00                                3,67,556.86
+12:19:19      INDIA LTD
+              002929434531
+21-08-2026    Charges for PORD           W86884146      -                                                       5.61                               4,20,415.86
+12:19:19      Customer
+              Payment:UBINK26233
+20-08-2026    NEFTO-MRUNALI S            W43208127      -                                                  7,000.00                                4,20,421.47
+19:14:09      PARAB
+              002928162954
+20-08-2026    Charges for PORD           W43208127      -                                                       2.66                               4,27,421.47
+19:14:09      Customer
+              Payment:UBINJ26232
+20-08-2026    eTXN/To:1734220100         W42146800      -                                               2,00,000.00                                4,27,424.13
+18:57:40      00117/GUMMALAMP
+              ATI PEDA ANKAIAH
+
+20-08-2026    NEFTO-                     W41324357      -                                                  1,616.00                                6,27,424.13
+18:50:01      BHADRESHBHAI K
+              DESAI 002928109958
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+20-08-2026    Charges for PORD           W41324357       -                                                       2.66                                 6,29,040.13
+18:50:01      Customer
+              Payment:UBINJ26232
+20-08-2026    NEFTO-ARVIND               W41004264       -                                                  15,000.00                                 6,29,042.79
+18:46:58      KUMAR CHAUHAN
+              002928100430
+20-08-2026    Charges for PORD           W41004264       -                                                       5.61                                 6,44,042.79
+18:46:58      Customer
+              Payment:UBINJ26232
+20-08-2026    NEFTO-UPENDRA              W40745403       -                                                  21,000.00                                 6,44,048.40
+18:44:35      KALIKA GUPTA (AXI
+              002928094345
+20-08-2026    Charges for PORD           W40745403       -                                                       5.61                                 6,65,048.40
+18:44:35      Customer
+              Payment:UBINJ26232
+20-08-2026    NEFTO-SHREE                W40311106       -                                                   8,000.00                                 6,65,054.01
+18:40:37      KARNI BULK
+              CARRIERS
+              002928083991
+20-08-2026    Charges for PORD           W40311106       -                                                       2.66                                 6,73,054.01
+18:40:37      Customer
+              Payment:UBINJ26232
+20-08-2026    eTXN/To:4649010100         W39754527       -                                                  46,737.00                                 6,73,056.67
+18:35:18      36795/MARVESOL
+              FINANCIAL SERVICE
+
+20-08-2026    eTXN/By:6967050100         W38703892       -                                                                      1,30,000.00           7,19,793.67
+18:24:57      00102
+
+20-08-2026    RTGS:SUDARSHAN             W38625604       -                                                                      5,00,000.00           5,89,793.67
+18:24:08      PHARMA INDUS
+              ICICR4202608200057
+              0493
+20-08-2026    NEFTO-HMM                  W37401668       -                                                  57,575.74                                   89,793.67
+18:11:38      SHIPPING INDIA
+              PRIVATE
+              002928036792
+20-08-2026    Charges for PORD           W37401668       -                                                       5.61                                 1,47,369.41
+18:11:38      Customer
+              Payment:UBINJ26232
+20-08-2026    eTXN/To:3191010100         W24747072       -                                                   8,694.00                                 1,47,375.02
+15:24:36      24805/N SUNDERLAL
+              AND CO
+
+20-08-2026    NACH/10/3217533884         SVL48P600       -                                                1,49,584.00                                 1,56,069.02
+10:44:52      /HDFC BANK L
+
+19-08-2026    eTXN/To:6701010100         V68050219       -                                                1,00,000.00                                 3,05,653.02
+19:05:14      50327/ANSARI
+              TEMPO SERVICE
+
+19-08-2026    NEFTO-MRUNALI S            V67318771       -                                                   5,000.00                                 4,05,653.02
+18:58:22      PARAB
+              002926217807
+19-08-2026    Charges for PORD           V67318771       -                                                       2.66                                 4,10,653.02
+18:58:22      Customer
+              Payment:UBINJ26231
+19-08-2026    NEFTO-ARJUN B              V67318019       -                                                  10,000.00                                 4,10,655.68
+18:58:21      VAISHYA
+              002926217805
+19-08-2026    Charges for PORD           V67318019       -                                                       2.66                                 4,20,655.68
+18:58:21      Customer
+              Payment:UBINJ26231
+19-08-2026    NEFTO-VAIBHAV              V67317184       -                                                  12,547.00                                 4,20,658.34
+18:58:20      VIJAY INGLE
+              002926217804
+19-08-2026    Charges for PORD           V67317184       -                                                       5.61                                 4,33,205.34
+18:58:19      Customer
+              Payment:UBINJ26231
+19-08-2026    NEFTO-ARVIND               V67316348       -                                                  10,000.00                                 4,33,210.95
+18:58:18      KUMAR CHAUHAN
+              002926217802
+
+
+
+
+                                                                                 Page No2
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 3 ---
+19-08-2026     Charges for PORD          V67316348       -                                                        2.66                                4,43,210.95
+18:58:18       Customer
+               Payment:UBINJ26231
+19-08-2026     RTGSO-YES BANK            V58967104       -                                              10,10,500.00                                  4,43,213.61
+17:29:24       (STATUTORY P
+               UBINR220260819013
+               78909
+19-08-2026     Charges for PORD          V58967104       -                                                      58.41                               14,53,713.61
+17:29:24       Customer
+               Payment:UBINH26231
+               378909
+19-08-2026     NEFTO-TEJAS               V48505643       -                                                   2,250.00                               14,53,772.02
+14:54:29       GOSALIA
+               POWERNET BRO
+               002925840374
+19-08-2026     Charges for PORD          V48505643       -                                                        2.66                              14,56,022.02
+14:54:29       Customer
+               Payment:UBINJ26231
+18-08-2026     NEFTO-RAJU                U92664038       -                                                  25,000.00                               14,56,024.68
+18:48:40       GOPALRAI
+               SANGHAVI
+               002924321924
+18-08-2026     Charges for PORD          U92664038       -                                                        5.61                              14,81,024.68
+18:48:40       Customer
+               Payment:UBINJ26230
+18-08-2026     NEFTO-UPENDRA             U92437433       -                                                   5,000.00                               14,81,030.29
+18:46:35       KALIKA GUPTA (AXI
+               002924316458
+18-08-2026     Charges for PORD          U92437433       -                                                        2.66                              14,86,030.29
+18:46:34       Customer
+               Payment:UBINJ26230
+18-08-2026     NEFTO-MRUNALI S           U92306172       -                                                  10,500.00                               14,86,032.95
+18:45:10       PARAB
+               002924311986
+18-08-2026     Charges for PORD          U92306172       -                                                        5.61                              14,96,532.95
+18:45:10       Customer
+               Payment:UBINJ26230
+18-08-2026     NEFTO-RAHUL NANA          U92150074       -                                                   3,000.00                               14,96,538.56
+18:43:25       JAGTAP
+               002924305879
+18-08-2026     Charges for PORD          U92150074       -                                                        2.66                              14,99,538.56
+18:43:25       Customer
+               Payment:UBINJ26230
+18-08-2026     NEFTO-ARJUN B             U91976249       -                                                  15,000.00                               14,99,541.22
+18:41:58       VAISHYA
+               002924301625
+18-08-2026     Charges for PORD          U91976249       -                                                        5.61                              15,14,541.22
+18:41:58       Customer
+               Payment:UBINJ26230
+18-08-2026     NEFTO-EVERGREEN           U91544633       -                                                  48,228.69                               15,14,546.83
+18:37:31       SHIPPING AGENCY
+               002924286324
+18-08-2026     Charges for PORD          U91544633       -                                                        5.61                              15,62,775.52
+18:37:31       Customer
+               Payment:UBINJ26230
+17-08-2026     NEFTO-RAHUL NANA          U23689578       -                                                   9,000.00                               15,62,781.13
+19:21:08       JAGTAP
+               002922499768
+17-08-2026     Charges for PORD          U23689578       -                                                        2.66                              15,71,781.13
+19:21:07       Customer
+               Payment:UBINJ26229
+17-08-2026     NEFTO-UPENDRA             U23273251       -                                                   5,000.00                               15,71,783.79
+19:17:03       KALIKA GUPTA (AXI
+               002922490848
+17-08-2026     Charges for PORD          U23273251       -                                                        2.66                              15,76,783.79
+19:17:03       Customer
+               Payment:UBINJ26229
+17-08-2026     NEFTO-ARJUN B             U23061058       -                                                  15,000.00                               15,76,786.45
+19:14:53       VAISHYA
+               002922482775
+17-08-2026     Charges for PORD          U23061058       -                                                        5.61                              15,91,786.45
+19:14:53       Customer
+               Payment:UBINJ26229
+
+
+
+                                                                                 Page No3
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 4 ---
+17-08-2026    NEFTO-ARVIND               U22820632       -                                                   6,000.00                               15,91,792.06
+19:12:41      KUMAR CHAUHAN
+              002922473963
+17-08-2026    Charges for PORD           U22820632       -                                                        2.66                              15,97,792.06
+19:12:41      Customer
+              Payment:UBINJ26229
+17-08-2026    NEFTO-MRUNALI S            U22491414       -                                                   3,000.00                               15,97,794.72
+19:09:35      PARAB
+              002922463820
+17-08-2026    Charges for PORD           U22491414       -                                                        2.66                              16,00,794.72
+19:09:35      Customer
+              Payment:UBINJ26229
+17-08-2026    NEFTO-UNIQUE               U22058058       -                                                  20,060.00                               16,00,797.38
+19:05:31      SAFETY
+              INDUSTRIES
+17-08-2026    Charges for PORD           U22058058       -                                                        5.61                              16,20,857.38
+19:05:31      Customer
+              Payment:UBINJ26229
+15-08-2026    NACH/10/3196730051         S5DTLUA0        -                                                  55,814.00                               16,20,862.99
+13:37:52      /HDFC BANK L               0
+
+14-08-2026    NEFTO-                     Y8842278        -                                                  16,010.00                               16,76,676.99
+18:55:16      BHARATKUMAR AND
+              CO 002917907593
+
+14-08-2026    Charges for PORD           Y8842278        -                                                        5.61                              16,92,686.99
+18:55:16      Customer
+              Payment:UBINJ26226
+14-08-2026    NEFTO-RAHUL NANA           Y6126421        -                                                   3,000.00                               16,92,692.60
+18:29:53      JAGTAP
+              002917833172
+14-08-2026    Charges for PORD           Y6126421        -                                                        2.66                              16,95,692.60
+18:29:53      Customer
+              Payment:UBINJ26226
+14-08-2026    NEFTO-ARJUN B              Y6134343        -                                                   8,000.00                               16,95,695.26
+18:29:51      VAISHYA
+              002917833193
+14-08-2026    Charges for PORD           Y6134343        -                                                        2.66                              17,03,695.26
+18:29:51      Customer
+              Payment:UBINJ26226
+14-08-2026    RTGSO-YES BANK             Y4899722        -                                                6,66,500.00                               17,03,697.92
+18:17:36      (STATUTORY P
+              UBINR220260814010
+              49765
+14-08-2026    Charges for PORD           Y4899722        -                                                      58.41                               23,70,197.92
+18:17:36      Customer
+              Payment:UBINH26226
+              049765
+14-08-2026    NEFTO-BHAVESH              Y1783125        -                                                   5,252.00                               23,70,256.33
+17:44:24      DIPAK JADHAV
+              002917759009
+14-08-2026    Charges for PORD           Y1783125        -                                                        2.66                              23,75,508.33
+17:44:24      Customer
+              Payment:UBINJ26226
+14-08-2026    NEFTO-ROHIT R              Y295725         -                                                  35,790.00                               23,75,510.99
+17:27:33      YADAV
+              002917719421
+14-08-2026    Charges for PORD           Y295725         -                                                        5.61                              24,11,300.99
+17:27:33      Customer
+              Payment:UBINJ26226
+14-08-2026    NEFTO-EQUIFAX              X79181720       -                                                     600.00                               24,11,306.60
+12:30:40      CREDIT
+              INFORMATION
+              002917242398
+14-08-2026    Charges for PORD           X79181720       -                                                        2.66                              24,11,906.60
+12:30:40      Customer
+              Payment:UBINJ26226
+14-08-2026    NEFTO-EQUIFAX              X77948445       -                                                     600.00                               24,11,909.26
+12:13:37      CREDIT
+              INFORMATION
+              002917233147
+
+
+
+
+
+
+                                                                                 Page No4
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 5 ---
+14-08-2026    Charges for PORD           X77948445       -                                                       2.66                               24,12,509.26
+12:13:37      Customer
+              Payment:UBINJ26226
+14-08-2026    NEFTO-EQUIFAX              X77852654       -                                                     600.00                               24,12,511.92
+12:12:11      CREDIT
+              INFORMATION
+              002917231610
+14-08-2026    Charges for PORD           X77852654       -                                                       2.66                               24,13,111.92
+12:12:11      Customer
+              Payment:UBINJ26226
+13-08-2026    NEFTO-ARJUN B              X35194787       -                                                   5,000.00                               24,13,114.58
+19:14:52      VAISHYA
+              002915901474
+13-08-2026    Charges for PORD           X35194787       -                                                       2.66                               24,18,114.58
+19:14:52      Customer
+              Payment:UBINJ26225
+13-08-2026    NEFTO-RAHUL NANA           X34883458       -                                                   4,000.00                               24,18,117.24
+19:12:11      JAGTAP
+              002915893948
+13-08-2026    Charges for PORD           X34883458       -                                                       2.66                               24,22,117.24
+19:12:11      Customer
+              Payment:UBINJ26225
+13-08-2026    eTXN/To:3159010100         X29864466       -                                               2,82,913.00                                24,22,119.90
+18:23:50      37035/SANJAY
+              CHEMICALS INDIA
+              PV
+13-08-2026    eTXN/To:3159010100         X29439386       -                                               1,64,278.00                                27,05,032.90
+18:19:31      37035/SANJAY
+              CHEMICALS INDIA
+              PV
+13-08-2026    RTGS:SUDARSHAN             X23676295       -                                                                     20,00,000.00         28,69,310.90
+17:29:00      PHARMA INDUS
+              ICICR4202608130055
+              8782
+13-08-2026    eTXN/By:6967050100         X20311008       -                                                                      8,50,000.00          8,69,310.90
+16:28:45      00102
+
+13-08-2026    NEFTO-METRO                X18286842       -                                               1,97,159.00                                   19,310.90
+15:59:00      CHEM
+              CORPORATION
+              002915536852
+13-08-2026    Charges for PORD           X18286842       -                                                      17.41                                2,16,469.90
+15:59:00      Customer
+              Payment:UBINJ26225
+13-08-2026    IMPSAB/62251524874         X16589472       -                                                                        30,000.00          2,16,487.31
+15:32:40      7/SUDARSHAN
+              PHARMA
+              IN/9819267453
+12-08-2026    NEFTO-TUSHAR               W63083670       -                                                   5,000.00                                1,86,487.31
+19:48:19      CHANDRAKANT
+              SAWANT
+              002913923950
+12-08-2026    Charges for PORD           W63083670       -                                                       2.66                                1,91,487.31
+19:48:19      Customer
+              Payment:UBINJ26224
+12-08-2026    NEFTO-ARVIND               W59921513       -                                                   3,000.00                                1,91,489.97
+19:19:55      KUMAR CHAUHAN
+              002913868068
+12-08-2026    Charges for PORD           W59921513       -                                                       2.66                                1,94,489.97
+19:19:55      Customer
+              Payment:UBINJ26224
+12-08-2026    eTXN/To:6701010100         W59679075       -                                               1,50,000.00                                 1,94,492.63
+19:17:56      50327/EXP
+
+12-08-2026    NEFTO-CHETAN               W59461016       -                                                   1,117.00                                3,44,492.63
+19:15:50      DILIPKUMAR
+              PARMAR
+              002913867296
+12-08-2026    Charges for PORD           W59461016       -                                                       2.66                                3,45,609.63
+19:15:50      Customer
+              Payment:UBINJ26224
+
+
+
+
+
+
+                                                                                 Page No5
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 6 ---
+12-08-2026     NEFTO-UPENDRA             W59148841       -                                                  15,000.00                                 3,45,612.29
+19:13:08       KALIKA GUPTA (AXI
+               002913862545
+12-08-2026     Charges for PORD          W59148841       -                                                        5.61                                3,60,612.29
+19:13:08       Customer
+               Payment:UBINJ26224
+12-08-2026     NEFTO-ARVIND              W58879497       -                                                  15,000.00                                 3,60,617.90
+19:10:50       KUMAR CHAUHAN
+               002913856107
+12-08-2026     Charges for PORD          W58879497       -                                                        5.61                                3,75,617.90
+19:10:50       Customer
+               Payment:UBINJ26224
+12-08-2026     UPIAB/622451085534        W25932195       -                                                                         22,500.00          3,75,623.51
+11:57:19       /CR/Mrunali /SBIN/
+               mrnlparb@oksb
+
+12-08-2026     eTXN/To:3159010100        W24687253       -                                                  51,417.00                                 3,53,123.51
+11:39:57       37035/SANJAY
+               CHEMICALS INDIA
+               PV
+11-08-2026     NEFTO-AMIT JATIN          V84633955       -                                                  15,000.00                                 4,04,540.51
+19:30:16       KUMAR MEHTA
+               002911883556
+11-08-2026     Charges for PORD          V84633955       -                                                        5.61                                4,19,540.51
+19:30:16       Customer
+               Payment:UBINK26223
+11-08-2026     eTXN/To:3159010100        V82730423       -                                                2,72,261.00                                 4,19,546.12
+19:13:15       37035/SANJAY
+               CHEMICALS INDIA
+               PV
+11-08-2026     NEFTO-MRUNALI S           V80519878       -                                                  35,000.00                                 6,91,807.12
+18:53:25       PARAB
+               002911823788
+11-08-2026     Charges for PORD          V80519878       -                                                        5.61                                7,26,807.12
+18:53:25       Customer
+               Payment:UBINK26223
+11-08-2026     NEFTO-MRUNALI S           V79976849       -                                                   7,000.00                                 7,26,812.73
+18:48:20       PARAB
+               002911807005
+11-08-2026     Charges for PORD          V79976849       -                                                        2.66                                7,33,812.73
+18:48:19       Customer
+               Payment:UBINK26223
+11-08-2026     NEFTO-RAHUL NANA          V79774813       -                                                   3,000.00                                 7,33,815.39
+18:46:29       JAGTAP
+               002911801425
+11-08-2026     Charges for PORD          V79774813       -                                                        2.66                                7,36,815.39
+18:46:29       Customer
+               Payment:UBINK26223
+11-08-2026     NEFTO-MRUNALI S           V78188124       -                                                  12,500.00                                 7,36,818.05
+18:31:19       PARAB
+               002911755549
+11-08-2026     Charges for PORD          V78188124       -                                                        5.61                                7,49,318.05
+18:31:19       Customer
+               Payment:UBINJ26223
+10-08-2026     eTXN/To:2457111000        U81677312       -                                                  90,720.00                                 7,49,323.66
+14:15:05       05394/B K PHARMA
+               REGULATORY
+
+10-08-2026     eTXN/To:6416020100        U70276416       -                                                  17,009.00                                 8,40,043.66
+11:45:42       08715/ANIL
+               RAMDULAR PRASA
+
+10-08-2026     NEFTO-MOHD                U69853205       -                                                  30,760.00                                 8,57,052.66
+11:39:54       GUFRAN SIDDIQUI
+               002908609742
+10-08-2026     Charges for PORD          U69853205       -                                                        5.61                                8,87,812.66
+11:39:54       Customer
+               Payment:UBINJ26222
+10-08-2026     NEFTO-JIO DIGITAL         U66927520       -                                                   1,099.76                                 8,87,818.27
+11:01:14       LIFE327
+               002908552760
+
+
+
+
+
+
+                                                                                 Page No6
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 7 ---
+10-08-2026     Charges for PORD          U66927520       -                                                        2.66                                8,88,918.03
+11:01:14       Customer
+               Payment:UBINJ26222
+08-08-2026     NEFTO-UPENDRA             T56702889       -                                                  10,000.00                                 8,88,920.69
+19:17:57       KALIKA GUPTA
+               SALAR
+               002906182102
+08-08-2026     Charges for PORD          T56702889       -                                                        2.66                                8,98,920.69
+19:17:57       Customer
+               Payment:UBINJ26220
+08-08-2026     NEFTO-ARJUN B             T56461077       -                                                  15,000.00                                 8,98,923.35
+19:15:40       VAISHYA
+               002906181806
+08-08-2026     Charges for PORD          T56461077       -                                                        5.61                                9,13,923.35
+19:15:40       Customer
+               Payment:UBINJ26220
+08-08-2026     NEFTO-BHARTI              T22409033       -                                                   7,421.83                                 9,13,928.96
+11:37:45       AIRTEL LTD
+               002905814318
+08-08-2026     Charges for PORD          T22409033       -                                                        2.66                                9,21,350.79
+11:37:45       Customer
+               Payment:UBINJ26220
+07-08-2026     NEFTO-MRUNALI S           S82911605       -                                                   8,000.00                                 9,21,353.45
+19:18:36       PARAB
+               002904332812
+07-08-2026     Charges for PORD          S82911605       -                                                        2.66                                9,29,353.45
+19:18:36       Customer
+               Payment:UBINJ26219
+07-08-2026     NEFTO-ARJUN B             S81459788       -                                                  20,000.00                                 9,29,356.11
+19:05:25       VAISHYA
+               002904288583
+07-08-2026     Charges for PORD          S81459788       -                                                        5.61                                9,49,356.11
+19:05:25       Customer
+               Payment:UBINJ26219
+07-08-2026     NEFTO-UPENDRA             S79722738       -                                                  11,000.00                                 9,49,361.72
+18:49:08       KALIKA GUPTA (AXI
+               002904232136
+07-08-2026     Charges for PORD          S79722738       -                                                        5.61                                9,60,361.72
+18:49:08       Customer
+               Payment:UBINK26219
+07-08-2026     NEFTO-RAHUL NANA          S79337485       -                                                   7,000.00                                 9,60,367.33
+18:45:40       JAGTAP
+               002904220535
+07-08-2026     Charges for PORD          S79337485       -                                                        2.66                                9,67,367.33
+18:45:40       Customer
+               Payment:UBINK26219
+07-08-2026     NEFTO-ARVIND              S79099305       -                                                   9,000.00                                 9,67,369.99
+18:43:26       KUMAR CHAUHAN
+               002904213344
+07-08-2026     Charges for PORD          S79099305       -                                                        2.66                                9,76,369.99
+18:43:25       Customer
+               Payment:UBINK26219
+07-08-2026     NEFTO-SHRINIVAS           S78855873       -                                                  22,100.00                                 9,76,372.65
+18:40:56       PATIL 719
+               002904205087
+07-08-2026     Charges for PORD          S78855873       -                                                        5.61                                9,98,472.65
+18:40:56       Customer
+               Payment:UBINK26219
+07-08-2026     NEFTO-PITAMBER            S70730795       -                                                1,30,954.00                                 9,98,478.26
+17:12:22       MUKTESHWAR JHA
+               002903952915
+07-08-2026     Charges for PORD          S70730795       -                                                       17.41                               11,29,432.26
+17:12:22       Customer
+               Payment:UBINJ26219
+06-08-2026     NEFTO-ARVIND              S4247917        -                                                  15,000.00                                11,29,449.67
+18:56:05       KUMAR CHAUHAN
+               002901827296
+06-08-2026     Charges for PORD          S4247917        -                                                        5.61                               11,44,449.67
+18:56:05       Customer
+               Payment:UBINJ26218
+06-08-2026     NEFTO-ARJUN B             S4046505        -                                                   5,000.00                                11,44,455.28
+18:54:04       VAISHYA
+               002901822102
+
+
+
+                                                                                 Page No7
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 8 ---
+06-08-2026     Charges for PORD          S4046505        -                                                        2.66                               11,49,455.28
+18:54:03       Customer
+               Payment:UBINJ26218
+06-08-2026     NEFTO-HANUMAN             S3852990        -                                                   8,870.00                                11,49,457.94
+18:52:09       PRASAD MISHRA
+               002901816560
+06-08-2026     Charges for PORD          S3852990        -                                                        2.66                               11,58,327.94
+18:52:08       Customer
+               Payment:UBINJ26218
+06-08-2026     NEFTO-MRUNALI S           Y84717459       -                                                  21,140.00                                11,58,330.60
+14:41:00       PARAB
+               002901373351
+06-08-2026     Charges for PORD          Y84717459       -                                                        5.61                               11,79,470.60
+14:41:00       Customer
+               Payment:UBINJ26218
+06-08-2026     NEFTO-SATISH              Y68690502       -                                                   5,000.00                                11,79,476.21
+10:53:16       MISHRA
+               002901032744
+06-08-2026     Charges for PORD          Y68690502       -                                                        2.66                               11,84,476.21
+10:53:16       Customer
+               Payment:UBINJ26218
+06-08-2026     NEFTO-UPENDRA             Y68294750       -                                                   5,000.00                                11,84,478.87
+10:47:46       KALIKA GUPTA (AXI
+               002901031400
+06-08-2026     Charges for PORD          Y68294750       -                                                        2.66                               11,89,478.87
+10:47:46       Customer
+               Payment:UBINJ26218
+06-08-2026     RTGS:SUDARSHAN            Y66339343       -                                                                     10,00,000.00          11,89,481.53
+10:19:03       PHARMA INDUS
+               ICICR4202608060050
+               6590
+05-08-2026     NEFTO-SATISH              Y38318265       -                                                  25,683.00                                 1,89,481.53
+20:30:23       MISHRA
+               002899653724
+05-08-2026     Charges for PORD          Y38318265       -                                                        5.61                                2,15,164.53
+20:30:23       Customer
+               Payment:UBINJ26217
+05-08-2026     NEFTO-MAYANK              Y38133769       -                                                1,24,800.00                                 2,15,170.14
+20:28:24       VYAS 002899649328
+
+05-08-2026     Charges for PORD          Y38133769       -                                                      17.41                                 3,39,970.14
+20:28:24       Customer
+               Payment:UBINJ26217
+05-08-2026     RTGSO-SUDARSHAN           Y35870251       -                                               15,00,000.00                                 3,39,987.55
+20:06:21       PHARMA INDU
+               UBINR220260805013
+               16500
+05-08-2026     Charges for PORD          Y35870251       -                                                      58.41                                18,39,987.55
+20:06:20       Customer
+               Payment:UBINH26217
+               316500
+05-08-2026     NEFTO-POOJA               Y30247230       -                                                  21,796.00                                18,40,045.96
+19:15:07       MUKESH JAIN
+               002899480434
+05-08-2026     Charges for PORD          Y30247230       -                                                        5.61                               18,61,841.96
+19:15:07       Customer
+               Payment:UBINJ26217
+05-08-2026     NEFTO-MONICA              Y29682583       -                                                  62,244.00                                18,61,847.57
+19:09:57       SORATHIYA
+               002899467926
+05-08-2026     Charges for PORD          Y29682583       -                                                        5.61                               19,24,091.57
+19:09:57       Customer
+               Payment:UBINJ26217
+05-08-2026     NACH/10/3133716808        Y2836185        -                                                6,80,326.00                                19,24,097.18
+13:50:18       /CHOLAMANDAL
+
+05-08-2026     NEFTO-MRUNALI S           Y569606         -                                                  18,000.00                                26,04,423.18
+13:10:18       PARAB
+               002898795290
+05-08-2026     Charges for PORD          Y569606         -                                                        5.61                               26,22,423.18
+13:10:18       Customer
+               Payment:UBINJ26217
+
+
+
+
+                                                                                 Page No8
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 9 ---
+05-08-2026     NEFTO-MRUNALI S           Y390945         -                                                  20,000.00                                26,22,428.79
+13:07:37       PARAB
+               002898791907
+05-08-2026     Charges for PORD          Y390945         -                                                        5.61                               26,42,428.79
+13:07:37       Customer
+               Payment:UBINJ26217
+04-08-2026     NEFTO-MRUNALI S           X50080186       -                                                   5,000.00                                26,42,434.40
+19:04:06       PARAB
+               002897379730
+04-08-2026     Charges for PORD          X50080186       -                                                        2.66                               26,47,434.40
+19:04:06       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-ARJUN B             X49914033       -                                                  15,000.00                                26,47,437.06
+19:02:40       VAISHYA
+               002897376042
+04-08-2026     Charges for PORD          X49914033       -                                                        5.61                               26,62,437.06
+19:02:39       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-ARVIND              X49730823       -                                                  15,000.00                                26,62,442.67
+19:01:00       KUMAR CHAUHAN
+               002897374257
+04-08-2026     Charges for PORD          X49730823       -                                                        5.61                               26,77,442.67
+19:01:00       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-UPENDRA             X49432073       -                                                  12,600.00                                26,77,448.28
+18:58:19       KALIKA GUPTA (AXI
+               002897373488
+04-08-2026     Charges for PORD          X49432073       -                                                        5.61                               26,90,048.28
+18:58:19       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-ARVIND              X34819478       -                                                  10,000.00                                26,90,053.89
+16:14:43       KUMAR CHAUHAN
+               002897063657
+04-08-2026     Charges for PORD          X34819478       -                                                        2.66                               27,00,053.89
+16:14:43       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-UPENDRA             X9227870        -                                                   7,500.00                                27,00,056.55
+10:20:10       KALIKA GUPTA (AXI
+               002896563943
+04-08-2026     Charges for PORD          X9227870        -                                                        2.66                               27,07,556.55
+10:20:10       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-ARVIND              X9232308        -                                                  12,000.00                                27,07,559.21
+10:20:08       KUMAR CHAUHAN
+               002896564021
+04-08-2026     Charges for PORD          X9232308        -                                                        5.61                               27,19,559.21
+10:20:08       Customer
+               Payment:UBINJ26216
+04-08-2026     NEFTO-MRUNALI S           X9241642        -                                                   3,000.00                                27,19,564.82
+10:20:07       PARAB
+               002896563596
+04-08-2026     Charges for PORD          X9241642        -                                                        2.66                               27,22,564.82
+10:20:07       Customer
+               Payment:UBINJ26216
+01-08-2026     NEFTO-UPENDRA             V17166332       -                                                   3,100.00                                27,22,567.48
+19:12:39       KALIKA GUPTA (AXI
+               002891798931
+01-08-2026     Charges for PORD          V17166332       -                                                        2.66                               27,25,667.48
+19:12:39       Customer
+               Payment:UBINJ26213
+01-08-2026     NEFTO-ARVIND              V16947556       -                                                   3,000.00                                27,25,670.14
+19:10:50       KUMAR CHAUHAN
+               002891791754
+01-08-2026     Charges for PORD          V16947556       -                                                        2.66                               27,28,670.14
+19:10:50       Customer
+               Payment:UBINJ26213
+01-08-2026     NEFTO-RAHUL NANA          V16705153       -                                                   3,000.00                                27,28,672.80
+19:08:32       JAGTAP
+               002891783225
+01-08-2026     Charges for PORD          V16705153       -                                                        2.66                               27,31,672.80
+19:08:32       Customer
+               Payment:UBINJ26213
+
+
+
+
+                                                                                 Page No9
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 10 ---
+01-08-2026    NEFTO-MRUNALI S            V16534949       -                                                  8,000.00                                27,31,675.46
+19:07:03      PARAB
+              002891779650
+01-08-2026    Charges for PORD           V16534949       -                                                       2.66                               27,39,675.46
+19:07:03      Customer
+              Payment:UBINJ26213
+01-08-2026    NEFTO-RUSHIKESH            V16204830       -                                                 20,000.00                                27,39,678.12
+19:04:11      S. DHUDUM
+              002891768503
+01-08-2026    Charges for PORD           V16204830       -                                                       5.61                               27,59,678.12
+19:04:11      Customer
+              Payment:UBINJ26213
+01-08-2026    NEFTO-HETAL                V15977841       -                                                 94,200.00                                27,59,683.73
+19:02:13      HARSH GORADIA
+              002891760801
+01-08-2026    Charges for PORD           V15977841       -                                                       5.61                               28,53,883.73
+19:02:13      Customer
+              Payment:UBINJ26213
+01-08-2026    NEFTO-THAKKAR              V15732598       -                                                 59,800.00                                28,53,889.34
+18:59:50      MANOJ
+              MANSUKHLAL A
+              002891759257
+01-08-2026    Charges for PORD           V15732598       -                                                       5.61                               29,13,689.34
+18:59:50      Customer
+              Payment:UBINJ26213
+01-08-2026    NEFTO-ABHISHEK             V15546562       -                                                 20,000.00                                29,13,694.95
+18:58:11      JAISAL
+              002891757550
+01-08-2026    Charges for PORD           V15546562       -                                                       5.61                               29,33,694.95
+18:58:11      Customer
+              Payment:UBINJ26213
+01-08-2026    NEFT:CHOLAMANDA            V3951830        Sender                                                                      441.00         29,33,700.56
+16:37:28      LAM INVEST AND                             No:HDFCH01163
+              FINANC1470                                 530492
+              HDFCH0116
+
+31-07-2026    NEFTO-ARVIND               U42285493       -                                                  7,000.00                                29,33,259.56
+19:32:56      KUMAR CHAUHAN
+              002889264230
+31-07-2026    Charges for PORD           U42285493       -                                                       2.66                               29,40,259.56
+19:32:56      Customer
+              Payment:UBINJ26212
+31-07-2026    NEFTO-UPENDRA              U42074785       -                                                  8,000.00                                29,40,262.22
+19:30:54      KALIKA GUPTA (AXI
+              002889261504
+31-07-2026    Charges for PORD           U42074785       -                                                       2.66                               29,48,262.22
+19:30:54      Customer
+              Payment:UBINJ26212
+31-07-2026    NEFTO-ARVIND               U41858044       -                                                  2,000.00                                29,48,264.88
+19:28:50      KUMAR CHAUHAN
+              002889261367
+31-07-2026    Charges for PORD           U41858044       -                                                       2.66                               29,50,264.88
+19:28:50      Customer
+              Payment:UBINJ26212
+31-07-2026    RTGS:SUDARSHAN             U35286977       -                                                                    20,00,000.00          29,50,267.54
+18:24:13      PHARMA INDUS
+              ICICR4202607310057
+              6698
+30-07-2026    NEFTO-UPENDRA              T66866980       -                                                 15,000.00                                 9,50,267.54
+19:18:34      KALIKA GUPTA (AXI
+              002886931358
+30-07-2026    Charges for PORD           T66866980       -                                                       5.61                                9,65,267.54
+19:18:34      Customer
+              Payment:UBINJ26211
+30-07-2026    NEFTO-ARJUN B              T66683058       -                                                 20,000.00                                 9,65,273.15
+19:16:59      VAISHYA
+              002886930384
+30-07-2026    Charges for PORD           T66683058       -                                                       5.61                                9,85,273.15
+19:16:59      Customer
+              Payment:UBINJ26211
+30-07-2026    NEFTO-ARVIND               T66413189       -                                                 20,000.00                                 9,85,278.76
+19:14:50      KUMAR CHAUHAN
+              002886928887
+
+
+
+                                                                                Page No10
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 11 ---
+30-07-2026     Charges for PORD          T66413189       -                                                        5.61                               10,05,278.76
+19:14:50       Customer
+               Payment:UBINJ26211
+30-07-2026     RTGSO-POOJA               T44809487       -                                                3,21,651.00                                10,05,284.37
+14:45:38       TOURS  TRAVELS
+               UBINR220260730017
+               86829
+30-07-2026     Charges for PORD          T44809487       -                                                      28.91                                13,26,935.37
+14:45:37       Customer
+               Payment:UBINH26211
+               786829
+30-07-2026     ePAY/To:BILLDESK          T43314347       -                                                   5,522.60                                13,26,964.28
+14:19:56       PAYMENT
+               S/705828512/MPCB
+29-07-2026     RTGS:SUDARSHAN            S89727935       -                                                                     10,00,000.00          13,32,486.88
+18:29:01       PHARMA INDUS
+               ICICR4202607290057
+               0231
+29-07-2026     NEFTO-RAHUL NANA          S89662844       -                                                   4,000.00                                 3,32,486.88
+18:28:13       JAGTAP
+               002884995090
+29-07-2026     Charges for PORD          S89662844       -                                                        2.66                                3,36,486.88
+18:28:13       Customer
+               Payment:UBINJ26210
+29-07-2026     NEFTO-UPENDRA             S89483979       -                                                   5,000.00                                 3,36,489.54
+18:26:12       KALIKA GUPTA (AXI
+               002884994451
+29-07-2026     Charges for PORD          S89483979       -                                                        2.66                                3,41,489.54
+18:26:12       Customer
+               Payment:UBINJ26210
+29-07-2026     NEFTO-VAIBHAV             S89290886       -                                                  19,463.36                                 3,41,492.20
+18:23:53       VIJAY INGLE
+               002884993760
+29-07-2026     Charges for PORD          S89290886       -                                                        5.61                                3,60,955.56
+18:23:52       Customer
+               Payment:UBINJ26210
+29-07-2026     RTGSO-YES BANK            S82818788       -                                                4,67,500.00                                 3,60,961.17
+17:02:44       (STATUTORY P
+               UBINR220260729017
+               17766
+29-07-2026     Charges for PORD          S82818788       -                                                      28.91                                 8,28,461.17
+17:02:44       Customer
+               Payment:UBINH26210
+               717766
+28-07-2026     NEFTO-MAYANK              S25452181       -                                                  39,860.00                                 8,28,490.08
+19:30:48       VYAS 002883233308
+
+28-07-2026     Charges for PORD          S25452181       -                                                        5.61                                8,68,350.08
+19:30:48       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-MRUNALI S           S21648692       -                                                   5,000.00                                 8,68,355.69
+18:52:54       PARAB
+               002883183428
+28-07-2026     Charges for PORD          S21648692       -                                                        2.66                                8,73,355.69
+18:52:54       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-ARVIND              S21536793       -                                                   8,000.00                                 8,73,358.35
+18:51:37       KUMAR CHAUHAN
+               002883183074
+28-07-2026     Charges for PORD          S21536793       -                                                        2.66                                8,81,358.35
+18:51:37       Customer
+               Payment:UBINJ26209
+28-07-2026     eTXN/To:6967021300        S20488294       -                                                  10,000.00                                 8,81,361.01
+18:40:38       01114/exp
+
+28-07-2026     NEFTO-HANUMAN             S20196230       -                                                  11,105.00                                 8,91,361.01
+18:37:25       PRASAD MISHRA
+               002883154096
+28-07-2026     Charges for PORD          S20196230       -                                                        5.61                                9,02,466.01
+18:37:25       Customer
+               Payment:UBINJ26209
+
+
+
+
+
+
+                                                                                Page No11
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 12 ---
+28-07-2026     NEFTO-SAGEER              S20057561       -                                                1,00,000.00                                 9,02,471.62
+18:35:53       AHMED ANSARI
+               002883148873
+28-07-2026     Charges for PORD          S20057561       -                                                        5.61                               10,02,471.62
+18:35:53       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-                    S19856374       -                                                   5,414.00                                10,02,477.23
+18:33:53       BHADRESHBHAI K
+               DESAI 002883141492
+
+28-07-2026     Charges for PORD          S19856374       -                                                        2.66                               10,07,891.23
+18:33:53       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-ARVIND              S19727629       -                                                   3,000.00                                10,07,893.89
+18:32:30       KUMAR CHAUHAN
+               002883136955
+28-07-2026     Charges for PORD          S19727629       -                                                        2.66                               10,10,893.89
+18:32:30       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-MRUNALI S           S19616754       -                                                   7,000.00                                10,10,896.55
+18:31:14       PARAB
+               002883136556
+28-07-2026     Charges for PORD          S19616754       -                                                        2.66                               10,17,896.55
+18:31:14       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-UPENDRA             S19487624       -                                                   5,000.00                                10,17,899.21
+18:29:47       KALIKA GUPTA (AXI
+               002883136164
+28-07-2026     Charges for PORD          S19487624       -                                                        2.66                               10,22,899.21
+18:29:47       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-ARJUN B             S19163459       -                                                  35,000.00                                10,22,901.87
+18:25:59       VAISHYA
+               002883135508
+28-07-2026     Charges for PORD          S19163459       -                                                        5.61                               10,57,901.87
+18:25:59       Customer
+               Payment:UBINJ26209
+28-07-2026     NEFTO-RAJU                Y93327084       -                                                  30,000.00                                10,57,907.48
+11:54:09       GOPALRAI
+               SANGHAVI
+               002882559935
+28-07-2026     Charges for PORD          Y93327084       -                                                        5.61                               10,87,907.48
+11:54:09       Customer
+               Payment:UBINK26209
+28-07-2026     eTXN/To:6967021300        Y92725898       -                                                  10,000.00                                10,87,913.09
+11:44:52       01114/ABHILASH
+               UMESH REDDY
+
+28-07-2026     NEFTO-MRUNALI S           Y92031582       -                                                   3,000.00                                10,97,913.09
+11:34:25       PARAB
+               002882538251
+28-07-2026     Charges for PORD          Y92031582       -                                                        2.66                               11,00,913.09
+11:34:25       Customer
+               Payment:UBINK26209
+27-07-2026     NEFTO-MRUNALI S           Y50097588       -                                                  20,000.00                                11,00,915.75
+18:39:08       PARAB
+               002881289618
+27-07-2026     Charges for PORD          Y50097588       -                                                        5.61                               11,20,915.75
+18:39:07       Customer
+               Payment:UBINJ26208
+27-07-2026     NEFTO-RAHUL NANA          Y48892607       -                                                   3,000.00                                11,20,921.36
+18:25:59       JAGTAP
+               002881265051
+27-07-2026     Charges for PORD          Y48892607       -                                                        2.66                               11,23,921.36
+18:25:59       Customer
+               Payment:UBINJ26208
+27-07-2026     NEFTO-NAVNIT              Y42090644       -                                                  59,571.00                                11,23,924.02
+17:01:45       MOTORS PVT LTD
+               002881103452
+27-07-2026     Charges for PORD          Y42090644       -                                                        5.61                               11,83,495.02
+17:01:45       Customer
+               Payment:UBINJ26208
+
+
+
+
+                                                                                Page No12
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 13 ---
+27-07-2026    eTXN/To:3582010100         Y41315464       -                                                   5,310.00                               11,83,500.63
+16:50:02      50464/KING JUMBO
+              XEROX
+27-07-2026    NEFTO-ARVIND               Y38910346       -                                                   2,000.00                               11,88,810.63
+16:13:49      KUMAR CHAUHAN
+              002881020918
+27-07-2026    Charges for PORD           Y38910346       -                                                       2.66                               11,90,810.63
+16:13:49      Customer
+              Payment:UBINJ26208
+27-07-2026    NEFTO-MRUNALI S            Y38769082       -                                                   8,000.00                               11,90,813.29
+16:11:35      PARAB
+              002881015846
+27-07-2026    Charges for PORD           Y38769082       -                                                       2.66                               11,98,813.29
+16:11:35      Customer
+              Payment:UBINJ26208
+27-07-2026    NEFTO-UPENDRA              Y38646584       -                                                 10,000.00                                11,98,815.95
+16:09:35      KALIKA GUPTA (AXI
+              002881009443
+27-07-2026    Charges for PORD           Y38646584       -                                                       2.66                               12,08,815.95
+16:09:34      Customer
+              Payment:UBINJ26208
+27-07-2026    eTXN/To:1734220100         Y20075751       -                                               2,00,000.00                                12,08,818.61
+11:23:21      00117/GUMMALAMP
+              ATI PEDA ANKAIAH
+
+25-07-2026    NEFTO-                     X6339726        -                                                   4,804.00                               14,08,818.61
+17:50:56      BHADRESHBHAI K
+              DESAI 002878225502
+
+25-07-2026    Charges for PORD           X6339726        -                                                       2.66                               14,13,622.61
+17:50:56      Customer
+              Payment:UBINJ26206
+25-07-2026    NEFTO-VRINDA S             X6160033        -                                               2,93,631.00                                14,13,625.27
+17:48:36      MEHTA
+              002878225185
+25-07-2026    Charges for PORD           X6160033        -                                                      29.21                               17,07,256.27
+17:48:36      Customer
+              Payment:UBINJ26206
+24-07-2026    NEFTO-ARVIND               W42595985       -                                                   7,000.00                               17,07,285.48
+18:11:20      KUMAR CHAUHAN
+              002876741600
+24-07-2026    Charges for PORD           W42595985       -                                                       2.66                               17,14,285.48
+18:11:20      Customer
+              Payment:UBINJ26205
+24-07-2026    NEFTO-TEJAS                W29193491       -                                                   2,250.00                               17,14,288.14
+14:52:20      GOSALIA
+              POWERNET BRO
+              002876434601
+24-07-2026    Charges for PORD           W29193491       -                                                       2.66                               17,16,538.14
+14:52:20      Customer
+              Payment:UBINJ26205
+24-07-2026    NEFTO-RAHUL NANA           W28180918       -                                                   3,000.00                               17,16,540.80
+14:35:34      JAGTAP
+              002876415095
+24-07-2026    Charges for PORD           W28180918       -                                                       2.66                               17,19,540.80
+14:35:33      Customer
+              Payment:UBINJ26205
+23-07-2026    NEFTO-ARVIND               V73676071       -                                                 19,000.00                                17,19,543.46
+18:28:00      KUMAR CHAUHAN
+              002874949362
+23-07-2026    Charges for PORD           V73676071       -                                                       5.61                               17,38,543.46
+18:28:00      Customer
+              Payment:UBINJ26204
+23-07-2026    NEFTO-MRUNALI S            V73514145       -                                                   4,000.00                               17,38,549.07
+18:26:10      PARAB
+              002874948969
+23-07-2026    Charges for PORD           V73514145       -                                                       2.66                               17,42,549.07
+18:26:10      Customer
+              Payment:UBINJ26204
+23-07-2026    NEFTO-POOJA                V67023423       -                                                 67,780.00                                17,42,551.73
+17:04:52      TOURS  TRAVELS
+              002874834065
+
+
+
+
+                                                                                Page No13
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 14 ---
+23-07-2026     Charges for PORD           V67023423       -                                                          5.61                               18,10,331.73
+17:04:52       Customer
+               Payment:UBINK26204
+22-07-2026     NEFTO-MRUNALI S            V3360209        -                                                     9,000.00                                18,10,337.34
+18:28:53       PARAB
+               002873132667
+22-07-2026     Charges for PORD           V3360209        -                                                          2.66                               18,19,337.34
+18:28:53       Customer
+               Payment:UBINJ26203
+22-07-2026     NEFTO-TUSHAR               V2828019        -                                                     5,000.00                                18,19,340.00
+18:23:01       CHANDRAKANT
+               SAWANT
+               002873131501
+22-07-2026     Charges for PORD           V2828019        -                                                          2.66                               18,24,340.00
+18:23:00       Customer
+               Payment:UBINJ26203
+22-07-2026     NEFTO-ARVIND               V2276971        -                                                     5,000.00                                18,24,342.66
+18:16:55       KUMAR CHAUHAN
+               002873120452
+22-07-2026     Charges for PORD           V2276971        -                                                          2.66                               18,29,342.66
+18:16:55       Customer
+               Payment:UBINJ26203
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Page No14
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                  TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

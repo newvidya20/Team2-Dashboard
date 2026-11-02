@@ -1,0 +1,356 @@
+
+--- PAGE 1 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/02/2026 to 28/02/2026 for Account Number 8026481131.
+
+
+                                                                                                                                             INDIAN BANK
+                                                                                                                                        Branch Code :03281
+                                                                                                                            Account Number : 8026481131
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301  3rd Floor  Senate Aura Biplex
+Above Kalyan Jewellers
+S.V. Road  Borivali West
+Mumbai 400092
+
+                Value    Post      Credit Amount           Debit Amount          Closing Balance                    Description
+                 Date    Date
+                02/02/  02/02/   61360                                          -296316012.35          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                       NEFT/UBIN/UBINN52026020222469
+                                                                                                       342/ZAINT HEAL/
+                02/02/  02/02/   1                                              -296316011.35          NO BOOK DEPOSIT TRANSFER
+                 2026   2026                                                                            /IMPS/P2A/603343246332/
+
+                                                                                                       /IMPS/SHANKHESHWAR
+                02/02/  02/02/   748709                                         -295567302.35          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                       RTGS/UTIB/UTIBR72026020200578
+                                                                                                       409/SHANKHES/
+                03/02/  03/02/   561533                                         -295005769.35          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                       RTGS/UTIB/UTIBR72026020300574
+                                                                                                       062/SHANKHES/
+                04/02/  04/02/                          1000058.41              -296005827.76          WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                       RTGS/UTIB/IDIBR52026020400212
+                                                                                                       144/SUDARSHA/.
+                                                                                                        Txn Amt.      1000000.00 Charges.
+                                                                                                       58.41
+                05/02/  05/02/                          1000058.41              -297005886.17          WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                       RTGS/UTIB/IDIBR52026020500215
+                                                                                                       948/SUDARSHA/.
+                                                                                                        Txn Amt.      1000000.00 Charges.
+                                                                                                       58.41
+                06/02/  06/02/                          1000058.41              -298005944.58          WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                       RTGS/ICIC/IDIBR520260206002556
+                                                                                                       77/SUDARSHA/.
+                                                                                                        Txn Amt.      1000000.00 Charges.
+                                                                                                       58.41
+                07/02/  07/02/   300000                                         -297705944.58          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-07/02/2026 UNION
+
+                                                                                                       BANK OF INDIA (UBI)
+                                                                                                        CHQ DEP 549825 400026007 0691
+                07/02/  07/02/   209760                                         -297496184.58          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-07/02/2026 UNION
+
+                                                                                                       BANK OF INDIA (UBI)
+                                                                                                        CHQ DEP 549826 400026007 0691
+
+
+
+
+
+
+
+
+
+                                                                           Page No:1
+
+--- PAGE 2 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/02/2026 to 28/02/2026 for Account Number 8026481131.
+
+
+                Value    Post      Credit Amount           Debit Amount          Closing Balance                   Description
+                 Date    Date
+                11/02/  11/02/   1237104.72                                    -296259079.86          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-11/02/2026 002
+
+                                                                                                       CHQ DEP 980369 380002068 0010
+                11/02/  11/02/   287200                                        -295971879.86          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-11/02/2026 015
+
+                                                                                                       CHQ DEP 090847 143015002 0691
+                11/02/  11/02/   210787.22                                     -295761092.64          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-11/02/2026 002
+
+                                                                                                       CHQ DEP 980368 380002068 0010
+                12/02/  12/02/   662000                                        -295099092.64          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                      RTGS/UTIB/UTIBR72026021200576
+                                                                                                      761/SHANKHES/
+                13/02/  13/02/   389070                                        -294710022.64          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-13/02/2026 002
+
+                                                                                                       CHQ DEP 980370 380002068 2546
+                16/02/  16/02/   400000                                        -294310022.64          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                      RTGS/UTIB/UTIBR72026021600577
+                                                                                                      554/SHANKHES/
+                16/02/  16/02/   94400                                         -294215622.64          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-16/02/2026 UNION
+
+                                                                                                      BANK OF INDIA (UBI)
+                                                                                                       CHQ DEP 549827 400026007 6505
+                16/02/  16/02/   118118                                        -294097504.64          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-16/02/2026 STATE
+
+                                                                                                      BANK OF INDIA
+                                                                                                       CHQ DEP 564827 390002032 6505
+                18/02/  18/02/   100000                                        -293997504.64          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-18/02/2026 UNION
+
+                                                                                                      BANK OF INDIA (UBI)
+                                                                                                       CHQ DEP 549833 400026007 2546
+                18/02/  18/02/   612308                                        -293385196.64          CHEQUE DEPOSIT
+                 2026   2026                                                                           CLEARING-18/02/2026 015
+
+                                                                                                       CHQ DEP 090872 143015002 2546
+                20/02/  20/02/                          5000058                -298385254.64          CAS REMITTANCE THROUGH
+                 2026   2026                                                                          CHEQUE
+
+
+                                                                                                      RTGS/ICIC/IDIBR520260220005380
+                                                                                                      29/SUDARSHA/For LC P
+                                                                                                       Txn Amt.      5000000.00 Charges.
+                                                                                                      58.00
+                20/02/  20/02/                          246900                 -298632154.64          WITHDRAWAL TRANSFER
+                 2026   2026                                                                           GST
+
+                                                                                                      PAYMENT/26022700782299/27AAM
+                                                                                                      CS2601L1Z6
+                20/02/  20/02/                          562358                 -299194512.64          WITHDRAWAL TRANSFER
+                 2026   2026                                                                           GST
+
+                                                                                                      PAYMENT/26022700783370/27AAM
+                                                                                                      CS2601L1Z6
+
+
+
+
+
+
+
+
+
+                                                                           Page No:2
+
+--- PAGE 3 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/02/2026 to 28/02/2026 for Account Number 8026481131.
+
+
+                Value    Post      Credit Amount           Debit Amount          Closing Balance                    Description
+                 Date    Date
+                21/02/  21/02/   183200                                         -299011312.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-21/02/2026 UNION
+
+                                                                                                       BANK OF INDIA (UBI)
+                                                                                                        CHQ DEP 549831 400026007 0010
+                21/02/  21/02/   57960                                          -298953352.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-21/02/2026 015
+
+                                                                                                        CHQ DEP 090844 143015002 0010
+                23/02/  23/02/   59545                                          -298893807.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-23/02/2026 U T I BANK
+
+                                                                                                       LTD
+                                                                                                        CHQ DEP 048888 400211012 2546
+                                                                                                        OWC CHQ RTN 133499 400149003
+                                                                                                       2546 20 Payment stopp
+                23/02/  23/02/                          236                     -298894043.64          CHQ DISHONOUR
+                 2026   2026
+                23/02/  23/02/   95580                                          -298798463.64          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                       NEFT/ICIC/ICICN420260223596765
+                                                                                                       67/FLORAKON (/
+                24/02/  24/02/   18880                                          -298779583.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-24/02/2026 UNION
+
+                                                                                                       BANK OF INDIA (UBI)
+                                                                                                        CHQ DEP 549832 400026007 2546
+                                                                                                        OWC CHQ RTN 176079 500211046
+                                                                                                       2546 02 Exceeds arran
+                24/02/  24/02/                          236                     -298779819.64          CHQ DISHONOUR
+                 2026   2026
+                25/02/  25/02/   455000                                         -298324819.64          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                       NEFT/DEUT/DEUTN5202602250102
+                                                                                                       7106/TATA AIG G/
+                25/02/  25/02/   10620                                          -298314199.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-25/02/2026 229
+
+                                                                                                        CHQ DEP 026265 396229031 2546
+                25/02/  25/02/   283797                                         -298030402.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-25/02/2026 015
+
+                                                                                                        CHQ DEP 090846 143015002 2546
+                26/02/  26/02/   389070                                         -297641332.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-26/02/2026 002
+
+                                                                                                        CHQ DEP 980371 380002068 6505
+                26/02/  26/02/   1100000                                        -296541332.64          NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                       NEFT/ICIC/ICICN420260226514067
+                                                                                                       58/CATION PHA/
+                27/02/  27/02/   165011                                         -296376321.64          CHEQUE DEPOSIT
+                 2026   2026                                                                            CLEARING-27/02/2026 015
+
+                                                                                                        CHQ DEP 090845 143015002 6505
+                28/02/  28/02/                          600058.41               -296976380.05          WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                       RTGS/UBIN/IDIBR52026022800713
+                                                                                                       769/SUDARSHA/.
+                                                                                                        Txn Amt.       600000.00 Charges.
+                                                                                                       58.41
+
+
+
+
+
+                                                                           Page No:3
+
+--- PAGE 4 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/02/2026 to 28/02/2026 for Account Number 8026481131.
+
+
+                   Value     Post        Credit Amount              Debit Amount             Closing Balance                         Description
+                   Date      Date
+                   28/02/   28/02/                              2547007                    -299523387.05              DR INT TRANSACTION
+                    2026    2026
+
+Statement Downloaded by :SUDARSHAN PHARMA INDUSTRIES LIMITED on Mon Mar 02 12:17:05  IST 2026
+
+Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found the a/c
+correct.
+
+END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      Page No:4

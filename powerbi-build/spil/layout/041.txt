@@ -1,0 +1,255 @@
+
+--- PAGE 1 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/04/2026 to 06/05/2026 for Account Number 8026481131.
+
+
+                                                                                                                              INDIAN BANK
+                                                                                                                       MCB FORT MUMBAI
+                                                                                                                 IFSC CODE:IDIB000M367
+                                                             1st FLOOR, UNITED INDIA BUILDING , SIR P M ROAD , FORT MUMBAI
+                                                                                                                        Branch Code :03281
+                                                                                                            Account Number : 8026481131
+                                                                                        Product type :  MICRO-SMALL-ENT-OCC-REPO
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301, 3rd Floor, Senate Aura Biplex,
+Above Kalyan Jewellers
+S.V. Road, Borivali West
+Mumbai - 400092
+Nominee Name :No
+Email : sachin@sudarshanpharma.org
+Statement Date :Wed May 06 12:12:23 IST 2026
+Cleared Balance :592086.06
+Uncleared Amount :0.00
+Drawing Power :00
+Interest Rate : 11.200
+
+               Value   Post       Remitter         Description        Cheque No          DR            CR          Balance
+               Date    Date       Branch
+                                               BALANCE B/F                                                       297161702.
+                                                                                                                         48DR
+              02/04   02/04    MCB FORT        WITHDRAWAL                           1000058.41                   298161760.
+              /2026   /2026    MUMBAI          TRANSFER                                                                  89DR
+                                               RTGS/UTIB/IDIBR52
+                                               026040201384991/S
+                                               UDARSHA/. Txn
+                                               Amt.
+                                               10,00,000.00
+                                               Charges.       58.41
+                                               TRANSFER TO
+                                               98906000129
+              04/04   04/04    SERVICE         CHEQUE DEPO           00549835                       94400.00     298067360.
+              /2026   /2026    BRANCH          CLEARING                                                                  89DR
+                               (CHENNAI)       04/04/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               549835 400026007
+                                               0010
+              07/04   07/04    SERVICE         CHEQUE DEPO           00549834                     124372.00      297942988.
+              /2026   /2026    BRANCH          CLEARING                                                                  89DR
+                               (CHENNAI)       07/04/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               549834 400026007
+                                               0010
+              07/04   07/04    SERVICE         CHEQUE DEPO           00093948                     477900.00      297465088.
+              /2026   /2026    BRANCH          CLEARING                                                                  89DR
+                               (CHENNAI)       07/04/2026 211 CHQ
+                                               DEP 093948
+                                               160211010 0010
+              07/04   07/04    SERVICE         CHEQUE DEPO           00090935                       27117.00     297437971.
+              /2026   /2026    BRANCH          CLEARING                                                                  89DR
+                               (CHENNAI)       07/04/2026 015 CHQ
+                                               DEP 090935
+                                               143015002 0010
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Page No:1
+
+--- PAGE 2 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/04/2026 to 06/05/2026 for Account Number 8026481131.
+
+
+              Value    Post      Remitter         Description        Cheque No          DR            CR          Balance
+               Date    Date       Branch
+              07/04   07/04   MCB FORT         WITHDRAWAL                          1000058.41                   298438030.
+              /2026   /2026   MUMBAI           TRANSFER                                                                30DR
+                                               RTGS/ICIC/IDIBR52
+                                               026040701518609/S
+                                               UDARSHA/. Txn
+                                               Amt.
+                                               10,00,000.00
+                                               Charges.       58.41
+                                               TRANSFER TO
+                                               98906000129
+              08/04   08/04   SERVICE          CHEQUE DEPO          00549836                       94400.00     298343630.
+              /2026   /2026   BRANCH           CLEARING                                                                30DR
+                              (CHENNAI)        08/04/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               549836 400026007
+                                               0010
+              08/04   08/04   SERVICE          CHEQUE DEPO          00090737                     276214.00      298067416.
+              /2026   /2026   BRANCH           CLEARING                                                                30DR
+                              (CHENNAI)        08/04/2026 015 CHQ
+                                               DEP 090737
+                                               143015002 0010
+              13/04   13/04   MCB FORT         WITHDRAWAL                          1000058.41                   299067474.
+              /2026   /2026   MUMBAI           TRANSFER                                                                71DR
+                                               RTGS/UTIB/IDIBR52
+                                               026041301600113/S
+                                               UDARSHA/. Txn
+                                               Amt.
+                                               10,00,000.00
+                                               Charges.       58.41
+                                               TRANSFER TO
+                                               98906000129
+              16/04   16/04   MUMBAI FORT      BY TRANSFER                                         45560.00     299021914.
+              /2026   /2026                    NEFT/SBIN/SBINN5                                                        71DR
+                                               2026041637423576/
+                                               HONOUR LAB/
+                                               TRANSFER FROM
+                                               97167000125
+              17/04   17/04   SERVICE          CHEQUE DEPO          00549838                     132160.00      298889754.
+              /2026   /2026   BRANCH           CLEARING                                                                71DR
+                              (CHENNAI)        17/04/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               549838 400026007
+                                               0010
+              17/04   17/04   SERVICE          CHEQUE DEPO          00549839                     132160.00      298757594.
+              /2026   /2026   BRANCH           CLEARING                                                                71DR
+                              (CHENNAI)        17/04/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               549839 400026007
+                                               0010
+              17/04   17/04   MUMBAI FORT      BY TRANSFER                                       2000000.00     296757594.
+              /2026   /2026                    RTGS/ICIC/ICICR42                                                       71DR
+                                               026041700542642/S
+                                               UDARSHA/
+                                               TRANSFER FROM
+                                               94957000128
+              17/04   17/04   MCB FORT         WITHDRAWAL                          1000058.41                   297757653.
+              /2026   /2026   MUMBAI           TRANSFER                                                                12DR
+                                               RTGS/ICIC/IDIBR52
+                                               026041701700103/S
+                                               UDARSHA/. Txn
+                                               Amt.
+                                               10,00,000.00
+                                               Charges.       58.41
+                                               TRANSFER TO
+                                               98906000129
+              17/04   17/04   SERVICE          CHEQUE DEPO          00090738                     302080.00      297455573.
+              /2026   /2026   BRANCH           CLEARING                                                                12DR
+                              (CHENNAI)        17/04/2026 015 CHQ
+                                               DEP 090738
+                                               143015002 2546
+
+
+
+
+
+                                                                   Page No:2
+
+--- PAGE 3 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/04/2026 to 06/05/2026 for Account Number 8026481131.
+
+               Value    Post      Remitter          Description        Cheque No           DR            CR          Balance
+                Date    Date       Branch
+              17/04    17/04   SERVICE          CHEQUE DEPO            00090736                     276214.00      297179359.
+              /2026    /2026   BRANCH           CLEARING                                                                   12DR
+                               (CHENNAI)        17/04/2026 015 CHQ
+                                                DEP 090736
+                                                143015002 0010
+              17/04    17/04   SERVICE          CHEQUE DEPO            00093949                       47495.00     297131864.
+              /2026    /2026   BRANCH           CLEARING                                                                   12DR
+                               (CHENNAI)        17/04/2026 211 CHQ
+                                                DEP 093949
+                                                160211010 0010
+              20/04    20/04   SERVICE          CHEQUE DEPO            00090739                     323320.00      296808544.
+              /2026    /2026   BRANCH           CLEARING                                                                   12DR
+                               (CHENNAI)        20/04/2026 015 CHQ
+                                                DEP 090739
+                                                143015002 2546
+                                                OWC CHQ RTN
+                                                092078 160211010
+                                                2546 02 Exceeds
+                                                arran
+              22/04    22/04   SERVICE          CHQ DISHONOUR                              236.00                  296808780.
+              /2026    /2026   BRANCH                                                                                      12DR
+                               (CHENNAI)
+              23/04    23/04   MCB FORT         WITHDRAWAL                            1000058.41                   297808838.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   53DR
+                                                RTGS/BKID/IDIBR52
+                                                026042301821728/S
+                                                ACHIN C/. Txn Amt.
+                                                10,00,000.00
+                                                Charges.       58.41
+                                                TRANSFER TO
+                                                98906000129
+              27/04    27/04   MCB FORT         WITHDRAWAL                            1000058.41                   298808896.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   94DR
+                                                RTGS/ICIC/IDIBR52
+                                                026042701855787/S
+                                                UDARSHA/. Txn
+                                                Amt.
+                                                10,00,000.00
+                                                Charges.       58.41
+                                                TRANSFER TO
+                                                98906000129
+              29/04    29/04   SERVICE          CHEQUE DEPO            00090750                     143814.00      298665082.
+              /2026    /2026   BRANCH           CLEARING                                                                   94DR
+                               (CHENNAI)        29/04/2026 015 CHQ
+                                                DEP 090750
+                                                143015002 0010
+              30/04    30/04   MUMBAI FORT      BY TRANSFER                                         2000000.00     296665082.
+              /2026    /2026                    RTGS/ICIC/ICICR42                                                          94DR
+                                                026043000564195/S
+                                                UDARSHA/
+                                                TRANSFER FROM
+                                                94957000128
+              30/04    30/04                    DEBIT INTEREST                        2742831.00                   299407913.
+              /2026    /2026                                                                                               94DR
+   * Statement Downloaded By SUDARSHAN PHARMA INDUSTRIES LIMITED on Wed May 06 12:12:23 IST 2026
+
+
+ Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found
+
+the a/c correct.
+ END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     Page No:3

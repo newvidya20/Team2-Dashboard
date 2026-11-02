@@ -1,0 +1,100 @@
+/// All 25 numbered financial/credit parameters in the supplied credit due diligence PDF; definition caveats and missing evidence are explicit.
+table 'Calculation Register'
+	lineageTag: ae477e96-86f3-42ce-b266-f7fc5c181483
+
+	/// Calculation Numeric
+	measure 'Calculation Numeric' = SWITCH(SELECTEDVALUE('Calculation Register'[No]),1,[EBIT],2,[EBITDA - PDF EBITA],3,[FY Net Profit],4,[EBIT],7,[Current Ratio],8,[Quick Ratio],9,[Debt Equity Ratio],10,[PDF Literal Adjusted Debt Equity],11,[Interest Coverage Ratio],12,[TOL TNW Ratio],13,[Net Profit Margin],14,[Debt EBITDA Ratio],16,[Reserves Equity Proxy],17,[Debtor Days],18,[Creditor Days],19,[Stock Days],20,[Working Capital Ratio])
+		formatString: 0.00
+		displayFolder: Credit Review
+		lineageTag: e4f06ab5-1da7-4308-8be2-b65aa82468c7
+
+	/// Calculation Result
+	measure 'Calculation Result' = VAR V=[Calculation Numeric] VAR U=SELECTEDVALUE('Calculation Register'[Unit]) VAR S=SELECTEDVALUE('Calculation Register'[Evidence Status]) RETURN IF(ISBLANK(V),IF(S="Banking tab","See Banking",IF(S="Finance tab","See Finance","Not available")),SWITCH(U,"Currency","₹ " & FORMAT(V/100000,"#,0.00") & " lakh","Percent",FORMAT(V,"0.00%"),"Days",FORMAT(V,"0.0") & " days",FORMAT(V,"0.00") & "x"))
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: 73024080-8d62-4cff-886a-4569f5a549d8
+
+	/// Calculation Evidence
+	measure 'Calculation Evidence' = SELECTEDVALUE('Calculation Register'[Evidence Status])
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: baa02f54-27fb-4d4f-b6e2-ad45d0da273c
+
+	/// Calculation Color
+	measure 'Calculation Color' = SWITCH(SELECTEDVALUE('Calculation Register'[Evidence Status]),"Missing evidence","#B45309","Definition caveat","#A34D22","Proxy only","#A34D22","#117D75")
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: 43de892d-096c-4e95-85bf-4823bacec5d4
+
+	/// Calculation Count
+	measure 'Calculation Count' = COUNTROWS('Calculation Register')
+		formatString: 0
+		displayFolder: Credit Review
+		lineageTag: f5d89b96-d151-4ea4-98af-6a959cc2287b
+
+	/// Calculation Missing
+	measure 'Calculation Missing' = CALCULATE(COUNTROWS('Calculation Register'),'Calculation Register'[Evidence Status]="Missing evidence")
+		formatString: 0
+		displayFolder: Credit Review
+		lineageTag: da9a7ff7-3f41-4983-ac97-038a3b2246e1
+
+	measure 'Register Scope' = FORMAT([Calculation Count],"0") & " PDF parameters in view"
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: 86ce1461-5554-487e-a1e5-e7bbdbb00135
+
+	column No
+		dataType: int64
+		lineageTag: 13fcf981-cae8-4d9b-8178-fadedaae17a8
+		summarizeBy: none
+		sourceColumn: No
+
+	column Category
+		dataType: string
+		lineageTag: 28e24843-2c0f-4947-94bb-4d7b2fdd335c
+		summarizeBy: none
+		sourceColumn: Category
+
+	column Parameter
+		dataType: string
+		lineageTag: 807880a2-e6de-46f2-8f5e-7ba8156752f7
+		summarizeBy: none
+		sourceColumn: Parameter
+		sortByColumn: No
+
+	column Formula
+		dataType: string
+		lineageTag: 266bf88f-e812-46bf-9d10-bc38d33d2017
+		summarizeBy: none
+		sourceColumn: Formula
+
+	column Metric
+		dataType: string
+		isHidden
+		lineageTag: 40e8e9c1-2209-4d69-8f6e-4f2cdbe7d185
+		summarizeBy: none
+		sourceColumn: Metric
+
+	column Unit
+		dataType: string
+		isHidden
+		lineageTag: 4dde1ac0-780b-4173-8d1f-29d572b00fcd
+		summarizeBy: none
+		sourceColumn: Unit
+
+	column 'Evidence Status'
+		dataType: string
+		lineageTag: fdfff9c3-53e1-4a91-a20d-0bc688e367ae
+		summarizeBy: none
+		sourceColumn: Evidence Status
+
+	column Interpretation
+		dataType: string
+		lineageTag: 89ab0f24-33f8-41b3-ab5e-aa8ac94aaea4
+		summarizeBy: none
+		sourceColumn: Interpretation
+
+	partition 'Calculation Register' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("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",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"No","Category","Parameter","Formula","Metric","Unit","Evidence Status","Interpretation"}), X=Table.TransformColumnTypes(T,{{"No", Int64.Type},{"Category", type text},{"Parameter", type text},{"Formula", type text},{"Metric", type text},{"Unit", type text},{"Evidence Status", type text},{"Interpretation", type text}}) in X
+

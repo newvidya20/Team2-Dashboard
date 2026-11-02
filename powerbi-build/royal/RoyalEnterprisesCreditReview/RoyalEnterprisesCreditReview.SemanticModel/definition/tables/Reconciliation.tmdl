@@ -1,0 +1,80 @@
+/// Only 11 common months, July 2025-May 2026. GST excludes taxes while bank receipts include timing differences. Gap is neither an outstanding balance nor proof of unreported sales.
+table Reconciliation
+	lineageTag: 4c13ab53-2f33-408f-aa1b-4916673d3d1c
+
+	/// Common GST Cr
+	measure 'Common GST Cr' = DIVIDE(SUM('Reconciliation'[GST Supplies]),10000000)
+		formatString: #,0.00
+		lineageTag: 41fe7117-e396-41d3-aa77-b9643a9baca6
+
+	/// Common Credits Cr
+	measure 'Common Credits Cr' = DIVIDE(SUM('Reconciliation'[Gross Bank Credits]),10000000)
+		formatString: #,0.00
+		lineageTag: 305e7364-945e-42d4-bca4-842ce811d78a
+
+	/// Common Adjusted Cr
+	measure 'Common Adjusted Cr' = DIVIDE(SUM('Reconciliation'[Adjusted Credit Candidates]),10000000)
+		formatString: #,0.00
+		lineageTag: c980ec9e-28d8-45c1-8816-74c4b6073fc3
+
+	/// Common Gap Cr
+	measure 'Common Gap Cr' = [Common Adjusted Cr]-[Common GST Cr]
+		formatString: #,0.00
+		lineageTag: 91ea7b58-4571-4867-b303-913b789d138a
+
+	/// Common Months
+	measure 'Common Months' = COUNTROWS('Reconciliation')
+		formatString: 0
+		lineageTag: 2a06fe81-b1be-464f-9a22-fe749f6a5378
+
+	column Month
+		dataType: string
+		lineageTag: 2ee1bf83-a807-4699-961f-a6feff1c6512
+		summarizeBy: none
+		sourceColumn: Month
+
+	column 'GST Supplies'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 570c5b47-104c-4443-ab2b-70b7a42e850e
+		summarizeBy: none
+		sourceColumn: GST Supplies
+
+	column 'Gross Bank Credits'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 326d8625-4bf8-486d-ad58-59acf437bfd4
+		summarizeBy: none
+		sourceColumn: Gross Bank Credits
+
+	column 'Internal Credits'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 402a8586-76b7-4302-8d7a-f9fb8b062beb
+		summarizeBy: none
+		sourceColumn: Internal Credits
+
+	column 'Loan Candidates'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0860d67a-7f28-4c20-b875-83b4a6902fbe
+		summarizeBy: none
+		sourceColumn: Loan Candidates
+
+	column 'Adjusted Credit Candidates'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: fa221a45-cbb2-4f9c-a32b-838c55e27208
+		summarizeBy: none
+		sourceColumn: Adjusted Credit Candidates
+
+	column Status
+		dataType: string
+		lineageTag: 59965951-f662-4f4f-9630-b23de0cad434
+		summarizeBy: none
+		sourceColumn: Status
+
+	partition Reconciliation = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/62Uy2obQRBFf6WZ9Wio94OsssoHxDvjhWIPwiBLRhYG/73pbrdMILvMrmr6Qp++t2ru7ycCsh3gNBdWCs90WmAumKGJol4bUwCAWkk4mmdXMFi6R22mn4fDZT3sr2t5PL+87i/Pb+dTOZ+OHz/K6/5y/dgd1/f1WH79vivr+/PTenpcy/7P23q6Tg9zGRg0zYWSIzWt3UeZyozKtWFFHRwJaNBIKRHRVHFDDq52GAeQJS1i9bXoYeG0OM+FAwaJolErMDwZSLtiCxDdgVdDyImCs0VBEEFp8NWMXJhRgrtloIzi3hQbYUTFMJUgxeYzCRBzZMulTUe7uwNw+u1sI4CsAGICiaz9lcgOHPovAIC4nW0DgNAcyEBKahNPLCSUxovJXMRxIChHXYumIUHRDGuajUjqqhKnoKC1WzAZGYhycW8xDRJXM0lrnzEokZ03DAX7tiIgGlmbekIXSAD7OxUODuslIYODdMVG2yqVA1ghGXAxbCvDIqHdBvJvR0ZFmExDsRGHTtVndHYBWjBqGAYy/hTWqs5xs4Y0IofivzgePgFNq5bmzQUAAA==",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Month","GST Supplies","Gross Bank Credits","Internal Credits","Loan Candidates","Adjusted Credit Candidates","Status"}), X=Table.TransformColumnTypes(T,{{"Month", type text},{"GST Supplies", type number},{"Gross Bank Credits", type number},{"Internal Credits", type number},{"Loan Candidates", type number},{"Adjusted Credit Candidates", type number},{"Status", type text}}) in X
+

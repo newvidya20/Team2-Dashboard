@@ -1,0 +1,258 @@
+/// Proprietorship accounts. Reported profit is before proprietor income tax; no corporate PAT asserted. Debt includes friend/relative borrowing. Current ratio uses explicitly classified current liabilities, without assumed current maturities. COGS is opening inventory + purchases - closing inventory (labour/freight excluded).
+table Financials
+	lineageTag: 40f99837-0014-4c81-9875-f3c3d6c3f673
+
+	/// Finance Sales Cr
+	measure 'Finance Sales Cr' = DIVIDE(SUM('Financials'[Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: 941fbaad-3333-4b09-bd54-0cc64eb20cf2
+
+	/// Finance Profit Cr
+	measure 'Finance Profit Cr' = DIVIDE(SUM('Financials'[Reported Profit Before Owner Tax]),10000000)
+		formatString: #,0.00
+		lineageTag: c077d0e0-767e-4c7d-8ae6-2c6fc2ba6363
+
+	/// Finance EBITDA Cr
+	measure 'Finance EBITDA Cr' = DIVIDE(SUM('Financials'[EBITDA]),10000000)
+		formatString: #,0.00
+		lineageTag: 25b3989d-743a-4860-997b-cabc9f9cd74e
+
+	/// Finance Capital Cr
+	measure 'Finance Capital Cr' = DIVIDE(SUM('Financials'[Proprietor Capital]),10000000)
+		formatString: #,0.00
+		lineageTag: 765bf960-ab02-410f-90d0-82fc868408c4
+
+	/// Finance Debt Cr
+	measure 'Finance Debt Cr' = DIVIDE(SUM('Financials'[Total Debt]),10000000)
+		formatString: #,0.00
+		lineageTag: 56a6de95-7dcd-46a3-bf2a-4657a712042c
+
+	/// Finance Debtors Cr
+	measure 'Finance Debtors Cr' = DIVIDE(SUM('Financials'[Debtors]),10000000)
+		formatString: #,0.00
+		lineageTag: 3bd6272b-d7cd-4007-8609-778eedf37680
+
+	/// Debt Equity
+	measure 'Debt Equity' = DIVIDE(SUM('Financials'[Total Debt]),SUM('Financials'[Proprietor Capital]))
+		formatString: 0.00"x"
+		lineageTag: bc4fb2b8-0f65-410b-aab9-c9243b179c56
+
+	/// Current Ratio
+	measure 'Current Ratio' = DIVIDE(SUM('Financials'[Current Assets]),SUM('Financials'[Reported Current Liabilities]))
+		formatString: 0.00"x"
+		lineageTag: 12fc1122-d9c2-46b8-a8f7-028a1a67e848
+
+	/// Interest Cover
+	measure 'Interest Cover' = DIVIDE(SUM('Financials'[EBIT]),SUM('Financials'[Interest]))
+		formatString: 0.00"x"
+		lineageTag: 826c2bb7-d767-48e3-b906-5c978a593d35
+
+	/// Reported Margin
+	measure 'Reported Margin' = DIVIDE(SUM('Financials'[Reported Profit Before Owner Tax]),SUM('Financials'[Sales]))
+		formatString: 0.00%
+		lineageTag: f77a2eb9-11f8-44a5-8370-4728bfe7e5c1
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 29c47409-5f42-4055-a4cf-19fa6a5c5368
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	column 'Statement Status'
+		dataType: string
+		lineageTag: 12bc6daa-3f1d-491a-9e3f-965f3172a414
+		summarizeBy: none
+		sourceColumn: Statement Status
+
+	column Sales
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 7b2243ee-0a8b-4f64-a0ef-4caa1ca11b64
+		summarizeBy: none
+		sourceColumn: Sales
+
+	column Purchases
+		dataType: double
+		formatString: #,0.00
+		lineageTag: def2856f-d6ae-49fa-a709-dc1c15459a2d
+		summarizeBy: none
+		sourceColumn: Purchases
+
+	column 'Opening Inventory'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 04f3cf03-19f4-4d3a-b4aa-7ff45e9651ae
+		summarizeBy: none
+		sourceColumn: Opening Inventory
+
+	column Inventory
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 7241da63-ca73-496f-9a13-6f32fe8a9de9
+		summarizeBy: none
+		sourceColumn: Inventory
+
+	column 'Reported Profit Before Owner Tax'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: a0fb1ac7-8e45-4193-8477-85ec177fe48f
+		summarizeBy: none
+		sourceColumn: Reported Profit Before Owner Tax
+
+	column Interest
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 58a30170-17fb-4f45-850e-ce2bb0754644
+		summarizeBy: none
+		sourceColumn: Interest
+
+	column Depreciation
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 6fa6ef0e-2bf4-4c32-9789-2f51b622f0a1
+		summarizeBy: none
+		sourceColumn: Depreciation
+
+	column 'Proprietor Capital'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: a172ece9-4130-4603-8bc7-a59a04de42a5
+		summarizeBy: none
+		sourceColumn: Proprietor Capital
+
+	column 'Secured Debt'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: ddf70b1b-e2ec-4b1a-adb3-dd6038da7448
+		summarizeBy: none
+		sourceColumn: Secured Debt
+
+	column 'Unsecured Debt'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: c306823e-a351-4ee8-92e1-ffa4db0d31ca
+		summarizeBy: none
+		sourceColumn: Unsecured Debt
+
+	column 'Friends and Relatives Debt'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0930a2c6-ffd1-46c2-8417-2353c79b97c5
+		summarizeBy: none
+		sourceColumn: Friends and Relatives Debt
+
+	column Creditors
+		dataType: double
+		formatString: #,0.00
+		lineageTag: e6be9723-9fb9-4c81-ad10-b4b64389f08e
+		summarizeBy: none
+		sourceColumn: Creditors
+
+	column 'Other Payables'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 261fcd3a-fbbe-4e75-8daa-b7a8d6d3f4fc
+		summarizeBy: none
+		sourceColumn: Other Payables
+
+	column Debtors
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 7c0c2ad1-41b9-43be-8f8d-6e77cd9a7c19
+		summarizeBy: none
+		sourceColumn: Debtors
+
+	column 'Loans and Advances'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 6e636c85-ad90-4d3b-ac0a-e6bf089c8278
+		summarizeBy: none
+		sourceColumn: Loans and Advances
+
+	column 'Gold and Ornaments'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0a1a764f-e150-4dea-96a7-a1257912f9ec
+		summarizeBy: none
+		sourceColumn: Gold and Ornaments
+
+	column 'Cash and Bank'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 437435d6-ad2c-4634-bd5a-98d483884c22
+		summarizeBy: none
+		sourceColumn: Cash and Bank
+
+	column 'Fixed Assets'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 08dbeb8a-1b6e-4cf1-9738-28f7a58f97d5
+		summarizeBy: none
+		sourceColumn: Fixed Assets
+
+	column 'Total Assets'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 5895832b-2b07-4be6-8a51-ec669f93b6ab
+		summarizeBy: none
+		sourceColumn: Total Assets
+
+	column Source
+		dataType: string
+		lineageTag: ee0a41dc-fe39-476a-958e-707ac774c6c9
+		summarizeBy: none
+		sourceColumn: Source
+
+	column 'Total Debt'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: df74a455-9ef0-4a70-89ac-a35e3685ae8e
+		summarizeBy: none
+		sourceColumn: Total Debt
+
+	column 'Current Assets'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 01dfc09c-5e84-4656-a76c-2fae4c6a04cd
+		summarizeBy: none
+		sourceColumn: Current Assets
+
+	column 'Reported Current Liabilities'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 8400dd75-1024-46a6-8d68-e47d51468254
+		summarizeBy: none
+		sourceColumn: Reported Current Liabilities
+
+	column 'Outside Liabilities'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: b5e09be9-755c-4079-908e-67e2bb171e10
+		summarizeBy: none
+		sourceColumn: Outside Liabilities
+
+	column EBIT
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 8da007b3-cee4-4240-85f2-acfe907a1de7
+		summarizeBy: none
+		sourceColumn: EBIT
+
+	column EBITDA
+		dataType: double
+		formatString: #,0.00
+		lineageTag: cc108539-ca7c-4efe-a6f3-66f2785d3eb2
+		summarizeBy: none
+		sourceColumn: EBITDA
+
+	column COGS
+		dataType: double
+		formatString: #,0.00
+		lineageTag: c7cf711c-f606-4755-b4e3-e7914afdac08
+		summarizeBy: none
+		sourceColumn: COGS
+
+	partition Financials = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/2XTy2oUQRQG4Fc59Eqhpjn3C66GEI2iQXQlksWYGXVwNMFRwZ3P4qP5JHI6Srwsu7voOv/3V718OTGyrFinAdP683b/abedBoRxcDnzgCBFFleZzZcPpmkDmDXJcAAjSbDzAHEuVZxVB5S5Kc5lA1zJyIIGmCJh4ow8gIlU2W+W4IDwYgkZkGQaOCAx2cx4QPYL45ligKiV44ASq7A5+v+CjG4z2oAqRg3TuWLAdP8F/Eo3X29fw49v3+F682Z3BFnp8nS83HyAy7e7y3e7LXzZHz9vDoev0wB2U5OePwYUF7JnzbXMgpEqA8TQhFKWJSzhHshLdNZgYZVZqvVKECtyNr8YsHDriu1vbkYksfLCAVRqHhqZfyCLkYZl14GsxaENVCbNmsQivuQnLmOzNqUqrCgdoFqSLDZAyqkQe5dEMWm+yijr9Skq3e5Sx2/ndEeh7tuUPZWXvtgEycpkefrl3LH+d54GEKq2TnWgsCwi6vmQRaRnYdFCseZKUXW1AVFkXkk3sYo4wuTW0Fbsbfj049WX/XF/9WFzmAYISlCFWHfSRwFResJbPjNWF5QBROaCtWBgY/Xh80JuUhZDLBIfYOyZ7O2MjKScCxChU2ZR34m+EosZixT3Nn8IEqtpevZFaELMARqaJMw0YDo/PX22fgQPztbnz89erJ/Aydn65Ozx+vwhXN+GWxHcobv/8NKK78Hrq8N29xHe74+Hzavd4Qg3bfiKo+2FM8uzBiihpCt1dvQilfJOWomKfaWJLbmqHYjdutI+zoUoSB56cfETZylVlS8EAAA=",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Financial Year","Statement Status","Sales","Purchases","Opening Inventory","Inventory","Reported Profit Before Owner Tax","Interest","Depreciation","Proprietor Capital","Secured Debt","Unsecured Debt","Friends and Relatives Debt","Creditors","Other Payables","Debtors","Loans and Advances","Gold and Ornaments","Cash and Bank","Fixed Assets","Total Assets","Source","Total Debt","Current Assets","Reported Current Liabilities","Outside Liabilities","EBIT","EBITDA","COGS"}), X=Table.TransformColumnTypes(T,{{"Financial Year", type text},{"Statement Status", type text},{"Sales", type number},{"Purchases", type number},{"Opening Inventory", type number},{"Inventory", type number},{"Reported Profit Before Owner Tax", type number},{"Interest", type number},{"Depreciation", type number},{"Proprietor Capital", type number},{"Secured Debt", type number},{"Unsecured Debt", type number},{"Friends and Relatives Debt", type number},{"Creditors", type number},{"Other Payables", type number},{"Debtors", type number},{"Loans and Advances", type number},{"Gold and Ornaments", type number},{"Cash and Bank", type number},{"Fixed Assets", type number},{"Total Assets", type number},{"Source", type text},{"Total Debt", type number},{"Current Assets", type number},{"Reported Current Liabilities", type number},{"Outside Liabilities", type number},{"EBIT", type number},{"EBITDA", type number},{"COGS", type number}}) in X
+

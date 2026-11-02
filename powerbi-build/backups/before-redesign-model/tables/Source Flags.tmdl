@@ -1,0 +1,59 @@
+/// Historical provider flags as supplied, as of December 2024; not independently verified current findings.
+table 'Source Flags'
+	lineageTag: c05e6268-c94e-4c63-b7f9-88f6f6e9a712
+
+	/// Historical Red Flags
+	measure 'Historical Red Flags' = COUNTROWS(FILTER('Source Flags','Source Flags'[Severity]="Red"))
+		formatString: #,0
+		displayFolder: Compliance
+		lineageTag: 174c59d8-fdac-4dc3-ae1a-8261ba92a1ab
+
+	column Area
+		dataType: string
+		lineageTag: b4afea85-f27a-459c-baaf-a9ec57a78b59
+		summarizeBy: none
+		sourceColumn: Area
+
+	column Flag
+		dataType: string
+		lineageTag: 3b00ee31-ceba-4e0f-b7e6-501dc73d72e3
+		summarizeBy: none
+		sourceColumn: Flag
+
+	column Details
+		dataType: string
+		lineageTag: 38a1d644-143c-4f76-920e-42f506ef0df8
+		summarizeBy: none
+		sourceColumn: Details
+
+	column Severity
+		dataType: string
+		lineageTag: faaac174-d5bc-40a0-ae2a-36d25477e1d6
+		summarizeBy: none
+		sourceColumn: Severity
+
+	column Source
+		dataType: string
+		lineageTag: 7fb6c681-ecbf-46c8-8b38-5a9e9a5e1031
+		summarizeBy: none
+		sourceColumn: Source
+
+	column 'Source Row'
+		dataType: double
+		lineageTag: 8655c205-eafe-462f-82ef-a436071d34ac
+		summarizeBy: sum
+		sourceColumn: Source Row
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition 'Source Flags' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/5WSQW/aQBCF/8qTpUqkcips0pZWvRBTEFKaWEAPUcRhMWOzwp6ls2MQ/z5aq02UQxW4z+73vXnz9BRN3YGEDRcU486qrYxaxx6GNxhTadpafRRHmWO13LrWY0y1OcEySltbruBKTBdLzElb4SiOrqM4mtMmiqOJDR9bU+PoZLd2bge/JVIkUZz0V/HZ9Hv3Ss3NqSHWgP2ZT/7ypkLE7xGTC4jZlv60hFvXckHIjCf85g0Jxtar2EKRuVYUvYc98VUUR3lNYagOyNIJCuPJo+3e6JYwypa4p8qpNeuaMGOv0nZBAtlTETTAbbMmQTIYhqhvWR5q1uftNr0kqdjGsqnPCXlmtYMOL67dI3PN3rAl/xHX+I9R/KLTuWVCG6uYG7Vcdd2++QgLlbbY4aEssT7hVzY6X+wmiN06EXcMl5sbVepudunU1AgxkW2NVORhuZBQ6SZQGicE3RpG0u9/CN3Uxiv06NBLr/BIRjx6aZJ8+jL8jH+rGoUy33P6GpxeJ3KS0kkTltRtIzdiGlKS0NXCVmxLWxjWF78gM+MDsTo54Y4OVIfRs/nDC/gzVhLy4S4OJKYi/ECK3uTxO9J+OrhO++nNZem/rVbP9dkvUYUEAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Area","Flag","Details","Severity","Source","Source Row"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Area", type text},{"Flag", type text},{"Details", type text},{"Severity", type text},{"Source", type text},{"Source Row", type nullable number}}, "en-US")
+				in Typed
+

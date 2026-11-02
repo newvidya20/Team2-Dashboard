@@ -1,0 +1,111 @@
+{
+  "pages": 28,
+  "originalDashboardTabs": 4,
+  "tableSections": [
+    {
+      "section": "Filing and return evidence | INR",
+      "year": null,
+      "rows": 74,
+      "pages": 4,
+      "transactionPreview": false
+    },
+    {
+      "section": "Checklist coverage & supporting records",
+      "year": null,
+      "rows": 6,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "Account flows | INR crore",
+      "year": null,
+      "rows": 7,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "Party-wise receipts and payments | INR crore",
+      "year": null,
+      "rows": 15,
+      "pages": 1,
+      "transactionPreview": true
+    },
+    {
+      "section": "Returns and penal-charge candidates",
+      "year": null,
+      "rows": 4,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "CC source snapshot and statement differences | INR",
+      "year": null,
+      "rows": 5,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "Transaction evidence | INR | Source ID resolves to SourceInventory.json",
+      "year": null,
+      "rows": 15,
+      "pages": 1,
+      "transactionPreview": true
+    },
+    {
+      "section": "Checklist coverage & supporting records",
+      "year": null,
+      "rows": 6,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "Monthly bridge with coverage counts | INR",
+      "year": null,
+      "rows": 16,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "Checklist coverage & supporting records",
+      "year": null,
+      "rows": 3,
+      "pages": 1,
+      "transactionPreview": false
+    },
+    {
+      "section": "Formula, result and evidence register | Scroll to review all 25 parameters",
+      "year": "2023-24",
+      "rows": 25,
+      "pages": 2,
+      "transactionPreview": false
+    },
+    {
+      "section": "Formula, result and evidence register | Scroll to review all 25 parameters",
+      "year": "2024-25",
+      "rows": 25,
+      "pages": 2,
+      "transactionPreview": false
+    },
+    {
+      "section": "Formula, result and evidence register | Scroll to review all 25 parameters",
+      "year": "2025-26",
+      "rows": 25,
+      "pages": 2,
+      "transactionPreview": false
+    },
+    {
+      "section": "Facility schedule | INR",
+      "year": null,
+      "rows": 32,
+      "pages": 2,
+      "transactionPreview": false
+    }
+  ],
+  "transactionRowsRetained": 25180,
+  "summaryYear": "2025-26",
+  "allYearsPrinted": [
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ]
+}

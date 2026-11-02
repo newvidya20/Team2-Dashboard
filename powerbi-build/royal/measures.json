@@ -1,0 +1,226 @@
+[
+  {
+    "name": "GST Sales Cr",
+    "tableName": "GST Monthly",
+    "expression": "DIVIDE(SUM('GST Monthly'[Total Outward Supplies]),10000000)",
+    "formatString": "#,0.00",
+    "description": "GST Sales Cr"
+  },
+  {
+    "name": "Taxable Sales Cr",
+    "tableName": "GST Monthly",
+    "expression": "DIVIDE(SUM('GST Monthly'[Taxable Sales]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Taxable Sales Cr"
+  },
+  {
+    "name": "Exempt Sales Cr",
+    "tableName": "GST Monthly",
+    "expression": "DIVIDE(SUM('GST Monthly'[Exempt Sales]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Exempt Sales Cr"
+  },
+  {
+    "name": "Zero Rated Cr",
+    "tableName": "GST Monthly",
+    "expression": "DIVIDE(SUM('GST Monthly'[Zero Rated Sales]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Zero Rated Cr"
+  },
+  {
+    "name": "GST Late Fee",
+    "tableName": "GST Monthly",
+    "expression": "SUM('GST Monthly'[Late Fee])",
+    "formatString": "₹ #,0.00",
+    "description": "GST Late Fee"
+  },
+  {
+    "name": "GST Filings",
+    "tableName": "GST Monthly",
+    "expression": "COUNTROWS('GST Monthly')",
+    "formatString": "0",
+    "description": "GST Filings"
+  },
+  {
+    "name": "Zero Rated Share",
+    "tableName": "GST Monthly",
+    "expression": "DIVIDE([Zero Rated Cr],[GST Sales Cr])",
+    "formatString": "0.00%",
+    "description": "Zero Rated Share"
+  },
+  {
+    "name": "Bank Credits Cr",
+    "tableName": "Bank Transactions",
+    "expression": "DIVIDE(SUM('Bank Transactions'[Credit]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Bank Credits Cr"
+  },
+  {
+    "name": "Bank Debits Cr",
+    "tableName": "Bank Transactions",
+    "expression": "DIVIDE(SUM('Bank Transactions'[Debit]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Bank Debits Cr"
+  },
+  {
+    "name": "Adjusted BTO Cr",
+    "tableName": "Bank Transactions",
+    "expression": "DIVIDE(SUM('Bank Transactions'[BTO Eligible]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Adjusted BTO Cr"
+  },
+  {
+    "name": "Cash Deposits Cr",
+    "tableName": "Bank Transactions",
+    "expression": "DIVIDE(SUM('Bank Transactions'[Cash Deposit]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Cash Deposits Cr"
+  },
+  {
+    "name": "Loan Candidates Cr",
+    "tableName": "Bank Transactions",
+    "expression": "DIVIDE(SUM('Bank Transactions'[Loan Credit Candidate]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Loan Candidates Cr"
+  },
+  {
+    "name": "Credit Entries",
+    "tableName": "Bank Transactions",
+    "expression": "COUNTROWS(FILTER('Bank Transactions','Bank Transactions'[Credit]>0))",
+    "formatString": "#,0",
+    "description": "Credit Entries"
+  },
+  {
+    "name": "Return Candidates",
+    "tableName": "Bank Transactions",
+    "expression": "COUNTROWS(FILTER('Bank Transactions','Bank Transactions'[Return Type]<>\"No return marker\"))",
+    "formatString": "#,0",
+    "description": "Return Candidates"
+  },
+  {
+    "name": "Penal Charge Candidates",
+    "tableName": "Bank Transactions",
+    "expression": "SUM('Bank Transactions'[Penal Charges])",
+    "formatString": "₹ #,0.00",
+    "description": "Penal Charge Candidates"
+  },
+  {
+    "name": "Internal Credits Cr",
+    "tableName": "Bank Transactions",
+    "expression": "DIVIDE(CALCULATE(SUM('Bank Transactions'[Credit]),'Bank Transactions'[Internal Match]=\"Confirmed reciprocal transfer\"),10000000)",
+    "formatString": "#,0.00",
+    "description": "Internal Credits Cr"
+  },
+  {
+    "name": "Common GST Cr",
+    "tableName": "Reconciliation",
+    "expression": "DIVIDE(SUM('Reconciliation'[GST Supplies]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Common GST Cr"
+  },
+  {
+    "name": "Common Credits Cr",
+    "tableName": "Reconciliation",
+    "expression": "DIVIDE(SUM('Reconciliation'[Gross Bank Credits]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Common Credits Cr"
+  },
+  {
+    "name": "Common Adjusted Cr",
+    "tableName": "Reconciliation",
+    "expression": "DIVIDE(SUM('Reconciliation'[Adjusted Credit Candidates]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Common Adjusted Cr"
+  },
+  {
+    "name": "Common Gap Cr",
+    "tableName": "Reconciliation",
+    "expression": "[Common Adjusted Cr]-[Common GST Cr]",
+    "formatString": "#,0.00",
+    "description": "Common Gap Cr"
+  },
+  {
+    "name": "Common Months",
+    "tableName": "Reconciliation",
+    "expression": "COUNTROWS('Reconciliation')",
+    "formatString": "0",
+    "description": "Common Months"
+  },
+  {
+    "name": "Finance Sales Cr",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Sales]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Finance Sales Cr"
+  },
+  {
+    "name": "Finance Profit Cr",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Reported Profit Before Owner Tax]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Finance Profit Cr"
+  },
+  {
+    "name": "Finance EBITDA Cr",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[EBITDA]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Finance EBITDA Cr"
+  },
+  {
+    "name": "Finance Capital Cr",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Proprietor Capital]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Finance Capital Cr"
+  },
+  {
+    "name": "Finance Debt Cr",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Total Debt]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Finance Debt Cr"
+  },
+  {
+    "name": "Finance Debtors Cr",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Debtors]),10000000)",
+    "formatString": "#,0.00",
+    "description": "Finance Debtors Cr"
+  },
+  {
+    "name": "Debt Equity",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Total Debt]),SUM('Financials'[Proprietor Capital]))",
+    "formatString": "0.00\"x\"",
+    "description": "Debt Equity"
+  },
+  {
+    "name": "Current Ratio",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Current Assets]),SUM('Financials'[Reported Current Liabilities]))",
+    "formatString": "0.00\"x\"",
+    "description": "Current Ratio"
+  },
+  {
+    "name": "Interest Cover",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[EBIT]),SUM('Financials'[Interest]))",
+    "formatString": "0.00\"x\"",
+    "description": "Interest Cover"
+  },
+  {
+    "name": "Reported Margin",
+    "tableName": "Financials",
+    "expression": "DIVIDE(SUM('Financials'[Reported Profit Before Owner Tax]),SUM('Financials'[Sales]))",
+    "formatString": "0.00%",
+    "description": "Reported Margin"
+  },
+  {
+    "name": "Monthly EMI Lakh",
+    "tableName": "Loan Schedule",
+    "expression": "DIVIDE(SUM('Loan Schedule'[Monthly EMI]),100000)",
+    "formatString": "#,0.00",
+    "description": "Monthly EMI Lakh"
+  }
+]

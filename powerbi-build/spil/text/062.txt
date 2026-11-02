@@ -1,0 +1,135 @@
+
+--- PAGE 1 ---
+Statement of AccountSUDARSHAN PHARMA INDUSTRIES LIMITED
+C/O SUDARSHAN PHARMA INDUSTRIA P L
+301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER
+S V ROAD BORIVALI  WEST
+MUMBAI
+MAHARASHTRA
+INDIA
+400092
+919819267453
+sudarshanspeciality@gmail.com
+Statement Date : 04/04/2026 11:28
+Union Bank of India
+LOKHANDWALACOMPLEX
+Customer Id 263166590
+Account No 696701010050084
+Account Currency INR
+Account Type Current Account
+MICR Code 400026176
+IFSC Code UBIN0569674
+CKYC Number 70082478095339
+Date Tran Id-1Remarks UTR Number Instr. ID Withdrawals Deposits Balance
+22-03-2026
+07:51:05
+X53537300Sms Charges For Mar
+Qtr ,2026
+- 12.39 1,13,162.12
+20-03-2026
+12:03:44
+W31576170NACH/10/3248290682
+/HDFC BANK L
+- 1,49,584.00 1,13,174.51
+15-03-2026
+11:33:18
+S81277410MAND DR- TCP2589- - 61,570.00 2,62,758.51
+15-03-2026
+10:18:06
+S76049897NACH/10/3224974361
+/HDFC BANK L
+- 55,814.00 3,24,328.51
+10-03-2026
+13:43:15
+W33952351MAND DR- TCP2589- - 1,46,870.00 3,80,142.51
+06-03-2026
+16:24:32
+T54124136eTXN/By:6967050100
+00102
+- 1,00,000.00 5,27,012.51
+05-03-2026
+16:24:04
+S82551636NEFTO-ARVIND
+KUMAR CHAUHAN
+002606122135
+- 29,083.00 4,27,012.51
+05-03-2026
+16:24:04
+S82551636Charges for PORD
+Customer
+Payment:UBINJ26064
+- 5.61 4,56,095.51
+05-03-2026
+15:18:47
+S77928946NACH/10/3166189649
+/CHOLAMANDAL
+- 6,80,326.00 4,56,101.12
+05-03-2026
+11:09:15
+S58729273NACH/10/3151485982
+/TATACAPITAL
+- 5,84,195.00 11,36,427.12
+04-03-2026
+11:19:30
+Y95398236NEFTO-MRUNALI S
+PARAB
+002604038615
+- 4,000.00 17,20,622.12
+04-03-2026
+11:19:30
+Y95398236Charges for PORD
+Customer
+Payment:UBINJ26063
+- 2.66 17,24,622.12
+04-03-2026
+11:15:19
+Y95109167eTXN/By:6967050100
+00102
+- 15,00,000.00 17,24,624.78
+02-03-2026
+11:08:12
+X46549986RTGSO-SUDARSHAN
+PHARMA INDU
+UBINR220260302013
+01367
+- 25,00,000.00 2,24,624.78
+Records from 1 to 17. No more records available.
+City
+State
+Country
+Zip
+Mobile No
+E-mail
+Branch
+Statement Period From -01/03/2026  To 31/03/2026
+Page No1
+For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+02-03-2026
+11:08:12
+X46549986Charges for PORD
+Customer
+Payment:UBINH26061
+301367
+- 58.41 27,24,624.78
+02-03-2026
+11:03:50
+X46236532RTGSO-SUDARSHAN
+PHARMA INDU
+UBINR220260302013
+00146
+- 45,00,000.00 27,24,683.19
+02-03-2026
+11:03:50
+X46236532Charges for PORD
+Customer
+Payment:UBINH26061
+300146
+- 58.41 72,24,683.19
+Page No2
+For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

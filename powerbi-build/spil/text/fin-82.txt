@@ -1,0 +1,526 @@
+
+--- PAGE 1 ---
+Acknowledgement Number:707802321151124
+Date of filing : 
+15-Nov-2024
+INDIAN INCOME TAX RETURN ACKNOWLEDGEMENT
+[Where the data of the Return of Income in Form ITR-1(SAHAJ), ITR-2, ITR-3, 
+ITR-4(SUGAM), ITR-5, ITR-6, ITR-7
+filed and verified]
+(Please see Rule 12 of the Income-tax Rules, 1962)
+Assessment
+Year
+2024-25
+PAN
+AAMCS2601L
+Name
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+Address
+55/547, 
+Mhb Colony, 
+Mahavir Nagar,, 
+Kandivali-West, Mumbai 
+, 
+MUMBAI 
+, 
+19-Maharashtra, 
+91-INDIA, 
+400067
+Status
+6-Public company
+Form Number
+ITR-6
+Filed u/s
+139(1)-On or before due date
+e-Filing Acknowledgement Number
+707802321151124
+Current Year business loss, if any
+1
+0
+Total Income
+2
+14,85,85,360
+Book Profit under MAT, where applicable
+3
+0
+Adjusted Total Income under AMT, where applicable
+4
+0
+Net tax payable
+5
+3,73,95,963
+Interest and Fee Payable
+6
+21,89,040
+Total tax, interest and Fee payable
+7
+3,95,85,003
+Taxes Paid
+8
+1,81,17,813
+(+) Tax Payable /(-) Refundable (7-8)
+9
+(+) 2,14,67,190
+Accreted Income as per section 115TD
+10
+0
+Additional Tax payable u/s 115TD
+11
+0
+Interest payable u/s 115TE
+12
+0
+Additional Tax and interest payable
+13
+0
+Tax and interest paid
+14
+0
+(+) Tax Payable /(-) Refundable (13-14)
+15
+0
+This return has been digitally signed by 
+HEMAL VASANTRAI MEHTA
+ 
+in the capacity of
+Managing Director
+ having PAN 
+ADRPM4657P
+ from IP 
+address 
+103.212.140.133
+o n 
+15-Nov-2024 14:45:38
+ at 
+MUMBAI
+ 
+(Place) DSC SI.No & Issuer 
+2279010
+ &
+439789378571CN=Capricorn Sub CA for Individual DSC 2022,OU=Certifying Authority,O=Capricorn Identity Services Pvt
+Ltd.,C=IN
+System Generated 
+Barcode/QR Code
+AAMCS2601L06707802321151124e9f041aa387cfe90864451e522c4289f9ccfa90d
+ DO NOT SEND THIS ACKNOWLEDGEMENT TO CPC, BENGALURU 
+ 
+Taxable Income and Tax Details
+Accreted Income and Tax Detail
+
+--- PAGE 2 ---
+Name Sudarshan Pharma Industries Limited
+Address 55/547
+Mhb Colony
+Mahavir Nagar
+Kandivali-West, Mumbai - 400 067
+Previous Year 
+PAN 
+Status
+2024-2025
+AAMCS 2601 L
+23-Jul-2008
+Domestic Company
+A.Y.
+2023-2024
+Date of Incorporation
+:
+:
+:
+:
+:
+:
+Opted Tax u/s 115BAA
+Rs. Rs.
+Statement of Income
+Rs.Sch.No
+ Income from House Property
+Let-out properties
+Property-1: 502,, Neelyog Square, Tenant - TATA 
+CAPITAL FINANCIAL SERVICES LIMITED
+1
+Gross annual value 87,99,912 2
+Less: Municipal taxes 0
+Less: Standard deduction u/s 24(a) 26,39,974
+.        Interest on borrowed capital u/s 24(b) 68,66,720 95,06,6943
+Net Income from Property-1 -7,06,782
+Income chargeable under the head "House Property" -2,00,000
+House property Loss - Current year set off not allowed - 
+Section 71(3A)
+5,06,782
+ Profits and gains of Business or Profession
+Business-1
+Net Profit Before Tax as per P & L a/c 15,09,81,302
+Add: Inadmissible expenses & Income not included
+Depreciation debited to P & L a/c 1,22,94,448
+40A disallowance 2,23,563 4
+37 disallowance 21,22,635 5
+36 disallowance 39,962 6
+43B disallowance 2,12,359 12
+Expenses / Losses considered under other heads 68,66,720 2,17,59,6877
+17,27,40,989
+Less: Deductible expenditure & income to be excluded
+Incomes considered separately 87,99,912 8
+Adjusted Profit of Business-1 16,39,41,077
+16,39,41,077Total income of Business and Profession
+1,51,55,718Less: Depreciation as per IT Act 13
+Income chargeable under the head "Business and 
+Profession"
+14,87,85,359
+5,06,782Unabsorbed Losses - C/F 9
+0Less - Brought forward losses set off 14
+ 14,85,85,359Total Income
+2... 
+
+--- PAGE 3 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 2
+14,85,85,360Total income rounded off u/s 288A
+Tax on total income 3,26,88,779
+32,68,878Add: Surcharge
+3,59,57,657Tax with Surcharge
+14,38,306Add: Cess
+3,73,95,963Tax with surcharge and cess
+81,17,813TDS / TCS 10
+1,00,00,000Advance Tax 11
+1,81,17,813Total prepaid taxes
+1,92,78,150Balance Tax
+15,42,248Interest u/s 234B
+6,46,792 21,89,040Interest u/s 234C
+ 2,14,67,190Balance tax payable
+Schedule 1
+Details of property
+502;, Neelyog Square, Ghatkoper, Ghatkoper, 
+Ghatkoper-400077, Maharashtra
+Details of the Tenant
+TANPAN / Aadhaar 
+No.
+SectionName
+AADCT6631LTATA CAPITAL FINANCIAL SERVICES LIMITED
+Details of Owner
+SelfOwner
+100Assessee's share in the property (%)
+Schedule 2
+Description Amount
+Rent 87,99,912
+Schedule 3
+Interest on Borrowed Capital
+AmountParticulars
+Interest 68,66,720
+68,66,720Total
+Schedule 4
+Disallowances of expenditure u/s 40A
+DisallowanceDescription
+40A(7) - Provision for gratuity 2,23,563
+2,23,563Total Disallowance
+3... 
+
+--- PAGE 4 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 3
+Schedule 5
+Disallowances of expenditure u/s 37
+Personal expenditure Expenditure % disallowed Disallowance
+Interest on Income Tax 9,57,228 100 9,57,228
+Other expenditure
+Expenditure on Corporate Social Responsibility (CSR)
+Donation & CSR Expenses 11,65,407
+21,22,635Total Disallowance
+Schedule 6
+Disallowances of expenditure u/s 36
+DisallowanceDescription
+Employees’ contribution to PF/ESI etc. paid after 
+prescribed date or not paid - Section 36(1)(va)
+PF 33,275
+ESIC 6,687 39,962
+39,962Total Disallowance
+Schedule 7
+Expenses / Losses considered under other heads
+Head of IncomeAmountParticulars
+68,66,720 House PropertyInterest on Loan of ICICI
+68,66,720Total
+Schedule 8
+Amount
+Income considered under other heads
+Rent received 87,99,912
+87,99,912Grand total
+Schedule 9
+Unabsorbed 
+Loss
+Description
+House Property loss 5,06,782
+Schedule 10
+TDS as per Form 16A
+TDS TDS claimed Gross receiptDeductor, TAN
+in current yeardeducted offered
+4,132 4,132 41,31,932Aarey Drugs & Pharmaceuticals Limited, TAN- 
+MUMA27895A
+7,096 7,096 70,74,385Accord Chemcorp Private Limited, TAN- MUMM46699C
+2,701 2,701 27,01,000Advent Chembio Private Limited, TAN- MUMA43104F
+4... 
+
+--- PAGE 5 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 4
+10,056 10,056 1,00,55,491Ami Organics Limited, TAN- SRTA03241A
+1,845 1,845 18,45,365Amita Vipulbhai Mehta, TAN- SRTA07610B
+5,253 5,253 29,08,185Amita Vipulbhai Mehta, TAN- SRTA07610B
+1,442 1,442 14,41,600Amjey Chem Trade Private Limited, TAN- HYDA10598A
+2,038 2,038 20,38,300Amjey Chem Trade Private Limited, TAN- RTKA14932B
+1,665 1,665 16,64,600Anandkumar Subhashchand Sethi, TAN- PNEA33343C
+846 846 8,45,600Anil Pranlal Bajaria, TAN- MUMA20672B
+2,558 2,558 25,57,713Apra Innovative Private Limited, TAN- MUMA65493B
+15,235 15,235 1,52,35,077Archroma India Private Limited, TAN- PNEA25074A
+4,085 4,085 40,84,625Arun Goyal, TAN- DELA31057F
+500 500 25,000Aryann Chemical Trading Private Limited, TAN- 
+MUMA62470C
+5,037 5,037 50,37,142Aryann Chemical Trading Private Limited, TAN- 
+MUMA62470C
+1,412 1,412 14,11,863Ashirwad Industries, TAN- PNEA30526G
+5,195 5,195 51,94,800Asian Solvochem Private Limited, TAN- MUMA37541A
+6,565 6,565 65,64,363Ativeer Polychem, TAN- PTLA18815G
+45,937 45,937 4,59,36,500Atul Anilkumar Gandhi, TAN- PNEA24400F
+458 458 4,58,550Atul Limited, TAN- SRTA02608E
+29,685 29,685 2,96,850Aum Solvchem, TAN- RKTA07456B
+43,145 43,145 4,31,44,280Aum Solvchem, TAN- RKTA07456B
+193 193 1,92,588Avantor Performance Materials India Private Limited, TAN- 
+RTKA08086B
+1,74,425 1,74,425 17,44,250Axis Bank Limited, TAN- MUMU05151G
+3,199 3,199 30,16,170Azeocryst Organics Private Limited, TAN- MUMA21569C
+5,475 5,475 54,74,660B C Petro Chem, TAN- BPLB04078E
+17,023 17,023 1,70,20,063B R Agrotech Ltd, TAN- DELB06168B
+1,567 1,567 15,67,040Beevee Enterprises, TAN- MUMB14542D
+1,021 1,021 10,21,000Berger Paints India Limited, TAN- CALB08512A
+842 842 8,42,000Berger Paints India Limited, TAN- HYDB05240E
+265 265 2,64,960Berger Paints India Limited, TAN- MRTB04042D
+1,084 1,084 10,84,000Berger Paints India Limited, TAN- PNEB10893B
+1,163 1,163 11,64,120Berger Paints India LimitedPlot No.316 & 317, TAN- 
+BLRB02817D
+707 707 7,07,000Berger Paints India Ltd Pondicherry 605106, TAN- 
+CHEB02625A
+44,999 44,999 4,50,00,902Bhagwati Industries, TAN- LKNB09080B
+519 519 5,19,000Bharat Siriya Dhaval, TAN- MUMB30907C
+1,881 1,881 18,80,780Bharatkumar & Co, TAN- MUMB10830B
+426 426 4,26,000Biocon Limited, TAN- BLRB00214E
+8,194 8,194 81,95,157Br Agrotech Ltd, TAN- AMRB10887C
+15,583 15,583 7,78,932Brihanmumbai Municipal Corporation (Bmc), TAN- 
+MUMM01325C
+286 286 14,270Brihanmumbai Municipal Corporation (Bmc), TAN- 
+MUMM18433C
+5... 
+
+--- PAGE 6 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 5
+3,789 3,789 37,88,500C J Shah & Company, TAN- MUMC11255G
+1,379 1,379 13,78,825Cadila Pharmaceuticals Ltd, TAN- AHMC00381D
+3,555 3,555 35,55,000Camlin Fine Sciences Limited, TAN- MUMC14766D
+1,30,688 1,30,688 13,06,87,500Chemtrade Global Impex Llp, TAN- MUMC26173A
+2,061 2,061 20,61,460Chemtrade Overseas Private Limited, TAN- MUMC15980G
+2,775 2,775 27,75,010Clariant India Limited, TAN- MUMS63550E
+7,480 7,480 74,81,035Clean Science And Technology Limited, TAN- PNEC06945B
+13,573 13,573 1,35,72,800Cognizant Chemical Private Limited, TAN- PNEC11712B
+98 98 97,775Colour Plus Organics Private Limited, TAN- SRTC00904B
+7,866 7,866 78,65,250Coromandel International Limited, TAN- VPNC00049A
+8,208 8,208 82,07,910Credence Chem Private Limited, TAN- AHMC04695F
+5,172 5,172 51,72,181Crescent Organics Private Limited, TAN- MUMC10295F
+451 451 4,50,500Ctx Lifesciences Private Limited, TAN- SRTC00591D
+14,635 14,635 1,46,34,014Curia India Private Limited, TAN- HYDA05185F
+1,312 1,312 13,12,000Darshan Kantilal Doshi, TAN- MUMD07380C
+27,810 27,810 2,78,09,550Deccan Fine Chemicals (India) Private Limited, TAN- 
+BLRD11000D
+309 309 3,09,000Deccan Fine Chemicals India Pvt Ltd, TAN- BRDD02838D
+287 287 2,87,000Deepak Nitrite Limited, TAN- PNED06711F
+504 504 5,04,000Devyani Atul Mehta, TAN- MUMD25677B
+1,107 1,107 11,07,400Divi"S Laboratories Limited, TAN- HYDD00401C
+1,47,446 1,47,446 14,74,48,615Ebida Trading Co., TAN- MUME11116A
+2,939 2,939 29,38,810Elantas Beck India Limited, TAN- PNEB02788C
+445 445 4,44,800Element Chemilink Pvt. Limited, TAN- BRDE00275C
+91,850 91,850 9,18,480Esaar India Limited, TAN- MUME08927C
+8,580 8,580 85,79,125Esdee Paints Limited, TAN- MUME04963A
+45,330 45,330 4,53,30,382Focus Merchants Limited, TAN- DELF03650D
+46,054 46,054 4,60,54,975Forace Polemers Private Limited, TAN- MRTF00069G
+3,459 3,459 34,59,043Forace Speciality Chem Private Limited, TAN- MRTF00669E
+25,343 25,343 2,53,43,405G B Chemicals, TAN- RKTG05439A
+11 11 10,500Grasim Industries Limited, TAN- BRDG02538E
+16,763 16,763 1,67,63,100Gsp Crop Science Private Limited, TAN- AHMG00810F
+10,795 10,795 1,07,88,769Gujarat Fluorochemicals Limited, TAN- BRDI01194E
+4,110 4,110 41,09,935Haresh Gunvantrai Madia, TAN- PNEH07755G
+430 430 4,29,885Harsvardhan Laboratories Pvt. Ltd., TAN- BPLH00297D
+14,637 14,637 1,46,36,197Hashmi Enterprises Private Limited, TAN- BPLH02790E
+1,976 1,976 19,76,000Hasmukhbhai P Bhadani, TAN- SRTH00866F
+35,097 35,097 3,50,96,704Hemal Vasantrai Mehta, TAN- MUMH10234A
+13,130 13,130 1,31,30,010Heubach Colorants India Limited, TAN- MUMC00339D
+245 245 2,45,000Hexa Biochem Private Limited, TAN- AHMH08537E
+77,001 77,001 7,70,006Icici Bank Limited, TAN- MUMI04813E
+1,55,186 1,55,186 31,03,723Icpa Health Products Ltd., TAN- MUMI04908B
+6... 
+
+--- PAGE 7 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 6
+3,298 3,298 32,97,500Imperial Sales Corporation, TAN- MUMB24683B
+1,848 1,848 18,48,000Indo Amines Limited, TAN- PNEI05103A
+2,434 2,434 24,33,990Insecticides India Limited, TAN- DELI03290A
+22,267 22,267 4,45,345J V Chem [I], TAN- MUMJ05652D
+2,064 2,064 20,64,000J V Chem [I], TAN- MUMJ05652D
+8,166 8,166 81,65,832Jamunesh Imex, TAN- MUMJ24435F
+1,990 1,990 19,89,935Joy Petrochem Private Limited, TAN- MUMJ06258A
+558 558 5,57,926Jsw Paints Private Limited, TAN- MUMJ18861D
+8,573 8,573 85,73,200K P Manish Global Ingredients Private Limited, TAN- 
+CHEK09647B
+2,590 2,590 25,90,000Kairav Chemofabe Industries Ltd, TAN- MUMK08531F
+2,047 2,047 20,46,925Kalpana Subodhbhai Jaithaliya, TAN- AHMK12176D
+7,553 7,553 61,51,700Ketan Chandrakant Shah, TAN- PNEK09008G
+9,576 9,576 95,72,923Khandelwal Enterprises, TAN- LKNK06241E
+3,492 3,492 34,89,720Khushbu Dye Chem Private Limited, TAN- MUMK16860E
+14,514 14,514 1,45,14,400Krishna Solvechem Limited, TAN- MUMK15700G
+1,111 1,111 11,10,940Kunal Veneer And Plywood Industries, TAN- LKNK07126A
+2,480 2,480 24,79,800Kunjal Synergies Private Limited, TAN- CALK05405B
+1,892 1,892 18,91,904Larsen & Toubro Limited, TAN- CMBL03537C
+1,326 1,326 13,25,700Laxmi Solvex, TAN- BPLL00240C
+342 342 3,42,240Leeds Life Sciences Private Limited, TAN- DELL05189C
+1,989 1,989 19,89,000Leo Pharma, TAN- MUML10612A
+17,206 17,206 1,72,06,304Lona Industries Limited, TAN- MUML04687E
+890 890 8,89,972M.Srinivasan, TAN- BLRM04741C
+31,811 31,811 3,18,08,100Mac-Chem Products (India) Private Limited, TAN- 
+MUMM31647A
+13,261 13,261 1,32,61,760Magicremedi Private Limited, TAN- MUMM57438D
+2,988 2,988 29,83,000Mahindra Summit Agriscience Limited, TAN- MUMM54392C
+11,418 11,418 1,14,16,500Malay Pravinchandra Parekh, TAN- MUMM43316A
+11,213 11,213 1,12,11,268Mamta Vijay Thakkar, TAN- MUMM17215C
+40,400 40,400 4,04,00,000Mangalmurti Bio Chem Private Limited, TAN- SRTM06304E
+1,101 1,101 11,01,000Meghmani Dyes And Intermediates Llp, TAN- AHMM14930G
+10,719 10,719 1,07,19,075Meghmani Industries Limited, TAN- AHMM00395D
+25,569 25,569 2,55,69,000Mehta Petro Refineries Limited, TAN- MUMM20393C
+20,973 20,973 2,09,72,618Mohanlal, TAN- CHEM07932B
+2,040 2,040 20,40,225Moksh Inter Chem Private Limited, TAN- MUMM63711E
+49,642 49,642 4,96,40,106Multi Scaff (India), TAN- DELM14729B
+14,079 14,079 1,40,79,520Namdev Dnyanu Salunkhe, TAN- KLPN01327E
+31,111 31,111 3,11,01,160Nectar Lifesciences Limited, TAN- PTLS10181D
+3,99,660 3,99,660 39,96,53,500Neogen Chemical Limited, TAN- MUMN10061C
+1,48,938 1,48,938 14,89,377Nidhi Print And Pack, TAN- MUMN29506B
+2,880 2,880 28,80,000Nikisu Fine Chemicals Private Limited, TAN- MUMN20592F
+7... 
+
+--- PAGE 8 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 7
+1,404 1,404 14,03,835Nilay Ashwin Desai, TAN- PNEN16694G
+5,924 5,924 59,22,924Nippon Paint (India) Private Limited, TAN- CHEN06551G
+819 819 8,18,595Nira Life Sciences Private Limited, TAN- RKTN01793B
+9,562 9,562 95,62,500Nisha Chemicals, TAN- MUMN13574B
+434 434 4,34,315Nishant Kishor Sachanandani, TAN- HYDN08899C
+16,649 16,649 1,66,48,680Ofb Tech Private Limited, TAN- RTKO01790F
+83,725 83,725 8,37,25,606Om Chem, TAN- RTKO02172C
+3,574 3,574 35,74,203Papertex Speciality Chemicals Private Limited, TAN- 
+AMRP13455B
+802 802 8,02,380Parag Pravin Shah, TAN- MUMP25172A
+1,434 1,434 14,35,350Parijat Industries (India) Private Limited, TAN- DELP13309C
+10,615 10,615 1,06,15,000Patanjali Ayurved Limited, TAN- MRTP02241B
+5,017 5,017 50,16,960Pegasus Exim, TAN- MUMP37698D
+1,300 1,300 65,000Pi Industries Ltd, TAN- JDHP01697D
+3,99,871 3,99,871 39,98,70,928Pi Industries Ltd, TAN- JDHP01697D
+61,268 61,268 6,12,68,672Piramal Pharma Limited, TAN- MUMP42891C
+2,551 2,551 25,50,031Polson Limited, TAN- MUMP16795C
+35,136 35,136 3,51,33,915Power Bridge Chemicals, TAN- LKNP10060B
+4,361 4,361 43,56,000Ppg Asian Paints Private Limited, TAN- MUMA11672D
+92,578 92,578 9,25,779Prabhat Capital Investments Limited, TAN- MUMP45895D
+2,806 2,806 28,07,208Prince Parasmal Bubkiya, TAN- JPRP03943C
+19,80,000 19,80,000 1,98,00,000Printography Systems (India) Private Limited, TAN- 
+MUMP19995D
+45,114 45,114 4,51,14,192R S Organics Private Limited, TAN- DELR12287C
+1,46,162 1,46,162 14,61,618Ratna Lifesciences Private Limited, TAN- PNER20852G
+14,116 14,116 1,41,16,344Ratna Lifesciences Private Limited, TAN- PNER20852G
+3,428 3,428 34,27,555Reliance Industries Limited, TAN- MUMR00462A
+73,567 73,567 7,35,66,425Resins And Plastics Ltd, TAN- MUMR14062G
+201 201 2,01,000Rolence Pharma And Chemicals Llp, TAN- RKTR04768B
+4,553 4,553 45,53,048Rooparam Bhawarlal, TAN- CHER22345B
+55,000 55,000 11,00,000Sahastraa Exports Private Limited, TAN- MUMS27607G
+2,057 2,057 20,56,534Sahastraa Exports Private Limited, TAN- MUMS27607G
+4,145 4,145 41,45,040Sandeep M Chitala, TAN- MUMS44707F
+9,347 9,347 93,47,249Sandeep Rameshchandra Mehta, TAN- MUMS71323A
+8,522 8,522 85,22,036Sangram Industries, TAN- NSKS06012G
+9,155 9,155 91,55,700Sanjay Chemicals (India) Pvt Ltd, TAN- MUMS27686B
+1,297 1,297 12,97,200Sanjay Hariram Narsinghani, TAN- PNES08527B
+2,406 2,406 24,06,000Shamikkumar Rameshbhai Patel, TAN- SRTS19524B
+27,539 27,539 2,75,39,757Shree Ultra Inks Private Limited, TAN- HYDS25897E
+4,588 4,588 45,88,004Shubham Chemicals & Solvents Ltd, TAN- DELS14882A
+975 975 9,75,000Solvay Specialities India Private Limited, TAN- BRDS05688E
+85,898 85,898 8,58,96,046Songwon Specialty Chemicals India Private Limited, TAN- 
+MUMS80649C
+8... 
+
+--- PAGE 9 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 8
+70,874 70,874 7,08,74,300Sonkamal Enterprises Private Limited, TAN- MUMM21156C
+6,422 6,422 64,19,210Srf Limited, TAN- DELS20932C
+5,502 5,502 55,016Stellar Exim, TAN- MUMS90095F
+16,234 16,234 1,62,33,065Sterling Biotech Limited, TAN- MUMS16116C
+6,972 6,972 69,71,760Subodh Rungta Prop Of M/S Sri Gopal Trading Co., TAN- 
+KNPS01537E
+8,629 8,629 86,27,088Sudarshan Solvents Industries Limited, TAN- MUMS92122C
+531 531 5,310Sumitomo Chemical India Limited, TAN- MUMS37630F
+8,590 8,590 85,89,333Sumitomo Chemical India Limited, TAN- MUMS37630F
+354 354 3,54,000Sun Pharmaceutical Industries Limited, TAN- BRDS02599C
+125 125 1,24,750Sun Pharmaceutical Industries Ltd., TAN- BRDS02598B
+4,647 4,647 46,46,900Sunil Sureshbhai Dobariya, TAN- RKTS11999B
+1,245 1,245 12,45,820Sunilkumar Hiralal Khetawat, TAN- MUMS46542G
+2,389 2,389 23,89,440Sunlac Paints Ltd, TAN- DELS02575G
+10,246 10,246 1,02,46,500Suparna Chemicals Limited, TAN- MUMS37272E
+4,744 4,744 47,44,547Super Bond Adhesives Pvt Ltd, TAN- PNES10333B
+85,107 85,107 8,51,05,765Surbhee Polymers Private Limited, TAN- DELS09566E
+5,334 5,334 53,34,000Symed Labs Limited, TAN- HYDS03532E
+6,124 6,124 61,24,000Tagros Chemicals India Private Limited, TAN- CHET07284E
+70,251 70,251 7,02,51,045Taru Vikas Private Limited, TAN- DELT05137G
+6,59,997 6,59,997 65,99,934Tata Capital Financial Services Limited, TAN- MUMT16472B
+2,19,999 2,19,999 21,99,978Tata Capital Limited, TAN- MUMP08794C
+2,299 2,299 22,98,765Tejas Mukesh Shah, TAN- MUMT19102G
+2,465 2,465 24,65,374Uday Bharat Mehta, TAN- PNEU06465E
+11,533 11,533 1,15,38,048Uflex Limited, TAN- MRTF00050B
+5,192 5,192 51,91,625Ujin Pharmachem, TAN- MUMU04851A
+82 82 82,000Ultima Chemicals, TAN- MUMU03366G
+1,67,012 1,67,012 16,35,887Union Bank Of India Ro Mumbai West, TAN- MUMU08606D
+28,733 28,733 2,87,32,764Upstream Refinery Solution Llp, TAN- MUMU09287F
+6,00,000 6,00,000 60,00,000Usv Private Limited, TAN- MUMU00007A
+77,895 77,895 7,78,84,780Vaishali Pharma Limited, TAN- MUMV15991D
+80,157 80,157 8,01,60,585Varinder Organics Private Limited, TAN- PTLV11554E
+1,22,704 1,22,704 24,54,087Varun Organics, TAN- MUMV22855A
+75,000 75,000 15,00,000Varun Organics Pvt. Ltd., TAN- MUMV10039B
+4,712 4,712 47,19,190Vasai Virar Shahar Mahanagarpalika, TAN- PNEV07737C
+1,756 1,756 17,55,450Vertex Dye Chem, TAN- MUMV07793C
+3,724 3,724 37,24,000Vilas Nemichand Jain, TAN- NSKV01158D
+7,659 7,659 76,59,510Vinati Organics Limited, TAN- MUMV10590G
+683 683 6,83,460Vision Products Private Limited, TAN- BRDV01030B
+24,628 24,628 2,46,28,150Welcome Pharmalife Private Limited, TAN- MUMW05706B
+3,174 3,174 31,74,400Yatin Rasiklal Shah, TAN- MUMY01087C
+56,006 56,006 5,60,06,775Yogita Jitesh Shah, TAN- RKTY00410E
+9... 
+
+--- PAGE 10 ---
+Asst year: 2024-2025Sudarshan Pharma Industries Limited 9
+75,527 75,527 7,55,27,556Zetchem Supply Chain Services Private Limited, TAN- 
+BLRZ12577F
+81,08,79081,08,790 331,66,74,548Total
+Tax collected at source
+TCS TCS claimedCollector & TAN
+in current yearcollected
+Amita Vipulbhai Mehta, TAN- SRTA07610B 0
+Efforts Chemicals, TAN- MUME04801G 2,351 2,351
+Jayesh Kantilal Doshi, TAN- MUMJ06590D 190 190
+Leo Chemo Plast Private Limited, TAN- MUML02256C 3,607 3,607
+Pi Industries Ltd, TAN- JDHP01697D 2,208 2,208
+Shreeji Impex, TAN- PNES36616G 667 667
+9,0239,023Total
+81,17,81381,17,813Grand Total
+Schedule 11
+Challan Sl.no.Date of deposit AmountName of the Bank and BSR Code
+15-Sep-2023 13816 50,00,000Union Bank of India-0290071
+15-Jun-2023 9127 50,00,000Union Bank of India-0290071
+1,00,00,000Total tax
+Bank A/cs
+Bank Accounts in India
+Bank Name and Account No. IFS Code Type of Account
+Hdfc bank ltd. - 02882020000793 HDFC0000288
+Union bank of india - 696705010000102 UBIN0569674
+Indusind bank - 00200004577618 INDB0000048
+State bank of india - 33785346713 SBIN0013499
+MumbaiPlace : 
+Date : 
+Hdfc bank ltd. - 50200018892282 HDFC0000288
+15-Nov-2024
+For Sudarshan Pharma Industries Limited
+Authorised Signatory

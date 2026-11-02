@@ -1,0 +1,5 @@
+# Sudarshan Pharma Visual Review
+
+Open SudarshanPharmaVisualReview.pbip in Power BI Desktop. The first four tabs retain the original native charts, KPI cards, filters, colours and dashboard layout. Continuation tabs carry complete review tables, including all 25 parameters for each of the three financial years. All transaction data remains embedded; transaction lists remain scrollable on the summary tab. The PDF prints the first 15 transaction/party rows on continuation pages. Summary tables show their initial complete rows and continue on later tabs.
+
+Share SudarshanPharma_Visual_Review.pdf, or export all report pages from Power BI Desktop. The included PDF uses the same visual layout and extracted source snapshot; native Power BI exports can differ slightly in font rendering. If cards/charts are blank on first open, use Home > Refresh to load the embedded data snapshot. Refresh does not re-extract modified PDFs. Rebuild extraction and this report for changed source data. Original source qualifications and audited accounting bases remain applicable.

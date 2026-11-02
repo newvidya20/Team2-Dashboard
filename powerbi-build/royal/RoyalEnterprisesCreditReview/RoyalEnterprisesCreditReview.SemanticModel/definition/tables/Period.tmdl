@@ -1,0 +1,20 @@
+/// GST coverage April 2025-May 2026; banking July 2025-June 2026. No data is extrapolated.
+table Period
+	lineageTag: 9108f70e-2b1c-4ea6-a86f-e566f46ca35d
+
+	column Month
+		dataType: string
+		lineageTag: bdc46d42-e21e-4e48-9031-1e1d4d1fcc97
+		summarizeBy: none
+		sourceColumn: Month
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: fd731e3e-54c9-46d7-bb1b-dd43a72f2e70
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	partition Period = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/3XQQQrAIAxE0atI1gZiWsf2LOL9r+FCAqVkdsNjVn9OcfOudkstZzpk1RLeiYP4IP4Qf3NvRrwR98yhlv6hxv4X8egD9fH16PP36HN8bRx92xZoAQAA",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Month","Financial Year"}), X=Table.TransformColumnTypes(T,{{"Month", type text},{"Financial Year", type text}}) in X
+

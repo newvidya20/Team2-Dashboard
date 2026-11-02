@@ -1,0 +1,3871 @@
+
+--- PAGE 1 ---
+Acknowledgement Number:830953471101225
+Date of filing : 
+10-Dec-2025
+INDIAN INCOME TAX RETURN ACKNOWLEDGEMENT
+[Where the data of the Return of Income in Form ITR-1(SAHAJ), ITR-2, ITR-3, 
+ITR-4(SUGAM), ITR-5, ITR-6, ITR-7
+filed and verified]
+(Please see Rule 12 of the Income-tax Rules, 1962)
+Assessment
+Year
+2025-26
+PAN
+AAMCS2601L
+Name
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+Address
+301, 3rd Floor, 
+Aura Biplex, 
+S V Road,, 
+Borivali (West), Mumbai 
+, 
+MUMBAI 
+, 
+19-Maharashtra, 
+91-INDIA, 
+400092
+Status
+6-Public company
+Form Number
+ITR-6
+Filed u/s
+139(1)-On or before due date
+e-Filing Acknowledgement Number
+830953471101225
+Current Year business loss, if any
+1
+0
+Total Income
+1A
+20,41,36,640
+Book Profit under MAT, where applicable
+2
+0
+Adjusted Total Income under AMT, where applicable
+3
+0
+Net tax payable
+4
+5,13,77,110
+Interest and Fee Payable
+5
+63,08,867
+Total tax, interest and Fee payable
+6
+5,76,85,977
+Taxes Paid
+7
+64,74,060
+(+) Tax Payable /(-) Refundable (6-7)
+8
+(+) 5,12,11,920
+Accreted Income as per section 115TD
+9
+0
+Additional Tax payable u/s 115TD
+10
+0
+Interest payable u/s 115TE
+11
+0
+Additional Tax and interest payable
+12
+0
+Tax and interest paid
+13
+0
+(+) Tax Payable /(-) Refundable (12-13)
+14
+0
+This return has been digitally signed by 
+HEMAL VASANTRAI MEHTA
+ 
+in the capacity of
+Managing Director
+ having PAN 
+ADRPM4657P
+ from IP 
+address 
+49.43.25.179
+ on
+10-Dec-2025 16:18:50
+ at 
+MUMBAI
+ 
+(Place) DSC SI.No & Issuer 
+2279010
+ &
+501681174937CN=XtraTrust Sub CA 2022,OU=Certifying Authority,O=XtraTrust DigiSign Private Limited,C=IN
+System Generated 
+Barcode/QR Code
+AAMCS2601L06830953471101225d51565bac929c32460c1d2315afd398ac407c89b
+ DO NOT SEND THIS ACKNOWLEDGEMENT TO CPC, BENGALURU 
+ 
+Taxable Income and Tax Details
+Accreted Income and Tax Detail
+
+--- PAGE 2 ---
+Name Sudarshan Pharma Industries Limited
+Address 301, 3rd Floor
+Aura Biplex
+S V Road,
+Borivali (West), Mumbai - 400 092
+Previous Year 
+PAN 
+Status
+2025-2026
+AAMCS 2601 L
+23-Jul-2008
+Domestic Company
+A.Y.
+2024-2025
+Date of Incorporation
+:
+:
+:
+:
+:
+:
+:
+Opted Tax u/s 115BAA
+Rs. Rs.
+Statement of Income
+Rs.Sch.No
+ Income from House Property
+Let-out properties
+Property-1: 502,, Neelyog Square, Tenant - TATA 
+CAPITAL FINANCIAL SERVICES LIMITED
+1
+Gross annual value 87,99,912 2
+Less: Municipal taxes 0
+Less: Standard deduction u/s 24(a) 26,39,974
+.        Interest on borrowings u/s 24(b): ( only) 59,21,882 85,61,8569
+Income chargeable under the head "House Property" 2,38,056
+ Profits and gains of Business or Profession
+Business-1
+Net Profit Before Tax as per P & L a/c 21,28,54,838
+Add: Inadmissible expenses & Income not included
+Depreciation debited to P & L a/c 1,31,42,900
+40A disallowance 7,91,198 3
+37 disallowance 50,84,390 4
+36 disallowance 40,053 5
+43B disallowance 0 10
+Expenses / Losses considered under other heads 59,21,882 2,49,80,4236
+23,78,35,261
+Less: Deductible expenditure & income to be excluded
+Incomes considered separately 87,99,912 7
+Adjusted Profit of Business-1 22,90,35,349
+22,90,35,349Total income of Business and Profession
+2,48,98,706Less: Depreciation as per IT Act 11
+Income chargeable under the head "Business and 
+Profession"
+20,41,36,643
+20,43,74,699Total
+2,38,056Less - Brought forward losses set off 12
+ 20,41,36,643Total Income
+20,41,36,640Total income rounded off u/s 288A
+Tax on total income 4,49,10,061
+44,91,006Add: Surcharge
+2... 
+
+--- PAGE 3 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 2
+4,94,01,067Tax with Surcharge
+19,76,043Add: Cess
+5,13,77,110Tax with surcharge and cess
+64,25,059TDS / TCS 8
+4,49,52,051Balance Tax
+40,45,680Interest u/s 234B
+22,70,076 63,15,756Interest u/s 234C
+ 5,12,67,810Balance tax payable
+Schedule 1
+Details of property
+502;, Neelyog Square, Ghatkoper, Ghatkoper, 
+Ghatkoper-400077, Maharashtra
+Details of the Tenant
+TANPAN / Aadhaar SectionName
+AADCT6631L MUMT16472B 194-IB (Form 
+16C)
+TATA CAPITAL FINANCIAL SERVICES LIMITED
+Details of Owner
+SelfOwner
+100Assessee's share in the property (%)
+Schedule 2
+Description Amount
+Rent 87,99,912
+Schedule 3
+Disallowances of expenditure u/s 40A
+DisallowanceDescription
+40A(7) - Provision for gratuity 7,91,198
+7,91,198Total Disallowance
+Schedule 4
+Disallowances of expenditure u/s 37
+Other expenditure Disallowance
+Penalty or fine
+TDS Penalty 2,25,957
+Expenditure on Corporate Social Responsibility (CSR)
+Donation & CSR Expenses 22,13,732
+Any other disallowance u/s 37
+Interest on TDS/TCS Delayed Payment 1,86,600
+Interest on Income Tax 24,58,101 26,44,701
+50,84,390Total Disallowance
+3... 
+
+--- PAGE 4 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 3
+Schedule 5
+Disallowances of expenditure u/s 36
+DisallowanceDescription
+Employees’ contribution to PF/ESI etc. paid after 
+prescribed date or not paid - Section 36(1)(va)
+PF 33,201
+ESIC 6,852 40,053
+40,053Total Disallowance
+Schedule 6
+Expenses / Losses considered under other heads
+Head of IncomeAmountParticulars
+59,21,882 House PropertyInterest on Loan of ICICI
+Schedule 7
+Amount
+Income considered under other heads
+Rent received 87,99,912
+87,99,912Grand total
+Schedule 8
+TDS as per Form 16A
+TDS TDS claimed Gross receiptDeductor, TAN & Section
+in current yeardeducted offered
+5,232 5,232 52,30,836Aarey Drugs & Pharmaceuticals Limited, TAN- 
+MUMA27895A, Section- 194Q
+1,099 1,099 10,990Adani Electricity Mumbai Limited, TAN- MUMD16562A, 
+Section- 194A
+1,288 1,288 12,88,000Advent Chembio Private Limited, TAN- MUMA43104F, 
+Section- 194Q
+9,095 9,095 90,92,840Agroaids Pesticides, TAN- BPLA00067E, Section- 194Q
+4,558 4,558 2,27,859Ahilyanagar Mahanagarpalika, TAN- PNEA06801E, Section- 
+194C
+8,092 8,092 80,89,036Ajinomoto Bio-Pharma Services India Private Limited, TAN- 
+HYDG10542A, Section- 194Q
+155 155 1,55,000Alfa Solvents Private Limited, TAN- DELA28627E, Section- 
+194Q
+2,563 2,563 25,63,000Alltech Biotechnology Private Limited, TAN- BLRA02082D, 
+Section- 194Q
+367 367 3,67,087Ami Organics Limited, TAN- SRTA03241A, Section- 194Q
+2,957 2,957 29,57,140Amita Vipulbhai Mehta, TAN- SRTA07610B, Section- 194Q
+1,628 1,628 16,28,055Amjey Chem Trade Private Limited, TAN- RTKA14932B, 
+Section- 194Q
+30,731 30,731 3,07,31,879Anandkumar Subhashchand Sethi, TAN- PNEA33343C, 
+Section- 194Q
+4... 
+
+--- PAGE 5 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 4
+38,606 38,606 3,86,06,080Andreas Pharma Private Limited, TAN- MUMA53927G, 
+Section- 194Q
+16,884 16,884 1,68,84,000Anil Pranlal Bajaria, TAN- MUMA20672B, Section- 194Q
+753 753 7,52,830Anthem Biosciences Limited, TAN- BLRA08279F, Section- 
+194Q
+20,645 20,645 2,06,45,163Anuj Mukesh Shah, TAN- MUMA66164A, Section- 194Q
+1,882 1,882 18,79,165Anupam Rasayan India Limited, TAN- SRTA01985E, 
+Section- 194Q
+1,663 1,663 16,63,235Apra Innovative Private Limited, TAN- MUMA65493B, 
+Section- 194Q
+7,251 7,251 72,50,990Archroma India Private Limited, TAN- MUMA76155C, 
+Section- 194Q
+31,063 31,063 3,10,63,499Ardes Laboratories Private Limited, TAN- HYDA25785E, 
+Section- 194Q
+59,423 59,423 5,94,22,902Aryann Chemical Trading Private Limited, TAN- 
+MUMA62470C, Section- 194Q
+18,884 18,884 9,44,213Ashesh Vasant Busa, TAN- MUMA16521B, Section- 194H
+14,584 14,584 1,45,84,348Ashwinbhai Babarbhai Patel, TAN- AHMA13777B, Section- 
+194Q
+57,050 57,050 5,70,50,075Atul Anilkumar Gandhi, TAN- PNEA24400F, Section- 194Q
+669 669 6,69,200Atul Limited, TAN- SRTA02608E, Section- 194Q
+2,866 2,866 28,66,000Avinya Chemicals Private Limited, TAN- MUMA71888F, 
+Section- 194Q
+51,240 51,240 5,12,394Axis Bank Limited, TAN- MUMU05151G, Section- 194A
+7,737 7,737 77,37,398B C Petro Chem, TAN- BPLB04078E, Section- 194Q
+8,733 8,733 87,31,040B R Agrotech Ltd, TAN- DELB06168B, Section- 194Q
+77,545 77,545 7,75,45,061Basil Drugs And Pharmaceuticals Private Limited, TAN- 
+MUMB27533C, Section- 194Q
+6,237 6,237 62,37,000Bayer Cropscience Limited, TAN- PNEB09996A, Section- 
+194Q
+269 269 2,69,008Berger Paints India Limited, TAN- MRTB04042D, Section- 
+194Q
+541 541 5,41,000Berger Paints India Limited, TAN- PNEB10893B, Section- 
+194Q
+901 901 9,01,000Berger Paints India Ltd Pondicherry 605106, TAN- 
+CHEB02625A, Section- 194Q
+3,075 3,075 30,71,149Bharat Certis Agriscience Limited, TAN- DELB06166G, 
+Section- 194Q
+426 426 4,26,000Bharat Jyoti Impex, TAN- MUMB16079A, Section- 194Q
+11,002 11,002 1,10,01,500Bharat Siriya Dhaval, TAN- MUMB30907C, Section- 194Q
+50,313 50,313 25,15,640Bhavesh Mansukhlal Talati, TAN- MUMB23723A, Section- 
+194H
+7,137 7,137 71,37,385Br Agrotech Ltd, TAN- AMRB10887C, Section- 194Q
+8,077 8,077 4,03,760Brihanmumbai Municipal Corporation (Bmc), TAN- 
+MUMM01325C, Section- 194C
+2,689 2,689 26,89,460Brijesh Jain, TAN- DELB18223C, Section- 194Q
+1,21,578 1,21,578 12,15,77,380Bruck Pharma Private Limited, TAN- MUMB22068E, Section- 
+194Q
+1,680 1,680 84,000C J Shah & Company, TAN- MUMC11255G, Section- 194I(a)
+39,316 39,316 3,93,15,814C J Shah & Company, TAN- MUMC11255G, Section- 194Q
+7,325 7,325 73,25,065Camlin Fine Sciences Limited, TAN- MUMC14766D, Section- 
+194Q
+5... 
+
+--- PAGE 6 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 5
+93,100 93,100 9,31,00,000Chemi Tech Engineers Private Limited, TAN- DELC06525B, 
+Section- 194Q
+57,013 57,013 5,70,12,735Chemstack Private Limited, TAN- MUMC28758C, Section- 
+194Q
+2,976 2,976 29,76,700Clarion Pharmaceutical Company, TAN- DELC05042C, 
+Section- 194Q
+52,306 52,306 5,08,47,828Colour Plus Impex Llp, TAN- SRTC04145B, Section- 194Q
+13,307 13,307 1,33,07,317Coromandel International Limited, TAN- VPNC00049A, 
+Section- 194Q
+6,213 6,213 62,12,960Ctx Lifesciences Private Limited, TAN- SRTC00591D, 
+Section- 194Q
+7,159 7,159 71,57,520Curia India Private Limited, TAN- HYDA05185F, Section- 
+194Q
+1,861 1,861 18,60,750Dayaram Chemicals Private Limited, TAN- MUMD13495G, 
+Section- 194Q
+164 164 1,63,400Dayaram Healthcare, TAN- BRDD01845E, Section- 194Q
+28,947 28,947 2,89,46,820Deccan Fine Chemicals (India) Private Limited, TAN- 
+BLRD11000D, Section- 194Q
+7,016 7,016 70,15,815Deccan Fine Chemicals (India) Private Limited, TAN- 
+HYDD03907B, Section- 194Q
+3,803 3,803 38,03,000Deccan Fine Chemicals India Pvt Ltd, TAN- BRDD02838D, 
+Section- 194Q
+7,987 7,987 79,87,205Dhanaram, TAN- CHED05154C, Section- 194Q
+10,635 10,635 1,06,33,612Divi"S Laboratories Limited, TAN- HYDD00401C, Section- 
+194Q
+368 368 3,68,000Dynamic Mercantile Private Limited, TAN- MUMD24727D, 
+Section- 194Q
+45,536 45,536 4,55,34,646Ebida Trading Co., TAN- MUME11116A, Section- 194Q
+5,967 5,967 59,67,345Eknath Dnyaneshwar Mhatre, TAN- PNEE06619E, Section- 
+194Q
+1,712 1,712 17,121Esaar India Limited, TAN- MUME08927C, Section- 194A
+156 156 1,56,000Esdee Paints Limited, TAN- MUME04963A, Section- 194Q
+4,772 4,772 47,72,400Expede-Tech Research & Development Private Limited, 
+TAN- AHME02519G, Section- 194Q
+3,282 3,282 32,81,850Forace Polemers Private Limited, TAN- MRTF00069G, 
+Section- 194Q
+35,328 35,328 3,53,26,751Forace Speciality Chem Private Limited, TAN- MRTF00669E, 
+Section- 194Q
+5,755 5,755 57,54,758G B Chemicals, TAN- RKTG05439A, Section- 194Q
+45,391 45,391 4,53,90,880Gsp Crop Science Private Limited, TAN- AHMG00810F, 
+Section- 194Q
+5,374 5,374 53,70,250Gujarat Fluorochemicals Limited, TAN- BRDI01194E, 
+Section- 194Q
+6,639 6,639 66,39,000Haldia Petrochemicals Limited, TAN- CALB15847G, Section- 
+194Q
+2,841 2,841 28,41,150Haresh Anantrai Mody, TAN- AHMH04015E, Section- 194Q
+107 107 1,06,920Haresh Gunvantrai Madia, TAN- PNEH07755G, Section- 
+194Q
+2,279 2,279 22,79,426Harman Finochem Limited, TAN- MUMH02931F, Section- 
+194Q
+22,103 22,103 2,21,07,734Hemal Vasantrai Mehta, TAN- MUMH10234A, Section- 194Q
+7,600 7,600 76,00,390Heubach Colorants India Limited, TAN- MUMC00339D, 
+Section- 194Q
+6,483 6,483 64,80,999Hitesh Jayantilal Modi, TAN- MUMH14648E, Section- 194Q
+6... 
+
+--- PAGE 7 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 6
+64,743 64,743 6,47,42,130Hritik Chemicals Private Limited, TAN- MUMH12757D, 
+Section- 194Q
+79,861 79,861 7,98,609Icici Bank Limited, TAN- MUMI04813E, Section- 194A
+94,424 94,424 18,88,466Icpa Health Products Ltd., TAN- MUMI04908B, Section- 
+194H
+2,192 2,192 21,91,460Imperial Sales Corporation, TAN- MUMB24683B, Section- 
+194Q
+4,806 4,806 48,05,905Indokem Limited, TAN- MUMI04916C, Section- 194Q
+13,371 13,371 1,33,70,360Insecticides India Limited, TAN- DELI03290A, Section- 194Q
+3,463 3,463 34,63,250Inventia Healthcare Limited, TAN- MUMT07689D, Section- 
+194Q
+535 535 5,34,344Ivp Limited, TAN- MUMI04866B, Section- 194Q
+1,010 1,010 10,09,800J V Chem [I], TAN- MUMJ05652D, Section- 194Q
+2,19,749 2,19,749 1,09,87,475Jeevan Chemicals Private Limited, TAN- MUMJ11482C, 
+Section- 194H
+15,775 15,775 1,57,74,750Jinay Pharmaceuticals Private Limited, TAN- PNEJ09811E, 
+Section- 194Q
+7,085 7,085 70,85,956Joy Petrochem Private Limited, TAN- MUMJ06258A, 
+Section- 194Q
+265 265 2,65,875Jsw Paints Private Limited, TAN- MUMJ18861D, Section- 
+194Q
+2,500 2,500 25,00,000Jupiter Dyechem Private Limited, TAN- MUMJ08150C, 
+Section- 194Q
+486 486 4,86,140K Uttamlal & Company, TAN- MUMK17786G, Section- 194Q
+10,359 10,359 1,03,59,161Karan Monomer's Pvt Ltd, TAN- MUMK10494B, Section- 
+194Q
+1,822 1,822 18,22,228Khandelwal Enterprises, TAN- LKNK06241E, Section- 194Q
+2,422 2,422 24,21,720Khodiyar Chemical Corporation, TAN- MUMK12404A, 
+Section- 194Q
+9,940 9,940 99,397Kotak Mahindra Bank Limited, TAN- MUMK01323A, Section- 
+194A
+39,512 39,512 3,95,16,500Krishna Solvechem Limited, TAN- MUMK15700G, Section- 
+194Q
+1,127 1,127 11,26,645Krishnappa Nagaraja, TAN- BLRK11141E, Section- 194Q
+2,445 2,445 24,45,632Larsen & Toubro Limited, TAN- CMBL03537C, Section- 
+194Q
+11,156 11,156 1,11,55,365Leo Pharma, TAN- MUML10612A, Section- 194Q
+1,095 1,095 10,94,220Lido Chem Llp, TAN- MUML13669F, Section- 194Q
+796 796 7,96,680Lok Chemical Private Limited, TAN- MUML06098B, Section- 
+194Q
+40,955 40,955 4,09,550Mac-Chem Products (India) Private Limited, TAN- 
+MUMM31647A, Section- 194A
+31,650 31,650 3,16,49,000Mac-Chem Products (India) Private Limited, TAN- 
+MUMM31647A, Section- 194Q
+25,287 25,287 2,52,87,760Magicremedi Private Limited, TAN- MUMM57438D, Section- 
+194Q
+14,772 14,772 1,47,72,000Mahendra Nagindas Sheth, TAN- MUMM67552C, Section- 
+194Q
+5,956 5,956 59,49,049Mahindra Summit Agriscience Limited, TAN- MUMM54392C, 
+Section- 194Q
+10,753 10,753 1,07,53,400Matrix Life Science Private Limited, TAN- NSKM08766C, 
+Section- 194Q
+10,777 10,777 1,07,76,457Meghmani Dyes And Intermediates Llp, TAN- 
+AHMM14930G, Section- 194Q
+7... 
+
+--- PAGE 8 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 7
+28,377 28,377 2,83,73,986Meghmani Industries Limited, TAN- AHMM00395D, Section- 
+194Q
+718 718 7,18,330Meghmani Novotech Private Limited, TAN- AHMM18947F, 
+Section- 194Q
+4,033 4,033 40,32,560Mehul Arvindbhai Mehta, TAN- MUMM51992D, Section- 
+194Q
+3,156 3,156 31,54,271Metrochem Api Private Limited, TAN- HYDM04148E, 
+Section- 194Q
+16,603 16,603 1,66,04,344Mohanlal, TAN- CHEM07932B, Section- 194Q
+8,582 8,582 85,82,320N K Chemicals Private Limited, TAN- HYDN01705E, Section- 
+194Q
+9,109 9,109 87,08,080Namdev Dnyanu Salunkhe, TAN- KLPN01327E, Section- 
+194Q
+22,652 22,652 2,26,37,090Nectar Lifesciences Limited, TAN- PTLS10181D, Section- 
+194Q
+1,31,356 1,31,356 13,13,51,000Neogen Chemical Limited, TAN- MUMN10061C, Section- 
+194Q
+311 311 3,10,870Nishant Kishor Sachanandani, TAN- HYDN08899C, Section- 
+194Q
+1,803 1,803 18,02,650Nmv Energy Private Limited, TAN- DELN18591G, Section- 
+194Q
+3,736 3,736 37,36,000Nuray Chemicals Private Limited, TAN- CHEN07996C, 
+Section- 194Q
+736 736 7,35,915Ocimum Labs Private Limited, TAN- HYDO02986E, Section- 
+194Q
+3,57,209 3,57,209 35,72,09,610Ofb Tech Private Limited, TAN- RTKO01790F, Section- 
+194Q
+40,872 40,872 4,08,70,750Panchsheel Organics Limited, TAN- BPLP00360D, Section- 
+194Q
+2,169 2,169 21,68,195Papertex Speciality Chemicals Private Limited, TAN- 
+AMRP13455B, Section- 194Q
+4,631 4,631 46,30,720Parag Bharat Jardosh, TAN- MUMP13088F, Section- 194Q
+2,450 2,450 1,22,500Pi Industries Ltd, TAN- JDHP01697D, Section- 194C
+1,96,992 1,96,992 19,69,91,693Pi Industries Ltd, TAN- JDHP01697D, Section- 194Q
+26,559 26,559 2,65,59,445Piramal Pharma Limited, TAN- MUMP42891C, Section- 
+194Q
+13,028 13,028 1,30,27,391Power Chem Plast Limited, TAN- PTLP10254G, Section- 
+194Q
+6,157 6,157 61,47,901Ppg Asian Paints Private Limited, TAN- MUMA11672D, 
+Section- 194Q
+5,108 5,108 51,082Prabhat Capital Investments Limited, TAN- MUMP45895D, 
+Section- 194A
+8,911 8,911 89,10,000R Nandlal Sons Private Limited, TAN- MUMR46800F, 
+Section- 194Q
+2,782 2,782 27,82,126R R Innovative Private Limited, TAN- MUMR29267A, 
+Section- 194Q
+1,272 1,272 63,615Rainboweucalyptus Technologies Private Limited, TAN- 
+RTKR17652F, Section- 194C
+63,074 63,074 6,30,74,452Rainboweucalyptus Technologies Private Limited, TAN- 
+RTKR17652F, Section- 194Q
+4,275 4,275 42,75,366Rajesh Radhakishan Loya, TAN- MUMR25282F, Section- 
+194Q
+3,67,220 3,67,220 36,72,202Ratna Lifesciences Private Limited, TAN- PNER20852G, 
+Section- 194A
+38,611 38,611 3,86,10,038Ratna Lifesciences Private Limited, TAN- PNER20852G, 
+Section- 194Q
+8... 
+
+--- PAGE 9 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 8
+1,955 1,955 19,54,951Reliance Industries Limited, TAN- MUMR00462A, Section- 
+194Q
+8,700 8,700 4,35,008Remedium Lifecare Limited, TAN- MUMR42711E, Section- 
+194C
+3,67,930 3,67,930 36,79,29,808Rjms Lab Private Limited, TAN- PNER18860C, Section- 
+194Q
+40,353 40,353 4,03,52,823Rolence Pharma And Chemicals Llp, TAN- RKTR04768B, 
+Section- 194Q
+8,820 8,820 88,20,000Royal Chem Corporation, TAN- MUMR50262C, Section- 
+194Q
+85 85 8,542Rupesh Navinchandra Doshi, TAN- MUMR18553D, Section- 
+194C
+1,254 1,254 12,53,550Rupesh Navinchandra Doshi, TAN- MUMR18553D, Section- 
+194Q
+38,154 38,154 3,81,55,612Sandeep Rameshchandra Mehta, TAN- MUMS71323A, 
+Section- 194Q
+37,231 37,231 3,72,33,292Sanjay Chemicals (India) Pvt Ltd, TAN- MUMS27686B, 
+Section- 194Q
+7,627 7,627 61,07,816Sehul Harish Meswani, TAN- MUMS49715B, Section- 194Q
+16,037 16,037 1,60,36,978Shalimar Paints Limited, TAN- MUMS45123B, Section- 194Q
+931 931 9,31,200Shamikkumar Rameshbhai Patel, TAN- SRTS19524B, 
+Section- 194Q
+1,029 1,029 10,29,283Shanmukha Agri Tech Limited, TAN- HYDS32884F, Section- 
+194Q
+3,580 3,580 35,79,480Shiv Texchem Limited, TAN- MUMS47572A, Section- 194Q
+5,795 5,795 57,95,385Shivashakti Bio Technologies Limited, TAN- HYDS04181C, 
+Section- 194Q
+3,597 3,597 35,96,804Shree Navdurga Chemicals, TAN- RKTS21883B, Section- 
+194Q
+16,447 16,447 1,64,47,585Shree Ultra Inks Private Limited, TAN- HYDS25897E, 
+Section- 194Q
+3,907 3,907 39,06,496Shreetech International, TAN- MUMS98525A, Section- 194Q
+1,30,849 1,30,849 13,08,493Shriram Finance Limited, TAN- CHES00900E, Section- 194A
+563 563 6,06,000Siegwerk India Private Limited, TAN- DELP11827E, Section- 
+194Q
+14,967 14,967 1,49,66,520Skc Chemie Private Limited, TAN- MUMS49072C, Section- 
+194Q
+77,468 77,468 7,74,62,875Songwon Specialty Chemicals India Private Limited, TAN- 
+MUMS80649C, Section- 194Q
+5,71,682 5,71,682 1,14,33,628Sorbitol Chem Pvt Ltd, TAN- MUMM19598F, Section- 194H
+2,84,462 2,84,462 28,44,62,253Sorbitol Chem Pvt Ltd, TAN- MUMM19598F, Section- 194Q
+5,288 5,288 52,83,222Srf Limited, TAN- DELS20932C, Section- 194Q
+4,993 4,993 49,91,944Sterling Biotech Limited, TAN- MUMS16116C, Section- 194Q
+33,419 33,419 3,34,18,720Subodh Rungta Prop Of M/S Sri Gopal Trading Co., TAN- 
+KNPS01537E, Section- 194Q
+4,845 4,845 48,44,293Sudarshan Solvents Industries Limited, TAN- MUMS92122C, 
+Section- 194Q
+21,592 21,592 2,15,92,200Sumitomo Chemical India Limited, TAN- MUMS37630F, 
+Section- 194Q
+2,585 2,585 25,83,930Suparna Chemicals Limited, TAN- MUMS37272E, Section- 
+194Q
+9,561 9,561 95,60,442Super Bond Adhesives Pvt Ltd, TAN- PNES10333B, Section- 
+194Q
+9... 
+
+--- PAGE 10 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 9
+2,342 2,342 23,40,000Superform Chemistries Limited, TAN- MUMU09685E, 
+Section- 194Q
+13 13 12,500Symed Labs Limited, TAN- HYDS03532E, Section- 194Q
+24,205 24,205 2,42,05,820Tagros Chemicals India Private Limited, TAN- CHET07284E, 
+Section- 194Q
+8,06,663 8,06,663 80,66,586Tata Capital Limited, TAN- MUMP08794C, Section- 194I(b)
+133 133 1,32,600Uday Bharat Mehta, TAN- PNEU06465E, Section- 194Q
+6,222 6,222 62,23,311Uflex Limited, TAN- MRTF00050B, Section- 194Q
+6,971 6,971 69,70,382Ujin Pharmachem, TAN- MUMU04851A, Section- 194Q
+1,51,551 1,51,551 15,15,511Union Bank Of India Ro Mumbai West, TAN- MUMU08606D, 
+Section- 194A
+9,790 9,790 97,88,763Upstream Refinery Solution Llp, TAN- MUMU09287F, 
+Section- 194Q
+17,310 17,310 1,73,10,000Vaishali Pharma Limited, TAN- MUMV15991D, Section- 
+194Q
+733 733 7,33,250Vanquest Pharma Private Limited, TAN- MUMV27196B, 
+Section- 194Q
+5,685 5,685 2,84,272Varun Organics Pvt. Ltd., TAN- MUMV10039B, Section- 
+194H
+6,528 6,528 65,29,841Vasai Virar Shahar Mahanagarpalika, TAN- PNEV07737C, 
+Section- 194Q
+12,829 12,829 1,28,29,666Vee Excel Drugs & Pharmaceuticals Private Limited, TAN- 
+DELV03074B, Section- 194Q
+7,755 7,755 77,54,640Venus Chemcorp Private Limited, TAN- MUMV29074D, 
+Section- 194Q
+771 771 7,71,103Vertex Dye Chem, TAN- MUMV07793C, Section- 194Q
+440 440 4,39,972Vilas Nemichand Jain, TAN- NSKV01158D, Section- 194Q
+75,593 75,593 7,55,92,542Vinati Organics Limited, TAN- MUMV10590G, Section- 194Q
+8,998 8,998 89,97,380Vipul Life Science Limited, TAN- MUMV04981E, Section- 
+194Q
+4,895 4,895 48,95,080Vishwa Khanij Industries Private Limited, TAN- 
+BRDV02471A, Section- 194Q
+1,651 1,651 16,50,940Vital Organics, TAN- MUMV16115B, Section- 194Q
+8,832 8,832 88,32,000Yatin Rasiklal Shah, TAN- MUMY01087C, Section- 194Q
+75,268 75,268 7,52,67,000Yogita Jitesh Shah, TAN- RKTY00410E, Section- 194Q
+4,078 4,078 40,77,690Zetchem Supply Chain Services Private Limited, TAN- 
+BLRZ12577F, Section- 194Q
+36 36 36,000Zoetis Pharmaceuticals Research Private Limited, TAN- 
+MUMW02375C, Section- 194Q
+63,08,56863,08,568 371,72,65,526Total
+Tax collected at source
+TCS TCS claimedCollector & TAN
+in current yearcollected
+Rolence Pharma And Chemicals Llp, TAN- RKTR04768B 22,057 22,057
+Sandeep Babubhai Mehta, TAN- PNES56696D 901 901
+Shreeji Impex, TAN- PNES36616G 0
+Tholia Motors Private Limited, TAN- HYDT11914A 93,533 93,533
+1,16,4911,16,491Total
+64,25,05964,25,059Grand Total
+10... 
+
+--- PAGE 11 ---
+Asst year: 2025-2026Sudarshan Pharma Industries Limited 10
+Bank A/cs
+Bank Accounts in India
+Bank Name and Account No. IFS Code Type of Account For refund?
+Hdfc bank ltd. - 02882020000793 HDFC0000288 Current Yes
+Union bank of india - 696705010000102 UBIN0569674 Cash Credit No
+Indusind bank - 00200004577618 INDB0000048 Current No
+State bank of india - 33785346713 SBIN0013499 Current No
+MumbaiPlace : 
+Date : 
+Hdfc bank ltd. - 50200018892282 HDFC0000288 Cash Credit No
+09-Dec-2025
+For Sudarshan Pharma Industries Limited
+Authorised Signatory
+
+--- PAGE 12 ---
+Acknowledgement Number:522385950101125
+FORM 3CA [See rule 6G(1)(a)]
+Audit report under section 44AB of the Income-tax Act, 1961 in a case where the accounts of the business or profession of a person have been audited under any other law
+1. We
+Name Sudarshan Pharma Industries Limited
+Address
+PAN AAMCS2601L
+Aadhaar Number of the assessee, if available
+was conducted by us Ngst & Associates in pursuance of the provisions of the Companies Act, 2013,
+and We annex hereto a copy of our audit report dated 24-Apr-2025 along with a copy each of
+a. the audited profit and loss account for the period beginning from 01-Apr-2024 to ending on 31-Mar-2025
+b. the audited balance sheet as at 31-Mar-2025 ; and
+c. documents declared by the said Act to be part of, or annexed to, the profit and loss account and balance sheet.
+2.
+3. In our opinion and to the best of our information and according to examination of books of account including other relevant documents and explanations given to us, the particulars given in the
+said Form No. 3CD are true and correct subject to the following observations/qualifications, if any.
+Sl. No. Qualification Type Observations/Qualifications
+No records added
+Accountant Details
+Name TWINKAL P JAIN
+Membership Number 156938
+FRN(Firm Registration Number) 0135159W
+Address
+Date of signing Tax Audit Report 07-Nov-2025
+Place BORIVALI WEST, MUMBAI
+Date 10-Nov-2025
+This form has been digitally signed by TWINKALKUMAR PRAVINKUMAR JAIN having PAN AKCPJ7654F from IP Address 49.43.25.68 on 10/11/2025 05:10:32 PM Dsc Sl.No and issuer
+25771767CN=e-Mudhra Sub CA for Class 3 Individual 2022,C=IN,O=eMudhra Limited,OU=Certifying Authority
+report that the statutory audit of
+301, 3rd Floor, Aura Biplex, S V Road , Borivali (West), Mumbai ,
+Borivali West S.O , 19-Maharashtra , 91-India , Pincode - 400092
+The statement of particulars required to be furnished under section 44AB is annexed herewith in Form No. 3CD.
+B/203 Paras Building, Rokadiya Lane , Borivali West, MUMBAI , Borivali
+West S.O , Mumbai , MUMBAI , 19-Maharashtra , 91-India , Pincode -
+400092
+
+
+--- PAGE 13 ---
+Acknowledgement Number:522385950101125
+FORM 3CD [See rule 6G(2)]
+Statement of particulars required to be furnished under section 44AB of the Income-tax Act, 1961
+PART - A
+1. Name of the Assessee Sudarshan Pharma Industries Limited
+2. Address of the Assessee
+3. Permanent Account Number (PAN) AAMCS2601L
+Aadhaar Number of the assessee, if available
+4. Whether the assessee is liable to pay indirect tax like excise duty, service tax, sales tax, goods and services tax,customs duty,etc. if yes, please
+furnish the registration number or,GST number or any other identification number allotted for the same ?
+Yes
+Sl. No. Type Registration /Identification Number
+1 Goods and Services Tax
+19-Maharashtra
+27 AAMCS2601L 1Z6
+2 Goods and Services Tax
+11-Gujarat
+24 AAMCS2601L 1ZC
+3 Goods and Services Tax
+12-Haryana
+06 AAMCS2601L 1ZA
+4 Goods and Services Tax
+19-Maharashtra
+27 AAMCS2601L 2Z5
+5 Goods and Services Tax
+34-Uttarakhand
+05 AAMCS2601L 1ZC
+5. Status Company
+6. Previous year 01-Apr-2024 to 31-Mar-2025
+7. Assessment year 2025-26
+8. Indicate the relevant clause of section 44AB under which the audit has been conducted
+Sl. No. Relevant clause of section 44AB under which the audit has been conducted
+1 Third Proviso to sec 44AB : Audited under any other law
+8(a). Whether the assessee has opted for taxation under section 115BA / 115BAA / 115BAB / 115BAC(1A) / 115BAD / 115BAE ? Yes
+Section under which option exercised 115BAA
+PART - B
+9.(a). If firm or Association of Persons, indicate names of partners/members and their profit sharing ratios. In case of AOP, whether shares of members
+are indeterminate or unknown?
+Sl. No. Name Profit Sharing Ratio (%)
+No records added
+(b). If there is any change in the partners or members or in their profit sharing ratio since the last date of the preceding year, the particulars of such
+change ?
+Sl. No. Date of change Name of Partner/Member Type of change Old profit sharing ratio (%) New profit Sharing Ratio (%) Remarks
+No records added
+10.(a). Nature of business or profession (if more than one business or profession is carried on during the previous year, nature of every business or
+profession).
+Sl. No. Sector Sub Sector Code
+1 MANUFACTURING Manufacture of pharmaceuticals, medicinal chemicals and botanical products 04041
+2 WHOLESALE AND RETAIL TRADE Wholesale of other products n.e.c 09027
+301, 3rd Floor, Aura Biplex, S V Road , Borivali (West), Mumbai ,
+Borivali West S.O , 19-Maharashtra , 91-India , Pincode - 400092
+
+
+--- PAGE 14 ---
+Acknowledgement Number:522385950101125
+(b). If there is any change in the nature of business or profession, the particulars of such change ? No
+Sl. No. Business Sector Sub Sector Code
+No records added
+11.(a). Whether books of accounts are prescribed under section 44AA, if yes, list of books so prescribed ? No
+Sl. No. Books prescribed
+No records added
+(b). List of books of account maintained and the address at which the books of accounts are kept. (In case books of account are maintained in a
+computer system, mention the books of account generated by such computer system. If the books of accounts are not kept at one location, please
+furnish the addresses of locations along with the details of books of accounts maintained at each location.)
+1 Bank book 301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Borivali
+West
+Mumbai 400092 91-India 19-Maharashtra
+2 Cash book 301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Borivali
+West
+Mumbai 400092 91-India 19-Maharashtra
+3 Journal 301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Borivali
+West
+Mumbai 400092 91-India 19-Maharashtra
+4 Ledger 301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Borivali
+West
+Mumbai 400092 91-India 19-Maharashtra
+5 Purchase
+register
+301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Borivali
+West
+Mumbai 400092 91-India 19-Maharashtra
+6 Sales
+register
+301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Borivali
+West
+Mumbai 400092 91-India 19-Maharashtra
+7 Stock
+register
+301, Aura
+Biplex,
+S.V.Road,
+Above
+Kalyan
+Jewellers,
+Mumbai 400092 91-India 19-Maharashtra
+Sl. No. Booksmaintained AddressLine 1 AddressLine 2 City Or Town Or District Zip Code / Pin Code Country State
+
+
+--- PAGE 15 ---
+Acknowledgement Number:522385950101125
+Borivali
+West
+(c). List of books of account and nature of relevant documents examined.
+1 Bank book
+2 Cash book
+3 Journal
+4 Ledger
+5 Purchase register
+6 Sales register
+7 Stock register
+8 YES
+12. Whether the profit and loss account includes any profits and gains assessable on presumptive basis, if yes, indicate the amount and the relevant
+section (44AD, 44ADA, 44AE, 44AF, 44B, 44BB, 44BBA, 44BBB, 44BBC, Chapter XII-G, First Schedule or any other relevant section.) ?
+No
+Sl. No. Section Amount
+No records added
+13.(a). Method of accounting employed in the previous year. Mercantile system
+(b). Whether there had been any change in the method of accounting employed vis-a-vis the method employed in the immediately preceding previous
+year ?
+No
+(c). If answer to (b) above is in the affirmative, give details of such change , and the effect thereof on the profit or loss ?
+Sl. No. Particulars Increase in profit Decrease in profit
+No records added
+(d). Whether any adjustment is required to be made to the profits or loss for complying with the provisions of income computation and disclosure
+standards notified under section 145(2) ?
+No
+(e). If answer to (d) above is in the affirmative, give details of such adjustments:
+Sl. No. ICDS Increase in profit Decrease in profit Net effect
+No records added
+(f). Disclosure as per ICDS:
+Sl. No. ICDS Disclosure
+1 ICDS I - Accounting Policies Please Refer Financials
+2 ICDS II - Valuation of Inventories Please Refer Financials
+3 ICDS III - Construction Contracts NA
+4 ICDS IV - Revenue Recognition Please Refer Financials
+5 ICDS V - Tangible Fixed Assets Please Refer Financials
+6 ICDS VII - Governments Grants NA
+7 ICDS IX - Borrowing Costs Please Refer Financials
+8 ICDS X - Provisions, Contingent Liabilities and Contingent Assets Please Refer Financials
+14.(a). Method of valuation of closing stock employed in the previous year Lower of Cost or Market Rate
+Sl. No. Books examined
+
+
+--- PAGE 16 ---
+Acknowledgement Number:522385950101125
+(b). In case of deviation from the method of valuation prescribed under section 145A, and the effect thereof on the profit or loss, please furnish: No
+Sl. No. Particulars Increase in profit Decrease in profit
+No records added
+15. Give the following particulars of the capital asset converted into stock-in-trade
+Sl. No. Description of capital asset (a) Date of acquisition (b) Cost of acquisition (c) Amount at which the asset is converted into stock-in trade (d)
+No records added
+16. Amounts not credited to the profit and loss account, being, -
+(a). The items falling within the scope of section 28;
+Sl. No. Description Amount
+No records added
+(b). The proforma credits, drawbacks, refunds of duty of customs or excise or service tax, or refunds of sales tax or value added tax or Goods & Services Tax, where such credits, drawbacks or
+refunds are admitted as due by the authorities concerned;
+Sl. No. Description Amount
+No records added
+(c). Escalation claims accepted during the previous year;
+Sl. No. Description Amount
+No records added
+(d). any other item of income;
+Sl. No. Description Amount
+₹  0
+(e). Capital receipt, if any.
+Sl. No. Description Amount
+No records added
+17. Where any land or building or both is transferred during the previous year for a consideration less than value adopted or assessed or assessable by
+any authority of a State Government referred to in section 43CA or 50C, please furnish:
+Sl.
+No.
+Details of
+property
+Address of Property Consideration
+received or
+accrued
+Value adopted
+or assessed or
+assessable
+Whether provisions of second
+proviso to sub-section (1) of
+section 43CA or fourth proviso
+to clause (x) of sub-section (2) of
+section 56 applicable ?
+Address
+Line 1
+Address
+Line 2
+City Or
+Town Or
+District
+Zip
+Code
+/Pin
+Code
+Country State
+No records added
+18. Particulars of depreciation allowable as per the Income-tax Act, 1961 in respect of each asset or block of assets, as the case may be, in the
+following form:-
+Sl.
+No.
+Method of
+Depreciation
+Description of the
+Block of
+Assets/Class of
+Assets
+Rate
+of
+Depre
+ciatio
+n (%)
+Opening
+WDV/Actual
+Adjustment
+made to the
+written down
+value under
+section
+115BAA(3)/11
+5BAC(3)/115B
+AD(3) (To be
+Adjustment
+made to the
+written down
+value of
+Intangible
+asset due to
+excluding
+value of
+Adjusted
+written down
+value(A)
+Purchase
+Value
+Total Value
+of
+Purchases
+(B)
+Deductions
+(C)
+Other
+Adjustments
+Depreciation
+Allowable (D)
+Written
+Down Value
+at the end of
+the
+year(A+B-C-
+D)
+
+
+--- PAGE 17 ---
+Acknowledgement Number:522385950101125
+filled in only
+for
+assessment
+year 2020-21,
+2021-22 and
+2024-25 only,
+as applicable)
+goodwill of a
+business or
+profession
+1 WDV Building @ 10% 10 ₹ 11,47,08,759 ₹ 0 ₹ 0 ₹ 11,47,08,759 ₹ 0 ₹ 0 ₹ 0 ₹ 0 ₹ 1,14,70,876 ₹
+10,32,37,883
+2 WDV Furnitures & Fittings
+@ 10%
+10 ₹ 1,81,61,639 ₹ 0 ₹ 0 ₹ 1,81,61,639 ₹ 49,153 ₹ 49,153 ₹ 0 ₹ 0 ₹ 18,18,622 ₹  1,63,92,170
+3 WDV Plant and Machinery
+@ 15%
+15 ₹ 5,44,20,968 ₹ 0 ₹ 0 ₹ 5,44,20,968 ₹ 14,21,219 ₹ 14,21,219 ₹ 0 ₹ 0 ₹ 83,07,886 ₹  4,75,34,301
+4 WDV Plant and Machinery
+@ 30%
+30 ₹ 0 ₹ 0 ₹ 0 ₹ 0 ₹ 37,20,873 ₹ 37,20,873 ₹ 0 ₹ 0 ₹ 11,16,262 ₹  26,04,611
+5 WDV Plant and Machinery
+@ 40%
+40 ₹ 10,72,946 ₹ 0 ₹ 0 ₹ 10,72,946 ₹ 1,27,730 ₹ 1,27,730 ₹ 0 ₹ 0 ₹ 4,54,724 ₹  7,45,952
+6 WDV Intangible Assets @
+25%
+25 ₹ 69,21,344 ₹ 0 ₹ 0 ₹ 69,21,344 ₹ 0 ₹ 0 ₹ 0 ₹ 0 ₹ 17,30,336 ₹  51,91,008
+19. Amount admissible under section-
+Sl.
+No. Section Amount debited toprofit and loss account Amounts admissible as per the provisions of the Income-tax Act, 1961 and also fulfils the conditions, if any specified under therelevant provisions of Income-tax Act, 1961 or Income-tax Rules, 1962 or any other guidelines, circular, etc., issued in thisbehalf.
+No records added
+20. (a).Any sum paid to an employee as bonus or commission for services rendered, where such sum was otherwise payable to him as profits or dividend. [Section 36(1)(ii)]
+Sl. No. Description Amount
+No records added
+(b).Details of contributions received from employees for various funds as referred to in section 36(1)(va):
+Sl.
+No. Nature of fund Sum received fromemployees Due date forpayment The actual amountpaid The actual date of payment to the concernedauthorities
+1 Provident Fund ₹  14,024 15-May-2024 ₹  14,024 15-May-2024
+2 Provident Fund ₹  13,972 15-Jun-2024 ₹  13,972 14-Jun-2024
+3 Provident Fund ₹  15,120 15-Jul-2024 ₹  15,120 15-Jul-2024
+4 Provident Fund ₹  1,800 15-Jul-2024 ₹  1,800 24-Oct-2024
+5 Provident Fund ₹  16,281 15-Aug-2024 ₹  16,281 16-Sep-2024
+6 Provident Fund ₹  15,120 15-Sep-2024 ₹  15,120 16-Sep-2024
+7 Provident Fund ₹  13,320 15-Oct-2024 ₹  13,320 14-Oct-2024
+8 Provident Fund ₹  13,320 15-Nov-2024 ₹  13,320 15-Nov-2024
+9 Provident Fund ₹  11,520 15-Dec-2024 ₹  11,520 14-Dec-2024
+10 Provident Fund ₹  13,320 15-Jan-2025 ₹  13,320 14-Jan-2025
+11 Provident Fund ₹  18,546 15-Feb-2025 ₹  18,546 14-Feb-2025
+12 Provident Fund ₹  16,920 15-Mar-2025 ₹  16,920 13-Mar-2025
+13 Provident Fund ₹  16,920 15-Apr-2025 ₹  16,920 14-Apr-2025
+14 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,284 15-May-2024 ₹  2,284 15-May-2024
+15 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,261 15-Jun-2024 ₹  2,261 15-Jun-2024
+16 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,284 15-Jul-2024 ₹  2,284 16-Jul-2024
+17 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,284 15-Aug-2024 ₹  2,284 16-Sep-2024
+18 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,284 15-Sep-2024 ₹  2,284 16-Sep-2024
+
+
+--- PAGE 18 ---
+Acknowledgement Number:522385950101125
+19 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,284 15-Oct-2024 ₹  2,284 14-Oct-2024
+20 Any fund setup under the provisions of ESI
+Act, 1948
+₹  2,284 15-Nov-2024 ₹  2,284 15-Nov-2024
+please note: Post filing, the complete records will be available for download as a separate file in the download section.
+Generated_Form3cdEmpPfSuperann.csv
+21.(a). Please furnish the details of amounts debited to the profit and loss account, Being in the nature of capital, personal, advertisement expenditure
+etc.
+Capital expenditure
+Sl. No. Particulars Amount
+No records added
+Personal expenditure
+Sl. No. Particulars Amount
+No records added
+Advertisement expenditure in any souvenir, brochure, tract, pamphlet or the like published by a political party
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred at clubs being entrance fees and subscriptions
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred at clubs being cost for club services and facilities used.
+Sl. No. Particulars Amount
+No records added
+Expenditure for any purpose which is an offence or is prohibited by law or expenditure by way of penalty or fine for violation of any law (enacted in India or outside India)
+Sl. No. Particulars Amount
+No records added
+Expenditure by way of any other penalty or fine not covered above
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred to compound an offence under any law for the time being in force, in India or outside India.
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred to provide any benefit or perquisite, in whatever form, to a person, whether or not carrying on a business or exercising a profession, and acceptance of such benefit or
+perquisite by such person is in violation of any law or rule or regulation or guideline, as the case may be, for the time being in force, governing the conduct of such person
+Sl. No. Particulars Amount
+No records added
+Expenditure incurred to settle proceedings initiated in relation to contravention under such law as notified by the Central Government in the Official Gazette in this behalf
+Sl. No. Particulars Amount
+
+
+--- PAGE 19 ---
+Acknowledgement Number:522385950101125
+No records added
+(b). Amounts inadmissible under section 40(a);
+i. as payment to non-resident referred to in sub-clause (i)
+A. Details of payment on which tax is not deducted:
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the payee,
+if available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code /
+Pin Code
+Country State
+No records added
+B. Details of payment on which tax has been deducted but has not been paid on or before the due date specified in sub-section (1) of section 139
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of
+the payee
+Permanent Account Number of
+the payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town
+Or District
+Zip Code /
+Pin Code
+Country State Amount of tax
+deducted
+No records added
+ii. as payment referred to in sub-clause (ia)
+A. Details of payment on which tax is not deducted:
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the payee,
+if available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code /
+Pin Code
+Country State
+No records added
+B. Details of payment on which tax has been deducted but has not been paid on or before the due date specified in sub-section (1) of section 139.
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of
+the payee
+Permanent Account Number
+of the payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town
+Or District
+Zip Code /
+Pin Code
+Country State Amount
+of tax
+deducte
+d
+Amount
+deposite
+d out of
+"Amoun
+t of tax
+deducte
+d"
+No records added
+iii. as payment referred to in sub-clause (ib)
+A. Details of payment on which levy is not deducted:
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the payee,
+if available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code /
+Pin Code
+Country State
+No records added
+B. Details of payment on which levy has been deducted but has not been paid on or before the due date specified in sub-section (1) of section 139.
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Nature of
+payment
+Name of
+the payee
+Permanent Account Number
+of the payee,if available
+Aadhaar Number of the
+payee, if available
+Address
+Line 1
+Address
+Line 2
+City Or Town
+Or District
+Zip Code /
+Pin Code
+Country State Amount
+of levy
+deducted
+Amount
+deposite
+d out of
+"Amoun
+t of Levy
+deducte
+d"
+No records added
+iv. Fringe benefit tax under sub-clause (ic) ₹  0
+v. Wealth tax under sub-clause (iia) ₹  0
+vi. Royalty, license fee, service fee etc. under sub-clause (iib) ₹  0
+vii. Salary payable outside India/to a non resident without TDS etc. under sub-clause (iii)
+Sl.
+No.
+Date of
+payment
+Amount of
+payment
+Name of the
+payee
+Permanent Account Number of the
+payee,if available
+Aadhaar Number of the payee, if
+available
+Address
+Line 1
+Address
+Line 2
+City Or Town Or
+District
+Zip Code / Pin
+Code
+Country State
+No records added
+viii. Payment to PF /other fund etc. under sub-clause (iv) ₹  0
+ix. Tax paid by employer for perquisites under sub-clause (v) ₹  0
+
+
+--- PAGE 20 ---
+Acknowledgement Number:522385950101125
+(c). Amounts debited to profit and loss account being, interest, salary, bonus, commission or remuneration inadmissible under section 40(b)/40(ba) and
+computation thereof;
+Sl. No. Particulars Section Amount debited to P/L A/C Amount admissible Amount inadmissible Remarks
+No records added
+(d). Disallowance/deemed income under section 40A(3):
+A. On the basis of the examination of books of account and other relevant documents/evidence, whether the expenditure covered under section 40A(3)
+read with rule 6DD were made by account payee cheque drawn on a bank or account payee bank draft. If not, please furnish the details ?
+Yes
+Sl.
+No.
+Date of
+Payment
+Nature of
+Payment Amount Name of thepayee Permanent Account Number of the payee, ifavailable Aadhaar Number of the payee, ifavailable
+No records added
+B. On the basis of the examination of books of account and other relevant documents/evidence, whether payment referred to in section 40A(3A) read
+with rule 6DD were made by account payee cheque drawn on a bank or account payee bank draft. If not, please furnish the details of amount deemed
+to be the profits and gains of business or profession under section 40A(3A) ?
+Yes
+Sl.
+No.
+Date of
+Payment
+Nature of
+Payment Amount Name of thepayee Permanent Account Number of the payee, ifavailable Aadhaar Number of the payee, ifavailable
+No records added
+(e). Provision for payment of gratuity not allowable under section 40A(7); ₹ 7,91,198
+(f). Any sum paid by the assessee as an employer not allowable under section 40A(9); ₹ 0
+(g). Particulars of any liability of a contingent nature;
+Sl. No. Nature of Liability Amount
+No records added
+(h). Amount of deduction inadmissible in terms of section 14A in respect of the expenditure incurred in relation to income which does not form part of the
+total income;
+Sl. No. Particulars Amount
+No records added
+(i). Amount inadmissible under the proviso to section 36(1)(iii). ₹ 0
+22. (i) Amount of interest inadmissible under section 23 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act) ₹ 0
+(ii) Total amount required to be paid to to a micro or small enterprise, as referred to in section 15 of the MSMED Act, during the previous year ₹ 0
+(iii) Of amount referred to in (ii) above, amount
+(a) paid up to time given under section 15 of the MSMED Act ₹ 0
+(b) not paid up to time given under section 15 of the MSMED Act and inadmissible for the previous year ₹ 0
+23. Particulars of any payments made to persons specified under section 40A(2)(b).
+Sl.
+No. Name of Related Person PAN of RelatedPerson Aadhaar Number of the relatedperson, if available Relation Nature of Transaction PaymentMade
+1 Lifesciences Chemical Pvt Ltd AAFCL5249L Subsidiary Company Commission Paid ₹ 4,28,527
+2 Lifesciences Chemical Pvt Ltd AAFCL5249L Subsidiary Company Interest Paid ₹ 19,13,819
+3 Sachin Chemsolve Industry Pvt Ltd ABHCS5454K Common Director Interest Paid ₹ 1,97,000
+4 Sudarshan Maven Pharma Private
+Limited
+ABOCS1754K Subsidiary Company Investment made in
+Equity shares
+₹ 70,000
+5 Sudarshan Pharma Industries
+Private Limited- Singapore
+Subsidiary Company Investment made in
+Equity shares
+₹ 6,59,110
+6 Hemal Mehta ADRPM4657P Director Lease Rent ₹ 10,50,000
+
+
+--- PAGE 21 ---
+Acknowledgement Number:522385950101125
+7 Sachin Mehta AICPM1154H Director Lease Rent ₹ 14,70,000
+8 Sudarshan Chempharma India LLP ACZFS0392Q Director is Partner in
+LLP
+Lease Rent ₹ 21,78,000
+9 Sachin Chemicals ADRPM4657P Director is Proprietor of
+the concern
+Purchase of Goods ₹ 5,39,21,494
+10 Sudarshan Solvent Industries
+Limited
+AARCS5217P Common Director Purchase of Goods ₹ 2,31,81,446
+11 UPSTREAM REFINERY SOLUTION
+LLP
+AAGFU5317A Director is Partner in
+LLP
+Purchase of Goods ₹ 93,07,030
+12 Magicremedi Pvt. Ltd AANCM2692J Common Director Purchase of Goods ₹ 30,90,000
+13 Ratna Lifesciences Private Limited AAICR1227R Subsidiary Company Purchase of Goods ₹ 2,47,00,046
+14 Hemal Mehta ADRPM4657P Director Remuneration to
+Director
+₹ 72,00,000
+15 Sachin Mehta AICPM1154H Director Remuneration to
+Director
+₹ 72,00,000
+16 Devangi Mehta AIOPM8860C Wife of Director Salary ₹ 6,18,000
+17 Namrata Mehta AWWPM2317E Wife of Director Salary ₹ 6,18,000
+24. Amounts deemed to be profits and gains under section 32AC or 32AD or 33AB or 33AC or 33ABA.
+Sl. No. Section Description Amount
+No records added
+25. Any Amount of profit chargeable to tax under section 41 and computation thereof.
+Sl.
+No.
+Name of
+person
+Amount of Income credited to
+Profit and Loss account
+Amount of Income not credited to
+Profit and Loss account
+Total Amount of
+income Section Description ofTransaction Computation ifany
+No records added
+26.i. In respect of any sum referred to in clause section 43B, the liability for which:
+A. pre-existed on the first day of the previous year but was not allowable in the assessment of any preceding previous year and was
+a. paid during the previous year;
+Sl. No. Section Nature of liability Amount
+₹  0
+b. not paid during the previous year;
+Sl. No. Section Nature of liability Amount
+1 Sec 43B(b)-provident/superannuation/gratuity/other fund Employer's contribution to gratuity fund ₹  1,86,884
+2 Sec 43B(f)- leave encashment Leave Salary ₹  25,475
+B. was incurred in the previous year and for clauses other than clause (h) of section 43B was
+a. paid on or before the due date for furnishing the return of income of the previous year under section 139(1);
+Sl. No. Section Nature of liability Amount
+1 Sec 43B(a)- tax,duty,cess,fee etc Taxes and duties: TDS ₹  15,55,000
+2 Sec 43B(a)- tax,duty,cess,fee etc Taxes and duties: TDS ₹  19,64,438
+3 Sec 43B(a)- tax,duty,cess,fee etc Taxes and duties: GST ₹  6,48,411
+
+
+--- PAGE 22 ---
+Acknowledgement Number:522385950101125
+b. not paid on or before the aforesaid date.
+Sl. No. Section Nature of liability Amount
+1 Sec 43B(b)-provident/superannuation/gratuity/other fund Employer's contribution to gratuity fund ₹  7,02,746
+2 Sec 43B(f)- leave encashment Leave Salary ₹  88,452
+State whether sales tax,goods & services Tax, customs duty, excise duty or any other indirect tax,levy,cess,impost etc.is passed through the profit and
+loss account ?
+No
+27.a. Amount of Central Value Added Tax Credits/ Input Tax Credit(ITC) availed of or utilised during the previous year and its treatment in profit and loss
+account and treatment of outstanding Central Value Added Tax Credits/Input Tax Credit(ITC) in accounts.
+Yes
+CENVAT /ITC Amount Treatment in Profit & Loss/Accounts
+Opening Balance ₹  10,37,93,758
+Credit Availed ₹  85,26,73,912
+Credit Utilized ₹  86,81,31,543
+Closing /Oustanding Balance ₹  8,83,36,127
+b. Particulars of income or expenditure of prior period credited or debited to the profit and loss account.
+Sl. No. Type Particulars Amount Prior period to which it relates (Year in yyyy-yy format)
+No records added
+Clause 28 to omitted from AY 2025-26 and onwards
+29. Whether during the previous year the assessee received any consideration for issue of shares which exceeds the fair market value of the shares as
+referred to in section 56(2) (viib) ?
+(Applicable till AY 2024-25)
+Please furnish the details of the same
+Sl.
+No.
+Name of the person from whom
+consideration received for issue of shares
+PAN of the person,
+if available
+Aadhaar Number of the
+payee, if available
+No. of shares
+issued
+Amount of
+consideration received
+Fair Market value
+of the shares
+No records added
+A.a. Whether any amount is to be included as income chargeable under the head 'income from other sources' as referred to in clause (ix) of sub-section
+(2) of section 56 ?
+No
+b. Please furnish the following details:
+Sl. No. Nature of income Amount
+No records added
+B.a. Whether any amount is to be included as income chargeable under the head 'income from other sources' as referred to in clause (x) of sub-section
+(2) of section 56 ?
+No
+b. Please furnish the following details:
+Sl. No. Nature of income Amount
+No records added
+30. Details of any amount borrowed on hundi or any amount due thereon (including interest on the amount borrowed) repaid, otherwise than through an
+account payee cheque. [Section 69D]
+No
+Sl.
+No.
+Name of the person from
+whom amount borrowed
+or repaid on hundi
+PAN of the
+person, if
+available
+Aadhaar Number
+of the person, if
+available
+Address
+Line 1
+Address
+Line 2
+City Or
+Town Or
+District
+Zip Code
+/ Pin
+Code
+Country State Amount
+borrowed
+Date of
+borrowing
+Amount due
+including
+interest
+Amount
+repaid
+Dat
+e of
+Rep
+ay
+
+
+--- PAGE 23 ---
+Acknowledgement Number:522385950101125
+me
+nt
+No records added
+A.a. Whether Primary adjustment to transfer price, as referred to in sub-section (1) of section 92CE, has been made during the previous year ? No
+b. Please furnish the following details:
+Sl.
+No.
+Under which clause of
+sub-section (1) of
+section 92CE primary
+adjustment is made ?
+Amount (in Rs.)
+of primary
+adjustment
+Whether the excess money
+available with the associated
+enterprise is required to be
+repatriated to India as per the
+provisions of sub-section (2) of
+section 92CE ?
+If yes, whether the
+excess money has
+been repatriated
+within the prescribed
+time ?
+If no, the amount (in Rs.) of
+imputed interest income on
+such excess money which has
+not been repatriated within the
+prescribed time
+Expected date
+of repatriation
+of money
+No records added
+B.a. Whether the assessee has incurred expenditure during the previous year by way of interest or of similar nature exceeding one crore rupees as
+referred to in sub-section (1) of section 94B ?
+No
+b. Please furnish the following details
+Sl.
+No.
+Amount of
+expenditure by way
+of interest or of
+similar nature
+incurred(i)
+Earnings before
+interest,tax, depreciation
+and amortization
+(EBITDA) during the
+previous year(ii)
+Amount of expenditure by way
+of interest or of similar nature
+as per (i) above which exceeds
+30% of EBITDA as per (ii)
+above.(iii)
+Details of interest expenditure
+brought forward as per sub-section
+(4) of section 94B.(iv)
+Details of interest expenditure
+carried forward as per sub-section
+(4) of section 94B.(v)
+Assessment Year Amount Assessment Year Amount
+No records added
+C.a. Whether the assessee has entered into an impermissible avoidance arrangement, as referred to in section 96, during the previous year ? No
+b. Please furnish the following details
+Sl. No. Nature of the impermissible avoidance arrangement Amount of tax benefit in the previous year arising, in aggregate, to all the parties to the arrangement
+No records added
+31.a.Particulars of each loan or deposit in an amount exceeding the limit specified in section 269SS taken or accepted during the previous year :-
+Sl.
+No.
+i) Name of
+the lender
+or
+depositor
+ii)
+Address
+of the
+lender or
+depositor
+iii(a)
+Permanent
+Account
+Number (if
+available with
+the
+assessee) of
+the lender or
+depositor
+iii(b)
+Aadhaar
+Number
+of the
+lender or
+depositor,
+if
+available
+iv) Amount of
+each loan or
+deposit taken
+or accepted
+v) Whether
+the
+loan/deposit
+was
+squared up
+during the
+previous
+year ?
+vi) Maximum
+amount
+outstanding
+in the
+account at
+any time
+during the
+previous year
+vii)
+Whether
+the loan
+or
+deposit
+was taken
+or
+accepted
+by
+cheque or
+bank
+draft or
+use of
+electronic
+clearing
+system
+through a
+bank
+account ?
+vii(a)
+Code of
+the nature
+of such
+amount
+(as
+mentioned
+in field (iv)
+above)
+vii(b)
+Please
+Specify
+viii) In
+case the
+loan or
+deposit
+was
+taken or
+accepted
+by
+cheque
+or bank
+draft,
+whether
+the same
+was
+taken or
+accepted
+by an
+account
+payee
+cheque
+or an
+account
+payee
+bank
+draft.
+1 Protium
+Finance
+Limited
+Mumbai AAHCG7537N ₹ 3,02,78,158 No ₹ 3,02,78,158 Yes Cheque Account
+payee
+cheque
+2 Krishna
+Chemicals
+[Loan] A/C.
+Mumbai AAAPV7240N ₹ 3,00,00,000 Yes ₹ 3,00,00,000 Yes Cheque Account
+payee
+cheque
+
+
+--- PAGE 24 ---
+Acknowledgement Number:522385950101125
+3 Tata Capital
+Financial
+Services
+Limited
+Mumbai AADCT6631L ₹ 6,00,44,245 No ₹ 2,00,00,000 Yes Cheque Account
+payee
+cheque
+4 Sachin
+Chemsolve
+Industry Pvt
+Ltd
+Mumbai ABHCS5454K ₹ 75,00,000 Yes ₹ 75,00,000 Yes Cheque Account
+payee
+cheque
+5 Aditya Birla
+Finance
+Limited
+Mumbai AABCB5769M ₹ 21,71,65,905 No ₹ 8,70,57,523 Yes Cheque Account
+payee
+cheque
+6 Hiveloop
+Capital
+Private
+Limited
+Mumbai AAECH0495H ₹ 12,14,81,273 No ₹ 1,99,94,833 Yes Cheque Account
+payee
+cheque
+7 Receivables
+Exchange
+Of India Ltd
+Mumbai AAHCR6707P ₹ 65,26,52,084 No ₹ 17,38,52,954 Yes Cheque Account
+payee
+cheque
+8 Shriram
+Finance
+Limited
+Mumbai AAACS7018R ₹ 39,56,74,897 No ₹ 9,99,99,989 Yes Cheque Account
+payee
+cheque
+9 Vivriti
+Capital
+Mumbai AAFCV9757P ₹ 20,52,57,024 No ₹ 5,04,52,191 Yes Cheque Account
+payee
+cheque
+10 Krishna
+Solvechem
+Limited
+Mumbai AACCK7702J ₹ 2,25,00,000 No ₹ 2,00,00,000 Yes Cheque Account
+payee
+cheque
+11 Vivriti
+Capital
+(Vendor
+Finance)
+Mumbai AAFCV9757P ₹ 28,12,70,151 No ₹ 9,93,40,488 Yes Cheque Account
+payee
+cheque
+12 D.P.World
+Financial
+Services
+Limited
+Mumbai ₹ 5,71,99,785 No ₹ 6,44,69,724 Yes Cheque Account
+payee
+cheque
+b.Particulars of each specified sum in an amount exceeding the limit specified in section 269SS taken or accepted during the previous year:-
+Sl.
+No.
+i) Name
+of the
+person
+from
+whom
+specified
+sum is
+received
+ii)
+Address
+of the
+person
+from
+whom
+specified
+sum is
+received
+iii(a) Permanent
+Account Number
+(if available with
+the assessee) of
+the person from
+whom specified
+sum is received
+iii(b) Aadhaar
+Number of
+the person
+from whom
+specified
+sum is
+received, if
+available
+iv)
+Amount
+of each
+loan or
+deposit
+taken or
+accepted
+v) Whether the
+specified sum was
+taken or accepted by
+cheque or bank draft
+or use of electronic
+clearing system
+through a bank
+account ?
+v(a) Code
+of the
+nature of
+such
+amount (as
+mentioned
+in field (iv)
+above)
+v(b)
+Please
+Specify
+vi) In case the specified sum
+was taken or accepted by
+cheque or bank draft,
+whether the same was taken
+or accepted by an account
+payee cheque or an account
+payee bank draft.
+No records added
+Note: Particulars at (a) and (b) need not be given in the case of a Government company, a banking company or a corporation established by a Central, State or Provincial Act.
+b.(a). Particulars of each receipt in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect of
+transactions relating to one event or occasion from a person, during the previous year, where such receipt is otherwise than by a cheque or bank draft or use of electronic clearing system
+through a bank account
+Sl.
+No.
+i) Name of
+the payer
+ii) Address of
+the payer
+iii(a) Permanent Account Number (if
+available with the assessee) of the payer
+iii(b) Aadhaar Number of
+the payer, if available
+iv) Nature of
+transaction
+v) Amount of
+receipt
+vi) Date of
+receipt
+No records added
+b.(b). Particulars of each receipt in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect of
+transactions relating to one event or occasion from a person, received by a cheque or bank draft, not being an account payee cheque or an account payee bank draft, during the previous year:-
+Sl.
+No.
+i) Name of the
+payer
+ii) Address of the
+payer
+iii(a) Permanent Account Number (if available with the
+assessee) of the payer
+iii(b) Aadhaar Number of the payer,
+if available
+iv) Amount of
+receipt
+No records added
+b.(c). Particulars of each payment made in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect of
+transactions relating to one event or occasion to a person, otherwise than by a cheque or bank draft or use of electronic clearing system through a bank account during the previous year
+
+
+--- PAGE 25 ---
+Acknowledgement Number:522385950101125
+Sl.
+No.
+i) Name of
+the payee
+ii) Address of
+the payee
+iii(a) Permanent Account Number (if
+available with the assessee) of the payee
+iii(b) Aadhaar Number of
+the payee, if available
+iv) Nature of
+transaction
+v) Amount of
+payment
+vi) Date of
+payment
+No records added
+b.(d). Particulars of each payment made in an amount exceeding the limit specified in section 269ST, in aggregate from a person in a day or in respect of a single transaction or in respect of
+transactions relating to one event or occasion to a person, made by a cheque or bank draft, not being an account payee cheque or an account payee bank draft, during the previous year
+Sl.
+No.
+i) Name of the
+payee
+ii) Address of the
+payee
+iii(a) Permanent Account Number (if available with the
+assessee) of the payee
+iii(b) Aadhaar Number of the payee,
+if available
+iv) Amount of
+payment
+No records added
+Note: Particulars at (ba), (bb), (bc) and (bd) need not be given in the case of receipt by or payment to a Government company, a banking Company, a post office savings bank, a cooperative bank or
+in the case of transactions referred to in section 269SS or in the case of persons referred to in Notification No. S.O. 2065(E) dated 3rd July, 2017
+c. Particulars of each repayment of loan or deposit or any specified advance in an amount exceeding the limit specified in section 269T made during the previous year:-
+Sl.
+No.
+i) Name of
+the payee
+ii)
+Address
+of the
+payee
+iii(a)
+Permanent
+Account
+Number (if
+available with
+the assessee)
+of the payee
+iii(b)
+Aadhaar
+Number
+of the
+payee, if
+available
+iv) Amount of
+each
+repayment of
+loan or deposit
+or any
+specified
+advance
+v) Maximum
+amount
+outstanding in
+the account at
+any time during
+the previous
+year
+vi) Whether
+the
+repayment
+was made by
+cheque or
+bank draft or
+use of
+electronic
+clearing
+system
+through a
+bank account
+?
+vi(a) Code
+of the
+nature of
+such
+amount (as
+mentioned
+in field (iv)
+above)
+vi(b)
+Please
+Specify
+vii) In case the
+repayment
+was made by
+cheque or
+bank draft,
+whether the
+same was
+repaid by an
+account payee
+cheque or an
+account payee
+bank draft.
+1 Protium
+Finance
+Limited
+Mumbai AAHCG7537N ₹ 7,38,892 ₹ 3,02,78,158 Yes Cheque Account payee
+cheque
+2 Gopaldas
+Visram
+Company
+Mumbai AACCG4503F ₹ 50,00,000 ₹ 2,50,00,000 Yes Cheque Account payee
+cheque
+3 Krishna
+Chemicals
+[Loan] A/C.
+Mumbai AAAPV7240N ₹ 3,00,00,000 ₹ 3,00,00,000 Yes Cheque Account payee
+cheque
+4 Tata Capital
+Financial
+Services
+Limited
+(Gecl)
+Mumbai AADCT6631L ₹ 3,66,660 ₹ 44,00,000 Yes Cheque Account payee
+cheque
+5 Tata Capital
+Machinery
+Term Loan
+21856332
+Mumbai AADCT6631L ₹ 7,15,200 ₹ 15,85,736 Yes Cheque Account payee
+cheque
+6 Tata Capital
+Unsecured
+Term Loan
+Mumbai AADCT6631L ₹ 66,66,660 ₹ 1,61,11,115 Yes Cheque Account payee
+cheque
+7 Tata Capital
+Financial
+Services
+Limited
+Mumbai AADCT6631L ₹ 6,01,53,066 ₹ 2,00,00,000 Yes Cheque Account payee
+cheque
+8 Sachin
+Chemsolve
+Industry Pvt
+Ltd
+Mumbai ABHCS5454K ₹ 75,00,000 ₹ 75,00,000 Yes Cheque Account payee
+cheque
+9 Aditya Birla
+Finance
+Limited
+Mumbai AABCB5769M ₹ 24,05,95,718 ₹ 8,70,57,523 Yes Cheque Account payee
+cheque
+10 Hiveloop
+Capital
+Private
+Limited
+Mumbai AAECH0495H ₹ 12,15,28,591 ₹ 1,99,94,833 Yes Cheque Account payee
+cheque
+11 Receivable
+Exchang Of
+India Ltd
+Mumbai AAHCR6707P ₹ 55,52,90,605 ₹ 17,38,52,954 Yes Cheque Account payee
+cheque
+12 Shriram
+Finance
+Mumbai AAACS7018R ₹ 39,56,90,705 ₹ 9,99,99,989 Yes Cheque Account payee
+cheque
+
+
+--- PAGE 26 ---
+Acknowledgement Number:522385950101125
+Limited
+13 Vivriti
+Capital
+Mumbai AAFCV9757P ₹ 15,48,04,833 ₹ 5,04,52,191 Yes Cheque Account payee
+cheque
+14 Vivriti
+Capital
+(Vendor
+Finance)
+Mumbai AAFCV9757P ₹ 18,78,81,668 ₹ 9,93,40,488 Yes Cheque Account payee
+cheque
+15 D.P.World
+Financial
+Services
+Limited
+Mumbai ₹ 7,81,22,276 ₹ 6,44,69,724 Yes Cheque Account payee
+cheque
+16 Krishna
+Solvechem
+Limited
+Mumbai AACCK7702J ₹ 2,11,10,072 ₹ 2,00,00,000 Yes Cheque Account payee
+cheque
+d. Particulars of repayment of loan or deposit or any specified advance in an amount exceeding the limit specified in section 269T received otherwise than by a cheque or bank draft or use of
+electronic clearing system through a bank account during the previous year:-
+Sl.
+No.
+i) Name of
+the payer
+ii) Address
+of the payer
+iii(a) Permanent Account
+Number (if available with the
+assessee) of the payer
+iii(b) Aadhaar
+Number of the payer,
+if available
+iv) Amount of repayment of loan or deposit or any specified advance
+received otherwise than by a cheque or bank draft or use of electronic
+clearing system through a bank account during the previous year
+No records added
+e. Particulars of repayment of loan or deposit or any specified advance in an amount exceeding the limit specified in section 269T received by a cheque or bank draft which is not an account
+payee cheque or account payee bank draft during the previous year:-
+Sl.
+No.
+i) Name of
+the payer
+ii) Address
+of the payer
+iii(a) Permanent Account
+Number (if available with the
+assessee) of the payer
+iii(b) Aadhaar
+Number of the payer,
+if available
+iv) Amount of repayment of loan or deposit or any specified advance
+received by a cheque or bank draft which is not an account payee
+cheque or account payee bank draft during the previous year
+No records added
+Note: Particulars at (c), (d) and (e) need not be given in the case of a repayment of any loan or deposit or specified advance taken or accepted from Government, Government company, banking
+company or a corporation established by a Central, State or Provincial Act
+32.a. Details of brought forward loss or depreciation allowance, in the following manner, to the extent available
+Sl.
+No.
+Assessment
+Year
+Nature of
+loss/allowance
+Amount as
+returned (if
+the
+assessed
+depreciation
+is less and
+no appeal
+pending
+then take
+assessed)
+All
+losses/allowances
+not allowed under
+section 115BAA /
+115BAC / 115BAD
+/ 115BAE
+Amount as adjusted by
+withdrawal of additional
+depreciation on account of
+opting for taxation under
+section
+115BAC/115BAD/115BAE(To
+be filled in only for
+assessment year 2021-22
+and 2024-25 only, as
+applicable)
+Amount as assessed (give reference to relevant
+order)
+Remarks
+Amount Order U/s
+Date
+of
+order
+1 2023-24 House property
+loss
+₹  972610 ₹ ₹  0 ₹ 972610 CPC/2324/G23/405205180 25-
+Jan-
+2024
+Refund
+Adjusted
+2 2024-25 House property
+loss
+₹  506782 ₹ ₹  0 ₹ 506782 CPC/2425/U6/538454920 31-
+Oct-
+2024
+Refund
+Adjusted
+b. Whether a change in share holding of the company has taken place in the previous year due to which the losses incurred prior to the previous year
+cannot be allowed to be carried forward in terms of section 79 ?
+No
+c. Whether the assessee has incurred any speculation loss referred to in section 73 during the previous year ? No
+If yes, please furnish the details of the same. ₹  0
+d. Whether the assessee has incurred any loss referred to in section 73A in respect of any specified business during the previous year ? No
+If yes, please furnish the details of the same. ₹  0
+e. In case of a company, please state that whether the company is deemed to be carrying on a speculation business as referred in explanation to
+section 73.
+
+
+--- PAGE 27 ---
+Acknowledgement Number:522385950101125
+If yes, please furnish the details of the same. ₹  0
+33. Section-wise details of deductions, if any admissible under Chapter VIA or Chapter III (Section 10A, Section 10AA). No
+Sl.
+No.
+Section under which
+deduction is claimed
+Amounts admissible as per the provision of the Income-tax Act,1961 and fulfils the conditions, if any, specified under the relevant
+provisions of Income-tax Act, 1961 or Income-tax Rules, 1962 or any other guidelines, circular, etc, issued in this behalf.
+No records added
+34.(a). Whether the assessee is required to deduct or collect tax as per the provisions of Chapter XVII-B or Chapter XVII-BB, please furnish ? Yes
+Sl.
+No.
+(1)Tax
+deduction and
+collection
+Account
+Number (TAN)
+(2)Sectio
+n
+(3)Nature of
+payment
+(4)Total amount
+of payment or
+receipt of the
+nature specified
+in column (3)
+(5)Total amount
+on which tax
+was required to
+be deducted or
+collected out of
+(4)
+(6)Total amount
+on which tax
+was deducted or
+collected at
+specified rate
+out of (5)
+(7)Amount
+of tax
+deducted
+or
+collected
+out of (6)
+(8)Total
+amount on
+which tax
+was deducted
+or collected
+at less than
+specified rate
+out of (7)
+(9)Amount
+of tax
+deducted
+or
+collected
+on (8)
+(10)Amount
+of tax
+deducted or
+collected not
+deposited to
+the credit of
+the Central
+Government
+out of (6)
+and (8) (10)
+1 MUMS60902C 194J Fees for
+professional
+or technical
+services
+₹ 4,06,86,040 ₹ 3,09,95,670 ₹ 3,09,95,670 ₹ 30,79,698 ₹ 0 ₹ 0 ₹ 0
+2 MUMS60902C 194H Commission
+or
+brokerage
+₹ 54,24,000 ₹ 44,76,430 ₹ 44,76,430 ₹ 1,22,662 ₹ 0 ₹ 0 ₹ 0
+3 MUMS60902C 194C Payments to
+contractors
+₹ 10,16,99,230 ₹ 9,47,56,928 ₹ 7,58,58,202 ₹ 12,59,353 ₹ 1,88,98,726 ₹ 39,167 ₹ 0
+4 MUMS60902C 194-I Rent ₹ 1,09,30,818 ₹ 1,01,75,818 ₹ 1,01,75,818 ₹ 10,17,581 ₹ 0 ₹ 0 ₹ 0
+5 MUMS60902C 194A Other
+Interest
+₹ 14,29,54,943 ₹ 6,73,87,863 ₹ 6,73,87,863 ₹ 67,39,186 ₹ 0 ₹ 0 ₹ 0
+6 MUMS60902C 192 Salary ₹ 2,98,37,146 ₹ 1,54,56,142 ₹ 1,54,56,142 ₹ 50,59,580 ₹ 0 ₹ 0 ₹ 0
+7 MUMS60902C 194Q PURCHASE
+OF GOODS
+₹ 4,91,96,64,883 ₹ 3,44,62,81,850 ₹ 3,44,62,81,850 ₹ 34,44,051 ₹ 0 ₹ 0 ₹ 0
+8 MUMS60902C 194-IA TDS on
+Purchase of
+Property
+₹ 15,55,00,000 ₹ 15,55,00,000 ₹ 15,55,00,000 ₹ 15,55,000 ₹ 0 ₹ 0 ₹ 0
+(b). Whether the assessee is required to furnish the statement of tax deducted or tax collected ? Yes
+Please furnish the details:
+Sl.
+No.
+Tax deduction and
+collection Account
+Number (TAN)
+Type
+of
+Form
+Due date
+for
+furnishing
+Date of
+furnishing, if
+furnished
+Whether the statement of tax deducted or collected contains
+information about all details/transactions which are required to
+be reported
+Please furnish list of
+details/transactions which
+are not reported.
+1 MUMS60902C 26Q 31-Jul-
+2024
+31-Jul-2024 Yes
+2 MUMS60902C 26Q 31-Oct-
+2024
+30-Oct-2024 Yes
+3 MUMS60902C 26Q 31-Jan-
+2025
+31-Jan-2025 Yes
+4 MUMS60902C 26Q 31-May-
+2025
+31-May-2025 Yes
+5 MUMS60902C 24Q 31-Jul-
+2024
+31-Jul-2024 Yes
+6 MUMS60902C 24Q 31-Oct-
+2024
+30-Oct-2024 Yes
+7 MUMS60902C 24Q 31-Jan-
+2025
+31-Jan-2025 Yes
+8 MUMS60902C 24Q 31-May-
+2025
+12-Jun-2025 Yes
+
+
+--- PAGE 28 ---
+Acknowledgement Number:522385950101125
+(c). Whether the assessee is liable to pay interest under section 201(1A) or section 206C(7) ? No
+Please furnish:
+Sl.
+No.
+Tax deduction and collection Account Number
+(TAN)(1)
+Amount of interest under section 201(1A)/206C(7) is
+payable(2)
+Amount paid out of column (2) along with date of
+payment.(3)
+Amount Date of payment
+No records added
+35.(a). In the case of a trading concern, give quantitative details of prinicipal items of goods traded;
+Sl.
+No. Item Name UnitName Openingstock Purchases during the perviousyear Sales during the perviousyear Closingstock Shortage/excess, ifany
+1 (3S)-3-( AMINO METHYL )-5 kilograms 0 250 250 0 0
+2 (3S)-3- AMINOMETHYLS-5-
+ME
+kilograms 0 1,000 1,000 0 0
+3 ACETIC ACID kilograms 0 3,89,180 3,89,180 0 0
+4 ACETONE kilograms 0 1,37,720 1,37,720 0 0
+5 ACETONITRILE kilograms 0 6,15,910 6,13,040 2,870 0
+6 AROMATIC SOLVENT
+(2707500
+kilograms 0 22,920 22,920 0 0
+7 AROMATIC SOLVENT (C9) kilograms 0 42,930 42,930 0 0
+8 AROSOL 110 kilograms 0 18,965 18,965 0 0
+9 BUTYL ACETATE kilograms 0 15,920 15,920 0 0
+10 BUTYL ACRYLATE
+MONOMER
+kilograms 0 85,490 85,490 0 0
+11 CYCLOHEXANE [ 29021100
+]
+kilograms 0 22,180 22,180 0 0
+12 DI METHYL FORMAMIDE kilograms 0 16,070 16,070 0 0
+13 DI METHYL SULFOXIDE kilograms 0 39,326 39,326 0 0
+14 DI METHYL SULPHATE [
+2920
+kilograms 0 50,410 50,410 0 0
+15 DISTILLED SOLVENT kilograms 0 1,00,400 70,400 30,000 0
+16 HEXANE (29011000) kilograms 0 14,32,210 11,00,053 3,32,157 0
+17 INDUSTRIAL SOLVENT kilograms 20,980 20,980 41,960 0 0
+18 ISO PROPYL ALCOHOL kilograms 0 81,910 72,050 9,860 0
+19 ISO PROPYL ALCOHOL [
+2905
+kilograms 0 1,23,710 1,23,710 0 0
+20 ISO PROPYL ALCOHOL [
+2905
+kilograms 0 21,100 21,100 0 0
+please note: Post filing, the complete records will be available for download as a separate file in the download section.
+Generated_Form3cdTradeRawProdDet_TRADE.csv
+(b). In the case of manufacturing concern,give quantitative details of the prinicipal items of raw materials, finished products and by-products.
+A. Raw materials:
+Sl.
+No. Item Name UnitName Openingstock Purchasesduring thepervious year Consumptionduring thepervious year Sales duringthe perviousyear Closingstock Yield offinishedproducts Percentageof yield Shortage/excess,if any
+1 100ML 5PLY
+EXPORT
+CORRUGA
+numbers 10 0 0 0 10 0 0
+2 100 ML AMBER
+PET BOTTOLE
+numbers 24,590 1,78,500 1,75,866 0 27,224 0 0
+3 100 ML BLUE
+PET BOTTLES
+numbers 2,080 0 0 0 2,080 0 0
+
+
+--- PAGE 29 ---
+Acknowledgement Number:522385950101125
+4 100 ML CLEAR
+PET BOTTLE
+numbers 76,917 1,53,834 1,83,834 0 46,917 0 0
+5 100 ML DOME
+AMBER PET
+BOT
+numbers 45,816 0 44,750 0 1,066 0 0
+6 100 ML DOME
+CLEAR PET BOT
+numbers 17,738 0 17,100 0 638 0 0
+7 100 ML GREEN
+PET BOTTLE
+numbers 11,320 0 2,000 0 9,320 0 0
+8 100 ML MOUTH
+WASH BOTT WI
+numbers 0 5,104 5,000 0 104 0 0
+9 100ML ORANGE
+PET BOTTLE
+numbers 128 0 0 0 128 0 0
+10 100 ML RED PET
+BOTTLES
+numbers 25,240 0 0 0 25,240 0 0
+11 100 ML SHIPEER
+EDGE LIFE
+numbers 2 0 0 0 2 0 0
+12 100 ML
+SHIPPERS-
+480*240*2
+numbers 87 0 85 0 2 0 0
+13 100 ML X 150
+SHIPPER
+numbers 24 0 20 0 4 0 0
+14 10ML CIBA
+GLASS BOTTLE
+numbers 2,864 0 0 0 2,864 0 0
+15 10
+ML.MEASURING
+CUPS (25M
+numbers 1,03,500 4,89,500 5,31,282 0 61,718 0 0
+16 120 ML AMBER
+PET BOTTLE
+numbers 0 40,386 38,183 0 2,203 0 0
+17 130 ML AMBER
+GLASS BTTL
+numbers 1,015 0 0 0 1,015 0 0
+18 15ML AMBER
+GLASS
+BOTTELS
+numbers 10,000 0 5,000 0 5,000 0 0
+19 170 ML AMBER
+PET BOTTLES
+numbers 12,421 0 8,500 0 3,921 0 0
+20 170ML
+LACTULOSE
+SLEEVES (
+numbers 45,590 0 0 0 45,590 0 0
+please note: Post filing, the complete records will be available for download as a separate file in the download section.
+Generated_Form3cdTradeRawProdDet_RAWMAT.csv
+B. Finished products :
+Sl.
+No. Item Name UnitName Openingstock Purchases during thepervious year Quantity manufactured duringthe pervious year Sales during thepervious year Closingstock Shortage/excess,if any
+1 AARJE-BR 100ML numbers 0 0 2,467 2,467 0 0
+2 AARJE-BR 60 ML numbers 0 0 1,635 1,635 0 0
+3 AARJECOT
+SUSPENSION 100ML
+numbers 0 0 13,592 13,592 0 0
+4 AARJEDRYL 100ML numbers 0 0 3,744 3,744 0 0
+5 AARJEFEX-AM
+100ML
+numbers 0 0 5,317 5,317 0 0
+6 AARJEFEX-AM 60ML numbers 782 0 925 1,707 0 0
+7 AARJEFEX-D 100ML numbers 0 0 9,915 9,915 0 0
+8 AARJEFEX-D 60ML numbers 2,950 0 0 2,950 0 0
+9 AARJEFEX- LS
+100ML
+numbers 1,241 0 7,887 9,128 0 0
+10 AARJEFEX-LS 60ML numbers 0 0 5,700 5,700 0 0
+11 AARJEGEL 200ML numbers 0 0 1,970 1,970 0 0
+
+
+--- PAGE 30 ---
+Acknowledgement Number:522385950101125
+12 AARJEGEL-MPS
+200ML
+numbers 0 0 1,950 1,950 0 0
+13 AARJEGESIC 60ML numbers 2,700 0 2,950 5,650 0 0
+14 AARJEGESIC+ 60ML
+( 300490
+numbers 0 0 11,025 11,025 0 0
+15 AARJELAC 100ML numbers 0 0 1,950 1,950 0 0
+16 AARJELAC 170ML numbers 0 0 2,970 2,970 0 0
+17 AARJELAC 170ML
+(300490)
+numbers 0 0 510 510 0 0
+18 AARJELAC 250ML numbers 0 0 1,685 1,685 0 0
+19 AARJELIN SYRUP
+120 ML
+numbers 0 0 19,678 19,678 0 0
+20 AARJEMEFTA-DS
+60ML
+numbers 1,900 0 30,150 32,050 0 0
+please note: Post filing, the complete records will be available for download as a separate file in the download section.
+Generated_Form3cdTradeRawProdDet_PRODNAME.csv
+C. By-products
+Sl.
+No.
+Item
+Name
+Unit
+Name
+Opening
+stock
+Purchases during the
+pervious year
+Quantity manufactured during
+the pervious year
+Sales during the
+pervious year
+Closing
+stock
+Shortage/excess, if
+any
+No records added
+36. In the case of Domestic Company, details of tax on distributed profits under section 115-O in the following forms :-
+(Applicable till AY 2020-21)
+Sl.
+No.
+Total amount of
+distributed profits
+Amount of reduction as referred to in
+section 115-O(1A)(i)
+Amount of reduction as referred to in
+section 115-O(1A)(ii)
+Total tax paid
+thereon
+Dates of payment with
+amounts(e).
+Amount
+(i)
+Date of
+payment (ii)
+No records added
+36.(a). Whether the assessee has received any amount in the nature of dividend as referred to in sub-clause (e) of clause (22) of section 2 ? No
+Please furnish the following details:-
+Sl. No. Amount received Date of receipt
+No records added
+36B.(a). Whether the assessee has received any amount for buyback of shares as referred to in sub-clause (f) of clause (22) of section 2? No
+b. If yes, please furnish the following details:-
+Sl. No. (i) Amount received (in Rs.) (ii) Cost of acquisition of shares bought back
+No records added
+37. Whether any cost audit was carried out ? Not Applicable
+Give the details, if any, of disqualification or disagreement on any matter/item/value/quantity as may be reported/identified by the cost auditor
+38. Whether any audit was conducted under the Central Excise Act, 1944 ? Not Applicable
+Give the details, if any, of disqualification or disagreement on any matter/item/value/quantity as may be reported/identified by the auditor.
+
+
+--- PAGE 31 ---
+Acknowledgement Number:522385950101125
+39. Whether any audit was conducted under section 72A of the Finance Act, 1994 in relation to valuation of taxable services as may be
+reported/identified by the auditor. ?
+Not Applicable
+give the details, if any, of disqualification or disagreement on any matter/item/value/quantity as may be reported/identified by the auditor.
+40. Details regarding turnover, gross profit, etc., for the previous year and preceding previous year:
+Sl. No. Particulars Previous Year % Preceding previous Year %
+(a) Total turnover of the assessee 5025065761 4655623318
+(b) Gross profit / Turnover 632155179 5025065761 12.58 410289390 4655623318 8.81
+(c) Net profit / Turnover 212854838 5025065761 4.24 150981304 4655623318 3.24
+(d) Stock-in-Trade / Turnover 1370409220 5025065761 27.27 843654919 4655623318 18.12
+(e) Material consumed / Finished goods produced 0.00 0.00
+41. Please furnish the details of demand raised or refund issued during the previous year under any tax laws other than Income-tax Act, 1961 and Wealth-tax Act, 1957 alongwith details of
+relevant proceedings.
+Sl.
+No.
+Financial year to which demand/refund
+relates to
+Name of other Tax
+law
+Type (Demand raised/Refund
+received)
+Date of demand raised/refund
+received Amount Remarks
+No records added
+42.a. Whether the assessee is required to furnish statement in Form No.61 or Form No. 61A or Form No. 61B ? No
+b. Please furnish
+Sl.
+No.
+Income-tax Department
+Reporting Entity
+Identification Number
+Type of
+Form
+Due date for
+furnishing
+Date of
+furnishing, if
+furnished
+Whether the Form contains information
+about all details/ furnished transactions
+which are required to be reported ?
+If not, please furnish list of the
+details/transactions which are not
+reported.
+No records added
+43.a. Whether the assessee or its parent entity or alternate reporting entity is liable to furnish the report as referred to in sub-section (2) of section 286 ? No
+b. Please furnish the following details:
+Whether report has been furnished by the assessee or its parent entity or an alternate reporting entity?
+Name of parent entity
+Name of alternate reporting entity (if applicable)
+Date of furnishing of report
+c.Please enter expected date of furnishing the report
+44. Break-up of total expenditure of entities registered or not registered under the GST.
+Sl.
+No.
+Total amount of
+Expenditure incurred
+during the year
+Expenditure in respect of entities registered under GST Expenditure relating to
+entities not registered
+under GSTRelating to goods or
+services exempt from
+GST
+Relating to entities falling
+under composition
+scheme
+Relating to other
+registered entities
+Total payment to
+registered entities
+1 ₹  4,91,96,64,883 ₹  44,50,72,726 ₹  0 ₹  4,47,31,21,607 ₹  4,91,81,94,333 ₹  14,70,550
+2 ₹  1,69,44,524 ₹  1,69,44,524 ₹  0 ₹  0 ₹  1,69,44,524 ₹  0
+3 ₹  12,03,47,073 ₹  12,03,47,073 ₹  0 ₹  0 ₹  12,03,47,073 ₹  0
+4 ₹  56,63,348 ₹  56,25,770 ₹  0 ₹  37,578 ₹  56,63,348 ₹  0
+5 ₹  1,66,73,395 ₹  0 ₹  0 ₹  1,66,73,395 ₹  1,66,73,395 ₹  0
+
+
+--- PAGE 32 ---
+Acknowledgement Number:522385950101125
+6 ₹  2,84,38,577 ₹  0 ₹  0 ₹  2,82,81,709 ₹  2,82,81,709 ₹  1,56,868
+7 ₹  11,59,986 ₹  4,27,060 ₹  0 ₹  4,50,950 ₹  8,78,010 ₹  2,81,976
+8 ₹  12,27,999 ₹  0 ₹  0 ₹  11,29,469 ₹  11,29,469 ₹  98,530
+9 ₹  63,35,981 ₹  0 ₹  0 ₹  10,24,917 ₹  10,24,917 ₹  53,11,064
+10 ₹  1,08,82,967 ₹  0 ₹  0 ₹  1,08,82,967 ₹  1,08,82,967 ₹  0
+11 ₹  5,28,13,354 ₹  0 ₹  0 ₹  4,07,59,138 ₹  4,07,59,138 ₹  1,20,54,216
+12 ₹  5,66,264 ₹  10,000 ₹  0 ₹  5,31,978 ₹  5,41,978 ₹  24,286
+13 ₹  2,05,025 ₹  0 ₹  0 ₹  2,05,025 ₹  2,05,025 ₹  0
+14 ₹  12,00,000 ₹  0 ₹  0 ₹  12,00,000 ₹  12,00,000 ₹  0
+15 ₹  1,05,49,753 ₹  0 ₹  0 ₹  84,81,920 ₹  84,81,920 ₹  20,67,833
+16 ₹  54,24,000 ₹  0 ₹  0 ₹  45,98,250 ₹  45,98,250 ₹  8,25,750
+17 ₹  22,13,732 ₹  51,000 ₹  0 ₹  0 ₹  51,000 ₹  21,62,732
+18 ₹  20,08,870 ₹  0 ₹  0 ₹  0 ₹  0 ₹  20,08,870
+19 ₹  52,28,249 ₹  0 ₹  0 ₹  52,28,128 ₹  52,28,128 ₹  121
+20 ₹  3,94,86,041 ₹  19,96,074 ₹  0 ₹  2,50,12,749 ₹  2,70,08,823 ₹  1,24,77,218
+21 ₹  58,56,316 ₹  0 ₹  0 ₹  42,92,535 ₹  42,92,535 ₹  15,63,781
+22 ₹  8,91,932 ₹  8,91,932 ₹  0 ₹  0 ₹  8,91,932 ₹  0
+23 ₹  7,20,825 ₹  0 ₹  0 ₹  6,38,125 ₹  6,38,125 ₹  82,700
+24 ₹  14,39,189 ₹  0 ₹  0 ₹  7,56,865 ₹  7,56,865 ₹  6,82,324
+25 ₹  98,39,794 ₹  0 ₹  0 ₹  57,21,000 ₹  57,21,000 ₹  41,18,794
+26 ₹  61,57,649 ₹  58,27,267 ₹  0 ₹  3,22,166 ₹  61,49,433 ₹  8,216
+27 ₹  6,35,344 ₹  0 ₹  0 ₹  5,53,903 ₹  5,53,903 ₹  81,441
+28 ₹  2,53,402 ₹  0 ₹  0 ₹  1,97,628 ₹  1,97,628 ₹  55,774
+29 ₹  79,44,269 ₹  0 ₹  0 ₹  29,65,984 ₹  29,65,984 ₹  49,78,285
+Accountant Details
+Accountant Details
+Name TWINKAL P JAIN
+Membership Number 156938
+FRN(Firm Registration Number) 0135159W
+Address
+Place BORIVALI WEST, MUMBAI
+Date 10-Nov-2025
+Additions Details (From Point No.18)
+Description of the Block of
+Assets/Class of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Building @ 10% No records added
+Description of the Block of
+Assets/Class of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Furnitures & Fittings @ 10% 1 29-Nov-
+2024
+29-
+Nov-
+₹  49,153 ₹  0 ₹  0 ₹  0 ₹  49,153
+B/203 Paras Building, Rokadiya Lane , Borivali West, MUMBAI , Borivali
+West S.O , Mumbai , MUMBAI , 19-Maharashtra , 91-India , Pincode -
+400092
+
+
+--- PAGE 33 ---
+Acknowledgement Number:522385950101125
+2024
+Description of the Block of
+Assets/Class of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Plant and Machinery @ 15% 1 03-Apr-
+2024
+03-Apr-
+2024
+₹  5,254 ₹  0 ₹  0 ₹  0 ₹  5,254
+2 09-Apr-
+2024
+09-Apr-
+2024
+₹
+2,70,339
+₹  0 ₹  0 ₹  0 ₹  2,70,339
+3 30-Apr-
+2024
+30-Apr-
+2024
+₹  6,780 ₹  0 ₹  0 ₹  0 ₹  6,780
+4 20-May-
+2024
+20-
+May-
+2024
+₹  6,780 ₹  0 ₹  0 ₹  0 ₹  6,780
+5 24-May-
+2024
+24-
+May-
+2024
+₹  20,339 ₹  0 ₹  0 ₹  0 ₹  20,339
+6 25-May-
+2024
+25-
+May-
+2024
+₹  6,780 ₹  0 ₹  0 ₹  0 ₹  6,780
+7 15-Jun-
+2024
+15-Jun-
+2024
+₹  18,644 ₹  0 ₹  0 ₹  0 ₹  18,644
+8 25-Jun-
+2024
+25-Jun-
+2024
+₹  9,322 ₹  0 ₹  0 ₹  0 ₹  9,322
+9 28-Jun-
+2024
+28-Jun-
+2024
+₹  16,102 ₹  0 ₹  0 ₹  0 ₹  16,102
+10 08-Jul-
+2024
+08-Jul-
+2024
+₹  17,373 ₹  0 ₹  0 ₹  0 ₹  17,373
+11 14-Aug-
+2024
+14-
+Aug-
+2024
+₹  7,797 ₹  0 ₹  0 ₹  0 ₹  7,797
+12 16-Nov-
+2024
+16-
+Nov-
+2024
+₹  15,593 ₹  0 ₹  0 ₹  0 ₹  15,593
+13 18-Dec-
+2024
+18-
+Dec-
+2024
+₹  14,407 ₹  0 ₹  0 ₹  0 ₹  14,407
+14 27-Dec-
+2024
+27-
+Dec-
+2024
+₹  10,000 ₹  0 ₹  0 ₹  0 ₹  10,000
+15 01-Jan-
+2025
+01-Jan-
+2025
+₹
+7,88,983
+₹  0 ₹  0 ₹  0 ₹  7,88,983
+16 06-Jan-
+2025
+06-Jan-
+2025
+₹  7,203 ₹  0 ₹  0 ₹  0 ₹  7,203
+17 13-Mar-
+2025
+13-
+Mar-
+2025
+₹  14,407 ₹  0 ₹  0 ₹  0 ₹  14,407
+18 24-Mar-
+2025
+24-
+Mar-
+2025
+₹  37,966 ₹  0 ₹  0 ₹  0 ₹  37,966
+19 22-Apr-
+2024
+22-Apr-
+2024
+₹  48,000 ₹  0 ₹  0 ₹  0 ₹  48,000
+20 15-Jun-
+2024
+15-Jun-
+2024
+₹  75,150 ₹  0 ₹  0 ₹  0 ₹  75,150
+Please note: Post filing, the complete records will be available for download as a separate file in the download section.
+Generated_Additions(3).csv
+Description of the Block of
+Assets/Class of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Plant and Machinery @ 30% 1 29-Jul-
+2024
+29-Jul-
+2024
+₹
+37,20,873
+₹  0 ₹  0 ₹  0 ₹  37,20,873
+
+
+--- PAGE 34 ---
+Acknowledgement Number:522385950101125
+Description of the Block of
+Assets/Class of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Plant and Machinery @ 40% 1 31-Dec-
+2024
+31-
+Dec-
+2024
+₹  54,830 ₹  0 ₹  0 ₹  0 ₹  54,830
+2 07-Mar-
+2025
+07-
+Mar-
+2025
+₹  72,900 ₹  0 ₹  0 ₹  0 ₹  72,900
+Description of the Block of
+Assets/Class of Assets
+Sl.
+No.
+Date of
+Purchase
+Date
+put to
+Use
+Purchase
+Value(1)
+Adjustments on Account of Total Value of
+Purchases(B)
+(1+2+3+4)
+CENVAT(2) Change in Rateof Exchange (3) subsidy or grant orreimbursement, by whatevername called (4)
+Intangible Assets @ 25% No records added
+Deductions Details (From Point No.18)
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Building @ 10% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Furnitures & Fittings @ 10% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Plant and Machinery @ 15% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Plant and Machinery @ 30% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Plant and Machinery @ 40% No records added
+Description of the Block of Assets/Class of Assets Sl. No. Date of Sale Amount Whether deletions are out of purchases put to use for less than 180 days
+Intangible Assets @ 25% No records added
+This form has been digitally signed by TWINKALKUMAR PRAVINKUMAR JAIN having PAN AKCPJ7654F from IP Address 49.43.25.68 on 10/11/2025 05:10:32 PM Dsc Sl.No and issuer
+25771767CN=e-Mudhra Sub CA for Class 3 Individual 2022,C=IN,O=eMudhra Limited,OU=Certifying Authority
+
+
+--- PAGE 35 ---
+Annual Report 2024-25
+ 54
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+DIRECTORS’ REPORT
+To,
+The Shareholders of
+Sudarshan Pharma Industries Limited
+Your Directors have pleasure in submitting their 17th Annual Report together with the Audited Financial Statements 
+of the Company, for the financial year ended 31st March, 2025 (“Financial Year”)..
+FINANCIAL HIGHLIGHTS
+The financial highlights of the Company on standalone and consolidated basis for the Financial Year are as under:
+(Rupees in Lakhs)
+Particulars  Standalone Consolidated 31.03.2025  31.03.2024  31.03.2025  31.03.2024 
+Income for the year 50,538.39 46,831.37 50,756.68 46,614.68
+Profit before Interest, Depreciation and Tax 4,137.99 2,535.59 4,243.98 2,541.73
+Finance Charges (1,596.28) (902.84) (1,577.19) (894.45)
+Profit before Depreciation and Taxes 2,541.71 1,632.75 2,666.79 1,647.28
+Depreciation & Amortization (131.43) (122.94) (222.13) (124.44)
+Provisions for Taxation/ Deferred Tax (540.85) (374.28) (567.64) (377.31)
+Exceptional Items (281.73) - (281.73) -
+Minority Interest & Profit from Associate Company – – 0.23 -
+Net Profit for the Current Year 1,587.70 1,135.53 1,595.52 1,145.53
+Earlier Years Balance Brought forward 2,973.89 1,910.56 2,983.05 1,909.72
+Net Profit available for Appropriation 4,561.59 3,046.09 4,578.57 3,055.25
+Appropriation:
+Dividend on Equity Shares Nil (72.20) Nil (72.20)
+Balance carried to Balance Sheet 4,561.59 2,973.89 4,578.57 2,983.05
+COMPANY’S BUSINESS
+The Standalone Gross Revenue from operations for Financial Year 2024-25 was Rs.50,538.39 Lakhs (previous year 
+Rs.46,831.37 Lakhs). The Profit Before Tax stood at Rs.2,128.56 Lakhs (previous year Rs.1,509.81 Lakhs). The Profit 
+After Tax for the Financial Year 2024-25 stood at Rs.1,587.70 Lakhs (previous year Rs.1,135.53 Lakhs).
+The Consolidated Gross Revenue including intra-group transactions from operations for Financial Year 2024-25 
+was Rs.50,756.68 Lakhs (Previous Year: Rs.46,614.68 Lakhs). The Consolidated Operating Profit before Tax stood 
+(for continued operations) at Rs.2,162.93 Lakhs (Previous Year: Rs.1,522.84 Lakhs). The Consolidated Profit after Tax 
+stood at Rs.1,595.52 Lakhs (Previous Year: Rs.1,145.53 Lakhs).
+The Consolidated turnover of the Company was up by 8.95% during the financial year 2024-25 with reference to the 
+previous FY. The Company’s EBITDA is Rs.4,243.98 Lakhs with a significant  increase of 66.97% from previous FY. The 
+EPS as of 31st March 2025 is Rs.0.66, up by 37.50% from previous financial year.
+DIVIDEND & RESERVES
+The Board expressed its inability to recommend any dividend for the Financial Year. The Board is of the opinion that 
+the funds may be utilised for better opportunities and consequently for the growth of the shareholders’ wealth in 
+coming years.
+No amount has been transferred to any reserve.
+
+--- PAGE 36 ---
+Annual Report 2024-25
+55
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+SUBSIDIARY, JOINT VENTURE AND ASSOCIATE COMPANIES
+The Company has following 5 (five) subsidiaries as on 31st March 2025, viz.,
+a) Sudarshan Pharma Lifescience Private Limited; 
+b) Ratna Lifesciences Private Limited; 
+c) Life Science Chemical Private Limited;
+d) Sudarshan Maven Pharma Private Limited and
+e)  Sudarshan Pharma Industries Private Limited (Singapore)
+With effect from 1st April, 2025, the Company acquired 51.00% of the paid up equity share capital of the Ishwari 
+Healthcare Private Limited i.e. 2,09,100 equity shares of Rs.10/- each at a consideration of Rs.1,50,00,000/- (Rupees 
+One Crore and Fifty Lakhs only); hence it became a subsidiary of the Company.
+Furthermore, it is proposed to add the following entities under the aegis of the Company:  
+a)  Cibachem General Trading LLC, Dubai through acquisition and 
+b)  Sudarshan Pharma Poland LLC, Poland through incorporation
+The members are requested to refer to the “Management Discussion & Analysis” Report forming part of the Annual 
+Report for detailed information about the subsidiaries of the Company.
+Pursuant to the provisions of Section 129(3) of the Act, a statement containing requisite details including performance 
+and financial position of each of the subsidiary companies, the salient features of financial statements of the 
+Company’s subsidiaries in Form AOC-1 is attached to the financial statements
+There are no associates or joint venture companies within the meaning of Section 2(6) of the Companies Act, 2013 
+(“Act”). There has been no material change in the nature of the business of the subsidiaries.
+Further, pursuant to the provisions of Section 136 of the Act, the financial statements of the Company, consolidated 
+financial statements along with relevant documents and separate audited financial statements in respect of 
+subsidiaries, are available on the website of the Company http:/ /www.sudarshanpharma.com.
+The list of subsidiaries, joint ventures and associate companies of the Company are given in Form MGT-7 (Annual 
+Return), which is uploaded on the Company’s website and can be accessed at the 
+web-link https:/ /www.sudarshanpharma.com/annual-reports/
+SHARE CAPITAL OF THE COMPANY
+Issue and Allotment of 9,00,000 Warrants to the Promoters
+The Board of Directors of the Company at their Meeting held on 4th July, 2024, approved to issue 9,00,000 Warrants, 
+every one Warrant convertible into 1 (one) equity share of the face value of Rs.10/- (Rupees Ten Only) in terms of 
+Chapter V of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended (“SEBI ICDR 
+Regulations”) on a preferential basis to Mr. Hemal Mehta and Mr. Sachin Mehta, Promoters of the Company at a price 
+to be determined as per Regulation 164 of the SEBI ICDR Regulations. 
+The approval of the shareholders was obtained in the following manner:
+1)  At the Extraordinary General Meeting of the Company held on 30th September 2024, special resolution was 
+passed by the members of the Company
+2)  As per the instructions of BSE Limited, on 18th November 2024, the Company issued an Addendum to the 
+Notice of Extraordinary General Meeting to the shareholders of the Company intimating them that the e-voting 
+window would be re-opened from 19th November 2024 to 20th November 2024. The revised Voting Results and 
+Scrutinizer’s Report were announced to BSE Limited on  21st November 2024 and the resolutions were declared 
+as passed by the members of the Company as special resolutions. 
+  Thereafter, based on the approval granted by BSE for allotment of warrants dated 5th December 2024, the 
+Directors of the Company at their meeting held on 18th December 2024, allotted 9,00,000 warrants at a price 
+of Rs.163.80 per warrant, every one warrant convertible into 10 (ten) equity shares of the face value of Re. 1/- 
+(Rupee One Only) to Mr. Hemal Mehta and Mr. Sachin Mehta, Promoters of the Company.
+
+--- PAGE 37 ---
+Annual Report 2024-25
+ 56
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+Sub-Division of Equity Shares of the Company
+The Board of Directors of the Company at their Meeting held on 30th September, 2024, approved the sub-division 
+/ split of Company’s 1 (one) equity share having face value of Rs.10/- (Rupees Ten only) each fully paid-up, into 10 
+(Ten) equity shares of the Company having face value of Re.1/- (Rupee One only) each fully paid-up.
+Notice of Postal Ballot dated 30th September 2024 were dispatched to the shareholders of the Company on 4th 
+October 2024 and the approval of the shareholders of the Company including voting results and Scrutinizer’s Report 
+dated 4th November 2024 were submitted with BSE Limited on 5th November 2024.
+Necessary applications with supporting documents were submitted with BSE Limited and after receiving the 
+approval of sub-division from BSE Limited, the equity shares of the Company were sub-divided from face value of 
+Rs.10/- (Rupees Ten only) each fully paid-up, into 10 (Ten) equity shares of the Company having face value of Re.1/- 
+(Rupee One only) each fully paid-up w.e.f. 23rd November 2024.
+The paid-up share capital of the Company stood at Rs.2,406.59 Lakhs as at 31st March, 2025 comprising of 
+24,06,58,870 equity shares of Re.1/- each fully paid up
+Issue of 4,30,00,000 Warrants to persons belonging to Promoters and Non-promoters category
+The Board of Directors of the Company at their Meeting held on 10th January, 2025, approved to issue 4,30,00,000 
+Warrants of Re.1/- each, each Warrant convertible into 1 (one) equity share of the face value of Re.1/- (Rupee One 
+Only) in terms of Chapter V of the SEBI ICDR Regulations on a preferential basis to the persons belonging to 
+Promoters and Non-promoters category at Rs.43.80 per warrant.
+The approval of the shareholders was obtained at the Extraordinary General Meeting of the Company held on 4th 
+February 2025 vide special resolution by the members of the Company.
+The Company had filed application for obtaining in-principal approval of BSE Limited to proceed with allotment of 
+warrants, which is pending for approval of BSE Limited.
+BOARD OF DIRECTORS AND KEY MANAGERIAL PERSONNEL
+Board of Directors
+During the Financial Year, the Board of your Company comprised of 6 (six) directors of which 4 (four) are non-
+executive directors and 2 (two) are executive directors. Out of the 4 (four) non-executive directors, 3 (three) are 
+independent directors including 1 (one) woman independent director. 
+The constitution of the Board of Directors of the Company are given in the following table: 
+Sr. 
+no.
+Name of the Director 
+or Key Managerial 
+Personnel
+Category Date of appointment /
+re-appointment and tenure
+1 Mr. Hemal Mehta Managing Director & Key 
+Managerial Personnel
+Re-appointed on 21st July, 2023 for a period of 5 years
+2 Mr. Sachin Mehta Managing Director, Chief 
+Financial Officer & Key 
+Managerial Personnel
+Re-appointed on 21st July, 2023 for a period of 5 years
+Resigned as Chief Financial Officer w.e.f. 1st May, 2025
+3 Dr. Umesh Luthra Independent Director Appointed on 31st January, 2022 and confirmed by 
+shareholders on 26th September, 2022
+4 Ms. Jaya Singhania Independent Director Appointed on 26th December, 2022 and confirmed by 
+shareholders on 27th December, 2022
+5 Mr. Rushabh Patil Independent Director Appointed on 21st July, 2023 and confirmed by 
+shareholders on 2nd September, 2023
+6 Dr. Anil Ghogare Non-Executive Director Appointed on 10th November, 2023 and confirmed by 
+shareholders on 5th February, 2024
+7 Mr. Manoj Lodha Chief Financial Officer Appointed w.e.f. 1st May, 2025
+8 Mr. Nirav Shah Company Secretary & 
+Compliance Officer
+Appointed w.e.f. 1st June 2024
+In accordance with the provisions of the Companies Act, 2013 and the Articles of Association of the Company, Dr. Anil 
+Ghogare is liable to retire by rotation at the ensuing Annual General Meeting and has offered himself for re-appointment
+
+--- PAGE 38 ---
+Annual Report 2024-25
+57
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+Independent Directors of the Company have furnished necessary declarations to the Company under Section 
+149(7) of the Companies Act, 2013, confirming that they meet with the criteria of Independence as prescribed for 
+Independent Directors under Section 149(6) of the Act and Regulation 16(b) of the Securities And Exchange Board 
+of India (Listing Obligations & Disclosures Requirements) Regulations, 2015, (hereinafter “SEBI Listing Regulations”).
+Key Managerial Personnel
+Ms. Ishita Samani resigned as the Company Secretary & Compliance Officer of the Company w.e.f. 1st April 2024. 
+Mr. Nirav Shah was appointed as the Company Secretary & Compliance Officer of the Company w.e.f. 1st June 2024. 
+Mr. Sachin Mehta resigned as the Chief Financial Officer of the Company w.e.f. 1st May, 2025. 
+Mr. Manoj Lodha was appointed as an Chief Financial Officer w.e.f. 1st May, 2025. 
+In terms of the provisions of Section 203 of the Companies Act, 2013, read with the Companies (Appointment and 
+Remuneration of Managerial Personnel) Rules, 2014, Mr. Hemal Mehta, Chairman & Managing Director, Mr. Sachin 
+Mehta, Joint Managing Director, Mr. Manoj Lodha, Chief Financial Officer and Mr. Nirav Shah, Company Secretary & 
+Compliance Officer are the Key Managerial Personnel of the Company.
+Remuneration Policy and Company’s policy on directors’ appointment and remuneration including criteria for 
+determining qualifications, positive attributes, independence of a director and other matters provided under 
+sub-section (3) of Section 178:
+A policy known as “Appointment criteria for Directors & Senior Management and their Remuneration Policy” 
+approved by the Nomination & Remuneration Committee and Board is followed by the Company on remuneration 
+of Directors and Senior Management employees as required under Section 178(3) of the Companies Act, 2013 and 
+Rule 6 of the Companies (Meetings of Board and its Powers) Rules, 2014. The Policy aims at attracting and retaining 
+high calibre personnel from diverse educational fields and with varied experience to serve on the Board for guiding 
+the management team to enhanced organizational performance.
+The Company has adopted remuneration policy that commensurate with the size and future plans of the Company, 
+considering different verticals as a part of expansion and diversification, the current policy is an appropriate mix of 
+executive and independent directors to maintain the independence of the Board. The Nomination & Remuneration 
+Committee framed a policy for selection and appointment of Directors including determining qualifications and 
+independence of a Director, Key Managerial Personnel, Senior Management Personnel and their remuneration as part 
+of its charter and other matters provided under Section 178(3) of the Companies Act, 2013.
+Familiarisation Programmes for Independent Directors
+The details of the programme for familiarisation of the Independent Directors with the Company in respect of their 
+roles, rights, responsibilities in the Company, nature of the industry in which Company operates, business model of 
+the Company and related matters are put up on the website of the Company i.e. www.sudarshanpharma.com
+Performance evaluation of each of the Directors was carried out based on the criteria as laid down by the Nomination 
+& Remuneration Committee. The broad criteria followed for evaluation of performance of the Directors includes 
+aspects such as attendance at the meetings, participation and independence during the meetings, interaction with 
+management, role & accountability, knowledge & proficiency.
+The performance evaluation of the Independent Directors was carried out by the entire Board, excluding the Director 
+being evaluated. The performance evaluation of the Chairman and the Non-Independent Directors was carried out 
+by the Independent Directors who also reviewed the performance of the Board as a whole.
+In a separate meeting of independent directors, performance of Non-Independent Directors, performance of the 
+board as a whole and performance of the Chairman was evaluated, taking into account the views of executive 
+directors and non-executive directors.
+MEETINGS OF THE BOARD
+During the Financial Year 2024-25, the Board of Directors met 10 (Ten) times on 27th May, 2024, 4th July, 2024, 26th 
+August, 2024, 30th September, 2024, 31st October, 2024, 28th November, 2024, 18th December 2024, 10th January 
+2025, 6th March, 2025 and 31st March, 2025. The intervening gap between the two consecutive meetings was within 
+the period prescribed under the Companies Act, 2013 and SEBI Listing Regulations.
+
+--- PAGE 39 ---
+Annual Report 2024-25
+ 58
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+BOARD COMMITTEES
+At present, the Board has the following committees to assist in its work:
+(i)   Audit Committee to, inter-alia, oversee and review the financial reporting system and disclosures made in its 
+financial results;
+(ii)  Stakeholders’ Relationship Committee to, inter-alia, redress investor complaints;
+(iii)   Nomination & Remuneration Committee to, inter-alia, approve appointments and remuneration of executive 
+directors and lay down nomination and remuneration policies of the Company;
+(vi)  Corporate Social Responsibility Committee to formulate and implement a ‘corporate social responsibility policy’ 
+for the Company and 
+The constitution of various committees, its powers, duties and meetings during the Financial Year have been 
+elaborated in detail in the ‘Corporate Governance Report’.
+DIRECTORS’ RESPONSIBILITY STATEMENT
+Pursuant to Section 134 of the Companies Act, 2013 (‘the Act’), in relation to the Annual Financial Statements for the 
+Financial Year 2024-25, your Directors, to the best of their knowledge and ability, confirm that:
+a)  in the preparation of the annual accounts for the year ended March 31, 2025, the applicable accounting standards 
+have been followed along with proper explanation relating to material departures;
+ b)  the Directors have selected such accounting policies and applied them consistently and made judgments and 
+estimates that are reasonable and prudent so as to give a true and fair view of the state of affairs of the 
+Company as at March 31, 2025 and of the profit of the Company for the year ended on that date;
+c)  the Directors have taken proper and sufficient care for the maintenance of adequate accounting records in 
+accordance with the provisions of the Act for safeguarding the assets of the Company and for preventing and 
+detecting fraud and other irregularities;
+d) the directors have prepared the annual accounts on a “going concern” basis
+e)  the Directors have laid down internal financial controls to be followed by the Company and that such internal 
+financial controls are adequate and are operating effectively, except that the credit given to the overseas buyers 
+in the previous year(s). 
+f)  the Directors have devised proper systems to ensure compliance with the provisions of all applicable laws and 
+that such systems are adequate and operating effectively.
+DEPOSITS
+During the Financial Year, the Company has not accepted any deposits within the meaning of Section 73 and 76 of 
+the Act, read with Companies (Acceptance of Deposits) Rules, 2014..
+PARTICULARS OF LOANS, GUARANTEES, INVESTMENTS AND SECURITIES
+The details of loans, guarantees, investments or securities under Section 186 of the Companies Act, 2013 are given 
+under Notes to Accounts of financial statements.
+CONTRACTS OR ARRANGEMENTS WITH RELATED PARTIES
+During the Financial Year, the Company has entered into transactions with related parties as defined under Section 
+2(76) of the Act and rules made thereunder and Regulation 23 of SEBI Listing Regulations. The Company has not 
+entered into transactions with related parties which qualify as material transactions as per SEBI Listing Regulations. 
+The transactions with related party were reviewed and approved by the Audit Committee and in compliance with 
+applicable provisions of the Act and SEBI Listing Regulations
+The details of related party transactions as required under accounting standards as are set out in notes to accounts 
+to Standalone Financial Statements forming part of this Annual Report. There are no transactions to be reported in 
+Form AOC-2..
+The policy on Materiality of Related Party Transactions as approved by the Board is uploaded on the Company’s 
+website and can be accessed at the Web link https:/ /www.sudarshanpharma.com/codes-and-policies/
+
+--- PAGE 40 ---
+Annual Report 2024-25
+59
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+CONSERVATION OF ENERGY, TECHNOLOGY ABSORPTION, FOREIGN EXCHANGE EARNINGS AND OUTGO 
+(A) Conservation of energy-
+(i) the steps taken or impact 
+on conservation of energy
+The Company is engaged to carry on business of manufacturing and trading 
+of drugs, pharmaceuticals, chemicals, active pharmaceutical ingredients and 
+items of similar nature and to conduct clinical and bio-equivalence trials, 
+to undertake tests and experiments, scientific and technical investigations, 
+analytical, research and innovation work of all kinds and descriptions as 
+researchers and developers, collaborators, consultants, contractors, medical 
+and healthcare specialists and as such its operations do not account for 
+substantial energy consumption. The Company is taking all possible measures 
+to conserve energy, in its endeavour towards conservation of energy your 
+Company ensure optimal use of energy, avoid wastages and conserve energy 
+as far as possible.
+(ii) the steps taken by the 
+Company for utilising 
+alternate sources of 
+energy
+(iii) the capital investment 
+on energy conservation 
+equipments
+(B) Technology absorption-
+(i) the efforts made towards technology 
+absorption
+The Company continuously monitors and keep track of 
+technological upgradation in the field of chemical and 
+pharma and the same are reviewed and considered for 
+implementation. The Company continued its focus on 
+quality up-gradation and product enhancements. The 
+Company uses indigenous technology for its operations.
+The chemical and pharma sector is highly technology 
+oriented and nature of the business of the Company is 
+categorically business-to-business category wherein 
+research and development expense are more in the 
+nature of quality check and related areas rather than 
+development of new technology
+(ii) the benefits derived like product improvement, 
+cost reduction, product development or import 
+substitution
+(iii) in case of imported technology (imported 
+during the last three years reckoned from the 
+beginning of the financial year)
+a) the details of technology imported;
+b) the year of import
+c) whether the technology been fully absorbed
+d) if not fully absorbed, areas where absorption 
+has not taken place, and the reasons thereof
+(iv) the expenditure incurred on Research and 
+Development
+(C) Foreign Exchange Earnings and Outgo
+ The information regarding foreign exchange earnings and outgo is given in the following table:
+(Rupees in Lakhs)
+Particulars FY 2024-25 FY 2023-24
+Foreign Exchange Earnings 5,548.61 3,837.09
+Foreign Exchange Outgo 2,193.41 4,523.32
+CORPORATE SOCIAL RESPONSIBILITY (CSR)
+The Board of Directors of the Company has constituted a Corporate Social Responsibility (CSR) Committee in 
+accordance with Section 135 of the Act and rules framed thereunder. The Company has in place a CSR policy which 
+provides guidelines to conduct CSR activities of the Company. The CSR policy is available on the website of the 
+Company www.sudarshanpharma.com 
+The provisions related to CSR as mentioned in the Companies Act, 2013 are applicable to the Company and report 
+on Corporate Social Responsibilities (Annual report on CSR) is annexed to this report as Annexure I.
+TRANSFER TO INVESTOR EDUCATION AND PROTECTION FUND
+The Company does not have any amount / shares due to be transferred to Investor Education and Protection Fund.
+
+--- PAGE 41 ---
+Annual Report 2024-25
+ 60
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+VIGIL MECHANISM / WHISTLE BLOWER
+In terms of Section 177(9) & (10) of the Companies Act, 2013, a Vigil Mechanism for Directors and employees to 
+report genuine concerns has been established by the Board along with whistle blower policy. The whistle blower 
+policy has been uploaded on the website of the Company and the same can be accessed at the web-link https:/ /
+www.sudarshanpharma.com/codes-and-policies/
+REPORT ON CORPORATE GOVERNANCE
+In terms of Regulation 34 of the SEBI Listing Regulations, a Report on Corporate Governance along with Compliance 
+Certificate issued by Mr. Vishal Manseta, Practicing Company Secretary is attached and forms integral part of this 
+Report (herein referred to “Corporate Governance Report”). 
+MANAGEMENT DISCUSSION AND ANALYSIS REPORT
+Attention of the members is invited to a separate section titled ‘Management Discussion & Analysis Report’ which is 
+covered in this Annual Report.
+SECRETARIAL STANDARDS
+The Company complies with all applicable Secretarial Standards.
+STATUTORY AUDITORS
+M/s. NGST & Associates (Firm Registration No. 135159W), Chartered Accountants, Mumbai, Statutory Auditors of the 
+Company, hold office till the conclusion of the Annual General Meeting for the Financial Year ended 31st March, 2028.
+AUDITORS’ REPORT
+The Auditors of the Company have not made any observations and / or qualifications in their audit report issued on 
+standalone and consolidated financial statements of the Company of the financial year ended 31st March, 2025. The 
+report of the Statutory Auditors on Standalone & Consolidated Financial Statements forms a part of the Annual Report. 
+There are no specifications, reservations, adverse remarks on disclosure by the Statutory Auditors in their report. They 
+have not reported any incident of fraud to the Audit Committee of the Company during the Financial Year.
+REPORTING OF FRAUDS BY AUDITORS
+During the Financial Year, neither the statutory auditors nor the secretarial auditor has reported to the Audit 
+Committee, under Section 143(12) of the Companies Act, 2013, any instances of fraud committed against the 
+Company by its officers or employees, the details of which would need to be mentioned in the Board’s report.
+SECRETARIAL AUDITOR
+Section 204 of the Companies Act, 2013 inter-alia requires every listed company to annex with its Board’s report, a 
+Secretarial Audit Report given by a Company Secretary in practice, in the prescribed form. The Board appointed Mr. 
+Vishal Manseta, Practicing Company Secretary, as Secretarial Auditor to conduct Secretarial Audit of the Company 
+for the Financial Year 2024-2025 and their report MR-3 is annexed to this report as Annexure II.
+The Secretarial Auditor has not made any remarks / observations / qualifications in the Secretarial Audit Report for 
+the year ended 31st March, 2025.
+INFORMATION UNDER THE SEXUAL HARRASSMENT OF WOMEN AT WORKPLACE (PREVENTION, PROHIBITION 
+AND REDRESSAL) ACT, 2013
+During the Financial Year, no complaint was filed before the Internal Complaints Committee under The Sexual 
+Harassment of Women at Workplace (Prevention, Prohibition And Redressal) Act, 2013.
+PARTICULARS OF EMPLOYEES
+Disclosures pertaining to remuneration and other details as required under Section 197(12) of the Act read with Rule 
+5(1) of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 are annexed to this 
+Report as Annexure III.
+During the Financial Year, none of the employees are in receipt of remuneration which is in excess of the limits as 
+specified in Rules 5(2) and 5(3) of the Companies (Appointment & Remuneration of Managerial Personnel) Rules, 
+2014, as amended from time to time.
+
+--- PAGE 42 ---
+Annual Report 2024-25
+61
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+MATERIAL CHANGES AND COMMITMENTS AFFECTING THE FINANCIAL POSITION OF THE COMPANY BETWEEN 
+THE END OF THE FINANCIAL YEAR AND THE DATE OF THE REPORT
+There were no material changes and commitments after the closure of the year till the date of this report, which 
+affect the financial position of the Company.
+SIGNIFICANT AND MATERIAL ORDERS PASSED BY THE REGULATORS / COURTS / TRIBUNALS
+The Company won an award in its favour announced by the Dubai Court in Lawsuit no. 1679/2024 – Commercial against 
+(i) Regans International DMCC and (ii) Nand Biharilal Chhabaria Biharilal Chunilal in Dubai, United Arab Emirates. 
+According to the award (i) Regans International DMCC and (ii) Nand Biharilal Chhabaria Biharilal Chunilal have been 
+ordered to pay to the Company an amount of UAE Dirham 40,30,934.00 (equivalent to approx. Rs.9,18,82,890/-) 
+along with interest at 5% annually on the adjudged amount until the full payment is made
+No significant or material orders were passed by the Regulators or Courts or Tribunals which impacts the going 
+concern status and Company’s operations in future.
+INTERNAL CONTROL WITH REFERENCE TO FINANCIAL STATEMENTS
+The Company’s internal control systems are commensurate with the nature of its business and the size and complexity 
+of its operations, and such internal financial controls with reference to the financial statements are adequate.
+DETAILS OF APPLICATION MADE OR ANY PROCEEDING PENDING UNDER THE INSOLVENCY AND BANKRUPTCY 
+CODE, 2016 (31 OF 2016) DURING THE YEAR ALONG WITH THEIR STATUS AS AT THE END OF THE FINANCIAL 
+YEAR
+There are no applications made or any proceeding pending against the Company under Insolvency and Bankruptcy 
+Code, 2016 (31 of 2016) during the financial year.
+DETAILS OF DIFFERENCE BETWEEN AMOUNT OF THE VALUATION DONE AT THE TIME OF ONE TIME SETTLEMENT 
+AND THE VALUATION DONE WHILE TAKING LOAN FROM THE BANKS OR FINANCIAL INSTITUTIONS ALONG 
+WITH THE REASONS THEREOF
+There are no instances of one-time settlement during the financial year.
+ACKNOWLEDGEMENTS
+The Board wishes to place on record their appreciation for the support received by the Company from its shareholders 
+and employees. The Directors also wish to acknowledge the co-operation and assistance received by the Company 
+from its business partners, bankers, financial institutions and various governments, semi government and local 
+authorities
+            For and on behalf of the Board of,
+            Sudarshan Pharma Industries Limited
+            Hemal Mehta    Sachin Mehta
+            Chairman &     Joint Managing Director
+            Managing Director   DIN: 02211178
+            DIN: 02211121      
+Place : Mumbai
+Date  : 19th June, 2025
+
+--- PAGE 43 ---
+Annual Report 2024-25
+ 62
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+Annexure I
+Annual Report on Corporate Social Responsibility Activities
+[Pursuant to Section 135 of the Companies Act, 2013 and the Companies
+(Corporate Social Responsibility Policy) Rules, 2014]
+1. Brief Outline on the Corporate Social Responsibility (‘CSR’) Policy of the Company:
+  The Company’s CSR Policy (‘Policy’) was adopted via resolution no. 01/2022-2023 passed by the Board of 
+Directors at their Meeting held on 7th October, 2022 in terms of provisions of Section 135 of the Companies 
+Act, 2013 and the Companies (Corporate Social Responsibility Policy) Rules, 2014. The Policy is available on 
+the Company’s website www.sudarshanpharma.com. The guidelines for our CSR activities are outlined in the 
+Policy. The Company believes in a philosophy of empathetic care, generosity and humanity, characterized by 
+a willingness to build a society that works for everyone. The Company’s Corporate Social Responsibility (CSR) 
+initiatives endeavour to uphold and promote the well-being of the underserved and underprivileged communities 
+in different parts of India. Through its CSR initiatives, the Company seeks to protract its contribution in social 
+upliftment, resulting in sustainable community development. An internal CSR Committee comprising of officials 
+of the Company was also constituted to identify and recommend the projects to be undertaken, engage with 
+the implementing agencies and carry out other related activities.
+2. Composition of CSR Committee:
+  To guide the CSR activities of the Company, we have in place a Corporate Social Responsibility Committee that 
+comprises of:
+Sr. 
+no.
+Name of the Di-
+rectors
+Designation / Nature of Directorship No. of meetings 
+of CSR Committee 
+held during the FY 
+2024-25
+No. of meetings 
+of CSR Committee 
+attended during 
+the FY 2024-25
+1 Mr. Hemal Mehta Managing Director (Chairman) 1 1
+2 Mr. Sachin Mehta Joint Managing Director (Member) 1 1
+3 Mr. Rushabh Patil Independent Director (Member) 1 1
+ 3.  The web-link where Composition of CSR committee, CSR Policy and CSR projects approved by the Board are disclosed:
+ The composition of the CSR Committee - https:/ /www.sudarshanpharma.com/corporate-governance/
+ CSR Policy- https:/ /www.sudarshanpharma.com/codes-and-policies/
+ CSR Projects as approved by the Board- https:/ /www.sudarshanpharma.com/csr/
+4.  The details of Impact Assessment of CSR projects carried out in pursuance of sub-rule (3) of rule 8 of the 
+Companies (Corporate Social Responsibility Policy) Rules, 2014, if applicable: Not Applicable 
+5.  Details of the amount available for set-off in pursuance of sub-rule (3) of Rule 7 of the Companies (Corporate 
+Social Responsibility Policy) Rules, 2014 and amount required for set off for the financial year, if any: Nil 
+6. Average net profit of the Company as per Section 135(5)
+(Rs. in Lakhs)
+Financial year Profit calculated as per Section 198 of the Companies 
+Act, 2013
+31st March, 2022 Rs.723.86
+31st March, 2023 Rs.987.17
+31st March, 2024 Rs.1,509.81
+Average Profit for preceding 3 Years Rs.1,073.61
+7. (a)  Two percent of average net profit of the Company as per Section 135(5):
+Particulars Amount (Rs. in Lakhs)
+Average Profit for preceding 3 Years Rs.1,073.61
+Two percent of average net profit of the Company as per Section 135(5) Rs.21.47
+
+--- PAGE 44 ---
+Annual Report 2024-25
+63
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+ (b) Surplus arising out of the CSR projects or programmes or activities of the previous financial years – Nil
+ (c) Amount required to be set off for the financial year, if any – Nil
+ (d) Total CSR obligation for the financial year (7a + 7b - 7c)- Rs.21.47 Lakhs
+8. CSR amount spent or unspent for the financial year:
+Total amount 
+spent for the FY 
+2024-25
+Amount unspent
+Total Amount transferred to Unspent 
+CSR Account as per Section 135(6)
+Amount transferred to any fund specified under 
+Schedule VII as per second proviso to Section 135(5)
+Amount (in Rs.) Date of Transfer Name of the Fund Amount Date of transfer
+Rs.21,47,232/- --- --- Arya Foundation 21,47,232 26/03/2025
+Sr. 
+no.
+Name of 
+the Project
+Item from the list of 
+activities in Schedule 
+VII to the Act
+Local 
+Area 
+(Yes / 
+No)
+Location 
+of the 
+Project 
+Amount 
+spent for 
+the project 
+(Rs. in 
+Lakhs)
+Mode of 
+implementation 
+- Direct 
+(Yes / No).
+Mode of 
+implementation 
+- through 
+implementing 
+agency.
+1 Arya Foundation
+Eradicating 
+hunger, poverty 
+and malnutrition, 
+promoting health care 
+including preventive 
+health care and 
+sanitation and making 
+available safe drinking 
+water.
+No Anand, Gujarat Rs.21.47 No
+Yes, 
+Arya Foundation 
+(CSR00032202) 
+ Short description of the CSR initiatives of the Company during the financial year: 
+  Amount of Rs.21,47,232/- (Rupees Twenty One Lakhs Forty Seven Thousand Two Hundred & Thirty Two 
+only) have been spent by Arya Foundation towards distributing food packets / grains to needy people, rural 
+developments, education, women empowerment, healthcare and medical activities and environment protection 
+activities.
+ (b)  Amount spent in Administrative Overheads - Nil 
+ (c)  Amount spent on Impact Assessment, if applicable - Nil
+ (d)  Total amount spent for the Financial Year (8a+8b+8c) – Nil
+ (e)  Excess amount for set off, if any – Nil 
+9. (a)  Details of Unspent Corporate Social Responsibility amount for the preceding three Financial Years: These 
+details are not applicable to the Company as there is no previous balance in Unspent CSR Account.
+(Rs. In Lakhs)
+1 2 3 4 5 6 7 8
+Sr. 
+no.
+Preceding 
+Financial 
+Years 
+Amount 
+transferred to 
+Unspent CSR 
+Account under 
+sub-section (6) 
+of Section 135 
+Balance 
+amount in 
+unspent CSR 
+Account 
+under sub-
+section (6) of 
+Section 135 
+Amount 
+spent in 
+the
+Financial 
+Year 
+Amount 
+transferred to a 
+Fund as specified 
+under Schedule 
+VII as per second 
+proviso to sub-
+section (5) of 
+Section 135, if any
+Amount 
+remaining 
+to be 
+spent in 
+succeeding 
+Financial 
+Years
+Deficiency, 
+if any
+Amount Date of 
+Transfer
+1 2021-22 N. A.
+2 2022-23 N. A.
+3 2023-24 11.20 ---- 2.59 --- --- 11.20 ----
+
+--- PAGE 45 ---
+Annual Report 2024-25
+ 64
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+ (b)  Details of CSR amount spent in the Financial Year for ongoing projects of the preceding financial year(s): 
+Not Applicable
+  Excess amount for set off, if any: Not Applicable
+(Rs. in Lakhs)
+Sr. no. Particulars Amount
+(1) (2) (3)
+(i) Two percent of average net profit of the Company as per sub-section (5) of Section 135 ---
+(ii) Total amount spent for the Financial Year ---
+(iii) Excess amount spent for the Financial Year [(ii)-(i)] ---
+(iv) Surplus arising out of the CSR projects or programmes or activities of the previous 
+Financial Years, if any
+---
+(v) Amount available for set off in succeeding Financial Years [(iii)-(iv)] ---
+10.  In case of creation or acquisition of capital asset, furnish the details relating to the asset so created or acquired 
+through CSR spent in the financial year (asset-wise details)
+Sr. no. Particulars Details
+(a) Date of creation or acquisition of the capital asset(s) N. A.
+(b) Amount of CSR spent for creation or acquisition of capital asset N. A.
+(c) Details of the entity or public authority or beneficiary under whose name such capital asset 
+is registered, their address etc.
+N. A.
+(d) Provide details of the capital asset(s) created or acquired (including complete address and 
+location of the capital asset)
+N. A.
+  Whether any capital assets have been created or acquired through CSR amount spent in the Financial Year: 
+No capital asset have been acquired by the Company.
+Sr. 
+no.
+Short particulars of the 
+property or asset(s) 
+[including complete 
+address and location 
+of the property]
+PIN code 
+of the 
+property 
+or asset(s)
+Date of 
+creation 
+CSR 
+amount 
+spent 
+Details of entity / authority / beneficiary 
+of the registered owner
+CSR
+registration 
+no., if 
+applicable
+Name Registered 
+address
+NOT APPLICABLE
+11.  Specify the reason(s), If the Company has failed to spend two per cent of the average net profit as per  
+Section 135(5):
+ Not Applicable    
+For, Sudarshan Pharma Industries Limited
+Hemal Mehta
+Chairman of CSR Committee
+and Managing Director
+DIN: 02211121
+Place: Mumbai
+Date: 19th June, 2025
+
+--- PAGE 46 ---
+Annual Report 2024-25
+65
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+Annexure II
+Form No. MR - 3
+SECRETARIAL AUDIT REPORT
+FOR THE FINANCIAL YEAR ENDED MARCH 31, 2025
+[Pursuant to Section 204(1) of the Companies Act, 2013 and Rule 9 of the Companies (Appointment and 
+Remuneration of Managerial Personnel) Rules, 2014]
+To,
+The Members,
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301, 3rd Floor, Aura Biplex,
+Above Kalyan Jewellers S. V. Road,
+Borivali (West) Mumbai – 400 092.
+I have conducted the secretarial audit of the compliance of applicable statutory provisions and the adherence to 
+good corporate practices by SUDARSHAN PHARMA INDUSTRIES LIMITED (hereinafter called ‘the Company’) 
+for the period from April 01, 2024 to March 31, 2025 (hereinafter called ‘the Audit Period’). Secretarial Audit was 
+conducted in a manner that provided me a reasonable basis for evaluating the corporate conducts / statutory 
+compliances and expressing my opinion thereon. 
+Based on my verification of the Company’s books, papers, minute books, forms and returns filed and other records 
+maintained by the Company and also the information provided by the Company, its officers, agents and authorized 
+representatives during the conduct of secretarial audit, I hereby report that in my opinion, the Company has, during 
+the audit period complied with the statutory provisions listed hereunder and also that the Company has proper 
+Board – processes and compliance-mechanism in place to the extent, in the manner and subject to the reporting 
+made hereinafter: 
+I have examined the books, papers, minute books, forms and returns filed and other records maintained by the 
+Company for the financial year ended March 31, 2025 according to the provisions of: 
+(i) The Companies Act, 2013 (‘the Act’) and the rules made thereunder; 
+  As per documents, information and explanation provided to me for inspection, the Company has maintained 
+minutes book, statutory registers and has filed such forms as required by the Act
+(ii) The Securities Contracts (Regulation) Act, 1956 (‘SCRA’) and the rules made thereunder;
+(iii) The Depositories Act, 1996 and the Regulations and Bye-laws framed thereunder; 
+  The shares of the Company are in dematerialised form and the Company complies with the Depositories Act. The 
+Registrar & Transfer Agent of the Company is KFin Technologies Limited (formerly known as “KFin Technologies 
+Private Limited”).
+(iv)  Foreign Exchange Management Act, 1999 and the rules and regulations made thereunder to the extent of 
+Foreign Direct Investment and Overseas Direct Investment (External Commercial Borrowings.
+  During the period under review the Company has acquired a new subsidiary based in Singapore, viz., Sudarshan 
+Pharma Industries Private Limited at 10,000 Singapore Dollars. The company has complied to the extent 
+applicable.
+ (v)  The following Regulations and Guidelines prescribed under the Securities and Exchange Board of India Act, 1992 
+(‘SEBI Act’):
+ (a)  The Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 
+2011; 
+ (b) The Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015; ;
+ (c)  The Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 
+2018; ;
+
+--- PAGE 47 ---
+Annual Report 2024-25
+ 66
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+   During the audit period the company has allotted 9,00,000 convertible warrants to promoters on 18th 
+December 2024, Special Resolution for the same was passed on September 30, 2024. Each warrant 
+convertible into 10 equity shares of Rs. 1 Each, (Equity Shares of the company subdivided from having face 
+value of Rs. 10 per equity share to having face value of Rs. 1 per equity share) via preferential allotment, in 
+respect of which all the requisite approval were received.
+   During the period under review an Extra Ordinary General Meeting of members of the company was held 
+on February 04, 2025, for issue of 4,30,00,000 convertible warrants on preferential basis, each warrant 
+convertible into one equity share. Resolution was passed in the Extra Ordinary general Meeting of members. 
+However, warrants are not issued till date as in-principal approval of BSE Limited is awaited.
+ (d)  The Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 
+2021 and the Securities and Exchange Board of India (Share Based Employee Benefits) Regulations, 2014;
+		  Not Applicable
+ (e) The Securities and Exchange Board of India (Issue and Listing of Debt Securities) Regulations, 2008;
+		  Not Applicable
+ (f)  The Securities and Exchange Board of India (Registrars to an Issue and Share Transfer Agents) Regulations, 
+1993 regarding the Companies Act and dealing with client;
+ (g) The Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021;
+		  Not Applicable
+  and
+ (h) The Securities and Exchange Board of India (Buy-back of Securities) Regulations, 2018;
+		  Not Applicable
+(vi) The list of other acts / regulations specifically applicable to the Company are as under:
+ (a) Provident Fund and other Employee Benefit related Statutes;
+ (b) TDS & Indirect tax related statutes;
+ (c) Pollution Acts;
+ (d) Shop and Establishment Act;
+I have also examined compliance with the applicable clauses of the following:
+(i) Secretarial Standards issued by the Institute of Company Secretaries of India; and
+(ii)  The Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 
+2015.
+I report that during the period under review, the Company has complied with the provisions of the Act, Rules, 
+Regulations, Guidelines, Standards, etc. mentioned above to the extent applicable.
+I further report that:
+(i)  The Board of Directors of the Company is duly constituted with proper balance of Executive Directors, Non-
+Executive Directors and Independent Directors. The changes in the composition of the Board of Directors that 
+took place during the period under review were carried out in compliance with the provisions of the Act and 
+Regulations
+(ii)  There was no change in composition of the Board of directors of the Company during the audit period, however 
+Mr. Nirav Kishor Shah was appointed as Company secretary and Compliance Officer of the company w.e.f. June 
+01, 2024.
+(iii)  Adequate notice was given to all directors to schedule the Board / Committees Meetings, agenda and detailed 
+notes on agenda were sent at least seven days in advance to the extent possible, and a system exists for seeking 
+and obtaining further information and clarifications on the agenda items before the meeting and for meaningful 
+participation at the meeting. There was no gap of more than 120 days between two board meetings. All the 
+
+--- PAGE 48 ---
+Annual Report 2024-25
+67
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+Independent Directors as on March 31, 2025 are registered in Independent Director’s Database maintained by 
+Indian Institute of Corporate Affairs. 
+(iv)  All the decisions in the meeting of the Board of Directors / Committees were passed unanimously. In case of 
+resolution(s) involving interest of any one of the directors present in the meeting, the respective director has 
+abstained from discussion and voting on such resolution(s).
+I further report that during the audit period:
+(i)  At the 16th  Annual General Meeting of the Company held on September 30, 2024 the members had passed the 
+following Special Resolutions:
+ (a)  To give any loan to any person or other body corporate.
+(ii) give any guarantee or provide any security in connection with a loan to any other body corporate or person and 
+(iii)  acquire by way of subscription, purchase or otherwise, the securities of any other body corporate, not exceeding 
+a sum of Rs.500,00,00,000/- (Rupees Five Hundred Crores only).
+I further report that there are adequate systems and processes in the Company commensurate with the size and 
+operations of the Company to monitor and ensure compliance with applicable laws, rules, regulations and guidelines
+I further report that during the year under review analysis of financials of the company were conducted by the Stock 
+Exchange, as per the information and explanation given by the company officials there were no adverse remarks 
+made by the exchange till the date of this report
+I further report that during the audit period, there are no specific events /actions undertaken by the Company, 
+having a bearing on the Company’s affairs in pursuance of the above referred laws, rules, regulations, guidelines, 
+standards, etc.
+For Vishal N. Manseta
+(Practicing Company Secretary)
+       (Vishal N. Manseta)
+  M. No: A25183
+  CP. No.: 8981
+   PRC: 1584/2021
+Place : Mumbai
+Date  : May 22, 2025
+UDIN : A025183G000411767
+
+--- PAGE 49 ---
+Annual Report 2024-25
+ 68
+SUDARSHAN
+SUDARSHAN
+Sudarshan Pharma Industries Limited
+Annexure III
+DETAILS PERTAINING TO REMUNERATION AS REQUIRED UNDER SECTION 197(12) OF THE COMPANIES ACT, 
+2013 READ WITH RULE 5(1) OF THE COMPANIES (APPOINTMENT AND REMUNERATION OF MANAGERIAL 
+PERSONNEL) RULES, 2014
+(i)   The ratio of the remuneration of each Director and Key Managerial Personnel to the median remuneration of 
+the employees of the Company for the financial year  1st April 2024 to 31st March 2025 are as under:
+ (Rs. in Lakhs)
+Sr. 
+no.
+Name of the Director / Key 
+Managerial Personnel
+Designation Ratio of 
+remuneration of 
+each Director / 
+KMP to median 
+remuneration of 
+employees
+% of increase in 
+Remuneration in 
+the Financial Year 
+2024-25 
+Directors Remuneration
+1. Mr. Hemal Mehta Managing Director 21.63 50.00
+2. Mr. Sachin Mehta Managing Director 21.63 50.00
+Key Managerial Personnel (KMP)
+1. *Mr. Nirav Shah Company Secretary 2.47 Not Applicable 
+ *Appointed w.e.f. 1st June 2024
+(ii)  The percentage increase in the median remuneration of employees in the financial year: 38.31% 
+(iii)    There were 60 permanent employees on the rolls of the Company as on 31st March, 2025.
+(iv)   Average percentile increase already made in the salaries of employees other than the managerial personnel 
+in the last financial year and its comparison with the percentile increase in the managerial remuneration and 
+justification thereof and point out if there are any exceptional circumstances for increase in the managerial 
+Remuneration. 
+  The average increments were 27 % in 2024-25 as against 44 % for KMPs. The Company presently has five subsidiary 
+companies including one foreign subsidiary. It is also proposed to set up many more subsidiary companies in 
+foreign countries. Taking into consideration the additional responsibilities, it was considered appropriate to 
+increase the remuneration of the managerial personnel of the Company.
+(v)  It is affirmed that the remuneration paid is as per the Remuneration Policy for Directors, Key Managerial Personnel 
+and other employees, adopted by the Company.
+             For Sudarshan Pharma Industries Limited
+             Hemal Mehta    Sachin Mehta
+Place : Mumbai          Chairman &     Joint Managing Director
+Date : 19th June, 2025         Managing Director   DIN: 02211178
+             DIN: 02211121    
+
+--- PAGE 50 ---
+
+
+--- PAGE 51 ---
+
+
+--- PAGE 52 ---
+
+
+--- PAGE 53 ---
+
+
+--- PAGE 54 ---
+
+
+--- PAGE 55 ---
+
+
+--- PAGE 56 ---
+
+
+--- PAGE 57 ---
+
+
+--- PAGE 58 ---
+
+
+--- PAGE 59 ---
+
+
+--- PAGE 60 ---
+
+
+--- PAGE 61 ---
+
+
+--- PAGE 62 ---
+
+
+--- PAGE 63 ---
+
+
+--- PAGE 64 ---
+
+
+--- PAGE 65 ---
+
+
+--- PAGE 66 ---
+
+
+--- PAGE 67 ---
+
+
+--- PAGE 68 ---
+
+
+--- PAGE 69 ---
+
+
+--- PAGE 70 ---
+
+
+--- PAGE 71 ---
+
+
+--- PAGE 72 ---
+
+
+--- PAGE 73 ---
+
+
+--- PAGE 74 ---
+
+
+--- PAGE 75 ---
+
+
+--- PAGE 76 ---
+
+
+--- PAGE 77 ---
+
+
+--- PAGE 78 ---
+
+
+--- PAGE 79 ---
+
+
+--- PAGE 80 ---
+
+
+--- PAGE 81 ---
+
+
+--- PAGE 82 ---
+
+
+--- PAGE 83 ---
+
+
+--- PAGE 84 ---
+
+
+--- PAGE 85 ---

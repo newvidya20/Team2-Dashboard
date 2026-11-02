@@ -1,0 +1,135 @@
+
+--- PAGE 1 ---
+                                                                    Account Statement
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301 3rd Flr Aura Biplex                                                                             Cust. Reln. No.              301079096
+Above Kalyan Jewellers                                                                              Account No.                  0148095487
+Sv Rd Borivali W MUMBAI CITY                                                                        Period                       From 01/07/2026 To 06/08/2026
+Mumbai                                                                                              Currency                     INR
+MAHARASHTRA                                                                                         Branch                       MUMBAI - BKC 27
+INDIA                                                                                               Nomination Regd              N
+400092                                                                                              Nominee Name
+
+
+
+
+
+
+ Sl. No.              Date                       Description                Chq / Ref number                   Amount              Dr / Cr             Balance             Dr / Cr
+1        01/08/2026                      Int.Coll:0148095487:02-07-                                           76,963.00              DR            -19,222,165.27           DR
+                                         2026 to 01-08-2026
+2        31/07/2026                      MMCCHG_SUDHPHAR_JUL                                                   118.00                DR            -19,145,202.27           DR
+                                         2026
+3        24/07/2026                      ICICR42026072400520213          RTGSINW-0109969504                  500,000.00              CR            -19,145,084.27           DR
+                                         SUDARSHAN PHARMA
+                                         INDUSTRI
+4        22/07/2026                      RTGS-SUDARSHAN                   FCM-260722O5DQOL                  1,000,000.00             DR            -19,645,084.27           DR
+                                         PHARMA IND-
+                                         KKBKR22026072223934773
+
+5        22/07/2026                      RTGS-SUDARSHAN                   FCM-260722O5DQOO                  1,000,000.00             DR            -18,645,084.27           DR
+                                         PHARMA IND-
+                                         KKBKR22026072223934776
+
+6        22/07/2026                      RTGS-SUDARSHAN                   FCM-260722O5DQOM                  1,000,000.00             DR            -17,645,084.27           DR
+                                         PHARMA IND-
+                                         KKBKR22026072223934774
+
+7        20/07/2026                      RTGS-SUDARSHAN                   FCM-260720O4CS0A                  5,000,000.00             DR            -16,645,084.27           DR
+                                         PHARMA IND-
+                                         KKBKR22026072023903193
+
+8        20/07/2026                      RTGS-SUDARSHAN                   FCM-260720O4CS05                  5,000,000.00             DR            -11,645,084.27           DR
+                                         PHARMA IND-
+                                         KKBKR22026072023903190
+
+9        20/07/2026                      RTGS-SUDARSHAN                   FCM-260720O4CS08                  5,000,000.00             DR             -6,645,084.27           DR
+                                         PHARMA IND-
+                                         KKBKR22026072023903192
+
+10       17/07/2026                      GST_0151_PDF PENALTY                  301079096                      2,316.60               DR             -1,645,084.27           DR
+                                         CHARGES_301079096_SUD
+                                         ARSHAN P
+11       17/07/2026                      0151_PDF PENALTY                      301079096                      12,870.00              DR             -1,642,767.67           DR
+                                         CHARGES_301079096_SUD
+                                         ARSHAN PHARM
+12       15/07/2026                      Loan Recovery For -                                                 895,833.32              DR             -1,629,897.67           DR
+                                         1368TL0100000144
+
+--- PAGE 2 ---
+ Sl. No.                  Date                           Description                    Chq / Ref number                       Amount                  Dr / Cr               Balance                Dr / Cr
+13        15/07/2026                           Loan Recovery For -                                                           377,134.00                  DR                -734,064.35                DR
+                                               1368TL0100000144
+14        01/07/2026                           Int.Coll:0148095487:02-06-                                                    407,156.00                  DR                -356,930.35                DR
+                                               2026 to 01-07-2026
+
+
+
+
+
+
+
+
+
+
+
+Opening balance                                as on 01/07/2026   INR 50,225.65
+Closing balance                                as on 06/08/2026   INR -19,222,165.27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                       You may call our 24-hour Customer Contact Centre at our number 1860 266 2666
+                                      Write to us at Customer Contact Centre. Kotak Mahindra Bank Ltd. Post Box Number 16344, Mumbai 400 013

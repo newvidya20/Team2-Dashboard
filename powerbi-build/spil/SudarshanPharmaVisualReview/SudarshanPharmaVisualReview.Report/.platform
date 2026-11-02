@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Sudarshan Pharma Visual Review"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "370fa8b7-b185-5499-a8c4-ce2f1001654c"
+  }
+}

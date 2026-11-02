@@ -1,0 +1,42 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	valueFilterBehavior: independent
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode","MCP-PBIModeling"]
+
+annotation PBI_QueryOrder = ["Bank Transactions","Bank Monthly","GST Monthly","GST Parties","GST State","GST Filings","Financials","Source Ratios","Source Flags","Internal Transfers","Party Reconciliation","Review Coverage","Calendar"]
+
+ref table 'Bank Transactions'
+ref table 'Bank Monthly'
+ref table 'GST Monthly'
+ref table 'GST Parties'
+ref table 'GST State'
+ref table 'GST Filings'
+ref table Financials
+ref table 'Source Ratios'
+ref table 'Source Flags'
+ref table 'Internal Transfers'
+ref table 'Party Reconciliation'
+ref table 'Review Coverage'
+ref table Calendar
+ref table DateTableTemplate_5f867585-16b9-4992-ae0f-1e15ff899180
+ref table LocalDateTable_00f6959d-7f68-4363-bdfd-056921b93377
+ref table LocalDateTable_ec38411a-ea3a-4439-a4a6-2ab3bafce156
+ref table LocalDateTable_0914043a-a4ab-423b-8ac7-ad526d059abb
+ref table LocalDateTable_e42982ff-ada0-4e8c-86b6-e31afcdf21a3
+ref table LocalDateTable_55b809d4-a4d1-4946-9f0b-70841a228a31
+ref table 'Review Year'
+ref table 'Statement Layout'
+ref table 'Credit Notes'
+ref table 'Calculation Register'
+ref table 'Bank Controls'
+
+ref cultureInfo en-US
+

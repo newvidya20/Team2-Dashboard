@@ -1,0 +1,662 @@
+
+--- PAGE 1 ---
+   Account Statement Report
+
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+
+Joint Holder :-  301,3RD FLOOR, AURA BIPLEX~ABOVE KALYAN JEWELLERS~S. V. ROAD, BORIVALI (WEST)~MUMBAI~MAHARASHTRA~400092
+
+Scheme : OPEN CASH CREDIT-HYP     currency : INR
+
+Customer No : 863275844     IFSC Code : UTIB0000018     MICR Code : 400211003     CKYC Number:**********5339
+
+
+Statement of Axis Bank Account No : 921030007131058 for the period ( From : 01/01/2026 To : 31/01/2026 )
+
+
+
+ Opening Balance: INR -9,94,43,512.90
+
+
+
+ S.NO      Transaction         Value Date         Particulars                                 Amount(INR)                      Debit/Credit    Balance(INR)       Cheque              Branch Name(SOL)
+           Date                (dd/mm/yyyy)                                                                                                                       Number
+           (dd/mm/yyyy)
+
+                                                  NEFT/002486036613/SUDARSHAN                                   50,00,000.00             CR     -9,44,43,512.90                       BORIVALI(W), MUMBAI [MH]
+ 1         01/01/2026          01/01/2026         PHARMA INDUSTRIES/UNION BANK                                                                                                                                 (248)
+                                                  OF INDIA//URGENT/
+
+                                                  NEFT/002486036698/SUDARSHAN                                   50,00,000.00             CR     -8,94,43,512.90                       BORIVALI(W), MUMBAI [MH]
+ 2         01/01/2026          01/01/2026         PHARMA INDUSTRIES/UNION BANK                                                                                                                                 (248)
+                                                  OF INDIA//URGENT/
+
+                                                  NEFT/002486039183/SUDARSHAN                                   70,00,000.00             CR     -8,24,43,512.90                       BORIVALI(W), MUMBAI [MH]
+ 3         01/01/2026          01/01/2026         PHARMA INDUSTRIES/UNION BANK                                                                                                                                 (248)
+                                                  OF INDIA//URGENT/
+
+ 4         01/01/2026          01/01/2026         TD/926040051130607/SUDARSHAN                                  24,50,000.00             DR     -8,48,93,512.90             104142    BORIVALI(W), MUMBAI [MH]
+                                                  PHARMA INDUSTRIES LIM                                                                                                                                        (018)
+
+ 5         01/01/2026          01/01/2026         ACH-DR-0001252760000579-                                      20,75,411.00             DR     -8,69,68,923.90                       BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2837809-UTIB00000000                                                                                                                                    (018)
+
+ 6         01/01/2026          01/01/2026         ACH-DR-0001252760000580-                                      20,31,253.00             DR     -8,90,00,176.90                       BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2839047-UTIB00000000                                                                                                                                    (018)
+
+ 7         01/01/2026          01/01/2026         ACH-DR-0001252760000565-                                      61,53,201.00             DR     -9,51,53,377.90                       BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2839037-UTIB00000000                                                                                                                                    (018)
+
+ 8         01/01/2026          01/01/2026         ACH-DR-0001252760000755-                                      18,98,325.00             DR     -9,70,51,702.90                       BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2839067-UTIB00000000                                                                                                                                    (018)
+
+ 9         01/01/2026          01/01/2026         ACH-DR-0001252760000564-                                      57,91,248.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2839038-UTIB00000000                                                                    ,10,28,42,950.90                                                (018)
+
+ 10        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001764:COMM/ISS                                 54,446.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,28,97,396.90                                                (018)
+
+ 11        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001764:COMM/ISS                                  9,800.28             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,07,197.18                                                (018)
+
+ 12        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001764:COMM/ISS                                    180.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,07,377.18                                                (018)
+
+ 13        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001764:COMM/ISS                                  1,000.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,08,377.18                                                (018)
+
+ 14        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001765:COMM/ISS                                 13,770.72             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,22,147.90                                                (018)
+
+ 15        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001765:COMM/ISS                                 76,504.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,98,651.90                                                (018)
+
+ 16        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001765:COMM/ISS                                  1,000.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,99,651.90                                                (018)
+
+ 17        01/01/2026          01/01/2026         BRN-ILC-0018LCO-0001765:COMM/ISS                                    180.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                               ,10,29,99,831.90                                                (018)
+
+                                                  NEFT/DH/AXODH00131622826/SUDARS                                1,00,000.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+ 18        01/01/2026          01/01/2026         HAN PHARMA INDUSTRI/ICICI BANK                                                               ,10,30,99,831.90                                                (018)
+                                                  LIMITED//////
+
+                                                  RTGS/DH/UTIBR62026010247475793/S                              20,00,000.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+ 19        02/01/2026          02/01/2026         UDARSHAN PHARMA IN/ICICI BANK                                                                ,10,50,99,831.90                                                (018)
+                                                  LIMITED//////
+
+ 20        02/01/2026          02/01/2026         ECSIRFYNACH DEBIT RET                                               885.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                  CHG/0001252760000566                                                                         ,10,51,00,716.90                                               (2567)
+
+                                                  RTGS/UBINR22026010201636696/SUDA                              50,00,000.00             CR                    -                      BORIVALI(W), MUMBAI [MH]
+ 21        02/01/2026          02/01/2026         RSHAN PHARMA INDUS/UNION BANK                                                                ,10,01,00,716.90                                                (248)
+                                                  OF INDIA//URGENT/
+
+ 22        03/01/2026          03/01/2026         RTGS/BKIDR52026010300854603/SACH                              50,00,000.00             CR     -9,51,00,716.90                       BORIVALI(W), MUMBAI [MH]
+                                                  IN CHEMICALS/BANK OF INDIA/Ref                                                                                                                               (248)
+
+ 23        03/01/2026          03/01/2026         ACH-DR-0001252790000251-                                      19,45,350.00             DR     -9,70,46,066.90                       BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2885097-UTIB00000000                                                                                                                                    (018)
+
+ 24        03/01/2026          03/01/2026         ACH-DR-0001252790000255-                                      19,45,350.00             DR     -9,89,91,416.90                       BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2883238-UTIB00000000                                                                                                                                    (018)
+
+ 25        03/01/2026          03/01/2026         ACH-DR-0001252790000252-                                      19,45,350.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2883245-UTIB00000000                                                                    ,10,09,36,766.90                                                (018)
+
+ 26        03/01/2026          03/01/2026         ACH-DR-0001252790000253-                                      38,90,700.00             DR                    -                      BORIVALI(W), MUMBAI [MH]
+                                                  DRBUY2883250-UTIB00000000                                                                    ,10,48,27,466.90                                                (018)
+
+--- PAGE 2 ---
+S.NO      Transaction          Value Date          Particulars                                   Amount(INR)                       Debit/Credit     Balance(INR)        Cheque              Branch Name(SOL)
+          Date                 (dd/mm/yyyy)                                                                                                                             Number
+          (dd/mm/yyyy)
+
+                                                   RTGS/UBINR22026010301661460/SUDA                                20,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+27        03/01/2026           03/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,28,27,466.90                                                   (248)
+                                                   OF INDIA//URGENT/
+
+                                                   RTGS/DH/UTIBR62026010347825681/R                                38,90,700.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+28        03/01/2026           03/01/2026          XIL TREDS ACCOUNT/BANK OF                                                                        ,10,67,18,166.90                                                   (018)
+                                                   MAHARASHTRA//////
+
+                                                   RTGS/ICICR42026010300560387/SUDA                                  5,00,000.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+29        03/01/2026           03/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                    ,10,62,18,166.90                                                   (248)
+                                                   LIMITED//URGENT/
+
+30        04/01/2026           04/01/2026          ECSIRFYNACH DEBIT RET                                                  885.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   CHG/0001252790000254                                                                             ,10,62,19,051.90                                                 (2567)
+
+31        05/01/2026           05/01/2026          ACH-DR-0001253570002568-                                            94,494.84              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2912206-UTIB00000000                                                                        ,10,63,13,546.74                                                   (018)
+
+32        05/01/2026           05/01/2026          0018-IBC2803                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,63,13,696.74                                                   (018)
+
+33        05/01/2026           05/01/2026          0018-IBC2802                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,63,13,846.74                                                   (018)
+
+                                                   RTGS/ICICR42026010500577331/SUDA                                  5,00,000.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+34        05/01/2026           05/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                    ,10,58,13,846.74                                                   (248)
+                                                   LIMITED//URGENT/
+
+35        05/01/2026           05/01/2026          0018-IBC2803                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,58,13,996.74                                                   (018)
+
+36        05/01/2026           05/01/2026          0018-IBC2802                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,58,14,146.74                                                   (018)
+
+37        05/01/2026           05/01/2026          BRN-ILC-0018LCO-0001774:COMM/ISS                                  1,01,458.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,59,15,604.74                                                   (018)
+
+38        05/01/2026           05/01/2026          BRN-ILC-0018LCO-0001774:COMM/ISS                                    18,262.44              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,59,33,867.18                                                   (018)
+
+39        05/01/2026           05/01/2026          BRN-ILC-0018LCO-0001774:COMM/ISS                                     1,000.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,59,34,867.18                                                   (018)
+
+40        05/01/2026           05/01/2026          BRN-ILC-0018LCO-0001774:COMM/ISS                                       180.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,59,35,047.18                                                   (018)
+
+41        05/01/2026           05/01/2026          921030007131058:Int.Coll:06-12-2025 to                            8,66,925.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   05-01-2026                                                                                       ,10,68,01,972.18                                                   (018)
+
+42        06/01/2026           06/01/2026          ACH-DR-0001260030001183-                                            69,059.34              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2943671-UTIB00000000                                                                        ,10,68,71,031.52                                                   (018)
+
+43        06/01/2026           06/01/2026          ACH-DR-0001260030001181-                                            66,650.33              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2944428-UTIB00000000                                                                        ,10,69,37,681.85                                                   (018)
+
+44        06/01/2026           06/01/2026          ACH-DR-0001260030001184-                                            67,678.17              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2942947-UTIB00000000                                                                        ,10,70,05,360.02                                                   (018)
+
+                                                   NEFT/HDFCH00721084852/GRASIM                                      2,85,318.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+45        06/01/2026           06/01/2026          INDUSTRIES LTD  EPOXY/HDFC                                                                       ,10,67,20,042.02                                                   (248)
+                                                   BANK/0001NEFT  CX00000000N8T6SR
+
+                                                   RTGS/HDFCR52026010654123377/OCI                                   3,00,000.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+46        06/01/2026           06/01/2026          MUM LABS PRIVATE LI/HDFC                                                                         ,10,64,20,042.02                                                   (248)
+                                                   BANK///C11110060126201922//C111100
+
+47        07/01/2026           07/01/2026          RTGS/BKIDR52026010700508940/SACH                                40,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   IN CHEMICALS/BANK OF INDIA/Ref                                                                   ,10,24,20,042.02                                                   (248)
+
+48        07/01/2026           07/01/2026          ACH-DR-0001260030001182-                                            66,219.20              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2974705-UTIB00000000                                                                        ,10,24,86,261.22                                                   (018)
+
+49        07/01/2026           07/01/2026          ACH-DR-0001260060000918-                                            57,221.62              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2979537-UTIB00000000                                                                        ,10,25,43,482.84                                                   (018)
+
+50        07/01/2026           07/01/2026          ACH-DR-0001260060000963-                                            54,654.50              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2978924-UTIB00000000                                                                        ,10,25,98,137.34                                                   (018)
+
+51        07/01/2026           07/01/2026          ACH-DR-0001252820001904-                                        22,61,735.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2972266-UTIB00000000                                                                        ,10,48,59,872.34                                                   (018)
+
+52        07/01/2026           07/01/2026          ACH-DR-0001260060000955-                                            40,474.49              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2980052-UTIB00000000                                                                        ,10,49,00,346.83                                                   (018)
+
+53        07/01/2026           07/01/2026          ACH-DR-0001260060000919-                                            58,425.52              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2980113-UTIB00000000                                                                        ,10,49,58,772.35                                                   (018)
+
+54        07/01/2026           07/01/2026          ACH-DR-0001260060000954-                                            60,464.99              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2979501-UTIB00000000                                                                        ,10,50,19,237.34                                                   (018)
+
+55        07/01/2026           07/01/2026          ACH-DR-0001252820001907-                                        20,31,253.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2972393-UTIB00000000                                                                        ,10,70,50,490.34                                                   (018)
+
+56        07/01/2026           07/01/2026          ACH-DR-0001260060000920-                                            57,138.79              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY2979463-UTIB00000000                                                                        ,10,71,07,629.13                                                   (018)
+
+                                                   RTGS/UBINR22026010701959054/SUDA                                  2,00,000.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+57        07/01/2026           07/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,69,07,629.13                                                   (248)
+                                                   OF INDIA//URGENT/
+
+                                                   RTGS/UBINR22026010801037862/SUDA                                43,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+58        08/01/2026           08/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,26,07,629.13                                                   (248)
+                                                   OF INDIA//URGENT/
+
+59        08/01/2026           08/01/2026          BRN-REF NO 0018FBLU250136 USD                                   44,67,817.83               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   48662.40/RLZ                                                                                     ,10,70,75,446.96                                                   (018)
+
+60        08/01/2026           08/01/2026          0018-IBC2812                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,70,75,596.96                                                   (018)
+
+                                                   RTGS/ICICR42026010900509404/SUDA                                60,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+61        09/01/2026           09/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                    ,10,10,75,596.96                                                   (248)
+                                                   LIMITED//URGENT/
+
+--- PAGE 3 ---
+S.NO      Transaction          Value Date          Particulars                                   Amount(INR)                       Debit/Credit    Balance(INR)         Cheque              Branch Name(SOL)
+          Date                 (dd/mm/yyyy)                                                                                                                             Number
+          (dd/mm/yyyy)
+
+62        09/01/2026           09/01/2026          ACH-DR-0001252860001498-                                        11,38,995.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3047679-UTIB00000000                                                                        ,10,22,14,591.96                                                  (018)
+
+63        09/01/2026           09/01/2026          ACH-DR-0001260080001943-                                           82,832.51               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3059883-UTIB00000000                                                                        ,10,22,97,424.47                                                  (018)
+
+64        09/01/2026           09/01/2026          ACH-DR-0001260080001948-                                           67,172.52               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3059988-UTIB00000000                                                                        ,10,23,64,596.99                                                  (018)
+
+65        09/01/2026           09/01/2026          ACH-DR-0001260080001947-                                           41,557.91               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3059564-UTIB00000000                                                                        ,10,24,06,154.90                                                  (018)
+
+66        09/01/2026           09/01/2026          ACH-DR-0001260080001945-                                           20,176.99               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3058710-UTIB00000000                                                                        ,10,24,26,331.89                                                  (018)
+
+67        09/01/2026           09/01/2026          ACH-DR-0001260080001946-                                           23,059.39               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3058721-UTIB00000000                                                                        ,10,24,49,391.28                                                  (018)
+
+68        09/01/2026           09/01/2026          ACH-DR-0001252860001541-                                        28,29,640.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3047312-UTIB00000000                                                                        ,10,52,79,031.28                                                  (018)
+
+69        09/01/2026           09/01/2026          ACH-DR-0001252860001483-                                        16,96,345.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3047291-UTIB00000000                                                                        ,10,69,75,376.28                                                  (018)
+
+70        09/01/2026           09/01/2026          0018-IBC2812                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,69,75,526.28                                                  (018)
+
+                                                   RTGS/BKIDR52026011000189032/SACH                                40,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+71        10/01/2026           10/01/2026          IN CHEMICALS/BANK OF                                                                             ,10,29,75,526.28                                                  (248)
+                                                   INDIA///PAYMENT/
+
+                                                   RTGS/DH/UTIBR62026011049306307/R                                36,34,000.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+72        10/01/2026           10/01/2026          P INDUSTRIES AND/STATE BANK OF                                                                   ,10,66,09,526.28                                                  (018)
+                                                   INDIA//////
+
+73        11/01/2026           11/01/2026          GST @18% on NeSL Chrgs                                                 127.62              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,66,09,653.90                                                  (018)
+
+74        11/01/2026           11/01/2026          NeSL Chrgs                                                             709.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,66,10,362.90                                                  (018)
+
+                                                   RTGS/BOTMR52026011301319780/AJIN                                32,31,432.50               CR                     -                       BORIVALI(W), MUMBAI [MH]
+75        13/01/2026           13/01/2026          OMOTO BIO-PHARMA S/MUFG BANK,                                                                    ,10,33,78,930.40                                                  (248)
+                                                   LTD/Pmt Inv 1939,1960,2128
+
+76        13/01/2026           13/01/2026          Clg/RAMLJESWANI/INDIAN BANK                                        19,800.00               DR                     -            104374     BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,33,98,730.40                                                 (2568)
+
+77        14/01/2026           14/01/2026          Clg/SUMIT RAMCHAND                                                 19,800.00               DR                     -            104361     BORIVALI(W), MUMBAI [MH]
+                                                   JESWANI/UNION BANK OF                                                                            ,10,34,18,530.40                                                 (2568)
+
+                                                   RTGS/UBINR22026011401500795/SUDA                                 8,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+78        14/01/2026           14/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,26,18,530.40                                                  (248)
+                                                   OF INDIA//URGENT/
+
+79        14/01/2026           14/01/2026          ACH-DR-0001260120002761-                                           38,533.90               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3177509-UTIB00000000                                                                        ,10,26,57,064.30                                                  (018)
+
+80        14/01/2026           14/01/2026          ACH-DR-0001260120002760-                                           42,734.80               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3177622-UTIB00000000                                                                        ,10,26,99,799.10                                                  (018)
+
+81        14/01/2026           14/01/2026          CREDIT_OPINION_REPORT                                                1,770.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,27,01,569.10                                                  (018)
+
+                                                   NEFT/IN42601453926316/SUDARSHAN                                  1,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+82        14/01/2026           14/01/2026          PHARMA INDUSTRIES/ICICI BANK                                                                     ,10,26,01,569.10                                                  (248)
+                                                   LIMITED/
+
+83        14/01/2026           14/01/2026          BRN-REF NO 0018FBLU250137 USD                                   44,96,576.15               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   48662.40/RLZ                                                                                     ,10,70,98,145.25                                                  (018)
+
+84        14/01/2026           14/01/2026          CLG/007557/090126/Kotak Mahi/                                      22,656.00               CR                     -            007557     BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,70,75,489.25                                                 (2568)
+
+                                                   RTGS/UBINR22026011501579873/SUDA                                10,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+85        15/01/2026           15/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,60,75,489.25                                                  (248)
+                                                   OF INDIA//URGENT/
+
+86        15/01/2026           15/01/2026          ACH-DR-0001252900002934-                                         3,89,070.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3192377-UTIB00000000                                                                        ,10,64,64,559.25                                                  (018)
+
+87        15/01/2026           15/01/2026          ACH-DR-0001252900002951-                                         3,89,070.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3192380-UTIB00000000                                                                        ,10,68,53,629.25                                                  (018)
+
+                                                   RTGS/UBINR22026011601625349/SUDA                                14,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+88        16/01/2026           16/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,54,53,629.25                                                  (248)
+                                                   OF INDIA//URGENT/
+
+89        16/01/2026           16/01/2026          TD/926040054075378/SUDARSHAN                                     8,15,000.00               DR                     -            104143     BORIVALI(W), MUMBAI [MH]
+                                                   PHARMA INDUSTRIES LIM                                                                            ,10,62,68,629.25                                                  (018)
+
+                                                   RTGS/HDFCR52026011657643685/WEL                                  2,32,027.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+90        16/01/2026           16/01/2026          LCHEM LABORATORIES/HDFC                                                                          ,10,60,36,602.25                                                  (248)
+                                                   BANK///1862 Wellchem Lab//OP
+
+91        16/01/2026           16/01/2026          ACH-DR-0001252910000284-                                         4,66,884.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3227498-UTIB00000000                                                                        ,10,65,03,486.25                                                  (018)
+
+                                                   IMPS/P2A/601617717551/GETCLARI/YE                                        1.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+92        16/01/2026           16/01/2026          SBANKL/RemeToBe/9199999999999532                                                                 ,10,65,03,485.25                                                  (018)
+                                                   000
+
+93        16/01/2026           16/01/2026          BRN-TD/925040100044397/25-09-                                   17,84,328.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   2026/SUDARSHAN PHARMA                                                                            ,10,47,19,157.25                                                  (018)
+
+94        16/01/2026           16/01/2026          BRN-TD/925040101199177/12-10-                                      40,411.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   2026/SUDARSHAN PHARMA                                                                            ,10,46,78,746.25                                                  (018)
+
+95        17/01/2026           17/01/2026          BRN-ILC-0018LCO-0001799:COMM/ISS                                   26,974.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,47,05,720.25                                                  (018)
+
+96        17/01/2026           17/01/2026          BRN-ILC-0018LCO-0001799:COMM/ISS                                     4,855.32              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,47,10,575.57                                                  (018)
+
+--- PAGE 4 ---
+S.NO      Transaction          Value Date          Particulars                                   Amount(INR)                       Debit/Credit     Balance(INR)        Cheque              Branch Name(SOL)
+          Date                 (dd/mm/yyyy)                                                                                                                             Number
+          (dd/mm/yyyy)
+
+97        17/01/2026           17/01/2026          BRN-ILC-0018LCO-0001799:COMM/ISS                                     1,000.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,47,11,575.57                                                   (018)
+
+98        17/01/2026           17/01/2026          BRN-ILC-0018LCO-0001799:COMM/ISS                                       180.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,47,11,755.57                                                   (018)
+
+99        19/01/2026           19/01/2026          ACH-DR-0001260130001615-                                            38,846.26              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3303971-UTIB00000000                                                                        ,10,47,50,601.83                                                   (018)
+
+100       20/01/2026           20/01/2026          ACH-DR-0001260190002483-                                            30,867.25              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3345772-UTIB00000000                                                                        ,10,47,81,469.08                                                   (018)
+
+101       20/01/2026           20/01/2026          ACH-DR-0001260190002570-                                            38,980.93              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3345026-UTIB00000000                                                                        ,10,48,20,450.01                                                   (018)
+
+102       20/01/2026           20/01/2026          ACH-DR-0001260190002572-                                            43,127.87              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3344962-UTIB00000000                                                                        ,10,48,63,577.88                                                   (018)
+
+103       20/01/2026           20/01/2026          ACH-DR-0001260190002571-                                            41,469.10              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3345445-UTIB00000000                                                                        ,10,49,05,046.98                                                   (018)
+
+104       20/01/2026           20/01/2026          ACH-DR-0001260190002482-                                            29,809.86              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3345836-UTIB00000000                                                                        ,10,49,34,856.84                                                   (018)
+
+                                                   RTGS/HDFCR52026012059314022/IVP                                 23,73,624.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+105       20/01/2026           20/01/2026          LIMITED/HDFC                                                                                     ,10,25,61,232.84                                                   (248)
+                                                   BANK///C48579200126132912//C485792
+
+106       21/01/2026           21/01/2026          INB/IFT/METLOK PRIVATE                                            1,30,390.00              CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   LIMITED/TPARTY TRANSFER                                                                          ,10,24,30,842.84                                                   (048)
+
+107       22/01/2026           22/01/2026          ACH-DR-0001260200001173-                                             5,237.91              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3404109-UTIB00000000                                                                        ,10,24,36,080.75                                                   (018)
+
+108       22/01/2026           22/01/2026          ACH-DR-0001260200001184-                                             9,903.05              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3404033-UTIB00000000                                                                        ,10,24,45,983.80                                                   (018)
+
+109       22/01/2026           22/01/2026          ACH-DR-0001260200001168-                                             5,714.08              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3404035-UTIB00000000                                                                        ,10,24,51,697.88                                                   (018)
+
+110       22/01/2026           22/01/2026          ACH-DR-0001260200001200-                                             4,901.78              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3404104-UTIB00000000                                                                        ,10,24,56,599.66                                                   (018)
+
+111       22/01/2026           22/01/2026          0018-IBC2839                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,24,56,749.66                                                   (018)
+
+                                                   RTGS/ICICR42026012200562999/SUDA                                50,00,000.00               CR     -9,74,56,749.66                         BORIVALI(W), MUMBAI [MH]
+112       22/01/2026           22/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                                                                                       (248)
+                                                   LIMITED//URGENT/
+
+                                                   RTGS/ICICR42026012200563287/SUDA                                46,00,000.00               CR     -9,28,56,749.66                         BORIVALI(W), MUMBAI [MH]
+113       22/01/2026           22/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                                                                                       (248)
+                                                   LIMITED//URGENT/
+
+                                                   RTGS/ICICR42026012200563110/SUDA                                50,00,000.00               CR     -8,78,56,749.66                         BORIVALI(W), MUMBAI [MH]
+114       22/01/2026           22/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                                                                                       (248)
+                                                   LIMITED//URGENT/
+
+                                                   RTGS/UBINR22026012301230179/SUDA                                  5,00,000.00              CR     -8,73,56,749.66                         BORIVALI(W), MUMBAI [MH]
+115       23/01/2026           23/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                                                                                       (248)
+                                                   OF INDIA//URGENT/
+
+116       23/01/2026           23/01/2026          ACH-DR-0001253010001473-                                        20,69,145.00               DR     -8,94,25,894.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3458387-UTIB00000000                                                                                                                                           (018)
+
+117       23/01/2026           23/01/2026          ACH-DR-0001253010001214-                                          6,95,232.00              DR     -9,01,21,126.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3464997-UTIB00000000                                                                                                                                           (018)
+
+118       23/01/2026           23/01/2026          ACH-DR-0001253010001219-                                          6,87,045.00              DR     -9,08,08,171.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3458213-UTIB00000000                                                                                                                                           (018)
+
+119       23/01/2026           23/01/2026          ACH-DR-0001253010001472-                                        19,86,379.00               DR     -9,27,94,550.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3465175-UTIB00000000                                                                                                                                           (018)
+
+120       23/01/2026           23/01/2026          ACH-DR-0001253010001215-                                          6,95,232.00              DR     -9,34,89,782.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3464495-UTIB00000000                                                                                                                                           (018)
+
+121       23/01/2026           23/01/2026          ACH-DR-0001253010001222-                                          5,25,175.00              DR     -9,40,14,957.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3458217-UTIB00000000                                                                                                                                           (018)
+
+122       23/01/2026           23/01/2026          ACH-DR-0001253010000928-                                        24,77,138.00               DR     -9,64,92,095.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3458300-UTIB00000000                                                                                                                                           (018)
+
+123       23/01/2026           23/01/2026          ACH-DR-0001253010001471-                                        19,44,996.00               DR     -9,84,37,091.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3465868-UTIB00000000                                                                                                                                           (018)
+
+124       23/01/2026           23/01/2026          ACH-DR-0001253010001474-                                        19,86,379.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3458388-UTIB00000000                                                                        ,10,04,23,470.66                                                   (018)
+
+125       23/01/2026           23/01/2026          ACH-DR-0001253010001217-                                          6,87,045.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3465789-UTIB00000000                                                                        ,10,11,10,515.66                                                   (018)
+
+126       23/01/2026           23/01/2026          ACH-DR-0001253010000927-                                        24,27,595.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3464889-UTIB00000000                                                                        ,10,35,38,110.66                                                   (018)
+
+127       23/01/2026           23/01/2026          ACH-DR-0001253010001221-                                          5,25,175.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3465810-UTIB00000000                                                                        ,10,40,63,285.66                                                   (018)
+
+128       23/01/2026           23/01/2026          ACH-DR-0001252980000346-                                          8,11,104.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3464199-UTIB00000000                                                                        ,10,48,74,389.66                                                   (018)
+
+129       23/01/2026           23/01/2026          ACH-DR-0001252980000345-                                          7,49,505.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3464283-UTIB00000000                                                                        ,10,56,23,894.66                                                   (018)
+
+130       23/01/2026           23/01/2026          ACH-DR-0001252980000347-                                          9,37,163.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3457837-UTIB00000000                                                                        ,10,65,61,057.66                                                   (018)
+
+                                                   NEFT/HDFCH00755893648/IVP                                         1,96,975.60              CR                     -                       BORIVALI(W), MUMBAI [MH]
+131       23/01/2026           23/01/2026          LIMITED/HDFC BANK/0001DOMNEFT01                                                                  ,10,63,64,082.06                                                   (248)
+                                                   -  -  - 0001012
+
+132       23/01/2026           23/01/2026          0018-IBC2839                                                           150.00              DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,63,64,232.06                                                   (018)
+
+--- PAGE 5 ---
+S.NO      Transaction          Value Date          Particulars                                   Amount(INR)                       Debit/Credit    Balance(INR)         Cheque              Branch Name(SOL)
+          Date                 (dd/mm/yyyy)                                                                                                                             Number
+          (dd/mm/yyyy)
+
+                                                   RTGS/UBINR22026012701366267/SUDA                                18,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+133       27/01/2026           27/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,45,64,232.06                                                  (248)
+                                                   OF INDIA//URGENT/
+
+134       27/01/2026           27/01/2026          ACH-DR-0001253020001978-                                        23,92,200.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3502154-UTIB00000000                                                                        ,10,69,56,432.06                                                  (018)
+
+                                                   RTGS/ICICR42026012700547571/SUDA                                45,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+135       27/01/2026           27/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                    ,10,24,56,432.06                                                  (248)
+                                                   LIMITED//URGENT/
+
+136       27/01/2026           27/01/2026          BRN-REF NO 0018FBLS260014 USD                                   41,45,207.25               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   44244/RLZ                                                                                        ,10,66,01,639.31                                                  (018)
+
+                                                   NEFT/HDFCH00760304773/IVP                                        1,48,554.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+137       27/01/2026           27/01/2026          LIMITED/HDFC BANK/0001DOMNEFT01                                                                  ,10,64,53,085.31                                                  (248)
+                                                   -  -  - 0001012
+
+138       27/01/2026           27/01/2026          Penal Charge Stk Stmt/PSC Dec 25                                 2,34,451.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,66,87,536.31                                                  (002)
+
+139       29/01/2026           29/01/2026          TRF/CADCHEM LABORATORIES                                         4,74,950.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   LIMITED/                                                                                         ,10,62,12,586.31                                                 (1699)
+
+                                                   RTGS/UBINR22026012901626279/SUDA                                20,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+140       29/01/2026           29/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,42,12,586.31                                                  (248)
+                                                   OF INDIA//URGENT/
+
+                                                   RTGS/ICICR42026012900542689/SUDA                                30,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+141       29/01/2026           29/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                    ,10,12,12,586.31                                                  (248)
+                                                   LIMITED//URGENT/
+
+142       29/01/2026           29/01/2026          RTGS/BKIDR52026012900667498/SACH                                26,00,000.00               CR     -9,86,12,586.31                         BORIVALI(W), MUMBAI [MH]
+                                                   IN CHEMICALS/BANK OF INDIA/Ref                                                                                                                                     (248)
+
+143       29/01/2026           29/01/2026          0018-IBC2622                                                    85,64,672.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                    ,10,71,77,258.31                                                  (018)
+
+                                                   RTGS/UBINR22026013001704419/SUDA                                 5,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+144       30/01/2026           30/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,66,77,258.31                                                  (248)
+                                                   OF INDIA//URGENT/
+
+                                                   RTGS/UBINR22026013001720426/SUDA                                 8,00,000.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+145       30/01/2026           30/01/2026          RSHAN PHARMA INDUS/UNION BANK                                                                    ,10,58,77,258.31                                                  (248)
+                                                   OF INDIA//URGENT/
+
+146       30/01/2026           30/01/2026          TD/926040056359395/SUDARSHAN                                     8,50,000.00               DR                     -            104137     BORIVALI(W), MUMBAI [MH]
+                                                   PHARMA INDUSTRIES LIM                                                                            ,10,67,27,258.31                                                  (018)
+
+147       30/01/2026           30/01/2026          NEFT/HDFCH00767188729/SRF                                        1,74,492.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   LIMITED 683/HDFC BANK/00011604089                                                                ,10,65,52,766.31                                                  (248)
+
+148       30/01/2026           30/01/2026          MOB/TPFT/CHEMAX PHARMA                                          10,35,450.00               CR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   C/923020062684251                                                                                ,10,55,17,316.31                                                 (2120)
+
+                                                   RTGS/ICICR42026013000589337/SUDA                                65,00,000.00               CR     -9,90,17,316.31                         BORIVALI(W), MUMBAI [MH]
+149       30/01/2026           30/01/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                                                                                      (248)
+                                                   LIMITED//URGENT/
+
+150       31/01/2026           31/01/2026          Loan Recovery For922060052832458                                 4,43,333.00               DR     -9,94,60,649.31                         BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                                                                                      (018)
+
+151       31/01/2026           31/01/2026          Loan Recovery For922060049800541                                 3,72,222.00               DR     -9,98,32,871.31                         BORIVALI(W), MUMBAI [MH]
+                                                                                                                                                                                                                      (018)
+
+152       31/01/2026           31/01/2026          ACH-DR-0001260300001569-                                           38,299.35               DR     -9,98,71,170.66                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3679904-UTIB00000000                                                                                                                                          (018)
+
+153       31/01/2026           31/01/2026          ACH-DR-0001260270002441-                                           34,110.74               DR     -9,99,05,281.40                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3683588-UTIB00000000                                                                                                                                          (018)
+
+154       31/01/2026           31/01/2026          ACH-DR-0001260300001572-                                           37,411.76               DR     -9,99,42,693.16                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3680039-UTIB00000000                                                                                                                                          (018)
+
+155       31/01/2026           31/01/2026          ACH-DR-0001260300001570-                                           39,895.16               DR     -9,99,82,588.32                         BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3680076-UTIB00000000                                                                                                                                          (018)
+
+156       31/01/2026           31/01/2026          ACH-DR-0001253070001305-                                        33,15,937.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3687979-UTIB00000000                                                                        ,10,32,98,525.32                                                  (018)
+
+157       31/01/2026           31/01/2026          ACH-DR-0001260300001574-                                           17,160.79               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3678783-UTIB00000000                                                                        ,10,33,15,686.11                                                  (018)
+
+158       31/01/2026           31/01/2026          ACH-DR-0001260300001588-                                           10,604.98               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3678796-UTIB00000000                                                                        ,10,33,26,291.09                                                  (018)
+
+159       31/01/2026           31/01/2026          ACH-DR-0001260300001591-                                           96,364.43               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3679955-UTIB00000000                                                                        ,10,34,22,655.52                                                  (018)
+
+160       31/01/2026           31/01/2026          ACH-DR-0001260300001578-                                           17,160.79               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3679941-UTIB00000000                                                                        ,10,34,39,816.31                                                  (018)
+
+161       31/01/2026           31/01/2026          ACH-DR-0001253070001306-                                        31,83,300.00               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3689956-UTIB00000000                                                                        ,10,66,23,116.31                                                  (018)
+
+162       31/01/2026           31/01/2026          ACH-DR-0001260300001571-                                           39,895.16               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3679909-UTIB00000000                                                                        ,10,66,63,011.47                                                  (018)
+
+163       31/01/2026           31/01/2026          ACH-DR-0001260300001593-                                           95,825.38               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3678810-UTIB00000000                                                                        ,10,67,58,836.85                                                  (018)
+
+164       31/01/2026           31/01/2026          ACH-DR-0001260270002476-                                           36,853.76               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3682148-UTIB00000000                                                                        ,10,67,95,690.61                                                  (018)
+
+165       31/01/2026           31/01/2026          ACH-DR-0001260270002488-                                           16,176.07               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3683608-UTIB00000000                                                                        ,10,68,11,866.68                                                  (018)
+
+166       31/01/2026           31/01/2026          ACH-DR-0001260300001585-                                           17,160.79               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3678794-UTIB00000000                                                                        ,10,68,29,027.47                                                  (018)
+
+167       31/01/2026           31/01/2026          ACH-DR-0001260300001573-                                           17,160.79               DR                     -                       BORIVALI(W), MUMBAI [MH]
+                                                   DRBUY3679934-UTIB00000000                                                                        ,10,68,46,188.26                                                  (018)
+
+--- PAGE 6 ---
+S.NO     Transaction       Value Date        Particulars                              Amount(INR)                   Debit/Credit  Balance(INR)      Cheque            Branch Name(SOL)
+         Date              (dd/mm/yyyy)                                                                                                             Number
+         (dd/mm/yyyy)
+
+                                             RTGS/UBINR22026013101871873/SUDA                          5,00,000.00           CR                   -                    BORIVALI(W), MUMBAI [MH]
+168      31/01/2026        31/01/2026        RSHAN PHARMA INDUS/UNION BANK                                                         ,10,63,46,188.26                                          (248)
+                                             OF INDIA//URGENT/
+
+169      31/01/2026        31/01/2026        TD/926040056675888/SUDARSHAN                              5,10,000.00           DR                   -          104144    BORIVALI(W), MUMBAI [MH]
+                                             PHARMA INDUSTRIES LIM                                                                 ,10,68,56,188.26                                          (018)
+
+170      31/01/2026        31/01/2026        Loan Recovery For925060051738978                          3,32,933.21           DR                   -                    BORIVALI(W), MUMBAI [MH]
+                                                                                                                                   ,10,71,89,121.47                                          (018)
+
+                                             RTGS/KKBKR22026013120980125/SUD                          20,00,000.00           CR                   -                    BORIVALI(W), MUMBAI [MH]
+171      31/01/2026        31/01/2026        ARSHAN PHARMA INDUS/KOTAK                                                             ,10,51,89,121.47                                          (248)
+                                             MAHINDRA BANK /
+
+172                                          TRANSACTION TOTAL DR/CR                  10,72,76,217.67/10,15,30,609.10                                                  BORIVALI(W), MUMBAI [MH]
+
+
+
+
+ Closing Balance: INR -,10,51,89,121.47
+
+
+
+Unless the constituent notifies the bank immediately of any discrepancy found by him/her in this statement of Account, it will be taken that he/she has found the
+account correct.
+The closing balance as shown/displayed includes not only the credit balance and / or overdraft limit, but also funds which are under clearing. It excludes the
+amount marked as lien, if any. Hence the closing balance displayed may not be the effective available balance. For any further clarifications, please contact the
+Branch.
+We would like to reiterate that, as a policy, Axis Bank does not ask you to part with/disclose/revalidate of your iConnect passord,login id and debit card number
+through emails OR phone call Further,we would like to reiterate that Axis Bank shall not be liable for any losses arising from you sharing/disclosing of your login
+id, password and debit card number to anyone.
+"Please co-operate by forwarding all such suspicious/spam emails, if received by you, to customer.service@axisbank.com\r\n"
+With effect from 1st August 2016, the replacement charges for Debit card and ATM card applicable on Current accounts have been revised. To
+know more about the applicable charges,please visit www.axisbank.com
+Deposit Insurance and Credit Guarantee Corporation (DICGC) insurance cover is applicable in all Banks' deposits, such as savings, current,
+fixed, recurring etc* up to maximum amount of Rs 5 Lakh including principal & interest both* (* or exceptions and details please refer
+www.dicgc.org.in )
+In compliance with regulatory guidelines, the non-CTS cheque books attached to the accounts would be destroyed in banks core banking
+System. Thus, Non CTS cheques will not be valid for CASH, Clearing and Transfer transactions
+
+REGISTERED OFFICE - AXIS BANK LTD,TRISHUL,Opp. Samartheswar Temple, Near Law Garden, Ellisbridge, Ahmedabad .380006.This is a system
+generated output and requires no signature.
+BRANCH ADDRESS - AXIS BANK LTD, MAJESTIC, BANGALORE [KT], AXIS BANK LTD., BANGALORE CIRCLE OFFICE, PLOT NO. 41, SHESHADRI
+ROAD, ANAND RAO CIRCLE,
+BENGALURU, 560009, BENGALURU, KARNATAKA, INDIA, TEL:080-22374596 FAX:40914690
+
+
+ Legend :
+
+
+
+ICONN - Transaction trough Internet Banking                                                                                              BRN -Branch
+AUTOSWEEP - Transfer to linked fixed deposit                                                                                             LDG -Lodge
+REV SWEEP - Interest on Linked fixed Deposit                                                                                             INB -Internet Banking
+SWEEP TRF - Transfer from Linked Fixed Deposit / Account                                                                                 RLZ -Realise
+VMT - Visa Money Transfer through ATM                                                                                                    DLK -Delink
+CWDR - Cash Withdrawal through ATM                                                                                                       DHR -Dishonour
+PUR - POS purchase                                                                                                                       REC -Recovery
+TIP/ SCG - Surcharge on usage of debit card at pumps/railway ticket purchase or hotel tips                                               LN -Loan
+RATE.DIFF - Difference in rates on usage of card internationally                                                                         HCY -Home Currency Advance
+CLG - Cheque Clearing Transaction                                                                                                        TFR -Transfer
+VMT-ICON - Visa Money Transfer Via Internet Banking                                                                                      INT -Interest Run
+EDC - Credit transaction through EDC Machine                                                                                             BKNG -Booking
+SETU - Seamless electronic fund transfer through AXIS Bank                                                                               CNCL -Cancellation
+Int.pd - Interest paid to customer ISSUE -Issuance                                                                                       ISSUE -Issuance
+Int.Coll - Interest collected from the customer                                                                                          AMEND -Amendment
+OW RTN-Outward return                                                                                                                    PUR-Purchase
+
+--- PAGE 7 ---
+In case of any clarification regarding this transaction please get in touch with corporate.ib@axisbank.com
+
+                                                                                           ++++ End of Report ++++

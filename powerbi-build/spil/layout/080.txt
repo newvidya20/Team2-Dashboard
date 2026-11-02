@@ -1,0 +1,161 @@
+
+--- PAGE 1 ---
+                                                            Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                             Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                    Branch                MIDCORPORATEJ
+
+    S V ROAD BORIVALI  WEST                                                                                         Customer Id           263166590
+    City                   MUMBAI                                                                                   Account No            696705010000102
+    State                  MAHARASHTRA                                                                              Account Currency      INR
+    Country                INDIA                                                                                    Account Type          Cash Credit Account
+    Zip                    400092                                                                                   MICR Code             400026175
+    Mobile No              919819267453                                                                             IFSC Code             UBIN0568945
+    E-mail                 sudarshanspeciality@gmail.com                                                            CKYC Number           70082478095339
+    Statement Date : 20/08/2026 11:04                                                                   Statement Period From -01/08/2026  To 20/08/2026
+    Records from 1 to 20.              No more records available.
+
+  Date              Remarks             Tran Id-1       UTR Number              Instr. ID        Withdrawals             Deposits              Balance
+17-08-2026    NEFT:SHITAL               T72187366       Sender                                                               1,27,440.00          1,33,853.86
+06:45:44      CHEMICAL                                  No:HDFCH01199
+              INDUSTRIES                                227242
+              HDFCH01199227242
+
+13-08-2026    eTXN/To:6967010100        X20311008       -                                              8,50,000.00                                    6,413.86
+16:28:45      50084
+
+13-08-2026    RTGSO-SUDARSHAN           X20200681       -                                             40,00,000.00                                8,56,413.86
+16:27:04      PHARMA INDU
+              UBINR220260813019
+              26021
+13-08-2026    Charges for PORD          X20200681       -                                                     58.41                              48,56,413.86
+16:27:04      Customer
+              Payment:UBINH26225
+              926021
+12-08-2026    NEFT:SUDARSHAN            W52713186       Sender                                                              48,04,897.00         48,56,472.27
+18:11:10      COLORANTS INDIA                           No:SCBLH22400
+              LIMITED                                   725868
+              SCBLH224007
+12-08-2026    NEFTO-SUDARSHAN           W32203106       -                                                50,000.00                                  51,575.27
+13:22:03      PHARMA INDUSTRIE
+              002913293709
+12-08-2026    Charges for PORD          W32203106       -                                                      5.61                               1,01,575.27
+13:22:03      Customer
+              Payment:UBINJ26224
+12-08-2026    RTGSO-SUDARSHAN           W32104068       -                                              9,00,000.00                                1,01,580.88
+13:20:42      PHARMA INDU
+              UBINR220260812017
+              94999
+12-08-2026    Charges for PORD          W32104068       -                                                     58.41                              10,01,580.88
+13:20:42      Customer
+              Payment:UBINH26224
+              794999
+12-08-2026    RTGSO-SUDARSHAN           W31669309       -                                              5,90,955.45                               10,01,639.29
+13:15:03      PHARMA INDU
+              UBINR220260812017
+              94130
+12-08-2026    Charges for PORD          W31669309       -                                                     58.41                              15,92,594.74
+13:15:03      Customer
+              Payment:UBINH26224
+              794130
+
+
+
+
+
+
+
+                                                                               Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+12-08-2026     RTGS:HEMAL                W31285585       -                                                                     10,00,000.00          15,92,653.15
+13:14:54       VASANTRAI MEHTA
+               PUNBR520260812109
+               98393
+10-08-2026     NEFT:SMFG INDIA           V14841030       Sender                                                                       101.00          5,92,653.15
+20:36:23       CREDIT COMPANY                            No:HDFCH01187
+               LIMITED                                   644000
+               HDFCH011876
+06-08-2026     INWARD RET CHQ            Y63063221       -                                                     590.00                                 5,92,552.15
+09:25:31       No 17029720 CHG
+
+05-08-2026     REJECT:17029720:IN        A935346         -                                                                       6,96,696.00          5,93,142.15
+17:10:30       SUFFICIENT FUNDS
+               IN THE ACCO
+
+05-08-2026     REJECT:17029720:IN        A935346         -                                                6,96,696.00                                -1,03,553.85
+17:10:30       SUFFICIENT FUNDS
+               IN THE ACCO
+
+05-08-2026     NACH/10/3097251404        X88460023       -                                                  58,310.00                                 5,93,142.15
+10:30:28       /HDFC BANK L
+
+04-08-2026     NEFT:LARSEN AND           X34501667       Sender                                                                   57,441.00           6,51,452.15
+16:11:00       TOUBRO LTD.                               No:AXISCN1425
+               AXISCN1425367934                          367934
+03-08-2026     RTGSO-SUDARSHAN           W59764347       -                                               40,00,000.00                                 5,94,011.15
+16:58:23       PHARMA INDU
+               UBINR220260803011
+               10909
+03-08-2026     Charges for PORD          W59764347       -                                                      58.41                                45,94,011.15
+16:58:23       Customer
+               Payment:UBINH26215
+               110909
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 Page No2
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

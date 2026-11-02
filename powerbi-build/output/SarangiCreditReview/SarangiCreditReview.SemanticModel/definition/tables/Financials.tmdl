@@ -1,0 +1,565 @@
+/// Statement values in INR for FY2021-22 to FY2023-24. Uses detailed Balance Sheet and Profit & Loss; source narrative/snapshot inconsistencies do not override statements. Reserves and surplus is only a retained-earnings proxy.
+table Financials
+	lineageTag: 0c396d9b-a18b-495d-98c2-111c446ea605
+
+	/// Sales from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Sales' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Sales]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 1ff02d0d-126e-4fb3-8341-43a65472b59e
+
+	/// Total Income from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Total Income' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Total Income]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 9e7e5d17-f486-479c-a6f3-e5b8d5597f2e
+
+	/// Total Expenses from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Total Expenses' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Total Expenses]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 059e4827-d8d8-4b94-962e-864a2ca0f7e2
+
+	/// Net Profit from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Net Profit' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Net Profit]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 3a34e24d-74d4-44d7-943b-994070d6a873
+
+	/// Profit Before Tax from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Profit Before Tax' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Profit Before Tax]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 90afe711-d7ef-4737-a739-a6f2aacf9c57
+
+	/// Interest from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Interest' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Interest]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: a97cdbfa-28ee-43f6-a1ac-76e6a2259091
+
+	/// Current Tax from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Current Tax' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Current Tax]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 9271c996-a929-4c50-8005-cf1a67f97948
+
+	/// Deferred Tax from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Deferred Tax' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Deferred Tax]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: d70f55f2-5cd6-4085-84b0-6df1d2510d0f
+
+	/// Depreciation and Amortization from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Depreciation and Amortization' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Depreciation and Amortization]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: bb13802f-025a-4568-afb2-973423d005ce
+
+	/// Reported EBITDA from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Reported EBITDA' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Reported EBITDA]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 6a2a934b-bd40-469e-845a-1006ee33c1b2
+
+	/// Other Income from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Other Income' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Other Income]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: e226ab61-9417-4c60-9eef-52b744d68ff0
+
+	/// Purchases from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Purchases' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Purchases]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 1da89256-908d-49fb-9e34-b3a89ebb93f8
+
+	/// Inventory Change from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Inventory Change' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Inventory Change]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 1b2d4d8b-0b7d-4f51-9c1d-6efdb5b1db16
+
+	/// Material Consumed from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Material Consumed' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Material Consumed]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: bb32aa8a-e962-43d5-85fd-162583466c0b
+
+	/// Equity from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Equity' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Equity]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: aae4be22-3efe-4953-aa1a-3450c9b3c723
+
+	/// Long Term Debt from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Long Term Debt' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Long Term Debt]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: ca2351fc-db8c-4572-9014-4cb0e6b619de
+
+	/// Short Term Debt from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Short Term Debt' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Short Term Debt]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 3aba4b77-391f-485b-b0a6-01059d96d5ae
+
+	/// Unsecured Long Term Debt from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Unsecured Long Term Debt' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Unsecured Long Term Debt]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 45430010-5e1f-430b-89d6-08e0430c7988
+
+	/// Unsecured Short Term Debt from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Unsecured Short Term Debt' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Unsecured Short Term Debt]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 1c2f5c66-02bd-4c92-9852-99445b7a51a4
+
+	/// Current Assets from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Current Assets' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Current Assets]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 4efe6ac2-3622-40c2-a11d-621a0b356e03
+
+	/// Current Liabilities from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Current Liabilities' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Current Liabilities]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 47e9c8df-5907-49b1-8753-09ada73478bc
+
+	/// Inventory from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Inventory' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Inventory]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: eba7bfc9-c7af-4f7c-8555-8226c6c5e718
+
+	/// Debtors from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Debtors' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Debtors]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 61580c4d-71be-4307-983a-e79a8332ae83
+
+	/// Creditors from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Creditors' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Creditors]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: e041e370-8491-48c5-85d6-1f5ed30f5a04
+
+	/// Intangible Assets from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Intangible Assets' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Intangible Assets]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 01051de2-2f00-46f5-b7fa-2552bba5838b
+
+	/// Retained Earnings Proxy from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Retained Earnings Proxy' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Retained Earnings Proxy]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: 12a3555c-ef49-4e28-95f0-73e320037792
+
+	/// Non Current Liabilities from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Non Current Liabilities' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Non Current Liabilities]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: ba01cf3e-1005-4c2d-9bfe-0495bf92f9c1
+
+	/// Total Assets from latest fiscal year in filter context; detailed audited statement schedule.
+	measure 'FY Total Assets' = VAR Y = MAX('Financials'[Financial Year]) RETURN CALCULATE(SUM('Financials'[Total Assets]),'Financials'[Financial Year]=Y)
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Financial / Inputs
+		lineageTag: bca481f2-c6d3-4961-b1be-65b270271029
+
+	/// PDF EBIT definition; includes non-operating other income.
+	measure EBIT = [FY Net Profit]+[FY Interest]+[FY Current Tax]+[FY Deferred Tax]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: 3e4f0417-3e67-4199-9f06-b175db32ec88
+
+	/// PDF calls this EBITA but adds depreciation AND amortization; shown as EBITDA. Includes other income.
+	measure 'EBITDA - PDF EBITA' = [EBIT]+[FY Depreciation and Amortization]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: 16b29a7d-fe2e-4e1f-9a2c-1164a80c91d0
+
+	/// EBIT less Other Income; separate from the PDF operating-profit formula which equals EBIT.
+	measure 'Operating EBIT' = [EBIT]-[FY Other Income]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: 67ab33dd-938b-4ce3-beb9-35ee516bb9f8
+
+	/// After-tax income less expenses, reconciled to supplied PAT. Total Expenses excludes tax.
+	measure 'Net Profit Recomputed' = [FY Total Income]-[FY Total Expenses]-[FY Current Tax]-[FY Deferred Tax]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: 769010a9-2326-4cfd-9097-6999eca6310a
+
+	/// Should be zero; detects statement arithmetic discrepancies.
+	measure 'PAT Check' = [Net Profit Recomputed]-[FY Net Profit]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: bbba2bae-2b0e-48c2-9717-2371f32800c2
+
+	/// Interest-bearing borrowings; includes disclosed unsecured debt.
+	measure 'Total Debt' = [FY Long Term Debt]+[FY Short Term Debt]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: a38a1f95-39a3-4e0d-8e10-3e68722cdba1
+
+	/// Included in total debt; do not add twice for standard leverage.
+	measure 'Unsecured Debt' = [FY Unsecured Long Term Debt]+[FY Unsecured Short Term Debt]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: b1c0d85b-3e03-4814-b428-7273c0ed97cc
+
+	/// Equity less disclosed intangible assets.
+	measure 'Tangible Net Worth' = [FY Equity]-[FY Intangible Assets]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: b76f31c6-9865-45e8-a806-84deb464d46d
+
+	/// All current and non-current liabilities.
+	measure 'Outside Liabilities' = [FY Current Liabilities]+[FY Non Current Liabilities]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: ebe4f19b-2e12-4946-8702-44bb3f0acde8
+
+	/// Closing current assets/current liabilities; working capital ratio uses same definition.
+	measure 'Current Ratio' = DIVIDE([FY Current Assets],[FY Current Liabilities])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: 30d99a8f-7027-4bec-837c-c041770a6454
+
+	/// PDF definition equals Current Ratio.
+	measure 'Working Capital Ratio' = [Current Ratio]
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: abc5e3cf-5794-44ca-a855-9b6734afa209
+
+	/// Closing current assets less inventory/current liabilities.
+	measure 'Quick Ratio' = DIVIDE([FY Current Assets]-[FY Inventory],[FY Current Liabilities])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: c8a1be73-41a3-4282-8837-6eddb9ffdc99
+
+	/// Debt already includes unsecured borrowings.
+	measure 'Debt Equity Ratio' = DIVIDE([Total Debt],[FY Equity])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: 054c84d9-c8b9-49ae-a34b-521dad22daec
+
+	/// No additional off-balance unsecured debt supplied; avoids double-counting debt.
+	measure 'Adjusted Debt Equity Ratio' = [Debt Equity Ratio]
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: fdacb99d-fdc5-492d-ac40-700065b47501
+
+	/// Literal PDF formula; may double count disclosed unsecured debt, shown for traceability.
+	measure 'PDF Literal Adjusted Debt Equity' = DIVIDE([Total Debt]+[Unsecured Debt],[FY Equity])
+		formatString: 0.00"x"
+		displayFolder: Financial / Calculations
+		lineageTag: 7fa03898-3a26-443b-b0b4-60b190efa0e4
+
+	/// PAT-based EBIT (including other income)/finance costs. Source ratio uses a different numerator.
+	measure 'Interest Coverage Ratio' = DIVIDE([EBIT],[FY Interest])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: f154b0cd-54be-4563-a8c6-fb95d33e2ca1
+
+	/// Core operating EBIT excluding other income/finance costs; comparable to provider interest coverage.
+	measure 'Operating Interest Coverage' = DIVIDE([Operating EBIT],[FY Interest])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: 4e07920e-6564-4988-88c6-db6d81684c8e
+
+	/// Total outside liabilities/tangible net worth.
+	measure 'TOL TNW Ratio' = DIVIDE([Outside Liabilities],[Tangible Net Worth])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: 7ee7c446-1e23-409d-b954-bfbfbafe6348
+
+	/// PAT/revenue from operations.
+	measure 'Net Profit Margin' = DIVIDE([FY Net Profit],[FY Sales])
+		formatString: 0.00%
+		displayFolder: Financial / Ratios
+		lineageTag: 91e447ea-21c1-4a11-bc49-bdc896d16a85
+
+	/// Total debt/PAT-based EBITDA including other income.
+	measure 'Debt EBITDA Ratio' = DIVIDE([Total Debt],[EBITDA - PDF EBITA])
+		formatString: 0.00"x"
+		displayFolder: Financial / Ratios
+		lineageTag: a9927d9a-eae3-458e-b50b-4cfbefa17041
+
+	/// Total debt/source EBITDA excluding other income.
+	measure 'Debt Reported EBITDA' = DIVIDE([Total Debt],[FY Reported EBITDA])
+		formatString: 0.00"x"
+		displayFolder: Financial / Calculations
+		lineageTag: 9367bd4c-6f6a-4f47-b9d9-0be6fc6759b4
+
+	/// Reserves and surplus/equity; retained earnings cannot be separately identified.
+	measure 'Reserves Equity Proxy' = DIVIDE([FY Retained Earnings Proxy],[FY Equity])
+		formatString: 0.00%
+		displayFolder: Financial / Calculations
+		lineageTag: c2682509-411d-4fc4-bb41-f10442d6ded6
+
+	/// Closing debtors/revenue from operations x365. Credit sales unavailable.
+	measure 'Debtor Days' = DIVIDE([FY Debtors],[FY Sales])*365
+		formatString: 0.0" days"
+		displayFolder: Financial / Ratios
+		lineageTag: d507c079-471a-4d42-97f2-9c7186e8b1cf
+
+	/// Closing creditors/purchases of stock in trade x365. Credit purchases unavailable.
+	measure 'Creditor Days' = DIVIDE([FY Creditors],[FY Purchases])*365
+		formatString: 0.0" days"
+		displayFolder: Financial / Ratios
+		lineageTag: a88f2459-de5e-4190-8ec8-d2ce1b23158f
+
+	/// Materials consumed + purchases + signed inventory change.
+	measure COGS = [FY Material Consumed]+[FY Purchases]+[FY Inventory Change]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: 88940282-2913-459b-bbcf-ca773b57719c
+
+	/// Closing inventories/COGS x365.
+	measure 'Stock Days' = DIVIDE([FY Inventory],[COGS])*365
+		formatString: 0.0" days"
+		displayFolder: Financial / Ratios
+		lineageTag: 9fb28e3c-e22a-4398-a05a-133bcec7447e
+
+	/// Closing current assets less current liabilities.
+	measure 'Working Capital' = [FY Current Assets]-[FY Current Liabilities]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: 070a3529-1a8d-4875-b672-e1cf31540f6c
+
+	/// Difference should equal Other Income; source definitions exposed.
+	measure 'EBITDA Definition Difference' = [EBITDA - PDF EBITA]-[FY Reported EBITDA]
+		formatString: #,0.00
+		displayFolder: Financial / Calculations
+		lineageTag: f50227dd-fe36-4790-b2bf-b9183522365e
+
+	/// Annual principal repayment not supplied.
+	measure DSCR = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: b9350325-ba52-41e5-ae9e-d33f3575d267
+
+	/// No promoter personal financial statement.
+	measure 'Promoter Net Worth' = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: 744ab079-13a3-4c05-87fb-c05d9b32844d
+
+	/// No eligible-stock/debtor ageing or lending margins.
+	measure 'Drawing Power' = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: 1884a3c1-7917-4c97-8fac-f961be355035
+
+	/// No operating cash flow statement.
+	measure 'OCF Interest Ratio' = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: 2b4f6c47-99fd-4ae2-9e24-98f81530c35c
+
+	/// No sanction-limit or utilisation schedule.
+	measure 'CC Utilisation' = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: 4db0ca90-fd24-42ef-9416-2047b7a39ae9
+
+	/// No credit score report supplied.
+	measure 'CIBIL CMR Score' = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: f51047d0-54e9-4973-a15d-854cc9507e39
+
+	/// No GST late-fee amounts supplied.
+	measure 'GST Late Fees' = BLANK()
+		formatString: #,0.00
+		displayFolder: Missing Evidence
+		lineageTag: ad62a8bc-dce9-435c-935b-571c3bb342c4
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: e6e0c33f-0600-45b1-8423-863331c981e3
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	column Sales
+		dataType: double
+		lineageTag: 0defe70c-175f-42b9-8353-c33d173c0431
+		summarizeBy: sum
+		sourceColumn: Sales
+
+	column 'Total Income'
+		dataType: double
+		lineageTag: 82f46a20-8e71-443a-94dd-69eaf7da75df
+		summarizeBy: sum
+		sourceColumn: Total Income
+
+	column 'Total Expenses'
+		dataType: double
+		lineageTag: 1e0cd0af-b467-4ca5-89ed-91b77eed1fda
+		summarizeBy: sum
+		sourceColumn: Total Expenses
+
+	column 'Net Profit'
+		dataType: double
+		lineageTag: a07160e3-734b-4fa6-8690-fc5e560953e0
+		summarizeBy: sum
+		sourceColumn: Net Profit
+
+	column 'Profit Before Tax'
+		dataType: double
+		lineageTag: 95f3c7d1-42a0-4b35-be1d-01d2ef55ec50
+		summarizeBy: sum
+		sourceColumn: Profit Before Tax
+
+	column Interest
+		dataType: double
+		lineageTag: 12643a05-74b0-4c1b-8cc8-885bf3e1034a
+		summarizeBy: sum
+		sourceColumn: Interest
+
+	column 'Current Tax'
+		dataType: double
+		lineageTag: e538db99-2e54-499c-b0b2-5178cbd14a15
+		summarizeBy: sum
+		sourceColumn: Current Tax
+
+	column 'Deferred Tax'
+		dataType: double
+		lineageTag: dc57efb7-423c-4544-8f74-047004f319be
+		summarizeBy: sum
+		sourceColumn: Deferred Tax
+
+	column 'Depreciation and Amortization'
+		dataType: double
+		lineageTag: d9cd42ae-ff46-4230-a88f-57a2df7ff6c8
+		summarizeBy: sum
+		sourceColumn: Depreciation and Amortization
+
+	column 'Reported EBITDA'
+		dataType: double
+		lineageTag: a177678b-b887-408c-b6a0-52f03e2f2f73
+		summarizeBy: sum
+		sourceColumn: Reported EBITDA
+
+	column 'Other Income'
+		dataType: double
+		lineageTag: ef360766-7224-4dbb-a68c-a4ff831be3b5
+		summarizeBy: sum
+		sourceColumn: Other Income
+
+	column Purchases
+		dataType: double
+		lineageTag: 424fd6ad-895c-4a1d-8632-cf25606ea4c5
+		summarizeBy: sum
+		sourceColumn: Purchases
+
+	column 'Inventory Change'
+		dataType: double
+		lineageTag: 656986b6-c698-45a4-8ee4-3f6f1ad17386
+		summarizeBy: sum
+		sourceColumn: Inventory Change
+
+	column 'Material Consumed'
+		dataType: double
+		lineageTag: 0345dc20-9501-408c-8c9c-d253bf34d1b2
+		summarizeBy: sum
+		sourceColumn: Material Consumed
+
+	column Equity
+		dataType: double
+		lineageTag: 93669d01-096d-42cb-bdef-2095de795a76
+		summarizeBy: sum
+		sourceColumn: Equity
+
+	column 'Long Term Debt'
+		dataType: double
+		lineageTag: e2df725e-30dc-4ed7-82ef-aa843895e015
+		summarizeBy: sum
+		sourceColumn: Long Term Debt
+
+	column 'Short Term Debt'
+		dataType: double
+		lineageTag: 9dcfd80d-fb43-41de-9453-55767424ec08
+		summarizeBy: sum
+		sourceColumn: Short Term Debt
+
+	column 'Unsecured Long Term Debt'
+		dataType: double
+		lineageTag: a21cf103-7e15-4b01-9dc9-294f169491b8
+		summarizeBy: sum
+		sourceColumn: Unsecured Long Term Debt
+
+	column 'Unsecured Short Term Debt'
+		dataType: double
+		lineageTag: c6f146de-30e6-4789-b529-3ce5be51d5a9
+		summarizeBy: sum
+		sourceColumn: Unsecured Short Term Debt
+
+	column 'Current Assets'
+		dataType: double
+		lineageTag: def049d5-8ed4-4bc7-b152-4a82ba1a9a2c
+		summarizeBy: sum
+		sourceColumn: Current Assets
+
+	column 'Current Liabilities'
+		dataType: double
+		lineageTag: 386bb8f7-c93f-484d-b6f1-823a3e59b4ba
+		summarizeBy: sum
+		sourceColumn: Current Liabilities
+
+	column Inventory
+		dataType: double
+		lineageTag: 222b4f22-1e81-4121-ac9f-8af201e49992
+		summarizeBy: sum
+		sourceColumn: Inventory
+
+	column Debtors
+		dataType: double
+		lineageTag: d9eb570e-bb14-434d-aa67-f88edd072d7e
+		summarizeBy: sum
+		sourceColumn: Debtors
+
+	column Creditors
+		dataType: double
+		lineageTag: 66875cf2-d621-4726-b89d-dace2a7fe80c
+		summarizeBy: sum
+		sourceColumn: Creditors
+
+	column 'Intangible Assets'
+		dataType: double
+		lineageTag: 96a9f5e5-90ae-4525-a991-5c9f89862da9
+		summarizeBy: sum
+		sourceColumn: Intangible Assets
+
+	column 'Retained Earnings Proxy'
+		dataType: double
+		lineageTag: 41650596-980e-4466-95fb-07285a1d4102
+		summarizeBy: sum
+		sourceColumn: Retained Earnings Proxy
+
+	column 'Non Current Liabilities'
+		dataType: double
+		lineageTag: bd091728-ac6e-419b-bc39-c351265e6ad3
+		summarizeBy: sum
+		sourceColumn: Non Current Liabilities
+
+	column 'Total Assets'
+		dataType: double
+		lineageTag: b1032065-c9d1-4165-b4d9-6d8d78c9049d
+		summarizeBy: sum
+		sourceColumn: Total Assets
+
+	partition Financials = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/21SyY3DMAzsxW8nGHJ41hK4/zYCyonXWOQhmLCoucjXa1OoPBSq267pAJ64FebeNUUb9PYVtXxix+0QYf2phXkCfI9A0fL/yXkTcMgAtJf96Li/vLqPfUnXkc5tr0i3jpHWgpSzrE4pqQEXQFRGn9CZ659nNYeYZeZzZbKYxFNz6B6aVvB4YjfKx1Mk2ap3M6NE+NteenljmENhBL8hBUPrFKriVOctrQ+ce5Q1lijpGUvxMs8xb9tu6WUWOcCWbc3EBGnJculeNTpoY8TDJGXRiBjZp/N0xDQmuFyyg72So1Mt14TCGjr9bHSL+gh7hHqiv+JDpOwaZHYFHbNDV1iTKOzcK01T42L+g5EoapVMR6e5xrUAfqE7wwIrWK2Uqho1x/EGojUpgdQCAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Financial Year","Sales","Total Income","Total Expenses","Net Profit","Profit Before Tax","Interest","Current Tax","Deferred Tax","Depreciation and Amortization","Reported EBITDA","Other Income","Purchases","Inventory Change","Material Consumed","Equity","Long Term Debt","Short Term Debt","Unsecured Long Term Debt","Unsecured Short Term Debt","Current Assets","Current Liabilities","Inventory","Debtors","Creditors","Intangible Assets","Retained Earnings Proxy","Non Current Liabilities","Total Assets"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Financial Year", type text},{"Sales", type nullable number},{"Total Income", type nullable number},{"Total Expenses", type nullable number},{"Net Profit", type nullable number},{"Profit Before Tax", type nullable number},{"Interest", type nullable number},{"Current Tax", type nullable number},{"Deferred Tax", type nullable number},{"Depreciation and Amortization", type nullable number},{"Reported EBITDA", type nullable number},{"Other Income", type nullable number},{"Purchases", type nullable number},{"Inventory Change", type nullable number},{"Material Consumed", type nullable number},{"Equity", type nullable number},{"Long Term Debt", type nullable number},{"Short Term Debt", type nullable number},{"Unsecured Long Term Debt", type nullable number},{"Unsecured Short Term Debt", type nullable number},{"Current Assets", type nullable number},{"Current Liabilities", type nullable number},{"Inventory", type nullable number},{"Debtors", type nullable number},{"Creditors", type nullable number},{"Intangible Assets", type nullable number},{"Retained Earnings Proxy", type nullable number},{"Non Current Liabilities", type nullable number},{"Total Assets", type nullable number}}, "en-US")
+				in Typed
+

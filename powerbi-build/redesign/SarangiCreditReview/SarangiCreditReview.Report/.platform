@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Sarangi Credit Review"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "56fc4b8b-c17c-4ed6-8963-348dd7e44904"
+  }
+}

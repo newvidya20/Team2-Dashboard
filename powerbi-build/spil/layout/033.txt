@@ -1,0 +1,276 @@
+
+--- PAGE 1 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/08/2025 to 31/08/2025 for Account Number 8026481131.
+
+
+                                                                                                                                              INDIAN BANK
+                                                                                                                                         Branch Code :03281
+                                                                                                                             Account Number : 8026481131
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301  3rd Floor  Senate Aura Biplex
+Above Kalyan Jewellers
+S.V. Road  Borivali West
+Mumbai 400092
+
+                Value     Post      Credit Amount           Debit Amount          Closing Balance                    Description
+                 Date     Date
+                 01/08/  01/08/                          1000058.41              -294530444.55          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UBIN/IDIBR52025080146770
+                                                                                                        699/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 02/08/  02/08/  160480                                          -294369964.55          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-01/08/2025 STATE
+
+                                                                                                        BANK OF INDIA
+                                                                                                         0691 CTS-CHQ:740875 - SBOI
+                 02/08/  02/08/                          1000058.41              -295370022.96          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UBIN/IDIBR52025080246784
+                                                                                                        515/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 05/08/  05/08/  1193051                                         -294176971.96          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-04/08/2025 002
+
+                                                                                                         0691 CTS-CHQ:737299 - SBOI
+                 06/08/  06/08/  2000000                                         -292176971.96          NO BOOK DEPOSIT TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UBIN/UBINR2202508060175
+                                                                                                        4669/SUDARSHA/
+                 07/08/  07/08/                          1000058.41              -293177030.37          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UTIB/IDIBR52025080746857
+                                                                                                        669/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 08/08/  08/08/                          1000058.41              -294177088.78          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UBIN/IDIBR52025080846896
+                                                                                                        243/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 09/08/  09/08/                          1000058.41              -295177147.19          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UBIN/IDIBR52025080946898
+                                                                                                        917/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+
+
+
+
+
+
+
+
+
+
+                                                                            Page No:1
+
+--- PAGE 2 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/08/2025 to 31/08/2025 for Account Number 8026481131.
+
+
+                Value     Post      Credit Amount           Debit Amount          Closing Balance                    Description
+                 Date     Date
+                 11/08/  11/08/                          1000058.41              -296177205.6           WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/UTIB/IDIBR52025081146903
+                                                                                                        978/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 12/08/  12/08/  564595                                          -295612610.6           CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-11/08/2025 229
+
+                                                                                                         0691 CTS-CHQ:002366 - IBL
+                 12/08/  12/08/                          1000058.41              -296612669.01          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/ICIC/IDIBR520250812469351
+                                                                                                        51/SUDARSHA/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 13/08/  13/08/  160480                                          -296452189.01          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-12/08/2025 STATE
+
+                                                                                                        BANK OF INDIA
+                                                                                                         0691 CTS-CHQ:740894 - SBOI
+                 13/08/  13/08/                          1000058.41              -297452247.42          WITHDRAWAL TRANSFER
+                 2025    2025
+
+                                                                                                        RTGS/BKID/IDIBR52025081346968
+                                                                                                        507/SACHIN C/.
+                                                                                                         Txn Amt.      1000000.00 Charges.
+                                                                                                        58.41
+                 21/08/  21/08/  577781                                          -296874466.42          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-20/08/2025 002
+
+                                                                                                         0691 CTS-CHQ:830856 - SBOI
+                 25/08/  25/08/  554600                                          -296319866.42          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-22/08/2025 229
+
+                                                                                                         0691 CTS-CHQ:002380 - IBL
+                 26/08/  26/08/  2085403                                         -294234463.42          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-25/08/2025 UNION
+
+                                                                                                        BANK OF INDIA
+                                                                                                         6505 CTS-CHQ:041922 - UBOI
+                 26/08/  26/08/                          2085403                 -296319866.42          OUTWARD CLEARING CHEQUE
+                 2025    2025                                                                           RETURN
+
+                                                                                                         Charges-Funds insufficient
+                 26/08/  26/08/                          590                     -296320456.42          CHQ DISHONOUR
+                 2025    2025
+                 30/08/  30/08/  606949                                          -295713507.42          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-29/08/2025 UNION
+
+                                                                                                        BANK OF INDIA (UBI)
+                                                                                                         2546 CTS-CHQ:015408 - UBOI
+                 30/08/  30/08/  2780963                                         -292932544.42          CHEQUE DEPOSIT
+                 2025    2025                                                                            CLEARING-29/08/2025 U T I BANK
+
+                                                                                                        LTD
+                                                                                                         2546 CTS-CHQ:048504 - ABL
+                 30/08/  30/08/                          2780963                 -295713507.42          OUTWARD CLEARING CHEQUE
+                 2025    2025                                                                           RETURN
+
+                                                                                                         Charges-Amount  Name differs on
+                                                                                                        advice
+
+
+
+
+
+
+                                                                            Page No:2
+
+--- PAGE 3 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/08/2025 to 31/08/2025 for Account Number 8026481131.
+
+
+                   Value     Post        Credit Amount              Debit Amount             Closing Balance                         Description
+                   Date      Date
+                   31/08/   31/08/                               2879012                   -298592519.42              DR INT TRANSACTION
+                    2025    2025
+
+Statement Downloaded by :SUDARSHAN PHARMA INDUSTRIES LIMITED on Sat Sep 13 11:13:17  IST 2025
+
+Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found the a/c
+correct.
+
+END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                      Page No:3

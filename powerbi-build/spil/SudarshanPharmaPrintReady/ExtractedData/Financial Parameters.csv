@@ -1,0 +1,76 @@
+﻿Financial Year,No,Parameter,Formula,Result,Evidence,Interpretation
+2023-24,1,EBIT,PAT + tax + finance costs,₹ 2412.65 lakh,Calculated,"Includes other income; rounding may differ from PBT + interest by INR1,000."
+2023-24,2,EBITDA (PDF: EBITA),PAT + tax + finance costs + D&A,₹ 2535.59 lakh,Calculated,PDF formula adds depreciation and amortization; displayed as EBITDA.
+2023-24,3,Net profit after tax,Income - expenses - exceptional items - tax,₹ 1135.53 lakh,Source PAT,After tax and exceptional items; separate from comprehensive income.
+2023-24,4,Operating profit • PDF,PAT + finance costs + tax,₹ 2412.65 lakh,Definition caveat,PDF definition equals EBIT and includes non-operating other income.
+2023-24,5,Promoter net worth,Personal assets - personal liabilities,Not available,Missing evidence,Corporate net worth certificate is not promoter personal net worth.
+2023-24,6,DSCR,(PAT + D&A + interest) / (principal + interest),Not available,Missing gross repayments,Cash flows disclose net borrowing movements; gross annual principal repayments are not established. EMI schedule is a later snapshot.
+2023-24,7,Current ratio,Current assets / current liabilities,1.48 x,Calculated,Uses reported current liabilities including current borrowings.
+2023-24,8,Quick ratio,(Current assets - inventory) / current liabilities,0.96 x,Calculated,Matches PDF formula; no additional prepaid adjustment.
+2023-24,9,Debt / equity,Borrowings plus lease liabilities / equity,0.96 x,Calculated,Current and noncurrent borrowing balances plus leases.
+2023-24,10,Adjusted debt / equity • literal PDF,(Total debt + unsecured debt) / equity,0.98 x,Double-counting caveat,Literal PDF adds unsecured loans already included in debt; not standard leverage.
+2023-24,11,Interest coverage,EBIT / finance costs,2.67 x,Calculated,"Finance costs include other borrowing, factoring and lease costs."
+2023-24,12,TOL / TNW,(Total assets - equity) / (equity - intangibles),1.56 x,Calculated,All outside liabilities included; net worth certificate uses a different stated formula.
+2023-24,13,Net profit / sales,PAT / operating revenue,2.44%,Calculated,Sales exclude other income.
+2023-24,14,Debt / EBITDA,Total debt / EBITDA,4.22 x,Calculated,Debt includes leases; EBITDA includes other income.
+2023-24,15,Operating cash flow / interest,Source operating cash flow / finance costs,1.07 x,Basis caveat,"FY2024 source CFO includes INR7,509.34 lakh short-term borrowing movements; later Ind AS CFO classifies borrowings as financing."
+2023-24,16,Retained earnings / equity,Closing retained earnings / equity,26.64%,Calculated,"Actual retained earnings, excluding securities premium and share warrants."
+2023-24,17,Debtor collection period,Closing net trade receivables / sales x 365,96.49 days,Closing balance proxy,Credit-sales split and invoice settlements not supplied.
+2023-24,18,Creditor payment period,Closing trade payables / purchases x 365,51.26 days,Closing balance proxy,Includes MSME and other trade payables.
+2023-24,19,Stock holding period,Closing inventory / COGS x 365,72.53 days,Closing balance proxy,COGS = material consumed + stock purchases + signed inventory change.
+2023-24,20,Working capital ratio,Current assets / current liabilities,1.48 x,Calculated,Same as current ratio under supplied PDF definition.
+2023-24,21,Drawing power,Eligible stock + eligible debtors - creditors,Not available,Missing eligibility data,CC sanction limits do not establish eligible stock/debtors or drawing power.
+2023-24,22,Banking trend analysis,"Inflows, outflows, internal transfers and return markers",See Banking,See Banking page,Bank period April 2025-August 2026 with varying account coverage and partial August.
+2023-24,23,Invoice ageing,Invoice due dates and unpaid balances,Not available,Missing invoice detail,Annual debtor totals/loss allowance do not establish invoice-level ageing.
+2023-24,24,CIBIL / CMR analysis,Verified company/promoter bureau report,Not available,Not supplied,No credit bureau report found in supplied ZIP.
+2023-24,25,Evidence-based SWOT,"Statements, cash conversion and source gaps",See review notes,See review notes,"Revenue/PAT growth; rising debt, inventory and receivables; negative FY2025/26 operating cash flow; basis transition requires care."
+2024-25,1,EBIT,PAT + tax + finance costs,₹ 3502.14 lakh,Calculated,"Includes other income; rounding may differ from PBT + interest by INR1,000."
+2024-25,2,EBITDA (PDF: EBITA),PAT + tax + finance costs + D&A,₹ 3772.32 lakh,Calculated,PDF formula adds depreciation and amortization; displayed as EBITDA.
+2024-25,3,Net profit after tax,Income - expenses - exceptional items - tax,₹ 1402.16 lakh,Source PAT,After tax and exceptional items; separate from comprehensive income.
+2024-25,4,Operating profit • PDF,PAT + finance costs + tax,₹ 3502.14 lakh,Definition caveat,PDF definition equals EBIT and includes non-operating other income.
+2024-25,5,Promoter net worth,Personal assets - personal liabilities,Not available,Missing evidence,Corporate net worth certificate is not promoter personal net worth.
+2024-25,6,DSCR,(PAT + D&A + interest) / (principal + interest),Not available,Missing gross repayments,Cash flows disclose net borrowing movements; gross annual principal repayments are not established. EMI schedule is a later snapshot.
+2024-25,7,Current ratio,Current assets / current liabilities,1.26 x,Calculated,Uses reported current liabilities including current borrowings.
+2024-25,8,Quick ratio,(Current assets - inventory) / current liabilities,0.73 x,Calculated,Matches PDF formula; no additional prepaid adjustment.
+2024-25,9,Debt / equity,Borrowings plus lease liabilities / equity,1.35 x,Calculated,Current and noncurrent borrowing balances plus leases.
+2024-25,10,Adjusted debt / equity • literal PDF,(Total debt + unsecured debt) / equity,1.36 x,Double-counting caveat,Literal PDF adds unsecured loans already included in debt; not standard leverage.
+2024-25,11,Interest coverage,EBIT / finance costs,2.16 x,Calculated,"Finance costs include other borrowing, factoring and lease costs."
+2024-25,12,TOL / TNW,(Total assets - equity) / (equity - intangibles),2.09 x,Calculated,All outside liabilities included; net worth certificate uses a different stated formula.
+2024-25,13,Net profit / sales,PAT / operating revenue,2.79%,Calculated,Sales exclude other income.
+2024-25,14,Debt / EBITDA,Total debt / EBITDA,4.68 x,Calculated,Debt includes leases; EBITDA includes other income.
+2024-25,15,Operating cash flow / interest,Source operating cash flow / finance costs,-2.05 x,Calculated,"FY2024 source CFO includes INR7,509.34 lakh short-term borrowing movements; later Ind AS CFO classifies borrowings as financing."
+2024-25,16,Retained earnings / equity,Closing retained earnings / equity,34.44%,Calculated,"Actual retained earnings, excluding securities premium and share warrants."
+2024-25,17,Debtor collection period,Closing net trade receivables / sales x 365,110.47 days,Closing balance proxy,Credit-sales split and invoice settlements not supplied.
+2024-25,18,Creditor payment period,Closing trade payables / purchases x 365,65.86 days,Closing balance proxy,Includes MSME and other trade payables.
+2024-25,19,Stock holding period,Closing inventory / COGS x 365,113.87 days,Closing balance proxy,COGS = material consumed + stock purchases + signed inventory change.
+2024-25,20,Working capital ratio,Current assets / current liabilities,1.26 x,Calculated,Same as current ratio under supplied PDF definition.
+2024-25,21,Drawing power,Eligible stock + eligible debtors - creditors,Not available,Missing eligibility data,CC sanction limits do not establish eligible stock/debtors or drawing power.
+2024-25,22,Banking trend analysis,"Inflows, outflows, internal transfers and return markers",See Banking,See Banking page,Bank period April 2025-August 2026 with varying account coverage and partial August.
+2024-25,23,Invoice ageing,Invoice due dates and unpaid balances,Not available,Missing invoice detail,Annual debtor totals/loss allowance do not establish invoice-level ageing.
+2024-25,24,CIBIL / CMR analysis,Verified company/promoter bureau report,Not available,Not supplied,No credit bureau report found in supplied ZIP.
+2024-25,25,Evidence-based SWOT,"Statements, cash conversion and source gaps",See review notes,See review notes,"Revenue/PAT growth; rising debt, inventory and receivables; negative FY2025/26 operating cash flow; basis transition requires care."
+2025-26,1,EBIT,PAT + tax + finance costs,₹ 5396.55 lakh,Calculated,"Includes other income; rounding may differ from PBT + interest by INR1,000."
+2025-26,2,EBITDA (PDF: EBITA),PAT + tax + finance costs + D&A,₹ 5737.20 lakh,Calculated,PDF formula adds depreciation and amortization; displayed as EBITDA.
+2025-26,3,Net profit after tax,Income - expenses - exceptional items - tax,₹ 2198.16 lakh,Source PAT,After tax and exceptional items; separate from comprehensive income.
+2025-26,4,Operating profit • PDF,PAT + finance costs + tax,₹ 5396.55 lakh,Definition caveat,PDF definition equals EBIT and includes non-operating other income.
+2025-26,5,Promoter net worth,Personal assets - personal liabilities,Not available,Missing evidence,Corporate net worth certificate is not promoter personal net worth.
+2025-26,6,DSCR,(PAT + D&A + interest) / (principal + interest),Not available,Missing gross repayments,Cash flows disclose net borrowing movements; gross annual principal repayments are not established. EMI schedule is a later snapshot.
+2025-26,7,Current ratio,Current assets / current liabilities,1.08 x,Calculated,Uses reported current liabilities including current borrowings.
+2025-26,8,Quick ratio,(Current assets - inventory) / current liabilities,0.58 x,Calculated,Matches PDF formula; no additional prepaid adjustment.
+2025-26,9,Debt / equity,Borrowings plus lease liabilities / equity,1.85 x,Calculated,Current and noncurrent borrowing balances plus leases.
+2025-26,10,Adjusted debt / equity • literal PDF,(Total debt + unsecured debt) / equity,1.90 x,Double-counting caveat,Literal PDF adds unsecured loans already included in debt; not standard leverage.
+2025-26,11,Interest coverage,EBIT / finance costs,2.13 x,Calculated,"Finance costs include other borrowing, factoring and lease costs."
+2025-26,12,TOL / TNW,(Total assets - equity) / (equity - intangibles),3.09 x,Calculated,All outside liabilities included; net worth certificate uses a different stated formula.
+2025-26,13,Net profit / sales,PAT / operating revenue,3.29%,Calculated,Sales exclude other income.
+2025-26,14,Debt / EBITDA,Total debt / EBITDA,4.92 x,Calculated,Debt includes leases; EBITDA includes other income.
+2025-26,15,Operating cash flow / interest,Source operating cash flow / finance costs,-0.11 x,Calculated,"FY2024 source CFO includes INR7,509.34 lakh short-term borrowing movements; later Ind AS CFO classifies borrowings as financing."
+2025-26,16,Retained earnings / equity,Closing retained earnings / equity,43.88%,Calculated,"Actual retained earnings, excluding securities premium and share warrants."
+2025-26,17,Debtor collection period,Closing net trade receivables / sales x 365,108.94 days,Closing balance proxy,Credit-sales split and invoice settlements not supplied.
+2025-26,18,Creditor payment period,Closing trade payables / purchases x 365,81.86 days,Closing balance proxy,Includes MSME and other trade payables.
+2025-26,19,Stock holding period,Closing inventory / COGS x 365,128.21 days,Closing balance proxy,COGS = material consumed + stock purchases + signed inventory change.
+2025-26,20,Working capital ratio,Current assets / current liabilities,1.08 x,Calculated,Same as current ratio under supplied PDF definition.
+2025-26,21,Drawing power,Eligible stock + eligible debtors - creditors,Not available,Missing eligibility data,CC sanction limits do not establish eligible stock/debtors or drawing power.
+2025-26,22,Banking trend analysis,"Inflows, outflows, internal transfers and return markers",See Banking,See Banking page,Bank period April 2025-August 2026 with varying account coverage and partial August.
+2025-26,23,Invoice ageing,Invoice due dates and unpaid balances,Not available,Missing invoice detail,Annual debtor totals/loss allowance do not establish invoice-level ageing.
+2025-26,24,CIBIL / CMR analysis,Verified company/promoter bureau report,Not available,Not supplied,No credit bureau report found in supplied ZIP.
+2025-26,25,Evidence-based SWOT,"Statements, cash conversion and source gaps",See review notes,See review notes,"Revenue/PAT growth; rising debt, inventory and receivables; negative FY2025/26 operating cash flow; basis transition requires care."

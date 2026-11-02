@@ -1,0 +1,55 @@
+/// Checklist coverage, definitions and evidence gaps. Missing data is not substituted with fabricated values.
+table 'Review Coverage'
+	lineageTag: f5140ddd-194a-46f9-b9af-0f1f8282fa63
+
+	/// Missing Requirements
+	measure 'Missing Requirements' = COUNTROWS(FILTER('Review Coverage','Review Coverage'[Status]="Missing source"))
+		formatString: #,0
+		displayFolder: Coverage
+		lineageTag: 27e8f375-9028-4eee-b2cc-bff1e839395f
+
+	/// Requirements Reviewed
+	measure 'Requirements Reviewed' = COUNTROWS('Review Coverage')
+		formatString: #,0
+		displayFolder: Coverage
+		lineageTag: e66106a9-1c08-48aa-97ac-ae627b18b509
+
+	/// Coverage Count
+	measure 'Coverage Count' = COUNTROWS('Review Coverage')
+		formatString: #,0
+		displayFolder: Coverage
+		lineageTag: fd1dc06a-2636-4fc0-90a3-12afc60be15d
+
+	column Area
+		dataType: string
+		lineageTag: 8d6bf445-8959-4145-a2e6-e10b88445bcc
+		summarizeBy: none
+		sourceColumn: Area
+
+	column Requirement
+		dataType: string
+		lineageTag: e620b120-2c6d-428b-8cbf-5ec67b8abc6e
+		summarizeBy: none
+		sourceColumn: Requirement
+
+	column Status
+		dataType: string
+		lineageTag: f50df182-8ce4-4d78-b86e-ad7770dbfd12
+		summarizeBy: none
+		sourceColumn: Status
+
+	column 'Evidence or Gap'
+		dataType: string
+		lineageTag: 1d47814e-e249-4dbb-b224-be550de6aea7
+		summarizeBy: none
+		sourceColumn: Evidence or Gap
+
+	partition 'Review Coverage' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Area","Requirement","Status","Evidence or Gap"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Area", type text},{"Requirement", type text},{"Status", type text},{"Evidence or Gap", type text}}, "en-US")
+				in Typed
+

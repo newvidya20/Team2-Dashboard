@@ -1,0 +1,20 @@
+{
+  "raw_rows": 25558,
+  "deduplicated_rows": 25180,
+  "overlap_rows_removed": 378,
+  "accounts": [
+    "Axis \u2022 1058",
+    "BOI \u2022 0001",
+    "ICICI \u2022 0192",
+    "Indian \u2022 1131",
+    "Kotak \u2022 5487",
+    "Union \u2022 0084",
+    "Union \u2022 0102"
+  ],
+  "date_range": [
+    "2025-04-01",
+    "2026-08-24"
+  ],
+  "confirmed_internal_credit": 1717510968.13,
+  "narration_internal_credit": 3515997316.03
+}

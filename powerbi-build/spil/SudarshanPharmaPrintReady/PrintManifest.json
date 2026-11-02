@@ -1,0 +1,210 @@
+{
+  "pages": 46,
+  "paper": "A4 landscape",
+  "fontSizePt": 9,
+  "transactionPreviewRows": 15,
+  "sections": [
+    {
+      "section": "01 / Review dashboard",
+      "page": 1
+    },
+    {
+      "section": "02 / Three-year financial dashboard",
+      "page": 2
+    },
+    {
+      "section": "02 / Three-year financial trends",
+      "page": 3
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 4
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 5
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 6
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 7
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 8
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 9
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 10
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 11
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 12
+    },
+    {
+      "section": "03 / GST return details - complete",
+      "page": 13
+    },
+    {
+      "section": "04 / Banking and GST monthly bridge - complete",
+      "page": 14
+    },
+    {
+      "section": "04 / Banking and GST monthly bridge - complete",
+      "page": 15
+    },
+    {
+      "section": "05 / Banking account and monthly flows",
+      "page": 16
+    },
+    {
+      "section": "05 / Banking account and monthly flows",
+      "page": 17
+    },
+    {
+      "section": "06 / Banking classification summaries",
+      "page": 18
+    },
+    {
+      "section": "07 / Cash credit utilisation - complete",
+      "page": 19
+    },
+    {
+      "section": "08 / Party receipts and payments - top 15 preview",
+      "page": 20
+    },
+    {
+      "section": "08 / Party receipts and payments - top 15 preview",
+      "page": 21
+    },
+    {
+      "section": "09 / Bank transaction evidence - first 15 rows",
+      "page": 22
+    },
+    {
+      "section": "09 / Bank transaction evidence - first 15 rows",
+      "page": 23
+    },
+    {
+      "section": "10 / Return and penal evidence - first 15 rows",
+      "page": 24
+    },
+    {
+      "section": "10 / Return and penal evidence - first 15 rows",
+      "page": 25
+    },
+    {
+      "section": "11 / FY2023-24 - complete financial statements",
+      "page": 26
+    },
+    {
+      "section": "12 / FY2023-24 - all 25 credit parameters",
+      "page": 27
+    },
+    {
+      "section": "12 / FY2023-24 - all 25 credit parameters",
+      "page": 28
+    },
+    {
+      "section": "12 / FY2023-24 - all 25 credit parameters",
+      "page": 29
+    },
+    {
+      "section": "11 / FY2024-25 - complete financial statements",
+      "page": 30
+    },
+    {
+      "section": "12 / FY2024-25 - all 25 credit parameters",
+      "page": 31
+    },
+    {
+      "section": "12 / FY2024-25 - all 25 credit parameters",
+      "page": 32
+    },
+    {
+      "section": "12 / FY2024-25 - all 25 credit parameters",
+      "page": 33
+    },
+    {
+      "section": "11 / FY2025-26 - complete financial statements",
+      "page": 34
+    },
+    {
+      "section": "12 / FY2025-26 - all 25 credit parameters",
+      "page": 35
+    },
+    {
+      "section": "12 / FY2025-26 - all 25 credit parameters",
+      "page": 36
+    },
+    {
+      "section": "12 / FY2025-26 - all 25 credit parameters",
+      "page": 37
+    },
+    {
+      "section": "13 / Loan obligations - all 32 facilities",
+      "page": 38
+    },
+    {
+      "section": "13 / Loan obligations - all 32 facilities",
+      "page": 39
+    },
+    {
+      "section": "13 / Loan obligations - all 32 facilities",
+      "page": 40
+    },
+    {
+      "section": "14 / Review parameter coverage - complete",
+      "page": 41
+    },
+    {
+      "section": "14 / Review parameter coverage - complete",
+      "page": 42
+    },
+    {
+      "section": "15 / Original review notes and source exceptions",
+      "page": 43
+    },
+    {
+      "section": "15 / Original review notes and source exceptions",
+      "page": 44
+    },
+    {
+      "section": "16 / Evidence, interpretation and source mapping",
+      "page": 45
+    },
+    {
+      "section": "16 / Evidence, interpretation and source mapping",
+      "page": 46
+    }
+  ],
+  "powerBiPacks": [
+    {
+      "project": "SudarshanPharma_Print_01.pbip",
+      "firstPage": 1,
+      "lastPage": 46
+    }
+  ],
+  "completeTables": {
+    "GST Monthly": 74,
+    "Reconciliation": 16,
+    "Financials": 3,
+    "Financial Parameters": 75,
+    "Loan Schedule": 32,
+    "CC Snapshot": 5,
+    "Review Coverage": 15
+  },
+  "interactiveOriginal": "../SudarshanPharmaCreditReview/SudarshanPharmaCreditReview.pbip",
+  "snapshot": true
+}

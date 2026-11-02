@@ -1,0 +1,72 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                               Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                      Branch                LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                           Customer Id           263166590
+    City                    MUMBAI                                                                                    Account No            696701010050084
+    State                   MAHARASHTRA                                                                               Account Currency      INR
+    Country                 INDIA                                                                                     Account Type          Current Account
+    Zip                     400092                                                                                    MICR Code             400026176
+    Mobile No               919819267453                                                                              IFSC Code             UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                             CKYC Number           70082478095339
+    Statement Date : 04/12/2025 12:03                                                                    Statement Period From -01/11/2025  To 30/11/2025
+    Records from 1 to 13.               No more records available.
+
+  Date              Remarks              Tran Id-1      UTR Number               Instr. ID         Withdrawals             Deposits               Balance
+04-11-2025    NACH/10/3387878705         V92899650      -                                                      10.00                                3,53,682.30
+13:46:02      /UC MONTHLYD
+
+04-11-2025    eTXN/By:6967050100         W8043149       -                                                                      5,00,000.00          8,53,682.30
+17:26:45      00102
+
+06-11-2025    MMSD-Charges for           X17992446      -                                                     177.00                                8,53,505.30
+11:46:23      NACH Mandate
+              Processing
+07-11-2025    CLG:CHOLAMANDAL            X91815986      -                             12114356             51,032.00                                8,02,473.30
+14:15:20      AM INVESTMENT
+
+07-11-2025    eTXN/To:6967050100         Y3974762       -                                                3,00,000.00                                5,02,473.30
+17:27:14      00102
+
+10-11-2025    MAND DR- TCP2589-          S87490408      -                                                1,54,472.00                                3,48,001.30
+15:16:42
+
+12-11-2025    SCQR/762947962282/         U31907222      -                                                     600.00                                3,47,401.30
+17:16:03      12-11-2025
+              17:16:02/BWY
+15-11-2025    NACH/10/3468377734         W1352943       -                                                  55,814.00                                2,91,587.30
+10:00:37      /HDFC BANK L
+
+15-11-2025    MAND DR- TCP2589-          W9132286       -                                                  64,201.00                                2,27,386.30
+11:42:25
+
+17-11-2025    IMPSAB/53211612564         X54413512      -                                                                              1.00         2,27,387.30
+16:44:00      5/PENNY
+              VERIFY/9000000000
+20-11-2025    NACH/10/3488962398         S28567671      -                                                1,49,584.00                                  77,803.30
+10:56:37      /HDFC BANK L
+
+20-11-2025    IMPSAB/53241248343         S35634060      -                                                                              1.00           77,804.30
+12:41:30      2/PENNY
+              VERIFY/9000000000
+26-11-2025    MMSD-Charges for           W16327608      -                                                     177.00                                  77,627.30
+12:57:46      NACH Mandate
+              Processing
+
+
+
+
+
+
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

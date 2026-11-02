@@ -1,0 +1,94 @@
+/// Monthly adjusted taxable values from Bifurcation; annual totals and overlapping TTM columns excluded. INR, excludes GST tax amounts.
+table 'GST Monthly'
+	lineageTag: 386b5f17-56da-4cb7-841d-b9f13f396793
+
+	/// GST Revenue
+	measure 'GST Revenue' = SUM('GST Monthly'[Revenue])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: 42a51825-f374-4dba-b947-1431fe18c10e
+
+	/// GST Purchases
+	measure 'GST Purchases' = SUM('GST Monthly'[Purchases and Expenses])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: 034cc12c-5a65-4720-9d46-f9201c866bb5
+
+	/// GST Exports
+	measure 'GST Exports' = SUM('GST Monthly'[Export Revenue])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: 9ab330a9-8a0f-4c86-8bca-f318b2351a47
+
+	/// GST Domestic Revenue
+	measure 'GST Domestic Revenue' = SUM('GST Monthly'[Domestic Revenue])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: d099ba74-48fd-4416-9c89-6ef9ff5a5d89
+
+	/// GST Margin
+	measure 'GST Margin' = [GST Revenue]-[GST Purchases]
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: 3b15bfa9-ca10-4703-86e4-a58d14dc0e9d
+
+	/// Export Share
+	measure 'Export Share' = DIVIDE([GST Exports],[GST Revenue])
+		formatString: 0.0%
+		displayFolder: GST
+		lineageTag: 6c4e6cf7-f49d-4fe0-a7ae-ceaec9e638b4
+
+	/// GST Margin Share
+	measure 'GST Margin Share' = DIVIDE([GST Margin],[GST Revenue])
+		formatString: 0.0%
+		displayFolder: GST
+		lineageTag: 9d64abde-cc4b-41ac-8a84-7954d56a6e9d
+
+	/// GST TTM Revenue
+	measure 'GST TTM Revenue' = CALCULATE([GST Revenue], REMOVEFILTERS('Calendar'), DATESBETWEEN('Calendar'[Month],DATE(2023,10,1),DATE(2024,9,1)))
+		formatString: #,0.00
+		displayFolder: GST
+		lineageTag: b2c67b53-47bf-4ecb-ae0e-c030b9ea2072
+
+	column Month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 2954a1ec-b94b-4fa1-894e-3ca91f859fff
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Revenue
+		dataType: double
+		lineageTag: 2aa72895-2fdb-4cda-9e4b-fdc66aadd6e2
+		summarizeBy: sum
+		sourceColumn: Revenue
+
+	column 'Domestic Revenue'
+		dataType: double
+		lineageTag: 04e905d5-ce5f-4267-a308-9b205866ae8b
+		summarizeBy: sum
+		sourceColumn: Domestic Revenue
+
+	column 'Export Revenue'
+		dataType: double
+		lineageTag: 3dc01f89-321c-4674-84b8-effe19010bc3
+		summarizeBy: sum
+		sourceColumn: Export Revenue
+
+	column 'Purchases and Expenses'
+		dataType: double
+		lineageTag: 0d6d5c7f-0518-4153-81fa-e2d50c0e2790
+		summarizeBy: sum
+		sourceColumn: Purchases and Expenses
+
+	partition 'GST Monthly' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/4VT243DMAzbpd+pQL2lWQ7df42D7facokXOgAFGEhlbon9+bgKRO+oOvh0gnPfjeKX7I82KcwXjUoD5Oi0Xab3jiq13/MMeArdD2CDBIOu14ltokIW5KsRJa4vY9T/8Oh0faROLbqbYRXmtcTUi/TYia7NgpdrXeI7JIrhq1vyhsYsV1k6hm7F672BlGzUbTUYnwoqKN2ONQwKNaCFgNbe+hVa/OzwkKV4io9lTJNDWcJAkxuIvkXmoljLTItsK6xhRY8qRFP6GJys020oofZ1nk5dnuCQ0ipMQ7x/zCYh1wkPpaZ/c/GWXVlGDU5/QZLpVdhulz0vgdOzlpGYtV5DzGWJwEQ0bA9icZS9hrepsUnnDs8dezsZG7pu2DJfwUZzkfUSkQlUH1ix1t9GnlOZgppRNXnZUEzNWIT9UkFGuc6KRkj2CCi1lIz01d1lVDBkwkPghKjKsN3C5jIeBo1KUiwnxdMvj8Qv5fgc7sAQAAA==", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Month","Revenue","Domestic Revenue","Export Revenue","Purchases and Expenses"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Month", type nullable date},{"Revenue", type nullable number},{"Domestic Revenue", type nullable number},{"Export Revenue", type nullable number},{"Purchases and Expenses", type nullable number}}, "en-US")
+				in Typed
+

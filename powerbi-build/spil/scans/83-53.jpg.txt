@@ -1,0 +1,32 @@
+I. The Company has disclosed the impact of pending litigations on its financial position in its Standalone financial
+statements. -Refer Note 28 to the financial statements
+2. The Company did not have any long-term contracts including derivative contracts for which there were any
+material foreseeable losses.
+3. There were no amounts which were required to be transferred to the Investor Education and Protection Fund
+by the Company during the year ended March 31, 2025.
+h) With respect to the matter to be included in the Auditors' Report under Section 197(16) of the Act:
+In our opinion and according to the information and explanations given to us, the remuneration paid by the
+Company to its directors during the current year is in accordance with the provisions of Section 197 of the Act.
+The remuneration paid to any director is not in excess of the limit laid down under Section 197 of the Act. The
+Ministry of Corporate Affairs has not prescribed other details under Section 197(16) which are required to be
+commented upon by us.
+i) Based on examination which included test checks, the Company in respect of financial year commencing on 1
+April 2024, has used an accounting software for maintaining its books of account which has a feature of recording
+audit trail (edit log) facility at the application level of the accounting software and the same has been operated
+throughout the year for all relevant transactions recorded in the software. The Audit trail feature (edit log) at the
+database level for the direct changes was enabled from 7 June 2024 with an access management tool. Further,
+during our audit we did not come across any instance of such audit trail features being tampered with where such
+feature was enabled. Furthermore, the audit trail has been preserved by the Company as per the statutory
+requirements for record retention at application level since commencement of audit trail requirement from 1 April
+2023 and at the database level from 7 June 2024 onwards.
+FOR NGST & ASSOCIATES
+Place: Mumbai
+Date: 24th April 2025
+*SOO/
+MUMBAI
+z
+Chartered Accountants
+Firm Reg. No 135159W
+Twinkal P Jain (Partner)
+M. No. 156938
+UDIN - 25156938BMNUMM2701

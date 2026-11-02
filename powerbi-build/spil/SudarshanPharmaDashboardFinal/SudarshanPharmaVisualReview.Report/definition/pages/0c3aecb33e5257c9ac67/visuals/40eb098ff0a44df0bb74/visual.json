@@ -1,0 +1,1322 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "40eb098ff0a44df0bb74",
+  "position": {
+    "x": 32,
+    "y": 238,
+    "width": 1376,
+    "height": 880,
+    "z": 9,
+    "tabOrder": 9
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Transaction evidence | INR | Source ID resolves to SourceInventory.json'"
+                }
+              }
+            },
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "12D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#243B50'"
+                    }
+                  }
+                }
+              }
+            },
+            "bold": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "fontFamily": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Segoe UI'"
+                }
+              }
+            },
+            "titleWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#E0E7EF'"
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "5D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "general": [
+        {
+          "properties": {
+            "altText": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Transaction evidence | INR | Source ID resolves to SourceInventory.json'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "objects": {
+      "grid": [
+        {
+          "properties": {
+            "gridVertical": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            },
+            "gridHorizontal": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "rowPadding": {
+              "expr": {
+                "Literal": {
+                  "Value": "9D"
+                }
+              }
+            },
+            "outlineColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#E0E7EF'"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnHeaders": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11D"
+                }
+              }
+            },
+            "fontColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#243B50'"
+                    }
+                  }
+                }
+              }
+            },
+            "backColor": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#EDF2F7'"
+                    }
+                  }
+                }
+              }
+            },
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "autoSizeColumnWidth": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "values": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "11D"
+                }
+              }
+            },
+            "fontColorPrimary": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#243B50'"
+                    }
+                  }
+                }
+              }
+            },
+            "backColorPrimary": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "backColorSecondary": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#F8FAFC'"
+                    }
+                  }
+                }
+              }
+            },
+            "wordWrap": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "total": [
+        {
+          "properties": {
+            "totals": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "columnWidth": [
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Date"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "119.80722891566265D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Bank"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "174.26506024096386D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Party"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "326.7469879518072D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Debit"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "152.48192771084337D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Credit"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "152.48192771084337D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Internal Match"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "283.1807228915663D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Source ID"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "87.13253012048193D"
+                }
+              }
+            }
+          }
+        },
+        {
+          "selector": {
+            "metadata": "Bank Transactions.Page"
+          },
+          "properties": {
+            "value": {
+              "expr": {
+                "Literal": {
+                  "Value": "59.903614457831324D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Date"
+                }
+              },
+              "queryRef": "Bank Transactions.Date",
+              "nativeQueryRef": "Date"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Bank"
+                }
+              },
+              "queryRef": "Bank Transactions.Bank",
+              "nativeQueryRef": "Bank"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Party"
+                }
+              },
+              "queryRef": "Bank Transactions.Party",
+              "nativeQueryRef": "Party"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Debit"
+                }
+              },
+              "queryRef": "Bank Transactions.Debit",
+              "nativeQueryRef": "Debit"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Credit"
+                }
+              },
+              "queryRef": "Bank Transactions.Credit",
+              "nativeQueryRef": "Credit"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Internal Match"
+                }
+              },
+              "queryRef": "Bank Transactions.Internal Match",
+              "nativeQueryRef": "Internal Match"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Source ID"
+                }
+              },
+              "queryRef": "Bank Transactions.Source ID",
+              "nativeQueryRef": "Source ID"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Bank Transactions"
+                    }
+                  },
+                  "Property": "Page"
+                }
+              },
+              "queryRef": "Bank Transactions.Page",
+              "nativeQueryRef": "Page"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "Bank Transactions"
+                  }
+                },
+                "Property": "Date"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": false
+      }
+    }
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "acdd8378a401494ea013",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "Bank Transactions"
+              }
+            },
+            "Property": "Date"
+          }
+        },
+        "type": "Categorical",
+        "filter": {
+          "Version": 2,
+          "From": [
+            {
+              "Name": "s",
+              "Entity": "Bank Transactions",
+              "Type": 0
+            }
+          ],
+          "Where": [
+            {
+              "Condition": {
+                "In": {
+                  "Expressions": [
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Date"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Bank"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Party"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Debit"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Credit"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Internal Match"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Source ID"
+                      }
+                    },
+                    {
+                      "Column": {
+                        "Expression": {
+                          "SourceRef": {
+                            "Source": "s"
+                          }
+                        },
+                        "Property": "Page"
+                      }
+                    }
+                  ],
+                  "Values": [
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'KKBKR22025040116502541 AS ON 01/04/2025 INR -198,234,706.63 AS ON 31/01/2026 INR -212,315,737.16 YOU MAY CALL OUR 24-HOUR CUSTOMER CONTACT CENTRE AT OUR NUMBER 1860 266 2666'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "466100.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "73D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'KKBKR22025040116502543'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "1127490.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "73D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'KKBKR22025040116502542'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "3916532.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "73D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'CHEM - KKBKR2202504011650254'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "531000.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'IFT-PRAVIDH TRADERS-FCM-250401FYXIH8'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "1453706.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'IFT-GREEN ARC ADVISORYAND FI-FCM-250401FYXIH5'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "209250.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'CMS0912596958479'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "23320.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'CMS0912596958478'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "100606.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'CMS0912596972150'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "29060.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'CMS0912596972149'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "3305.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'CMS0912596972148'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72000.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'IFT-CARGOSITEVENTURES PVT LT-FCM- 250401FYZ5RY'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "287538.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'KKBKR22025040116496861'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "8869186.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'IFT-POOJA TOURS ANDTRAVELS-FCM- 250401FYZ5RX'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "5334.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ],
+                    [
+                      {
+                        "Literal": {
+                          "Value": "'2025-04-01'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'Kotak • 5487'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'KKBKR22025040116496862'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "1454211.0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "0D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "'No own-account marker'"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "48D"
+                        }
+                      },
+                      {
+                        "Literal": {
+                          "Value": "72D"
+                        }
+                      }
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

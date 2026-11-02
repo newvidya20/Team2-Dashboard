@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Sarangi Credit Review"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "21237ad3-54a7-47ef-96b6-8c6b5984b26a"
+  }
+}

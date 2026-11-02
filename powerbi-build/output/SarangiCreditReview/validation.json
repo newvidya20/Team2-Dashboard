@@ -1,0 +1,29 @@
+{
+  "bank_rows": 882,
+  "gross_credits": 399320401.56,
+  "gross_debits": 598733971.26,
+  "net_credits": 350006898.64,
+  "gst_revenue": 537653233.5600001,
+  "gst_purchases": 461165744.54999995,
+  "table_counts": {
+    "Bank Transactions": 882,
+    "Bank Monthly": 9,
+    "GST Monthly": 26,
+    "GST Parties": 298,
+    "GST State": 468,
+    "GST Filings": 112,
+    "Financials": 3,
+    "Source Ratios": 70,
+    "Source Flags": 8,
+    "Internal Transfers": 19,
+    "Party Reconciliation": 304,
+    "Review Coverage": 31,
+    "Calendar": 33
+  },
+  "reconciliation_status": {
+    "GST only / unmatched bank name": 133,
+    "Bank only / unidentified": 6,
+    "Bank only / unmatched GST name": 138,
+    "Exact normalized name": 27
+  }
+}

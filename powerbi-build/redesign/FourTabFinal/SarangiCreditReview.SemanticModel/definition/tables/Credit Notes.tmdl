@@ -1,0 +1,23 @@
+/// Evidence-based SWOT presentation rows. Selected-year metrics and explicitly historical source flags.
+table 'Credit Notes'
+	lineageTag: 693be5f3-2c28-41ae-a9ff-5f2ef3694b65
+
+	/// Credit Interpretation
+	measure 'Credit Interpretation' = SWITCH(SELECTEDVALUE('Credit Notes'[Topic]),"Strength","Reported PAT ₹" & FORMAT([FY Net Profit]/100000,"0.00") & " lakh. " & IF(ISBLANK([Finance Sales Growth]),"No earlier comparable revenue supplied.","Revenue changed " & FORMAT([Finance Sales Growth],"+0.0%;-0.0%") & " versus prior FY."),"Weakness","Assess PAT margin " & FORMAT([Net Profit Margin],"0.00%") & "; debt/equity " & FORMAT([Debt Equity Ratio],"0.00") & "x; core interest cover " & FORMAT([Operating Interest Coverage],"0.00") & "x.","Opportunity","Obtain receivable ageing, cash-flow and principal-repayment schedules to verify collection and debt-servicing capacity.","Threat","Historical 2024 provider litigation and GST-delay flags require current verification. No bureau score is supplied.")
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: 06d5aa89-b717-460b-a90f-fa61d07194b4
+
+	column Order
+		isNameInferred
+		sourceColumn: [Order]
+
+	column Topic
+		isNameInferred
+		sourceColumn: [Topic]
+		sortByColumn: Order
+
+	partition 'Credit Notes' = calculated
+		mode: import
+		source = DATATABLE("Order", INTEGER, "Topic", STRING, {{1,"Strength"},{2,"Weakness"},{3,"Opportunity"},{4,"Threat"}})
+

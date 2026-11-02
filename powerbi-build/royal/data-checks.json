@@ -1,0 +1,18 @@
+{
+  "bank_transactions": 6274,
+  "bank_balance_errors": 0,
+  "gst_returns": 14,
+  "common_months": 11,
+  "financial_years": [
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "financial_parameters": 75,
+  "loan_schedule_emi": 5687124.0,
+  "balance_sheet_residuals": {
+    "2023-24": 0.0,
+    "2024-25": -0.05,
+    "2025-26": 0
+  }
+}

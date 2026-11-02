@@ -1,0 +1,297 @@
+
+--- PAGE 1 ---
+   Account Statement Report
+
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+
+Joint Holder :-  301,3RD FLOOR, AURA BIPLEX~ABOVE KALYAN JEWELLERS~S. V. ROAD, BORIVALI (WEST)~MUMBAI~MAHARASHTRA~400092
+
+Scheme : OPEN CASH CREDIT-HYP     currency : INR
+
+Customer No : 863275844     IFSC Code : UTIB0000018     MICR Code : 400211003     CKYC Number: **********5339
+
+
+Statement of Axis Bank Account No : 921030007131058 for the period ( From : 01/08/2026 To : 22/08/2026 )
+
+
+
+ Opening Balance: INR -,11,69,86,870.28
+
+
+
+ S.NO      Transaction        Value Date         Particulars                                  Amount(INR)        Debit/Credit       Balance(INR)                    Cheque             Branch Name(SOL)
+           Date               (dd/mm/yyyy)                                                                                                                          Number
+           (dd/mm/yyyy)
+
+ 1         01/08/2026         01/08/2026         Clg/MINERVA BIOGENIX PVT LTD/H D F               10,17,800.00                 DR               -,11,80,04,670.28             109620         BORIVALI(W), MUMBAI
+                                                 C BANK L                                                                                                                                                [MH] (2568)
+
+                                                 NEFT/IDIBH21352435734/ARORA                       2,93,112.00                 CR               -,11,77,11,558.28                            BORIVALI(W), MUMBAI
+ 2         01/08/2026         01/08/2026         AROMATICS PVT  LTD/INDIAN                                                                                                                                [MH] (248)
+                                                 BANK///URGENT  //..
+
+ 3         03/08/2026         03/08/2026         Clg/MINERVA BIOGENIX PVT LTD/H D F               10,17,800.00                 DR               -,11,87,29,358.28             109619         BORIVALI(W), MUMBAI
+                                                 C BANK L                                                                                                                                                [MH] (2568)
+
+                                                 INB/RTGS/UTIBR62026080394383692/S                10,00,000.00                 DR               -,11,97,29,358.28                            BORIVALI(W), MUMBAI
+ 4         03/08/2026         03/08/2026         UDARSHAN PHARM/ICICI BANK                                                                                                                                [MH] (018)
+                                                 LIMITED//////
+
+                                                 NEFT/IN42621556888760/SUDARSHAN                  20,00,000.00                 CR               -,11,77,29,358.28                            BORIVALI(W), MUMBAI
+ 5         03/08/2026         03/08/2026         PHARMA INDUSTRIES/ICICI BANK                                                                                                                             [MH] (248)
+                                                 LIMITED/
+
+ 6         04/08/2026         04/08/2026         Clg/JAYESH TRADING CO/UNION BANK                  2,95,661.00                 DR               -,11,80,25,019.28             104317         BORIVALI(W), MUMBAI
+                                                 OF                                                                                                                                                      [MH] (2568)
+
+ 7         04/08/2026         04/08/2026         Clg/RENUKA EXIM/BANK OF BARODA                      83,349.00                 DR               -,11,81,08,368.28             104206         BORIVALI(W), MUMBAI
+                                                                                                                                                                                                         [MH] (2568)
+
+                                                 RTGS/ICICR42026080400514194/SUDA                 50,00,000.00                 CR               -,11,31,08,368.28                            BORIVALI(W), MUMBAI
+ 8         04/08/2026         04/08/2026         RSHAN PHARMA INDUS/ICICI BANK                                                                                                                            [MH] (248)
+                                                 LIMITED//URGENT/
+
+                                                 RTGS/ICICR42026080400556193/SUDA                 45,00,000.00                 CR               -,10,86,08,368.28                            BORIVALI(W), MUMBAI
+ 9         04/08/2026         04/08/2026         RSHAN PHARMA INDUS/ICICI BANK                                                                                                                            [MH] (248)
+                                                 LIMITED//URGENT/
+
+ 10        04/08/2026         04/08/2026         0018/IBC3039                                     94,08,243.00                 DR               -,11,80,16,611.28                            BORIVALI(W), MUMBAI
+                                                                                                                                                                                                          [MH] (018)
+
+                                                 NEFT/IDFB6217M7533540/FIXDOT                           610.66                 CR               -,11,80,16,000.62                            BORIVALI(W), MUMBAI
+ 11        05/08/2026         05/08/2026         FINTECH PRIVATE LIMIT/IDFC FIRST                                                                                                                         [MH] (248)
+                                                 BANK LTD/
+
+ 12        05/08/2026         05/08/2026         Clg/OC SPECIALITIES CHEMICALS/H D                 1,29,800.00                 DR               -,11,81,45,800.62             109601         BORIVALI(W), MUMBAI
+                                                 F C BANK L                                                                                                                                              [MH] (2568)
+
+                                                 NEFT/IN42621758975477/FLEMING                          826.00                 CR               -,11,81,44,974.62                            BORIVALI(W), MUMBAI
+ 13        05/08/2026         05/08/2026         LABORATORIES LIMITED/ICICI BANK                                                                                                                          [MH] (248)
+                                                 LIMITED/
+
+ 14        05/08/2026         05/08/2026         921030007131058:Int.Coll:06/07/2026 to            9,32,420.00                 DR               -,11,90,77,394.62                            BORIVALI(W), MUMBAI
+                                                 05/08/2026                                                                                                                                               [MH] (018)
+
+ 15        06/08/2026         06/08/2026         Clg/CLEAN SCIENCE AND                             4,77,664.00                 DR               -,11,95,55,058.62             109624         BORIVALI(W), MUMBAI
+                                                 TECHNO/KOTAK MAHINDRA                                                                                                                                   [MH] (2568)
+
+                                                 RTGS/ICICR42026080600546974/SUDA                 45,00,000.00                 CR               -,11,50,55,058.62                            BORIVALI(W), MUMBAI
+ 16        06/08/2026         06/08/2026         RSHAN PHARMA INDUS/ICICI BANK                                                                                                                            [MH] (248)
+                                                 LIMITED//URGENT/
+
+ 17        06/08/2026         06/08/2026         0018/IBC3040                                     44,86,236.00                 DR               -,11,95,41,294.62                            BORIVALI(W), MUMBAI
+                                                                                                                                                                                                          [MH] (018)
+
+ 18        06/08/2026         06/08/2026         INB/IFT/METLOK PRIVATE                              68,195.00                 CR               -,11,94,73,099.62                            BORIVALI(W), MUMBAI
+                                                 LIMITED/TPARTY TRANSFER                                                                                                                                  [MH] (048)
+
+ 19        06/08/2026         06/08/2026         BRN/ILC/0018LCO/0002072:COMM/ISS                    42,488.00                 DR               -,11,95,15,587.62                            BORIVALI(W), MUMBAI
+                                                                                                                                                                                                          [MH] (018)
+
+ 20        06/08/2026         06/08/2026         BRN/ILC/0018LCO/0002072:COMM/ISS                     7,647.84                 DR               -,11,95,23,235.46                            BORIVALI(W), MUMBAI
+                                                                                                                                                                                                          [MH] (018)
+
+ 21        06/08/2026         06/08/2026         BRN/ILC/0018LCO/0002072:COMM/ISS                     1,000.00                 DR               -,11,95,24,235.46                            BORIVALI(W), MUMBAI
+                                                                                                                                                                                                          [MH] (018)
+
+ 22        06/08/2026         06/08/2026         BRN/ILC/0018LCO/0002072:COMM/ISS                       180.00                 DR               -,11,95,24,415.46                            BORIVALI(W), MUMBAI
+                                                                                                                                                                                                          [MH] (018)
+
+ 23        07/08/2026         07/08/2026         BHARATKUMAR AND/KOTAK                             1,55,194.00                 DR               -,11,96,79,609.46             109604         BORIVALI(W), MUMBAI
+                                                 MAHINDRA                                                                                                                                                [MH] (2568)
+
+ 24        07/08/2026         07/08/2026         BATUL MUSTAFA M/HDFC BANK LTD.                      79,380.00                 DR               -,11,97,58,989.46             104176         BORIVALI(W), MUMBAI
+                                                                                                                                                                                                         [MH] (2568)
+
+ 25        07/08/2026         07/08/2026         NISHANT ROY/HDFC BANK LTD.                        1,98,560.00                 DR               -,11,99,57,549.46             109448         BORIVALI(W), MUMBAI
+                                                                                                                                                                                                         [MH] (2568)
+
+--- PAGE 2 ---
+S.NO      Transaction         Value Date          Particulars                                    Amount(INR)         Debit/Credit        Balance(INR)                     Cheque              Branch Name(SOL)
+          Date                (dd/mm/yyyy)                                                                                                                                Number
+          (dd/mm/yyyy)
+
+26        10/08/2026          10/08/2026          Clg/KAMLESH ENTERPRISE/IDFC                           30,833.00                  DR                -,11,99,88,382.46              109612          BORIVALI(W), MUMBAI
+                                                  BANK LIMI                                                                                                                                                      [MH] (2568)
+
+27        10/08/2026          10/08/2026          Clg/GOLDENFINECHEMICALS/MAHARA                      1,09,622.00                  DR                -,12,00,98,004.46              109692          BORIVALI(W), MUMBAI
+                                                  SHTRA ST                                                                                                                                                       [MH] (2568)
+
+28        10/08/2026          10/08/2026          TRF/1702/KALPANA AGENCIES                             26,432.00                  DR                -,12,01,24,436.46              109613          BORIVALI(W), MUMBAI
+                                                  PRI/TRF                                                                                                                                                        [MH] (1702)
+
+29        10/08/2026          10/08/2026          Clg/SHREE ANANT LABDHI/THE                          4,30,700.00                  DR                -,12,05,55,136.46              104309          BORIVALI(W), MUMBAI
+                                                  SARASWAT C                                                                                                                                                     [MH] (2568)
+
+30        10/08/2026          10/08/2026          Clg/DAXSH CHEM IMPEX                                1,37,659.00                  DR                -,12,06,92,795.46              109609          BORIVALI(W), MUMBAI
+                                                  PRIVATE/AHMEDABAD MERC                                                                                                                                         [MH] (2568)
+
+31        10/08/2026          10/08/2026          GST @18% on NeSL Chrgs                                     19.62                 DR                -,12,06,92,815.08                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+32        10/08/2026          10/08/2026          NeSL Chrgs                                               109.00                  DR                -,12,06,92,924.08                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+33        10/08/2026          10/08/2026          BRN/LC/0018LCI/00000482:LC ADV                         1,500.00                  DR                -,12,06,94,424.08                              BORIVALI(W), MUMBAI
+                                                  CHRGS                                                                                                                                                           [MH] (018)
+
+34        10/08/2026          10/08/2026          BRN/LC/0018LCI/00000482:POSTAGE                          500.00                  DR                -,12,06,94,924.08                              BORIVALI(W), MUMBAI
+                                                  CHARGES// ADV                                                                                                                                                   [MH] (018)
+
+35        10/08/2026          10/08/2026          BRN/LC/0018LCI/00000482:GST// ADV                        270.00                  DR                -,12,06,95,194.08                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+36        10/08/2026          10/08/2026          BRN/LC/0018LCI/00000482:POSTAGE                            90.00                 DR                -,12,06,95,284.08                              BORIVALI(W), MUMBAI
+                                                  CHARGES// ADV                                                                                                                                                   [MH] (018)
+
+                                                  SAK/CASH                                            1,50,000.00                  DR                -,12,08,45,284.08              109456          BORIVALI(W), MUMBAI
+37        10/08/2026          10/08/2026          WDL/SAK489950559/018/BORIVALI(/SE                                                                                                                               [MH] (018)
+                                                  LF
+
+                                                  RTGS/ICICR42026081000567081/SUDA                    6,00,000.00                  CR                -,12,02,45,284.08                              BORIVALI(W), MUMBAI
+38        10/08/2026          10/08/2026          RSHAN PHARMA INDUS/ICICI BANK                                                                                                                                   [MH] (248)
+                                                  LIMITED//URGENT/
+
+                                                  SAK/CASH                                            1,00,000.00                  DR                -,12,03,45,284.08              109458          BORIVALI(W), MUMBAI
+39        10/08/2026          10/08/2026          WDL/SAK489953907/018/BORIVALI(/SE                                                                                                                               [MH] (018)
+                                                  LF
+
+                                                  SAK/CASH                                            1,50,000.00                  DR                -,12,04,95,284.08              109454          BORIVALI(W), MUMBAI
+40        10/08/2026          10/08/2026          WDL/SAK489953965/018/BORIVALI(/SE                                                                                                                               [MH] (018)
+                                                  LF
+
+                                                  SAK/CASH                                            1,50,000.00                  DR                -,12,06,45,284.08              109457          BORIVALI(W), MUMBAI
+41        10/08/2026          10/08/2026          WDL/SAK489954005/018/BORIVALI(/SE                                                                                                                               [MH] (018)
+                                                  LF
+
+                                                  NEFT/SBIN226222317401/Responsive                       9,735.00                  CR                -,12,06,35,549.08                              BORIVALI(W), MUMBAI
+42        10/08/2026          10/08/2026          Industries limite/STATE BANK OF                                                                                                                                 [MH] (248)
+                                                  INDIA//ATTN//INB//RESPONSIVE INDUS
+
+43        10/08/2026          10/08/2026          BRN/ILC/0018LCO/0002079:COMM/ISS                      18,260.00                  DR                -,12,06,53,809.08                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+44        10/08/2026          10/08/2026          BRN/ILC/0018LCO/0002079:COMM/ISS                       1,000.00                  DR                -,12,06,54,809.08                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+45        10/08/2026          10/08/2026          BRN/ILC/0018LCO/0002079:COMM/ISS                       3,286.80                  DR                -,12,06,58,095.88                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+46        10/08/2026          10/08/2026          BRN/ILC/0018LCO/0002079:COMM/ISS                         180.00                  DR                -,12,06,58,275.88                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+47        11/08/2026          11/08/2026          Clg/ARIL PHARMACEUTICALS/H D F C                      69,620.00                  DR                -,12,07,27,895.88              104350          BORIVALI(W), MUMBAI
+                                                  BANK L                                                                                                                                                         [MH] (2568)
+
+                                                  INB/RTGS/UTIBR62026081100426326/S                   2,10,000.00                  DR                -,12,09,37,895.88                              BORIVALI(W), MUMBAI
+48        11/08/2026          11/08/2026          UDARSHAN PHARM/ICICI BANK                                                                                                                                       [MH] (018)
+                                                  LIMITED//////
+
+49        13/08/2026          13/08/2026          0018/IBC3326                                             150.00                  DR                -,12,09,38,045.88                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+                                                  NEFT/FBPT262254464783/ATUL                          4,95,600.00                  CR                -,12,04,42,445.88                              BORIVALI(W), MUMBAI
+50        13/08/2026          13/08/2026          BIOSCIENCE LIMITED/FEDERAL                                                                                                                                      [MH] (248)
+                                                  BANK//FAST///Not eligible for NRE
+
+51        13/08/2026          13/08/2026          0018/IBC3326                                             150.00                  DR                -,12,04,42,595.88                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+52        14/08/2026          14/08/2026          0018/IBC3328                                             150.00                  DR                -,12,04,42,745.88                              BORIVALI(W), MUMBAI
+                                                                                                                                                                                                                  [MH] (018)
+
+53        14/08/2026          14/08/2026          BRN/REF NO 0018/BE726860 INR                        2,18,130.42                  DR                -,12,06,60,876.30                              BORIVALI(W), MUMBAI
+                                                  10183329/PUR                                                                                                                                                    [MH] (018)
+
+54        15/08/2026          15/08/2026          ACH/DR/YES BANK RETAIL                              1,75,936.00                  DR                -,12,08,36,812.30                              BORIVALI(W), MUMBAI
+                                                  ASSE/000PEN000102254884262                                                                                                                                      [MH] (018)
+
+55        17/08/2026          17/08/2026          ECSIRFYNACH DEBIT RET CHG/YES                            885.00                  DR                -,12,08,37,697.30                              BORIVALI(W), MUMBAI
+                                                  BANK RETAIL ASSE                                                                                                                                               [MH] (2567)
+
+56        18/08/2026          18/08/2026          ACH/DR/YES BANK RETAIL                                   159.00                  DR                -,12,08,37,856.30                              BORIVALI(W), MUMBAI
+                                                  ASSE/0PEN000102254901_1262                                                                                                                                      [MH] (018)
+
+57        19/08/2026          19/08/2026          ECSIRFYNACH DEBIT RET CHG/YES                            885.00                  DR                -,12,08,38,741.30                              BORIVALI(W), MUMBAI
+                                                  BANK RETAIL ASSE                                                                                                                                               [MH] (2567)
+
+58                                                TRANSACTION TOTAL DR/CR                         2,13,19,949.68/                                                                                   BORIVALI(W), MUMBAI
+                                                                                                   1,74,68,078.66                                                                                                       [MH]
+
+
+
+Closing Balance: INR -,12,08,38,741.30
+
+--- PAGE 3 ---
+Cheque Return Details
+
+
+
+ Transaction Type                      Cheque No                              Cheque Amount                          Return Date (dd/mm/yyyy)               Reason for Return
+
+
+
+Unless the constituent notifies the bank immediately of any discrepancy found by him/her in this statement of Account, it will be taken that he/she has found the
+account correct.
+The closing balance as shown/displayed includes not only the credit balance and / or overdraft limit, but also funds which are under clearing. It excludes the
+amount marked as lien, if any. Hence the closing balance displayed may not be the effective available balance. For any further clarifications, please contact the
+Branch.
+We would like to reiterate that, as a policy, Axis Bank does not ask you to part with/disclose/revalidate of your iConnect passord,login id and debit card number
+through emails OR phone call Further,we would like to reiterate that Axis Bank shall not be liable for any losses arising from you sharing/disclosing of your login
+id, password and debit card number to anyone.
+"Please co-operate by forwarding all such suspicious/spam emails, if received by you, to customer.service@axisbank.com\r\n"
+With effect from 1st August 2016, the replacement charges for Debit card and ATM card applicable on Current accounts have been revised. To
+know more about the applicable charges,please visit www.axisbank.com
+Deposit Insurance and Credit Guarantee Corporation (DICGC) insurance cover is applicable in all Banks' deposits, such as savings, current,
+fixed, recurring etc* up to maximum amount of Rs 5 Lakh including principal & interest both* (* or exceptions and details please refer
+www.dicgc.org.in )
+In compliance with regulatory guidelines, the non-CTS cheque books attached to the accounts would be destroyed in banks core banking
+System. Thus, Non CTS cheques will not be valid for CASH, Clearing and Transfer transactions
+
+REGISTERED OFFICE - AXIS BANK LTD,TRISHUL,Opp. Samartheswar Temple, Near Law Garden, Ellisbridge, Ahmedabad .380006.This is a system
+generated output and requires no signature.
+BRANCH ADDRESS - BORIVALI(W), MUMBAI [MH]
+
+
+ Legend :
+
+
+
+ICONN - Transaction trough Internet Banking                                                                                             BRN -Branch
+AUTOSWEEP - Transfer to linked fixed deposit                                                                                            LDG -Lodge
+REV SWEEP - Interest on Linked fixed Deposit                                                                                            INB -Internet Banking
+SWEEP TRF - Transfer from Linked Fixed Deposit / Account                                                                                RLZ -Realise
+VMT - Visa Money Transfer through ATM                                                                                                   DLK -Delink
+CWDR - Cash Withdrawal through ATM                                                                                                      DHR -Dishonour
+PUR - POS purchase                                                                                                                      REC -Recovery
+TIP/ SCG - Surcharge on usage of debit card at pumps/railway ticket purchase or hotel tips                                              LN -Loan
+RATE.DIFF - Difference in rates on usage of card internationally                                                                        HCY -Home Currency Advance
+CLG - Cheque Clearing Transaction                                                                                                       TFR -Transfer
+VMT-ICON - Visa Money Transfer Via Internet Banking                                                                                     INT -Interest Run
+EDC - Credit transaction through EDC Machine                                                                                            BKNG -Booking
+SETU - Seamless electronic fund transfer through AXIS Bank                                                                              CNCL -Cancellation
+Int.pd - Interest paid to customer ISSUE -Issuance                                                                                      ISSUE -Issuance
+Int.Coll - Interest collected from the customer                                                                                         AMEND -Amendment
+OW RTN-Outward return                                                                                                                   PUR-Purchase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In case of any clarification regarding this transaction please get in touch with corporate.ib@axisbank.com
+
+                                                                                    ++++ End of Report ++++

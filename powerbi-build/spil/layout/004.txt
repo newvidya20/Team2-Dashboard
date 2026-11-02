@@ -1,0 +1,586 @@
+
+--- PAGE 1 ---
+    Smart Statement Report
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+
+Customer ID: 863275844             IFSC: UTIB0000018            MICR Code: 400211003               Scheme: OPEN CASH CREDIT-HYP                      Nominee Registered: N            Joint Holder: -      CKYC Number: XXXXXXXXXX5339
+
+Address:  -
+
+Statement of Account No - 921030007131058 for period (01/11/2025 to 30/11/2025)
+
+
+
+
+  Opening Balance: INR -3,13,41,495.60
+
+
+
+
+ S. No.                         Transaction Date               Value Date                     Cheque Number                  Transaction Particulars        Amount                        Transaction Type               Balance                        Branch Name
+
+ 1                              01/11/2025                     01/11/2025                                                    RTGS/KKBKR220251101194                   INR 50,00,000.00    CR                                      INR -2,63,41,495.60   BORIVALI(W), MUMBAI [MH]
+                                                                                                                             82126/SUDARSHAN
+                                                                                                                             PHARMA INDUS/KOTAK
+                                                                                                                             MAHINDRA BANK /
+
+ 2                              01/11/2025                     01/11/2025                                                    RTGS/ICICR4202511010053                  INR 50,00,000.00    CR                                      INR -2,13,41,495.60   BORIVALI(W), MUMBAI [MH]
+                                                                                                                             8769/SUDARSHAN PHARMA
+                                                                                                                             INDUS/ICICI BANK
+                                                                                                                             LIMITED//URGENT/
+
+ 3                              01/11/2025                     01/11/2025                                                    RTGS/UBINR2202511010185                 INR 1,00,00,000.00   CR                                      INR -1,13,41,495.60   BORIVALI(W), MUMBAI [MH]
+                                                                                                                             8228/SUDARSHAN PHARMA
+                                                                                                                             INDUS/UNION BANK OF
+                                                                                                                             INDIA//URGENT/
+
+ 4                              03/11/2025                     03/11/2025                                                    RTGS/ICICR5202511030081                    INR 9,23,468.00   CR                                      INR -1,04,18,027.60   BORIVALI(W), MUMBAI [MH]
+                                                                                                                             1422/NUTRON
+                                                                                                                             PHARMACEUTICALS/ICICI
+                                                                                                                             BANK LIMITED//URGENT///L
+                                                                                                                             IMITED//
+
+ 5                              03/11/2025                     03/11/2025                                                    ACH-DR-0001252170002007-                 INR 49,42,073.00    DR                                      INR -1,53,60,100.60
+                                                                                                                             DRBUY1208251-UTIB000000
+                                                                                                                             00
+
+ 6                              03/11/2025                     03/11/2025                                                    ACH-DR-0001252170002005-                 INR 48,34,638.00    DR                                      INR -2,01,94,738.60
+                                                                                                                             DRBUY1208248-UTIB000000
+                                                                                                                             00
+
+ 7                              03/11/2025                     03/11/2025                                                    ACH-DR-0001252170002006-                 INR 48,34,638.00    DR                                      INR -2,50,29,376.60
+                                                                                                                             DRBUY1208326-UTIB000000
+                                                                                                                             00
+
+--- PAGE 2 ---
+S. No.                             Transaction Date                   Value Date                         Cheque Number                      Transaction Particulars             Amount                            Transaction Type                   Balance                             Branch Name
+
+8                                  03/11/2025                         03/11/2025                                                            ACH-DR-0001252170002004-                        INR 49,42,073.00      DR                                            INR -2,99,71,449.60
+                                                                                                                                            DRBUY1208309-UTIB000000
+                                                                                                                                            00
+
+9                                  03/11/2025                         03/11/2025                                                            NEFT/SBIN125307055167/nu                           INR 34,220.00      CR                                            INR -2,99,37,229.60      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            ll/state BANK OF
+                                                                                                                                            INDIA//ATTN//INB//NULL
+
+10                                 04/11/2025                         04/11/2025                                                            ACH-DR-0001253070001305-                           INR 81,177.04      DR                                            INR -3,00,18,406.64
+                                                                                                                                            DRBUY1233516-UTIB000000
+                                                                                                                                            00
+
+11                                 04/11/2025                         04/11/2025                                                            Nesl-recovery-Oct-2025-26                               INR 65.00     DR                                            INR -3,00,18,471.64
+
+12                                 05/11/2025                         05/11/2025                                                            NEFT/IDFBH25309263309/FI                                 INR 1.00     CR                                            INR -3,00,18,470.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            XDOT FINTECH PVT LTD
+                                                                                                                                            COLLE/IDFC FIRST BANK
+                                                                                                                                            LTD//ATTN/
+
+13                                 05/11/2025                         05/11/2025                                                            RTGS/KKBKR220251105195                          INR 15,00,000.00      CR                                            INR -2,85,18,470.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            29868/SUDARSHAN
+                                                                                                                                            PHARMA INDUS/KOTAK
+                                                                                                                                            MAHINDRA BANK /
+
+14                                 05/11/2025                         05/11/2025                                                            INB/RTGS/UTIBR620251105                         INR 10,00,000.00      DR                                            INR -2,95,18,470.64      LOKHANDWALA COMPLEX
+                                                                                                                                            35368822/SUDARSHAN                                                                                                                           KANDIVALI E
+                                                                                                                                            PHARM/UNION BANK OF
+                                                                                                                                            INDIA//////
+
+15                                 05/11/2025                         05/11/2025                                                            921030007131058:Int.Coll:06-                     INR 5,80,775.00      DR                                            INR -3,00,99,245.64
+                                                                                                                                            10-2025 to 05-11-2025
+
+16                                 06/11/2025                         06/11/2025                                                            Offset for [D14132423]                        INR 7,50,00,000.00      DR                                           INR -10,50,99,245.64
+
+17                                 06/11/2025                         06/11/2025                                                            RTGS/BKIDR5202511060063                         INR 10,00,000.00      CR                                           INR -10,40,99,245.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            2605/SACHIN
+                                                                                                                                            CHEMICALS/BANK OF
+                                                                                                                                            INDIA/Ref
+
+18                                 06/11/2025                         06/11/2025                                                            RTGS/BKIDR5202511060063                          INR 6,00,000.00      CR                                           INR -10,34,99,245.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            4282/SACHIN
+                                                                                                                                            CHEMICALS/BANK OF
+                                                                                                                                            INDIA/Ref
+
+19                                 06/11/2025                         06/11/2025                                                            ACH-DR-0001252200001544-                        INR 18,72,931.00      DR                                           INR -10,53,72,176.64
+                                                                                                                                            DRBUY1275559-UTIB000000
+                                                                                                                                            00
+
+20                                 06/11/2025                         06/11/2025                                                            ACH-DR-0001253080001707-                           INR 47,997.37      DR                                           INR -10,54,20,174.01
+                                                                                                                                            DRBUY1283740-UTIB000000
+                                                                                                                                            00
+
+21                                 06/11/2025                         06/11/2025                                                            ACH-DR-0001253070001306-                           INR 76,158.84      DR                                           INR -10,54,96,332.85
+                                                                                                                                            DRBUY1279882-UTIB000000
+                                                                                                                                            00
+
+--- PAGE 3 ---
+S. No.                             Transaction Date                   Value Date                         Cheque Number                      Transaction Particulars            Amount                            Transaction Type                   Balance                             Branch Name
+
+22                                 06/11/2025                         06/11/2025                                                            ACH-DR-0001252200001545-                       INR 18,72,931.00      DR                                           INR -10,73,69,263.85
+                                                                                                                                            DRBUY1275647-UTIB000000
+                                                                                                                                            00
+
+23                                 06/11/2025                         06/11/2025                                                            NEFT/002382633069/SUDAR                         INR 1,00,000.00      CR                                           INR -10,72,69,263.85      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            SHAN PHARMA
+                                                                                                                                            INDUSTRIES/UNION BANK
+                                                                                                                                            OF INDIA//URGENT/
+
+24                                 07/11/2025                         07/11/2025                                                            Sign verf chrgs-(UTIB000511                            INR 59.00     DR                                           INR -10,72,69,322.85
+                                                                                                                                            2500035078_1125
+
+25                                 07/11/2025                         07/11/2025                                                            Sign verf chrgs-(UTIB000511                            INR 59.00     DR                                           INR -10,72,69,381.85
+                                                                                                                                            2500035075_1125
+
+26                                 07/11/2025                         07/11/2025                                                            RTGS/ICICR4202511070050                        INR 20,00,000.00      CR                                           INR -10,52,69,381.85      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            7566/SUDARSHAN PHARMA
+                                                                                                                                            INDUS/ICICI BANK
+                                                                                                                                            LIMITED//URGENT/
+
+27                                 07/11/2025                         07/11/2025                                                            ACH-DR-0001253100000601-                          INR 22,742.57      DR                                           INR -10,52,92,124.42
+                                                                                                                                            DRBUY1315957-UTIB000000
+                                                                                                                                            00
+
+28                                 07/11/2025                         07/11/2025                                                            ACH-DR-0001253100000608-                          INR 13,749.42      DR                                           INR -10,53,05,873.84
+                                                                                                                                            DRBUY1316023-UTIB000000
+                                                                                                                                            00
+
+29                                 07/11/2025                         07/11/2025                                                            ACH-DR-0001253100000643-                          INR 13,645.54      DR                                           INR -10,53,19,519.38
+                                                                                                                                            DRBUY1316607-UTIB000000
+                                                                                                                                            00
+
+30                                 07/11/2025                         07/11/2025                                                            ACH-DR-0001253100000640-                          INR 16,569.82      DR                                           INR -10,53,36,089.20
+                                                                                                                                            DRBUY1316625-UTIB000000
+                                                                                                                                            00
+
+31                                 07/11/2025                         07/11/2025                                                            ACH-DR-0001252240001873-                       INR 16,16,010.00      DR                                           INR -10,69,52,099.20
+                                                                                                                                            DRBUY1307157-UTIB000000
+                                                                                                                                            00
+
+32                                 07/11/2025                         07/11/2025                                                            ACH-DR-0001253100000605-                          INR 22,742.57      DR                                           INR -10,69,74,841.77
+                                                                                                                                            DRBUY1315714-UTIB000000
+                                                                                                                                            00
+
+33                                 07/11/2025                         06/11/2025                                                            Disb. for [D14144923/922080                  INR 7,50,00,000.00      CR                                            INR -3,19,74,841.77      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            050533478]
+
+34                                 08/11/2025                         08/11/2025                                                            RTGS/UBINR2202511080132                        INR 50,00,000.00      CR                                            INR -2,69,74,841.77      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            6636/SUDARSHAN PHARMA
+                                                                                                                                            INDUS/UNION BANK OF
+                                                                                                                                            INDIA//URGENT/
+
+35                                 08/11/2025                         08/11/2025                                                            RTGS/ICICR4202511080052                        INR 40,00,000.00      CR                                            INR -2,29,74,841.77      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            5903/SUDARSHAN PHARMA
+                                                                                                                                            INDUS/ICICI BANK
+                                                                                                                                            LIMITED//URGENT/
+
+--- PAGE 4 ---
+S. No.                            Transaction Date                   Value Date                         Cheque Number                      Transaction Particulars            Amount                             Transaction Type                   Balance                            Branch Name
+
+36                                10/11/2025                         10/11/2025                                                            ACH-DR-0001252240001798-                        INR 11,41,202.00      DR                                           INR -2,41,16,043.77
+                                                                                                                                           DRBUY1373282-UTIB000000
+                                                                                                                                           00
+
+37                                10/11/2025                         10/11/2025                                                            ACH-DR-0001253110000565-                         INR 1,40,512.32      DR                                           INR -2,42,56,556.09
+                                                                                                                                           DRBUY1370002-UTIB000000
+                                                                                                                                           00
+
+38                                10/11/2025                         10/11/2025                                                            ACH-DR-0001253110000566-                         INR 1,40,233.15      DR                                           INR -2,43,96,789.24
+                                                                                                                                           DRBUY1371117-UTIB000000
+                                                                                                                                           00
+
+39                                10/11/2025                         10/11/2025                                                            ACH-DR-0001252240000546-                        INR 40,18,121.00      DR                                           INR -2,84,14,910.24
+                                                                                                                                           DRBUY1373056-UTIB000000
+                                                                                                                                           00
+
+40                                10/11/2025                         10/11/2025                                                            RTGS/UBINR2202511100139                          INR 5,00,000.00      CR                                           INR -2,79,14,910.24      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           3336/SUDARSHAN PHARMA
+                                                                                                                                           INDUS/UNION BANK OF
+                                                                                                                                           INDIA//URGENT/
+
+41                                10/11/2025                         10/11/2025                                                            INB/RTGS/UTIBR620251110                         INR 40,18,121.00      DR                                           INR -3,19,33,031.24      RTGS-HO
+                                                                                                                                           36300164/TREDS-MYND
+                                                                                                                                           SOLU/DCB BANK
+                                                                                                                                           LIMITED//////
+
+42                                10/11/2025                         10/11/2025                                                            BRN-REF NO                                          INR 5,000.00      CR                                           INR -3,19,28,031.24      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           0018-BE707296 INR
+                                                                                                                                           2386343/RLZ
+
+43                                10/11/2025                         10/11/2025                                                            MOB/TPFT/CHEMAX                                  INR 1,88,363.00      CR                                           INR -3,17,39,668.24      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           PHARMA
+                                                                                                                                           C/923020062684251
+
+44                                10/11/2025                         10/11/2025                                                            0018-IBC2622                                          INR 150.00      DR                                           INR -3,17,39,818.24
+
+45                                11/11/2025                         11/11/2025                                                            RTGS/ICICR4202511110050                         INR 15,00,000.00      CR                                           INR -3,02,39,818.24      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           9178/SUDARSHAN PHARMA
+                                                                                                                                           INDUS/ICICI BANK
+                                                                                                                                           LIMITED//URGENT/
+
+46                                11/11/2025                         11/11/2025                                                            ACH-DR-0001253140001206-                           INR 27,462.86      DR                                           INR -3,02,67,281.10
+                                                                                                                                           DRBUY1386597-UTIB000000
+                                                                                                                                           00
+
+47                                11/11/2025                         11/11/2025                                                            ACH-DR-0001252250000793-                        INR 11,65,226.00      DR                                           INR -3,14,32,507.10
+                                                                                                                                           DRBUY1378362-UTIB000000
+                                                                                                                                           00
+
+48                                11/11/2025                         11/11/2025                                                            ECSIRFYNACH DEBIT RET                                 INR 885.00      DR                                           INR -3,14,33,392.10
+                                                                                                                                           CHG/0001252240000547
+
+49                                11/11/2025                         11/11/2025                                   104372                   Clg/RAMLJESWANI/INDIAN                             INR 19,800.00      DR                                           INR -3,14,53,192.10
+                                                                                                                                           BANK
+
+--- PAGE 5 ---
+S. No.                             Transaction Date                    Value Date                         Cheque Number                       Transaction Particulars             Amount                             Transaction Type                   Balance                              Branch Name
+
+50                                 11/11/2025                          11/11/2025                                                             IMPS/P2A/531518140826/ME                         INR 1,35,265.00       CR                                            INR -3,13,17,927.10       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                              DIPAAM/BANKOFBA/BILLNO
+                                                                                                                                              00/9193203139809012000
+
+51                                 11/11/2025                          11/11/2025                                                             0018-IBC2622                                           INR 150.00      DR                                            INR -3,13,18,077.10
+
+52                                 12/11/2025                          12/11/2025                                                             ACH-DR-0001253150001195-                           INR 20,603.51       DR                                            INR -3,13,38,680.61
+                                                                                                                                              DRBUY1423087-UTIB000000
+                                                                                                                                              00
+
+53                                 12/11/2025                          12/11/2025                                                             ACH-DR-0001253150001194-                           INR 18,440.15       DR                                            INR -3,13,57,120.76
+                                                                                                                                              DRBUY1422736-UTIB000000
+                                                                                                                                              00
+
+54                                 12/11/2025                          12/11/2025                                                             ACH-DR-0001253150001193-                           INR 20,145.64       DR                                            INR -3,13,77,266.40
+                                                                                                                                              DRBUY1422886-UTIB000000
+                                                                                                                                              00
+
+55                                 12/11/2025                          12/11/2025                                                             RTGS/CBINR5202511121003                          INR 4,25,182.00       CR                                            INR -3,09,52,084.40       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                              7203/PARTH PHARMACHEM
+                                                                                                                                              INDUS/CENTRAL BANK OF
+                                                                                                                                              INDI//////////////////////////////
+
+56                                 12/11/2025                          12/11/2025                                   104359                    Clg/SUMIT RAMCHAND                                 INR 19,800.00       DR                                            INR -3,09,71,884.40
+                                                                                                                                              JESWANI/UNION BANK OF
+
+57                                 13/11/2025                          13/11/2025                                                             Offset for [D14144923]                        INR 7,50,00,000.00       DR                                           INR -10,59,71,884.40
+
+58                                 14/11/2025                          14/11/2025                                                             ACH-DR-0001253160001413-                           INR 16,810.80       DR                                           INR -10,59,88,695.20
+                                                                                                                                              DRBUY1491681-UTIB000000
+                                                                                                                                              00
+
+59                                 14/11/2025                          14/11/2025                                                             ACH-DR-0001253160001415-                           INR 16,810.80       DR                                           INR -10,60,05,506.00
+                                                                                                                                              DRBUY1491683-UTIB000000
+                                                                                                                                              00
+
+60                                 14/11/2025                          14/11/2025                                                             ACH-DR-0001253150002309-                         INR 1,09,722.87       DR                                           INR -10,61,15,228.87
+                                                                                                                                              DRBUY1491084-UTIB000000
+                                                                                                                                              00
+
+61                                 14/11/2025                          14/11/2025                                                             ACH-DR-0001253160001414-                           INR 16,810.80       DR                                           INR -10,61,32,039.67
+                                                                                                                                              DRBUY1491364-UTIB000000
+                                                                                                                                              00
+
+62                                 14/11/2025                          14/11/2025                                                             ACH-DR-0001253160001412-                           INR 16,810.80       DR                                           INR -10,61,48,850.47
+                                                                                                                                              DRBUY1491291-UTIB000000
+                                                                                                                                              00
+
+63                                 14/11/2025                          14/11/2025                                                             ACH-DR-0001253150002124-                         INR 1,21,013.42       DR                                           INR -10,62,69,863.89
+                                                                                                                                              DRBUY1491014-UTIB000000
+                                                                                                                                              00
+
+64                                 14/11/2025                          13/11/2025                                                             Disb. for [D14156649/922080                   INR 7,50,00,000.00       CR                                            INR -3,12,69,863.89       BORIVALI(W), MUMBAI [MH]
+                                                                                                                                              050533478]
+
+--- PAGE 6 ---
+S. No.                             Transaction Date                   Value Date                         Cheque Number                      Transaction Particulars            Amount                             Transaction Type                   Balance                             Branch Name
+
+65                                 14/11/2025                         14/11/2025                                                            NEFT/HDFCH00614464491/                          INR 13,66,739.25      CR                                            INR -2,99,03,124.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            SRF LIMITED 683/HDFC
+                                                                                                                                            BANK/00011586007
+
+66                                 14/11/2025                         14/11/2025                                                            INB/IFT/METLOK PRIVATE                             INR 33,691.00      CR                                            INR -2,98,69,433.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            LIMITED/TPARTY
+                                                                                                                                            TRANSFER
+
+67                                 14/11/2025                         14/11/2025                                                            RTGS/KKBKR220251114197                          INR 35,00,000.00      CR                                            INR -2,63,69,433.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            03940/SUDARSHAN
+                                                                                                                                            PHARMA INDUS/KOTAK
+                                                                                                                                            MAHINDRA BANK /
+
+68                                 15/11/2025                         15/11/2025                                                            0018-IBC2460                                    INR 47,96,085.00      DR                                            INR -3,11,65,518.64
+
+69                                 15/11/2025                         15/11/2025                                                            INB/IFT/METLOK PRIVATE                             INR 49,088.00      CR                                            INR -3,11,16,430.64      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            LIMITED/TPARTY
+                                                                                                                                            TRANSFER
+
+70                                 15/11/2025                         15/11/2025                                                            Sign verf chrgs-(UTIB001311                             INR 59.00     DR                                            INR -3,11,16,489.64
+                                                                                                                                            2500041892_1125
+
+71                                 15/11/2025                         15/11/2025                                                            Sign verf chrgs-(UTIB001311                             INR 59.00     DR                                            INR -3,11,16,548.64
+                                                                                                                                            2500041893_1125
+
+72                                 15/11/2025                         15/11/2025                                                            Sign verf chrgs-(UTIB001311                             INR 59.00     DR                                            INR -3,11,16,607.64
+                                                                                                                                            2500041894_1125
+
+73                                 19/11/2025                         19/11/2025                                                            ACH-DR-0001253220001825-                           INR 42,090.41      DR                                            INR -3,11,58,698.05
+                                                                                                                                            DRBUY1632065-UTIB000000
+                                                                                                                                            00
+
+74                                 19/11/2025                         19/11/2025                                                            INB/RTGS/UTIBR620251119                         INR 10,00,000.00      DR                                            INR -3,21,58,698.05      LOKHANDWALA COMPLEX
+                                                                                                                                            38195722/SUDARSHAN                                                                                                                           KANDIVALI E
+                                                                                                                                            PHARM/UNION BANK OF
+                                                                                                                                            INDIA//////
+
+75                                 19/11/2025                         19/11/2025                                                            BRN-TD/925040093254579/2                         INR 9,78,256.00      CR                                            INR -3,11,80,442.05      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            4-08-2026/SUDARSHAN
+                                                                                                                                            PHARMA
+
+76                                 20/11/2025                         20/11/2025                                                            Offset for [D14156649]                        INR 7,50,00,000.00      DR                                           INR -10,61,80,442.05
+
+77                                 20/11/2025                         20/11/2025                                   104132                   TD/925040109976297/SUDA                          INR 4,60,000.00      DR                                           INR -10,66,40,442.05
+                                                                                                                                            RSHAN PHARMA
+                                                                                                                                            INDUSTRIES LIM
+
+78                                 20/11/2025                         20/11/2025                                                            BRN-LC-0018XLADV250027:                             INR 1,500.00      DR                                           INR -10,66,41,942.05
+                                                                                                                                            LC ADV CHRGS
+
+79                                 20/11/2025                         20/11/2025                                                            BRN-LC-0018XLADV250027:                               INR 270.00      DR                                           INR -10,66,42,212.05
+                                                                                                                                            GST/- ADV
+
+80                                 20/11/2025                         20/11/2025                                                            MOB/TPFT/CHEMAX                                  INR 1,23,192.00      CR                                           INR -10,65,19,020.05      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            PHARMA
+                                                                                                                                            C/923020062684251
+
+--- PAGE 7 ---
+S. No.                            Transaction Date                   Value Date                         Cheque Number                      Transaction Particulars            Amount                            Transaction Type                   Balance                            Branch Name
+
+81                                21/11/2025                         21/11/2025                                                            NEFT/PUNBH70041546019/                            INR 50,000.00      CR                                          INR -10,64,69,020.05      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           AMREE  PHARMACEUTICAL
+                                                                                                                                           S/PUNJAB NATIONAL
+                                                                                                                                           BANK/PNBPNBPNB
+
+82                                21/11/2025                         21/11/2025                                                            BRN-ILC-0018LCO-0001703:                          INR 15,009.00      DR                                          INR -10,64,84,029.05
+                                                                                                                                           COMM/ISS
+
+83                                21/11/2025                         21/11/2025                                                            BRN-ILC-0018LCO-0001703:                            INR 2,701.62     DR                                          INR -10,64,86,730.67
+                                                                                                                                           COMM/ISS
+
+84                                21/11/2025                         21/11/2025                                                            BRN-ILC-0018LCO-0001703:                            INR 1,000.00     DR                                          INR -10,64,87,730.67
+                                                                                                                                           COMM/ISS
+
+85                                21/11/2025                         21/11/2025                                                            BRN-ILC-0018LCO-0001703:                             INR 180.00      DR                                          INR -10,64,87,910.67
+                                                                                                                                           COMM/ISS
+
+86                                22/11/2025                         22/11/2025                                                            NEFT/SBIN125326387715/P                         INR 4,74,360.00      CR                                          INR -10,60,13,550.67      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           EL COAT
+                                                                                                                                           FORMULATIONS/state BANK
+                                                                                                                                           OF
+                                                                                                                                           INDIA//ATTN//INB//PAYMENT
+                                                                                                                                           TOWARDS I
+
+87                                22/11/2025                         22/11/2025                                                            Inward Clearing Chq Rtn                             INR 5,250.00     DR                                          INR -10,60,18,800.67
+                                                                                                                                           Chrgs
+
+88                                22/11/2025                         22/11/2025                                                            GST @18% on Inward                                   INR 945.00      DR                                          INR -10,60,19,745.67
+                                                                                                                                           Clearing Chq Rtn Chrgs
+
+89                                25/11/2025                         25/11/2025                                                            NEFT/IDIBH32918379018/AR                        INR 2,11,338.00      CR                                          INR -10,58,08,407.67      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           ORA AROMATICS PVT
+                                                                                                                                           LTD/INDIAN
+                                                                                                                                           BANK///URGENT  //..
+
+90                                26/11/2025                         26/11/2025                                                            RTGS/UBINR2202511260164                        INR 55,00,000.00      CR                                          INR -10,03,08,407.67      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           7356/SUDARSHAN PHARMA
+                                                                                                                                           INDUS/UNION BANK OF
+                                                                                                                                           INDIA//URGENT/
+
+91                                26/11/2025                         26/11/2025                                                            RTGS/UBINR2202511260171                        INR 40,00,000.00      CR                                            INR -9,63,08,407.67     BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           7192/SUDARSHAN PHARMA
+                                                                                                                                           INDUS/UNION BANK OF
+                                                                                                                                           INDIA//URGENT/
+
+92                                27/11/2025                         27/11/2025                                                            ACH-DR-0001252410002369-                       INR 39,39,334.00      DR                                          INR -10,02,47,741.67
+                                                                                                                                           DRBUY1834094-UTIB000000
+                                                                                                                                           00
+
+93                                27/11/2025                         27/11/2025                                                            ACH-DR-0001252410002368-                       INR 41,75,694.00      DR                                          INR -10,44,23,435.67
+                                                                                                                                           DRBUY1834093-UTIB000000
+                                                                                                                                           00
+
+94                                27/11/2025                         27/11/2025                                                            INB/IFT/METLOK PRIVATE                          INR 1,39,122.00      CR                                          INR -10,42,84,313.67      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                           LIMITED/TPARTY
+                                                                                                                                           TRANSFER
+
+--- PAGE 8 ---
+S. No.                             Transaction Date                   Value Date                         Cheque Number                      Transaction Particulars             Amount                            Transaction Type                    Balance                            Branch Name
+
+95                                 28/11/2025                         28/11/2025                                                            RTGS/UBINR2202511280181                         INR 25,00,000.00      CR                                           INR -10,17,84,313.67      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            8349/SUDARSHAN PHARMA
+                                                                                                                                            INDUS/UNION BANK OF
+                                                                                                                                            INDIA//URGENT/
+
+96                                 28/11/2025                         28/11/2025                                                            ACH-DR-0001252420000528-                        INR 47,51,075.00      DR                                           INR -10,65,35,388.67
+                                                                                                                                            DRBUY1867170-UTIB000000
+                                                                                                                                            00
+
+97                                 28/11/2025                         28/11/2025                                                            0018-IBC2691                                          INR 150.00      DR                                           INR -10,65,35,538.67
+
+98                                 28/11/2025                         28/11/2025                                                            IFT/CB0104483774/19826916                          INR 31,125.60      CR                                           INR -10,65,04,413.07      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            /ATUL
+                                                                                                                                            LIMITED/SUDARSHAN
+                                                                                                                                            PHARMA I/UTIB0000018
+
+99                                 29/11/2025                         29/11/2025                                                            RTGS/UBINR2202511290199                          INR 5,00,000.00      CR                                           INR -10,60,04,413.07      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            8703/SUDARSHAN PHARMA
+                                                                                                                                            INDUS/UNION BANK OF
+                                                                                                                                            INDIA//URGENT/
+
+100                                29/11/2025                         29/11/2025                                                            RTGS/UBINR2202511290199                         INR 15,00,000.00      CR                                           INR -10,45,04,413.07      BORIVALI(W), MUMBAI [MH]
+                                                                                                                                            9081/SUDARSHAN PHARMA
+                                                                                                                                            INDUS/UNION BANK OF
+                                                                                                                                            INDIA//URGENT/
+
+101                                29/11/2025                         29/11/2025                                                            TOWARDS TOD                                   INR 2,00,00,000.00      CR                                            INR -8,45,04,413.07      BORIVALI(W), MUMBAI [MH]
+
+102                                29/11/2025                         29/11/2025                                                            TOWARDS_PF_CHGS                                    INR 59,000.00      DR                                            INR -8,45,63,413.07
+
+103                                30/11/2025                         30/11/2025                                                            Loan Recovery                                    INR 4,43,333.00      DR                                            INR -8,50,06,746.07
+                                                                                                                                            For922060052832458
+
+104                                30/11/2025                         30/11/2025                                                            INB/RTGS/UTIBR620251130                         INR 50,00,000.00      DR                                            INR -9,00,06,746.07      LOKHANDWALA COMPLEX
+                                                                                                                                            40579937/SUDARSHAN                                                                                                                           KANDIVALI E
+                                                                                                                                            PHARM/UNION BANK OF
+                                                                                                                                            INDIA//////
+
+105                                30/11/2025                         30/11/2025                                                            INB/RTGS/UTIBR620251130                         INR 50,00,000.00      DR                                            INR -9,50,06,746.07      LOKHANDWALA COMPLEX
+                                                                                                                                            40579944/SUDARSHAN                                                                                                                           KANDIVALI E
+                                                                                                                                            PHARM/UNION BANK OF
+                                                                                                                                            INDIA//////
+
+106                                30/11/2025                         30/11/2025                                                            Interest for [   D14132423]                      INR 1,00,171.00      DR                                            INR -9,51,06,917.07
+
+107                                30/11/2025                         30/11/2025                                                            Interest for [   D14144923]                      INR 1,40,240.00      DR                                            INR -9,52,47,157.07
+
+108                                30/11/2025                         30/11/2025                                                            Interest for [   D14156649]                      INR 1,40,240.00      DR                                            INR -9,53,87,397.07
+
+109                                30/11/2025                         30/11/2025                                                            Loan Recovery                                   INR 13,41,370.00      DR                                            INR -9,67,28,767.07
+                                                                                                                                            For925060051738978
+
+110                                30/11/2025                         30/11/2025                                                            Loan Recovery                                      INR 80,339.00      DR                                            INR -9,68,09,106.07
+                                                                                                                                            For922060052832458
+
+--- PAGE 9 ---
+  S. No.                                  Transaction Date                       Value Date                              Cheque Number                           Transaction Particulars                 Amount                                 Transaction Type                        Balance                                  Branch Name
+
+  111                                     30/11/2025                             30/11/2025                                                                      Loan Recovery                                             INR 39,619.00        DR                                                  INR -9,68,48,725.07
+                                                                                                                                                                 For922060049800541
+
+                                                                                                                                                                 Total Transaction Amount                          INR 52,32,44,051.17
+
+
+
+  Closing Balance: INR -9,68,48,725.07
+
+
+
+
+  Unless the constituent notifies the bank immediately of any discrepancy found by him/her in this statement of Account, it will be taken that he/she has found the account correct.
+
+  The closing balance as shown/displayed includes not only the credit balance and / or overdraft limit, but also funds which are under clearing. It excludes the amount marked as lien, if any. Hence the closing balance displayed may not be the effective available balance. For any further clarifications,
+  please contact the Branch.
+
+  We would like to reiterate that, as a policy, Axis Bank does not ask you to part with/disclose/revalidate of your iConnect passord,login id and debit card number through emails OR phone call Further,we would like to reiterate that Axis Bank shall not be liable for any losses arising from you
+   sharing/disclosing of your login id, password and debit card number to anyone. Please co-operate by forwarding all such suspicious/spam emails, if received by you, to                                customer.service@axisbank.com
+
+
+   With effect from 1st August 2016, the replacement charges for Debit card and ATM card applicable on Current accounts have been revised.
+   To know more about the applicable charges, please visit www.axisbank.com
+
+
+   Deposit Insurance and Credit Guarantee Corporation (DICGC) insurance cover is applicable in all Banks' deposits, such as savings, current, fixed, recurring etc*
+   up to maximum amount of Rs 5 Lakh including principal & interest both* (* or exceptions and details please refer                     www.dicgc.org.in      )
+
+   In compliance with regulatory guidelines, the non-CTS cheque books attached to the accounts would be destroyed in banks core banking System. Thus, Non CTS cheques will not
+   be valid for CASH, Clearing and Transfer transactions
+
+
+
+   Registered Office - AXIS BANK LTD,TRISHUL,Opp. Samartheswar Temple, Near Law Garden, Ellisbridge, Ahmedabad - 380006. This is a system generated output and requires no signature.
+
+
+   BRANCH ADDRESS - AXIS BANK LTD, ANDHERI(W), MUMBAI [MH], LAXMI THE MALL, L I A, BLDG 5, ANDHERI (W) , 400053, MUMBAI, MAHARASHTRA, INDIA, TEL:022-66044756 FAX:66044798
+ Legend:
+
+  ICONN - Transaction through Internet Banking                                                                                                                                       BRN - Branch
+
+  VMT-ICON - Visa Money Transfer through Internet Banking                                                                                                                            INB - Internet banking
+
+  AUTOSWEEP        - Transfer to linked fixed deposit                                                                                                                                CLG - Clearing
+
+  REV SWEEP        - Interest on Linked fixed Deposit                                                                                                                                PUR - Purchase
+
+  SWEEP TRF - Transfer from Linked Fixed Deposit / Account                                                                                                                           LDG - Lodge
+
+  VMT - Visa Money Transfer through ATM                                                                                                                                              RLZ - Realise
+
+  CWDR - Cash Withdrawal through ATM                                                                                                                                                 DLK - Delink
+
+  PUR - POS purchase                                                                                                                                                                 DHR - Dishonour
+
+--- PAGE 10 ---
+  TIP/ SCG - Surcharge on usage of debit card at                                                                                                                    REC - Recovery
+                   pumps/railway ticket purchase or hotel tips
+                                                                                                                                                                    TFR - Transfer
+  RATE.DIFF - Difference in rates on usage of card internationally
+                                                                                                                                                                    HCY - Home Currency Advance
+  CLG - Cheque Clearing Transaction
+                                                                                                                                                                    INT - Interest Run
+  EDC - Credit transaction through EDC Machine
+                                                                                                                                                                    BKNG - Booking
+  SETU - Seamless electronic fund transfer through AXIS Bank
+                                                                                                                                                                    Ln - Loan
+  Int.Coll - Interest collected from the customer
+                                                                                                                                                                    TD - Term Deposit
+  Int.pd - Interest paid to customer
+                                                                                                                                                                    CNCL - Cancellation
+  ISSUE - Issuance
+                                                                                                                                                                    SI - Standing Instruction
+  AMEND - Amendment
+                                                                                                                                                                    FWC - Forward Contract
+  OW RTN - Outward Return
+                                                                                                                                                                    MMT - Master Card money transfer through ATM
+
+                                                                                                                                                                    LMS - Liquidity Management Solution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In case of any clarification regarding this transaction please get in touch with corporate.ib@axisbank.com
+
+
+                                                                                                                                          ++++ End of Report ++++
+
+        Note:
+
+        Unless the constituent notifies the bank immediately of any discrepancy found by him/her in this statement of account, it will be taken that he/she has found the account correct.
+
+        For any other discrepancies, please contact your Relationship Manager.
+
+
+This is a system generated output and is not required to be signed by any officials of the Bank.
+
+Save Paper | Save Trees, Please consider the environment before printing, unless you really need to.

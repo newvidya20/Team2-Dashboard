@@ -1,0 +1,206 @@
+
+--- PAGE 1 ---
+                                                                                                                                  71770109.3 Cr.71770109.3 Cr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date    04-08-2026
+
+                                                                       Bank Of India
+
+                                                            Bank Of India       MUMBAI NORTH ECCB
+
+M/S SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                       CUSTID :           CD1162417
+
+301 3RD FLOOR SENATE AURA BIPLEX                                                                              A/C NO :           022230150000001
+
+ABOVE KALYAN JEWELLERS BORIVALI WEST                                                                          TYPE :             CASH CREDIT SME
+
+MUMBAI-400092                                                                                                 CURRENCY :         INR
+
+MAHARASHTRA                                                                                                   IFSC CODE :        BKID0000222
+
+INDIA                                                                                                         MICR CODE :       400013039
+JOINT HOLDER:                                                                                                 NOMINEE :          NO
+
+
+
+OPENING BALANCE:                               49327568.70Dr.
+
+
+
+                                       Statement of Account     022230150000001          FROM    01-06-2026 TO 04-08-2026
+
+SNO     TRAN DATE           INST NO                          DESCRIPTION                              DEBITS           CREDITS                  BALANCE
+
+  1      08-06-2026                            RTGS/ICICR42026060800573835/ICIC/SU                             0.00    121097678.00                 71770109.30    Cr.
+
+  2      12-06-2026                               Charges:RTGS/BKIDA26163826690                              57.82               0.00               71770051.48    Cr.
+
+  3      12-06-2026          000151           RTGS/BKIDA26163826690/ICIC/SUDARSHA                     50000000.00                0.00               21770051.48    Cr.
+
+  4      17-06-2026                               Charges:RTGS/BKIDA26168452410                              57.82               0.00               21769993.66    Cr.
+
+  5      17-06-2026          000152           RTGS/BKIDA26168452410/ICIC/SUDARSHA                     50000000.00                0.00               28230006.34    Dr.
+
+  6      21-06-2026                              022230150000001:Int.Coll:21-05-2026                    291392.00                0.00               28521398.34    Dr.
+
+  7      25-06-2026                               Charges:RTGS/BKIDA26176435946                              57.82               0.00               28521456.16    Dr.
+
+  8      25-06-2026          000153           RTGS/BKIDA26176435946/ICIC/SUDARSHA                     20000000.00                0.00               48521456.16    Dr.
+
+  9      30-06-2026                           Loan Rec/2270210000002/SUDARSHAN PH                       219863.00                0.00               48741319.16    Dr.
+
+ 10      30-06-2026                           Loan Rec/2270210000003/SUDARSHAN PH                       219863.00                0.00               48961182.16    Dr.
+
+ 11      30-06-2026                           Loan Rec/2270210000001/SUDARSHAN PH                       219863.00                0.00               49181045.16    Dr.
+
+ 12      30-06-2026                            RTGS/ICICR42026063000604979/ICIC/SU                             0.00      1050000.00                 48131045.16    Dr.
+
+ 13      14-07-2026                          SMSChrgsAPR-JUN26+GST+21 CUST 20814                             17.70               0.00               48131062.86    Dr.
+
+ 14      21-07-2026                              022230150000001:Int.Coll:21-06-2026                    400867.00                0.00               48531929.86    Dr.
+
+ 15      21-07-2026                              022230150000001:PnlChrg:21-06-2026                        7912.00               0.00               48539841.86    Dr.
+
+
+
+                                                                         Page:1
+
+--- PAGE 2 ---
+                                                                                                                                                -48767033.86 Dr.-48767033.86 Dr.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                            Statement of Account       022230150000001              FROM     01-06-2026 TO 04-08-2026
+
+SNO      TRAN DATE             INST NO                              DESCRIPTION                                   DEBITS              CREDITS                    BALANCE
+
+ 16       31-07-2026                                Loan Rec/2270210000002/SUDARSHAN PH                              227192.00                   0.00                 48767033.86      Dr.
+
+ 17       31-07-2026                                Loan Rec/2270210000003/SUDARSHAN PH                              227192.00                   0.00                 48994225.86      Dr.
+
+ 18       31-07-2026                                Loan Rec/2270210000001/SUDARSHAN PH                              227192.00                   0.00                 49221417.86      Dr.
+
+ 19       31-07-2026                                 RTGS/ICICR42026073100577532/ICIC/SU                                    0.00         500000.00                    48721417.86      Dr.
+
+
+                                                  This is a system generated statement and does not require any signature.
+        Any discrepancy in the account statement should be notified to the bank within period of 30 days of generation of statement. It will be treated that the
+                 entries,contents of this statement are checked and found correct by you, if no such complaint is made within the period stated above.
+                              Bank of India Helpline No: 022-40919191, Email id of the Complaint Cell: Headoffice.GOD@bankofindia.co.in
+                                          **** Update your MOBILE NUMBER & EMAIL ID for getting SMS & EMAIL from BOI ****
+                                                ********* Toll free no. of our call center : 1800 220 229,1800 103 1906. *********
+                                                  ******************** RELATIONSHIP BEYOND BANKING ********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                  Page:2

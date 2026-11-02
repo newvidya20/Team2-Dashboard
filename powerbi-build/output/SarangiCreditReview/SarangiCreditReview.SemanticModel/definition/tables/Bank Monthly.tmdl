@@ -1,0 +1,154 @@
+/// Consolidated MoM Summary only. Dashes are missing/not reported, not imputed zero. BTO is source-reported net credits, with gross credits available separately.
+table 'Bank Monthly'
+	lineageTag: 6f51ec28-90a7-48c7-8a62-ededc0912ff4
+
+	/// Consolidated MoM Summary: Net Credits. Blank means not reported.
+	measure 'Banking Turnover' = SUM('Bank Monthly'[Net Credits])
+		formatString: #,0.00
+		displayFolder: Banking
+		lineageTag: 6aae4093-a242-46a8-837c-f6f7bae28719
+
+	/// Consolidated MoM Summary: Net Debits. Blank means not reported.
+	measure 'Net Bank Outflows' = SUM('Bank Monthly'[Net Debits])
+		formatString: #,0.00
+		displayFolder: Banking
+		lineageTag: d1f9a7f4-6f02-4d5c-a872-05ffffeac428
+
+	/// Consolidated MoM Summary: Net Credit Count. Blank means not reported.
+	measure 'Net Credit Entries' = SUM('Bank Monthly'[Net Credit Count])
+		formatString: #,0
+		displayFolder: Banking
+		lineageTag: 69583b0c-8c65-4d75-9aaa-1ec0bd8f83c7
+
+	/// Consolidated MoM Summary: Inward Bounce Count. Blank means not reported.
+	measure 'Cheque Return Count' = SUM('Bank Monthly'[Inward Bounce Count])
+		formatString: #,0
+		displayFolder: Banking
+		lineageTag: 83825641-a985-43b4-ac79-68f5e8c7aab2
+
+	/// Consolidated MoM Summary: Inward Bounce Amount. Blank means not reported.
+	measure 'Cheque Return Amount' = SUM('Bank Monthly'[Inward Bounce Amount])
+		formatString: #,0.00
+		displayFolder: Banking
+		lineageTag: 542a9f07-38ea-474a-83b8-023f20275706
+
+	/// Consolidated MoM Summary: EMI Bounce Count. Blank means not reported.
+	measure 'EMI Return Count' = SUM('Bank Monthly'[EMI Bounce Count])
+		formatString: #,0
+		displayFolder: Banking
+		lineageTag: 2f9fa2e6-53c1-479b-b92f-e34dec59af4d
+
+	/// Consolidated MoM Summary: Interest Paid. Blank means not reported.
+	measure 'Bank Interest Paid' = SUM('Bank Monthly'[Interest Paid])
+		formatString: #,0.00
+		displayFolder: Banking
+		lineageTag: 97ac2f96-9d7a-4c7a-b4e2-f79beb3d53d3
+
+	column Month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: ab19e893-9192-4a21-a4de-1b3cbc980bf9
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Gross Debits'
+		dataType: double
+		lineageTag: 8c8e9081-d4ac-450a-9eae-7a4fc7f2b2da
+		summarizeBy: sum
+		sourceColumn: Gross Debits
+
+	column 'Gross Credits'
+		dataType: double
+		lineageTag: b40016e6-0d29-4c39-bff7-bc253f4cdcd7
+		summarizeBy: sum
+		sourceColumn: Gross Credits
+
+	column 'Net Debits'
+		dataType: double
+		lineageTag: 60172f54-d71f-4add-90ac-09b438a7ceec
+		summarizeBy: sum
+		sourceColumn: Net Debits
+
+	column 'Net Credits'
+		dataType: double
+		lineageTag: b9c49e5f-a372-4e12-9533-ef6a6d153994
+		summarizeBy: sum
+		sourceColumn: Net Credits
+
+	column 'Net Debit Count'
+		dataType: double
+		lineageTag: ac82c195-9ce2-4f9a-9138-2306535ad997
+		summarizeBy: sum
+		sourceColumn: Net Debit Count
+
+	column 'Net Credit Count'
+		dataType: double
+		lineageTag: 7bf6d1a5-4681-4521-be31-2ed73252d701
+		summarizeBy: sum
+		sourceColumn: Net Credit Count
+
+	column 'Inward Bounce Count'
+		dataType: double
+		lineageTag: fe8c0fb5-ef32-47c7-a3a7-53d195876349
+		summarizeBy: sum
+		sourceColumn: Inward Bounce Count
+
+	column 'Inward Bounce Amount'
+		dataType: double
+		lineageTag: 6e0bbb71-214c-4141-a8be-8601fc5e7f84
+		summarizeBy: sum
+		sourceColumn: Inward Bounce Amount
+
+	column 'EMI Bounce Count'
+		dataType: double
+		lineageTag: 0ab35c07-270d-47e0-acff-de8a79a71563
+		summarizeBy: sum
+		sourceColumn: EMI Bounce Count
+
+	column 'EMI Bounce Amount'
+		dataType: double
+		lineageTag: 0133a8c4-bad2-4b99-a094-84c34f3b83cd
+		summarizeBy: sum
+		sourceColumn: EMI Bounce Amount
+
+	column 'Penal Charges'
+		dataType: double
+		lineageTag: 8ea3f78d-4326-4f27-b5bf-72cea3559f22
+		summarizeBy: sum
+		sourceColumn: Penal Charges
+
+	column 'Loan Disbursements'
+		dataType: double
+		lineageTag: f9f325cd-2580-4972-ac69-ce993f91ae92
+		summarizeBy: sum
+		sourceColumn: Loan Disbursements
+
+	column 'EMI Payments'
+		dataType: double
+		lineageTag: d56a930d-1fba-49fc-8152-540ac039e377
+		summarizeBy: sum
+		sourceColumn: EMI Payments
+
+	column 'Interest Paid'
+		dataType: double
+		lineageTag: 8c714093-dac5-4d03-97b8-60962be29256
+		summarizeBy: sum
+		sourceColumn: Interest Paid
+
+	column 'Missing Statement Dates'
+		dataType: string
+		lineageTag: ac10831b-66da-40e8-93c7-80be8c64a67e
+		summarizeBy: none
+		sourceColumn: Missing Statement Dates
+
+	partition 'Bank Monthly' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/51TS45cIQy8SuutechV+HuW1txglF3uH5mXmXSPOtEoLBAYcH1s7veDQj1FT8Exfvx8fx8mPaa82uFj8Y3pON7GR3rb6ROOiuXTOYAMN5uyoxmyJvMhuqb8N5pvNKiFp4p2NotwqzXZYaTQ5Dmcjdeg38CydEhNGcedcbJub7fzBkl94BCbg7LzewtRlmlUP1ulnlHeUaGKZ0wZ5JTRi75NefL91QTaCrRXj9pz40aqSUnrCU2uZWuqjvDiInKGP8c3q7bgFZD7FH8ENoZ7fAGuDWwLbkafaxgWqPSZOgzuKIkZUnsMTaazU2crafx/us+CurGZ/yahTt3q77BdATr9DyHI5YSoSq2aclmKEeIpsZ+6SHDBZgwrIKS6BtB2Yl/obbqmrRelYMHAZk2o0Kf7Ja4qB0xc1J9NAi6T3FxKampeZW6DkpmstsNWwfXpeDG1pGIWPgGkkXcbd4e7ONk1+dol2c7pvpYG3f/KbGErOu55AuOGdUJfmchN2KscVuhShtD8ak0PpJrZDA4L0mFNpXpiS28wXSj/W2vlMt1Gw6QQ/fC4M8+Fzz81bvc4a9zIj+hF8e0XqMxm8bwEAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Month","Gross Debits","Gross Credits","Net Debits","Net Credits","Net Debit Count","Net Credit Count","Inward Bounce Count","Inward Bounce Amount","EMI Bounce Count","EMI Bounce Amount","Penal Charges","Loan Disbursements","EMI Payments","Interest Paid","Missing Statement Dates"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Month", type nullable date},{"Gross Debits", type nullable number},{"Gross Credits", type nullable number},{"Net Debits", type nullable number},{"Net Credits", type nullable number},{"Net Debit Count", type nullable number},{"Net Credit Count", type nullable number},{"Inward Bounce Count", type nullable number},{"Inward Bounce Amount", type nullable number},{"EMI Bounce Count", type nullable number},{"EMI Bounce Amount", type nullable number},{"Penal Charges", type nullable number},{"Loan Disbursements", type nullable number},{"EMI Payments", type nullable number},{"Interest Paid", type nullable number},{"Missing Statement Dates", type text}}, "en-US")
+				in Typed
+

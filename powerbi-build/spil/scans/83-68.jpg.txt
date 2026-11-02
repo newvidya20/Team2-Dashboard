@@ -1,0 +1,29 @@
+q Earning Per Share
+Basic eamings per share is computed by dividing the net profit after tax by the weighted average number of equity
+shares outstanding during the period. Diluted earnings per share is computed by dividing the profit after tax by the
+weighted average number of equity shares considered for deriving basic earnings per share and also the weighted
+average number of equity shares that could have been issued upon conversion of all dilutive potential equity shares.
+The diluted potential equity shares are adjusted for the proceeds receivable had the shares been actually issued at fair
+value which is the average market value of the outstanding shares. Dilutive potential equity shares are deemed
+converted as of the beginning of the period, unless issued at a later date. Dilutive potential equity shares are
+determined independently for each period presented.
+In case of bonus issue the weighted average number of equity shares outstanding during the period and for all
+periods presented should be adjusted for events, other than the conversion of potential equity shares, that have
+changed the number of equity shares outstanding, without a corresponding change in resources.
+r Impairment of Assets
+An asset is treated as impaired when carrying cost of assets exceeds its recoverable value. The recoverable amount is
+measured as the higher of the net selling price and the value in use determined by the present value of estimated
+future cash flows. An impairment loss is charged off to profit and loss account as and when asset is identified for
+impairment. The impairment loss recognized in prior accounting period is reversed if there has been a change in the
+estimate of recoverable amount. An asset is treated as impaired when carrying cost of assets exceeds its recoverable
+value. The recoverable amount is measured as the higher of the net selling price and the value in use determined by
+the present value of estimated future cash flows.
+s Government Grants
+Government Grants are recognized when there is reasonable assurance that the Company will comply with the
+conditions attached to them and the grants will be received.
+Government grants whose primary conditions that Company should purchase, construct or otherwise acquired
+capital assets are presented by deducting them from carrying value of assets.
+Grants related to the revenue are adjusted against expenses to the extent there is certainty to receive.
+SSOO/
+z
+MUMBAI

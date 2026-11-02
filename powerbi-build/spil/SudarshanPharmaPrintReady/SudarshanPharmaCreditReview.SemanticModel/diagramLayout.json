@@ -1,0 +1,152 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 125.30768903398027,
+            "y": -50
+          },
+          "nodeIndex": "Bank Transactions",
+          "nodeLineageTag": "14777e70-99f1-45d1-9502-bc1204ce585f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1651.0684825216772,
+            "y": 231.01453440693848
+          },
+          "nodeIndex": "CC Snapshot",
+          "nodeLineageTag": "78dae08a-7a0a-483f-b87a-3f2edbe17274",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1132.8915942869473,
+            "y": 254.81948350204959
+          },
+          "nodeIndex": "Finance Year",
+          "nodeLineageTag": "a0838de2-fbee-4914-82ad-b4d3057ec6e0",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 848.70684310631748,
+            "y": 163.88459267939146
+          },
+          "nodeIndex": "Financial Parameters",
+          "nodeLineageTag": "329c5726-56e8-4c61-9774-6bbae130710a",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1417.0684825216772,
+            "y": 170.1444761344855
+          },
+          "nodeIndex": "Financials",
+          "nodeLineageTag": "68265e65-af5d-435a-88ce-92ba4b33b26d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 564.70684310631748,
+            "y": -48.777483893654335
+          },
+          "nodeIndex": "GST Monthly",
+          "nodeLineageTag": "e3902b98-7fb5-43d4-9963-88cdb2531ffe",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1935.0684825216772,
+            "y": 219.01453440693848
+          },
+          "nodeIndex": "Loan Schedule",
+          "nodeLineageTag": "f35d11c4-168e-4eeb-9814-a596d2ac6749",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 335.47154468082238,
+            "y": 302.81119530493743
+          },
+          "nodeIndex": "Period",
+          "nodeLineageTag": "b8069607-882a-481e-937a-bd1a4ae366ab",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 384.02906881387696
+          },
+          "nodeIndex": "Reconciliation",
+          "nodeLineageTag": "34dac2c6-b2e1-4d39-a525-a8d08b352e29",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2219.0684825216772,
+            "y": 267.01453440693848
+          },
+          "nodeIndex": "Review Coverage",
+          "nodeLineageTag": "d9e6f3d6-09b9-4899-b720-5bd183109fad",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

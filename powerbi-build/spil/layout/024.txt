@@ -1,0 +1,1606 @@
+
+--- PAGE 1 ---
+                 Detailed
+                 Statement
+                 Name:                 SUDARSHAN PHARMA INDUSTRIES                  A/C Branch:           MIDC, ANDHERI
+                                       LIMITED
+                 Address:              301,3RD FLOOR, AURA,BIPLEX,,ABOVE            Branch Address:       ICICI BANK LTD.,G1,GROUND
+                                       KALYAN,,JEWELLERS S. V.,ROAD,                                      FLOOR,ACKRUTI CENTRE
+                                       BORIVALI                                                           POINT,KONDIVITA,NEAR TELEPHONE
+                                       (WEST),,MUMBAI,400092,MAHARASHT                                    EXCHANGE,MIDC,ANDHERI(EAST),MUM
+                                       RA,INDIA                                                           BAI-400093,MAHARASHTRA,GREATER
+                                                                                                          BOMBAY|,MAHARASHTRA,INDIA
+                 A/C No:               054451000192                                 A/C Type:             CCA
+                 Jt. Holder:                                                        Cust ID:              600248059
+                 Transaction Date      01/01/2026                                   Branch Code:          0544
+                 from:
+                 Transaction Period:   From 01/01/2026 To 31/01/2026                IFSC Code:            ICIC0000544
+                 Statement             31/01/2026                                   Account Currency:     INR
+                 Request/Download
+                 Date:
+
+
+                 Advanced Search
+                 Amount from:                     NA To NA
+                 Cheque number from:              NA To NA
+                 Transaction remarks:
+                 Transaction type:                DR
+
+                  SlNo  Tran      Value     Transaction     Transaction    Cheque no /         Transaction         Withdra     Deposit     Balance
+                          Id      Date          Date           Posted         Ref No             Remarks           wal (Dr)       (Cr)
+                                                                Date
+                 1     S1988    31/Jan/20   31/Jan/2026     31/01/2026                     INF/NEFT/IN4260315      75,520.00                        -
+                       3340     26                          06:17:33 PM                    3284229/UTIB00006                                19,59,60,
+                                                                                           47/AKSHAYTRADIN                                    237.72
+                                                                                           GCO
+                 2     S1554    31/Jan/20   31/Jan/2026     31/01/2026                     RTGS-                               20,00,000            -
+                       1983     26                          12:11:03 PM                    UTIBR62026013153                           .00   19,58,84,
+                                                                                           571344-RJMS LAB                                    717.72
+                                                                                           PRIVATE LIMITED-
+                                                                                           924020051740620-
+                                                                                           UTIB0003527
+                 3     S1290    31/Jan/20   31/Jan/2026     31/01/2026                     SUDARSHA141PL:P         1,62,478.02                      -
+                       3381     26                          05:13:35 AM                    EN CHG                                           19,78,84,
+                                                                                           NONSEC:31-12-25                                    717.72
+                                                                                           to 30-01-26
+                 4     S1079    30/Jan/20   30/Jan/2026     30/01/2026                     INF/INFT/043174346                  10,00,159            -
+                       1021     26                          08:36:31 PM                    801/InvPayment                             .00   19,77,22,
+                                                                                           /ANDREAS                                           239.70
+                                                                                           PHARMA
+                 5     S9701    30/Jan/20   30/Jan/2026     30/01/2026                     RTGS/ICICR4202601       65,00,000                        -
+                       433      26                          06:50:00 PM                    3000589337/UTIB00              .00               19,87,22,
+                                                                                           00018/SUDARSHAN                                    398.70
+                                                                                           PHARMA
+                                                                                           INDUSTRIES LIM
+                 6     S9350    30/Jan/20   30/Jan/2026     30/01/2026                     RTGS-                               48,64,002            -
+                       418      26                          06:32:29 PM                    UTIBR62026013053                           .00   19,22,22,
+                                                                                           462754-RJMS LAB                                    398.70
+                                                                                           PRIVATE LIMITED-
+                                                                                           924020051740620-
+                                                                                           UTIB0003527
+                 7     S9254    30/Jan/20   30/Jan/2026     30/01/2026                     INF/NEFT/IN4260305      20,726.00                        -
+                       537      26                          06:26:49 PM                    2546327/MAHB000                                  19,70,86,
+                                                                                           0339/JAYAMULTISE                                   400.70
+                                                                                           RVIC
+                 8     S8893    30/Jan/20   30/Jan/2026     30/01/2026                     NEFT-                                3,02,080.00         -
+                       347      26                          06:04:16 PM                    CMS030267361747                                  19,70,65,
+                                                                                           0-COLOSPERSE                                       674.70
+                                                                                           DYES AND
+                                                                                           INTERMEDIATE-
+                                                                                           COLOSPERSE DYES
+                                                                                           AND -1546134273-
+                                                                                           KKBK0000958
+                 9     S8881    30/Jan/20   30/Jan/2026     30/01/2026                     GIB/002058354338/I      12,34,334                        -
+                       101      26                          06:03:23 PM                    CEGATE                         .00               19,73,67,
+                                                                                           /007000BEINIXY106                                  754.70
+                                                                                           02487435811165
+                 10    S7105    30/Jan/20   30/Jan/2026     30/01/2026                     RTGS-                               12,34,334            -
+                       260      26                          04:08:26 PM                    SCBLR12026013000                           .00   19,61,33,
+                                                                                           904757-GANGA                                       420.70
+                                                                                           RASAYANIE PVT
+                                                                                           LTD -33105123295-
+                                                                                           SCBL0036001
+                 11    S6859    30/Jan/20   30/Jan/2026     30/01/2026                     MMT/IMPS/6030159                     1,24,679.00         -
+                       186      26                          03:48:15 PM                    13227/IB IMPS To                                 19,73,67,
+                                                                                           054/AGROSYN                                        754.70
+                                                                                           IM/Kotak Mahindra
+
+
+
+
+
+
+                                                                                                                                                    Page 1 of
+
+--- PAGE 2 ---
+12    S6156    30/Jan/20   30/Jan/2026     30/01/2026                     RTGS-                                11,71,454            -
+      277      26                          02:48:49 PM                    SRCBR1202601300                             .00   19,74,92,
+                                                                          7131857-KHODIYAR                                    433.70
+                                                                          CHEMICAL
+                                                                          CORPORATION-
+                                                                          032500100003027-
+                                                                          SRCB0000001
+13    S4213    30/Jan/20   30/Jan/2026     30/01/2026                     RTGS/ICICR4202601        1,00,00,0                        -
+      877      26                          12:16:28 PM                    3000522497/FDRL0             00.00                19,86,63,
+                                                                          001100/VIVRITI                                      887.70
+                                                                          VENDOR
+14    S3239    30/Jan/20   30/Jan/2026     30/01/2026                     RTGS-                                20,00,000            -
+      694      26                          10:51:03 AM                    UTIBR62026013053                            .00   18,86,63,
+                                                                          236360-RJMS LAB                                     887.70
+                                                                          PRIVATE LIMITED-
+                                                                          924020051740620-
+                                                                          UTIB0003527
+15    S9900    29/Jan/20   29/Jan/2026     29/01/2026                     RTGS-                                25,00,000            -
+      0547     26                          10:24:09 PM                    SBINR12026012914                            .00   19,06,63,
+                                                                          633204-SORBITOL                                     887.70
+                                                                          CHEM PVT L-
+                                                                          43960128973-
+                                                                          SBIN0006839
+16    S9899    29/Jan/20   29/Jan/2026     29/01/2026                     RTGS-                                50,00,000            -
+      1163     26                          10:22:04 PM                    SBINR12026012914                            .00   19,31,63,
+                                                                          633139-SORBITOL                                     887.70
+                                                                          CHEM PVT L-
+                                                                          43960128973-
+                                                                          SBIN0006839
+17    S9731    29/Jan/20   29/Jan/2026     29/01/2026                     INF/INFT/043159842                   1,03,840.00          -
+      8725     26                          06:42:11 PM                    901/MAGIC PAINTS                                  19,81,63,
+                                                                          C                                                   887.70
+18    S9729    29/Jan/20   29/Jan/2026     29/01/2026                     INF/INFT/043159801                   1,06,000.00          -
+      5344     26                          06:40:14 PM                    111/MAGIC PAINTS                                  19,82,67,
+                                                                          C                                                   727.70
+19    S9630    29/Jan/20   29/Jan/2026     29/01/2026                     FT-BBG Security           3,970.70                        -
+      8527     26                          05:10:27 PM                    Insurance Renewal                                 19,83,73,
+                                                                                                                              727.70
+20    S9622    29/Jan/20   29/Jan/2026     29/01/2026                     NEFT-                                1,96,465.28          -
+      1447     26                          05:04:47 PM                    SCBLH02900713783                                  19,83,69,
+                                                                          -BERGER PAINTS                                      757.00
+                                                                          INDIA LIMITED-NEFT
+                                                                          PAYMENT-
+                                                                          32405019703-
+                                                                          SCBL0036001
+21    S9595    29/Jan/20   29/Jan/2026     29/01/2026                     INF/INFT/043157692      10,80,000                         -
+      6616     26                          04:47:39 PM                    741/CRISILRATINGS               .00               19,85,66,
+                                                                          LI                                                  222.28
+22    S9582    29/Jan/20   29/Jan/2026     29/01/2026                     NEFT-                                10,00,000            -
+      1691     26                          04:36:11 PM                    002537651301-                               .00   19,74,86,
+                                                                          SUDARSHAN                                           222.28
+                                                                          PHARMA
+                                                                          INDUSTRIES LI-
+                                                                          /URGENT/-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+23    S9540    29/Jan/20   29/Jan/2026     29/01/2026                     INF/INFT/043156864                      200.00            -
+      5293     26                          03:55:47 PM                    141/MAGIC PAINTS                                  19,84,86,
+                                                                          C                                                   222.28
+24    S9450    29/Jan/20   29/Jan/2026     29/01/2026                     RTGS/ICICR4202601       30,00,000                         -
+      2892     26                          02:22:56 PM                    2900542689/UTIB00               .00               19,84,86,
+                                                                          00018/SUDARSHAN                                     422.28
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+25    S9241    29/Jan/20   29/Jan/2026     29/01/2026                     INF/INFT/043152675                   25,00,373            -
+      8839     26                          10:59:55 AM                    391/Inv Payment                             .00   19,54,86,
+                                                                          /ANDREAS                                            422.28
+                                                                          PHARMA
+26    S8787    28/Jan/20   28/Jan/2026     28/01/2026                     INF/NEFT/IN4260285       5,00,000.00                      -
+      1280     26                          06:58:38 PM                    1346784/UBIN0568                                  19,79,86,
+                                                                          945/SUDARSHANP                                      795.28
+                                                                          HARMA
+27    S8778    28/Jan/20   28/Jan/2026     28/01/2026                     GIB/002058278415/I      12,34,334                         -
+      0245     26                          06:45:38 PM                    CEGATE                          .00               19,74,86,
+                                                                          /007000BEINIXY106                                   795.28
+                                                                          44448177866618
+28    S8672    28/Jan/20   28/Jan/2026     28/01/2026                     RTGS-                                2,38,135.00          -
+      2190     26                          05:11:32 PM                    UTIBR62026012852                                  19,62,52,
+                                                                          775378-HRITIK                                       461.28
+                                                                          CHEMICALS
+                                                                          PRIVATE LIMITED-
+                                                                          922030016970584-
+                                                                          UTIB0001704
+29    S8664    28/Jan/20   28/Jan/2026     28/01/2026                     NEFT-                                98,058.00            -
+      4470     26                          05:07:47 PM                    HDFCH0076240626                                   19,64,90,
+                                                                          2-GULBRANDSEN                                       596.28
+                                                                          INDUSTRIES LLP-
+                                                                          0001-
+                                                                          57500001186808-
+                                                                          HDFC0000240
+30    S8652    28/Jan/20   28/Jan/2026     28/01/2026                     INF/NEFT/IN4260285       1,23,458.00                      -
+      3600     26                          05:01:25 PM                    1224604/YESB0000                                  19,65,88,
+                                                                          164/RAJCHEMICALS                                    654.28
+
+
+
+
+
+
+                                                                                                                                    Page 2 of
+
+--- PAGE 3 ---
+31    S8648    28/Jan/20   28/Jan/2026    28/01/2026                      RTGS-                               12,34,334            -
+      9342     26                         04:57:34 PM                     SCBLR12026012800                           .00   19,64,65,
+                                                                          854314-GANGA                                       196.28
+                                                                          RASAYANIE PVT
+                                                                          LTD -33105123295-
+                                                                          SCBL0036001
+32    S8499    28/Jan/20   28/Jan/2026    28/01/2026                      INF/INFT/043144565       2,12,400.00                     -
+      0657     26                         02:40:52 PM                     541/LOHANAINTER                                  19,76,99,
+                                                                          NATI                                               530.28
+33    S8292    28/Jan/20   28/Jan/2026    28/01/2026                      RTGS/ICICR4202601       60,41,903                        -
+      9478     26                         11:30:20 AM                     2800514711/FDRL0               .00               19,74,87,
+                                                                          001100/VIVRITI                                     130.28
+                                                                          VENDOR
+34    S8276    28/Jan/20   28/Jan/2026    28/01/2026                      RTGS-                                9,40,578.00         -
+      0207     26                         11:04:18 AM                     KKBKR22026012820                                 19,14,45,
+                                                                          886516-                                            227.28
+                                                                          GULBRANDSEN
+                                                                          PRIVATE LIMITED-
+                                                                          1046195439-
+                                                                          KKBK0000958
+35    S7989    28/Jan/20   28/Jan/2026    28/01/2026                      RTGS-                               22,28,912            -
+      6145     26                         01:08:45 AM                     RATNR5202601270                            .00   19,23,85,
+                                                                          0084941-SNSG                                       805.28
+                                                                          TRADING PRIVATE
+                                                                          LIMITED-
+                                                                          609001206567-
+                                                                          RATN0000999
+36    S7834    27/Jan/20   27/Jan/2026    27/01/2026                      RTGS-                               39,00,132            -
+      9940     26                         07:27:31 PM                     SBINR12026012714                           .00   19,46,14,
+                                                                          225773-HALDIA                                      717.28
+                                                                          PETROCHEMICALSL
+                                                                          IMITED-
+                                                                          40278628189-
+                                                                          SBIN0004266
+37    S7770    27/Jan/20   27/Jan/2026    27/01/2026                      BIL/ONL/001150403        1,840.00                        -
+      3335     26                         06:16:33 PM                     868/Probitas I/TATA                              19,85,14,
+                                                                          AIG INSURA                                         849.28
+38    S7757    27/Jan/20   27/Jan/2026    27/01/2026                      RTGS/ICICR4202601       20,00,000                        -
+      9565     26                         06:05:40 PM                     2700581627/UBIN0               .00               19,85,13,
+                                                                          568945/SUDARSHA                                    009.28
+                                                                          NPHARMAINDUSTR
+                                                                          IESLTD
+39    S7685    27/Jan/20   27/Jan/2026    27/01/2026                      INF/NEFT/IN4260275       1,45,000.00                     -
+      7459     26                         04:59:08 PM                     0631531/KKBK0009                                 19,65,13,
+                                                                          582/KOTAKMAHIND                                    009.28
+                                                                          RALI
+40    S7648    27/Jan/20   27/Jan/2026    27/01/2026                      RTGS/ICICR4202601       45,00,000                        -
+      5373     26                         04:34:58 PM                     2700566631/BKID00              .00               19,63,68,
+                                                                          00089/SACHIN                                       009.28
+                                                                          CHEMICALS
+41    S7585    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NOBC000         75,35,871                        -
+      2236     26                         03:28:40 PM                     02926                          .00               19,18,68,
+                                                                          IMP_806568/ANUJ                                    009.28
+                                                                          CORPORATION
+42    S7585    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NIBLC000         2,360.00                        -
+      3529     26                         03:28:39 PM                     9726                                             18,43,32,
+                                                                          Commission/ANUJ                                    138.28
+                                                                          CORPORATION
+43    S7585    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NIBLC000           590.00                        -
+      3174     26                         03:28:39 PM                     9726 Courier/ANUJ                                18,43,29,
+                                                                          CORPORATION                                        778.28
+44    S7585    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NIBLC000         2,360.00                        -
+      3521     26                         03:28:38 PM                     9726 Other_Charges                               18,43,29,
+                                                                                                                             188.28
+45    S7582    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NOBC000         66,61,938                        -
+      9232     26                         03:25:45 PM                     02726                          .00               18,43,26,
+                                                                          IMP_806551/PERFE                                   828.28
+                                                                          CT  SOLVENTS
+46    S7582    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NIBLC000           590.00                        -
+      7689     26                         03:25:44 PM                     9526                                             17,76,64,
+                                                                          Courier/PERFECT                                    890.28
+                                                                          SOLVENTS
+47    S7582    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NIBLC000         2,360.00                        -
+      8165     26                         03:25:43 PM                     9526                                             17,76,64,
+                                                                          Commission/PERFEC                                  300.28
+                                                                          T  SOLVENTS
+48    S7582    27/Jan/20   27/Jan/2026    27/01/2026                      NTS/0018NIBLC000         2,360.00                        -
+      8154     26                         03:25:43 PM                     9526 Other_Charges                               17,76,61,
+                                                                                                                             940.28
+49    S7581    27/Jan/20   27/Jan/2026    27/01/2026                      RTGS/ICICR4202601       63,00,000                        -
+      6392     26                         03:23:55 PM                     2700554617/KKBK0               .00               17,76,59,
+                                                                          000958/SUDARSHA                                    580.28
+                                                                          NPHARMA
+                                                                          INDUSTRIES LTD
+50    S7572    27/Jan/20   27/Jan/2026    27/01/2026                      RTGS-                               70,00,000            -
+      9779     26                         03:14:22 PM                     YESBR52026012757                           .00   17,13,59,
+                                                                          050715-                                            580.28
+                                                                          PANCHSHEEL
+                                                                          ORGANICS-
+                                                                          000483800002265-
+                                                                          YESB0000986
+
+
+
+
+
+
+
+
+                                                                                                                                    Page 3 of
+
+--- PAGE 4 ---
+51    S7545    27/Jan/20   27/Jan/2026     27/01/2026                     RTGS-                               50,00,000             -
+      5915     26                          02:44:22 PM                    UBINR22026012701                            .00  17,83,59,
+                                                                          384881-                                             580.28
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+52    S7539    27/Jan/20   27/Jan/2026     27/01/2026                     RTGS/ICICR4202601       45,00,000                         -
+      6871     26                          02:38:30 PM                    2700547571/UTIB00              .00               18,33,59,
+                                                                          00018/SUDARSHAN                                     580.28
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+53    S7496    27/Jan/20   27/Jan/2026     27/01/2026                     RTGS-                               40,00,000             -
+      9869     26                          01:52:03 PM                    SBINR12026012714                            .00  17,88,59,
+                                                                          184525-SORBITOL                                     580.28
+                                                                          CHEM PVT L-
+                                                                          43960128973-
+                                                                          SBIN0006839
+54    S7496    27/Jan/20   27/Jan/2026     27/01/2026                     RTGS-                               50,00,000             -
+      0984     26                          01:50:35 PM                    SBINR12026012714                            .00  18,28,59,
+                                                                          184455-SORBITOL                                     580.28
+                                                                          CHEM PVT L-
+                                                                          43960128973-
+                                                                          SBIN0006839
+55    S6059    25/Jan/20   25/Jan/2026     25/01/2026                     Int on FD/RD                        21,614.00             -
+      6037     26                          02:31:08 AM                    XXX9210                                          18,78,59,
+                                                                          Tds:2402.Int:24016                                  580.28
+                                                                          and TAX:2402.
+56    S5872    24/Jan/20   24/Jan/2026     24/01/2026                     RTGS/ICICR4202601        5,80,000.00                      -
+      1181     26                          06:01:25 PM                    2400537591/SBIN00                                18,78,81,
+                                                                          04760/GK                                            194.28
+                                                                          MAPLECORPORATE
+                                                                          CONSULTANT
+57    S5799    24/Jan/20   24/Jan/2026     24/01/2026                     BIL/ONL/001149459          408.26                         -
+      9984     26                          03:59:26 PM                    243/Controller/ROC                               18,73,01,
+                                                                          FEES OF CAP                                         194.28
+                                                                          WORLDLINE EPAYM
+58    S5799    24/Jan/20   24/Jan/2026     24/01/2026                     BIL/ONL/001149458          408.26                         -
+      0934     26                          03:57:31 PM                    703/Controller/ROC                               18,73,00,
+                                                                          FEES OF CAP                                         786.02
+                                                                          WORLDLINE EPAYM
+59    S5797    24/Jan/20   24/Jan/2026     24/01/2026                     BIL/ONL/001149457          608.26                         -
+      2362     26                          03:53:55 PM                    630/Controller/ROC                               18,73,00,
+                                                                          FEES WORLDLINE                                      377.76
+                                                                          EPAYM
+60    S5796    24/Jan/20   24/Jan/2026     24/01/2026                     BIL/ONL/001149457          608.26                         -
+      3234     26                          03:51:59 PM                    092/Controller/ROC                               18,72,99,
+                                                                          FEES WORLDLINE                                      769.50
+                                                                          EPAYM
+61    S5628    24/Jan/20   24/Jan/2026     24/01/2026                     RTGS/ICICR4202601       50,00,000                         -
+      3596     26                          11:31:29 AM                    2400507683/UTIB00              .00               18,72,99,
+                                                                          01394/KARAN                                         161.24
+                                                                          MONOMERS PVT
+                                                                          LTD
+62    S5210    23/Jan/20   23/Jan/2026     23/01/2026                     GIB/002058148236/I      12,34,334                         -
+      4547     26                          05:58:50 PM                    CEGATE                         .00               18,22,99,
+                                                                          /007000BEINIXY105                                   161.24
+                                                                          57421800241614
+63    S5160    23/Jan/20   23/Jan/2026     23/01/2026                     NEFT-                                1,46,078.10          -
+      5728     26                          05:06:37 PM                    HDFCH0075659309                                  18,10,64,
+                                                                          2-SRF LIMITED 683-                                  827.24
+                                                                          0001-
+                                                                          05720310002683-
+                                                                          HDFC0000240
+64    S5117    23/Jan/20   23/Jan/2026     23/01/2026                     RTGS-                               12,34,334             -
+      3948     26                          04:38:05 PM                    SCBLR12026012300                            .00  18,12,10,
+                                                                          816282-GANGA                                        905.34
+                                                                          RASAYANIE PVT
+                                                                          LTD -33105123295-
+                                                                          SCBL0036001
+65    S5084    23/Jan/20   23/Jan/2026     23/01/2026                     RTGS-                               40,00,000             -
+      4232     26                          04:03:43 PM                    CNRBR5202601237                             .00  18,24,45,
+                                                                          5673804-SORBITOL                                    239.34
+                                                                          CHEM PRIVAT-
+                                                                          125008778297-
+                                                                          CNRB0000126
+66    S5027    23/Jan/20   23/Jan/2026     23/01/2026                     INF/INFT/043107449                   3,99,843.00          -
+      4226     26                          03:00:19 PM                    221//HITECH                                      18,64,45,
+                                                                          CHEMICAL                                            239.34
+67    S4850    23/Jan/20   23/Jan/2026     23/01/2026                     REMITTANCE                1,288.27                        -
+      3042     26                          01:39:04 PM                    ID:[0018SXR000526                                18,68,45,
+                                                                          26]:CGST                                            082.34
+68    S4850    23/Jan/20   23/Jan/2026     23/01/2026                     Remittance                1,288.27                        -
+      3042     26                          01:39:04 PM                    ID:[0018SXR000526                                18,68,43,
+                                                                          26]:SGST                                            794.07
+69    S4850    23/Jan/20   23/Jan/2026     23/01/2026                     REMITTANCE                 180.00                         -
+      3042     26                          01:39:04 PM                    ID:[0018SXR000526                                18,68,42,
+                                                                          26]:CGST                                            505.80
+70    S4850    23/Jan/20   23/Jan/2026     23/01/2026                     Remittance                 180.00                         -
+      3042     26                          01:39:04 PM                    ID:[0018SXR000526                                18,68,42,
+                                                                          26]:SGST                                            325.80
+71    S4850    23/Jan/20   23/Jan/2026     23/01/2026                     REMITTANCE                2,000.00                        -
+      3042     26                          01:39:04 PM                    ID:[0018SXR000526                                18,68,42,
+                                                                          26]:INWARD                                          145.80
+                                                                          REMITTANCE
+
+
+
+                                                                                                                                    Page 4 of
+
+--- PAGE 5 ---
+72    S4850    23/Jan/20   23/Jan/2026    23/01/2026                      REMITTANCE                          98,14,171            -
+      3042     26                         01:39:04 PM                     ID:[0018SXR000526                          .32   18,68,40,
+                                                                          26]:REALISE                                        145.80
+73    S4882    23/Jan/20   23/Jan/2026    23/01/2026                      INF/INFT/043105379       7,965.00                        -
+      9719     26                         12:30:29 PM                     831/CONNUCTLIFES                                 19,66,54,
+                                                                          CIE                                                317.12
+74    S4861    23/Jan/20   23/Jan/2026    23/01/2026                      NEFT-                               38,650.00            -
+      5325     26                         12:09:40 PM                     SIBLN26023079016-                                19,66,46,
+                                                                          SOUTH INDIAN                                       352.12
+                                                                          BANK-/FAST///// -
+                                                                          0263256000000067
+                                                                          -SIBL0000263
+75    S4857    23/Jan/20   23/Jan/2026    23/01/2026                      INF/NEFT/IN4260235       3,48,000.00                     -
+      0724     26                         12:05:52 PM                     8669591/SBIN00200                                19,66,85,
+                                                                          87/CSIRINDIANINSTI                                 002.12
+76    S4847    23/Jan/20   23/Jan/2026    23/01/2026                      INF/NEFT/IN4260235       1,35,000.00                     -
+      8733     26                         11:56:09 AM                     8665322/IBKL00004                                19,63,37,
+                                                                          92/NILESHBARVEA                                    002.12
+                                                                          NDA
+77    S4738    23/Jan/20   23/Jan/2026    23/01/2026                      NEFT-                               20,851.00            -
+      3297     26                         09:34:44 AM                     002527655446-                                    19,62,02,
+                                                                          HITECH ELECTRO                                     002.12
+                                                                          COMPONENTS
+                                                                          PRIV-/URGENT/-
+                                                                          560101000107110-
+                                                                          UBIN0902217
+78    S4397    22/Jan/20   22/Jan/2026    22/01/2026                      NEFT-                               19,750.00            -
+      0063     26                         07:33:07 PM                     SIBLN26022008658-                                19,62,22,
+                                                                          SOUTH INDIAN                                       853.12
+                                                                          BANK-/FAST///// -
+                                                                          0263256000000067
+                                                                          -SIBL0000263
+79    S4330    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS/ICICR4202601        4,73,625.00                     -
+      8773     26                         06:30:00 PM                     2200575549/RATN0                                 19,62,42,
+                                                                          000208/S                                           603.12
+                                                                          VENKATRAO
+80    S4304    22/Jan/20   22/Jan/2026    22/01/2026                      NEFT-                                1,71,129.00         -
+      1769     26                         06:06:25 PM                     KKBKH2602268434                                  19,57,68,
+                                                                          8-MANGLYA                                          978.12
+                                                                          CHEMICALS-
+                                                                          PAYMENT-
+                                                                          505011028299-
+                                                                          KKBK0000958
+81    S4303    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS-                                4,51,439.00         -
+      1711     26                         06:05:49 PM                     KKBKR22026012220                                 19,59,40,
+                                                                          827773-CREDENCE                                    107.12
+                                                                          CHEM
+                                                                          PRIVATELIMITED-
+                                                                          6511574764-
+                                                                          KKBK0000958
+82    S4244    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS/ICICR4202601       46,00,000                        -
+      4694     26                         05:06:42 PM                     2200563287/UTIB00              .00               19,63,91,
+                                                                          00018/SUDARSHAN                                    546.12
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+83    S4242    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS/ICICR4202601       50,00,000                        -
+      9937     26                         05:05:44 PM                     2200563110/UTIB00              .00               19,17,91,
+                                                                          00018/SUDARSHAN                                    546.12
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+84    S4241    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS/ICICR4202601       50,00,000                        -
+      8247     26                         05:04:54 PM                     2200562999/UTIB00              .00               18,67,91,
+                                                                          00018/SUDARSHAN                                    546.12
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+85    S4236    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS-                               48,89,000            -
+      4293     26                         05:00:42 PM                     CNRBR5202601227                            .00   18,17,91,
+                                                                          5571656-SORBITOL                                   546.12
+                                                                          CHEM PRIVAT-
+                                                                          125008778297-
+                                                                          CNRB0000126
+86    S4124    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS-                               50,00,000            -
+      4321     26                         03:14:54 PM                     BARBR5202601220                            .00   18,66,80,
+                                                                          0906605-EBIDA                                      546.12
+                                                                          TRADING CO-
+                                                                          03800500000117-
+                                                                          BARB0ANDHER
+87    S4115    22/Jan/20   22/Jan/2026    22/01/2026                      NEFT-                               34,80,000            -
+      6471     26                         03:04:35 PM                     IN22602237066902-                          .00   19,16,80,
+                                                                          JEEVAN CHEMICALS                                   546.12
+                                                                          PVT LTD-JEEVAN
+                                                                          CHEMICALS PVT-
+                                                                          0104SLNEFTPL-
+                                                                          ICIC0000104
+88    S4004    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS-                               14,51,294            -
+      8354     26                         01:06:16 PM                     UTIBR62026012251                           .00   19,51,60,
+                                                                          647318-RJMS LAB                                    546.12
+                                                                          PRIVATE LIMITED-
+                                                                          924020051740620-
+                                                                          UTIB0003527
+89    S3930    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS/ICICR4202601        5,80,789.00                     -
+      0882     26                         11:41:14 AM                     2200516032/RATN0                                 19,66,11,
+                                                                          000209/SNSG                                        840.12
+                                                                          TRADING PRIVATE
+                                                                          LIMITED
+90    S3928    22/Jan/20   22/Jan/2026    22/01/2026                      RTGS/ICICR4202601       25,00,000                        -
+      4137     26                         11:38:46 AM                     2200515640/BKID00              .00               19,60,31,
+                                                                          00089/SACHIN                                       051.12
+                                                                          CHEMICALS
+
+
+                                                                                                                                    Page 5 of
+
+--- PAGE 6 ---
+91    S3863    22/Jan/20   22/Jan/2026     22/01/2026                     INF/INFT/043093152                  25,04,653             -
+      7538     26                          10:07:27 AM                    211/Inv Payment                            .00   19,35,31,
+                                                                          /ANDREAS                                            051.12
+                                                                          PHARMA
+92    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       534.05                         -
+      7346     26                          08:03:02 PM                    ID:[0018NMDC0125                                 19,60,35,
+                                                                          926]:SKY PETRO                                      704.12
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+93    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       534.05                         -
+      7346     26                          08:03:02 PM                    ID:[0018NMDC0125                                 19,60,35,
+                                                                          926]:SKY PETRO                                      170.07
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+94    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                         67.50                        -
+      7346     26                          08:03:02 PM                    ID:[0018NMDC0125                                 19,60,34,
+                                                                          926]:SKY PETRO                                      636.02
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+95    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                         67.50                        -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,34,
+                                                                          926]:SKY PETRO                                      568.52
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+96    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       750.00                         -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,34,
+                                                                          926]:SKY PETRO                                      501.02
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+97    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       251.53                         -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,33,
+                                                                          926]:SKY PETRO                                      751.02
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+98    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       251.53                         -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,33,
+                                                                          926]:SKY PETRO                                      499.49
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+99    S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                     2,794.80                         -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,33,
+                                                                          926]:SKY PETRO                                      247.96
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+100   S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       180.00                         -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,30,
+                                                                          926]:SKY PETRO                                      453.16
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+101   S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                       180.00                         -
+      7346     26                          08:03:01 PM                    ID:[0018NMDC0125                                 19,60,30,
+                                                                          926]:SKY PETRO                                      273.16
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+102   S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                     2,000.00                         -
+      7346     26                          08:03:00 PM                    ID:[0018NMDC0125                                 19,60,30,
+                                                                          926]:SKY PETRO                                      093.16
+                                                                          CHEM PTE
+                                                                          LTDCHARGE
+103   S3512    21/Jan/20   21/Jan/2026     21/01/2026                     Bill                    14,33,918                         -
+      7346     26                          08:03:00 PM                    ID:[0018NMDC0125               .72               19,60,28,
+                                                                          926]:SKY PETRO                                      093.16
+                                                                          CHEM PTE LTD
+104   S3476    21/Jan/20   21/Jan/2026     21/01/2026                     INF/NEFT/IN4260215       8,64,000.00                      -
+      1124     26                          07:10:53 PM                    7873298/KKBK0000                                 19,45,94,
+                                                                          962/XPONENTIALCA                                    174.44
+                                                                          PCO
+105   S3382    21/Jan/20   21/Jan/2026     21/01/2026                     INF/NEFT/IN4260215      76,464.00                         -
+      4248     26                          05:43:25 PM                    7783148/HDFC0000                                 19,37,30,
+                                                                          554/SIMAPRODUCT                                     174.44
+                                                                          S
+106   S3372    21/Jan/20   21/Jan/2026     21/01/2026                     NEFT-                               10,00,000             -
+      2316     26                          05:35:53 PM                    KKBKH2602186539                            .00   19,36,53,
+                                                                          5-MANGLYA                                           710.44
+                                                                          CHEMICALS-
+                                                                          9320932107-
+                                                                          505011028299-
+                                                                          KKBK0000958
+107   S3371    21/Jan/20   21/Jan/2026     21/01/2026                     NEFT-                               10,00,000             -
+      1606     26                          05:35:00 PM                    KKBKH2602186483                            .00   19,46,53,
+                                                                          0-MANGLYA                                           710.44
+                                                                          CHEMICALS-
+                                                                          9320932107-
+                                                                          505011028299-
+                                                                          KKBK0000958
+108   S3254    21/Jan/20   21/Jan/2026     21/01/2026                     RTGS/ICICR4202601       30,00,000                         -
+      8977     26                          04:02:50 PM                    2100552052/BKID00              .00               19,56,53,
+                                                                          00089/SACHIN                                        710.44
+                                                                          CHEMICALS
+109   S2990    21/Jan/20   21/Jan/2026     21/01/2026                     NTS/0018NILC0007           590.00                         -
+      3163     26                          11:06:03 AM                    726:SFMS                                         19,26,53,
+                                                                                                                              710.44
+110   S2990    21/Jan/20   21/Jan/2026     21/01/2026                     NTS/0018NILC0007           885.00                         -
+      2498     26                          11:06:02 AM                    726:Text                                         19,26,53,
+                                                                          Amendment Charge                                    120.44
+
+
+
+
+                                                                                                                                    Page 6 of
+
+--- PAGE 7 ---
+111   S2495    20/Jan/20   20/Jan/2026     20/01/2026                      RTGS/ICICR4202601       15,00,000                         -
+      4568     26                          06:25:19 PM                     2000578886/HDFC0                .00               19,26,52,
+                                                                           001077/BRJ                                          235.44
+                                                                           INTERIORS PVT LTD
+112   S2443    20/Jan/20   20/Jan/2026     20/01/2026                      RTGS-                                12,63,780            -
+      0139     26                          05:40:37 PM                     KKBKR22026012020                            .00   19,11,52,
+                                                                           790420-                                             235.44
+                                                                           GULBRANDSEN
+                                                                           PRIVATE LIMITED-
+                                                                           1046195439-
+                                                                           KKBK0000958
+113   S2438    20/Jan/20   20/Jan/2026     20/01/2026                      INF/INFT/043076789        1,990.00                        -
+      3516     26                          05:36:19 PM                     701/ICICILOMBARD                                  19,24,16,
+                                                                           GEN                                                 015.44
+114   S2419    20/Jan/20   20/Jan/2026     20/01/2026                      INF/INFT/043076418      41,300.00                         -
+      8415     26                          05:16:06 PM                     271/DOLPHINCHEMI                                  19,24,14,
+                                                                           CAL                                                 025.44
+115   S2338    20/Jan/20   20/Jan/2026     20/01/2026                      RTGS-                                39,88,983            -
+      6926     26                          04:14:45 PM                     UTIBR62026012051                            .00   19,23,72,
+                                                                           194907-RJMS LAB                                     725.44
+                                                                           PRIVATE LIMITED-
+                                                                           924020051740620-
+                                                                           UTIB0003527
+116   S2329    20/Jan/20   20/Jan/2026     20/01/2026                      NTS/0018NILC0007            590.00                        -
+      8051     26                          04:06:28 PM                     726:SFMS                                          19,63,61,
+                                                                                                                               708.44
+117   S2329    20/Jan/20   20/Jan/2026     20/01/2026                      NTS/0018NILC0007        67,631.18                         -
+      8020     26                          04:06:27 PM                     726:Commission                                    19,63,61,
+                                                                                                                               118.44
+118   S2212    20/Jan/20   20/Jan/2026     20/01/2026                      RTGS-                                16,70,000            -
+      7170     26                          02:05:44 PM                     CNRBR5202601207                             .00   19,62,93,
+                                                                           5331710-SORBITOL                                    487.26
+                                                                           CHEM PRIVAT-
+                                                                           125008778297-
+                                                                           CNRB0000126
+119   M3311    20/Jan/20   20/Jan/2026     20/01/2026                      TRF TO FD no.           15,84,835                         -
+      462      26                          01:52:08 PM                     054410051311                    .00               19,79,63,
+                                                                                                                               487.26
+120   S2095    20/Jan/20   20/Jan/2026     20/01/2026                      GIB/002057865839/        2,38,040.00                      -
+      3205     26                          12:13:01 PM                     GST                                               19,63,78,
+                                                                           /26012700744461                                     652.26
+121   M3154    20/Jan/20   20/Jan/2026     20/01/2026                      054410050431:                        5,43,577.00          -
+      646      26                          11:48:43 AM                     Closure Proceeds                                  19,61,40,
+                                                                                                                               612.26
+122   M3152    20/Jan/20   20/Jan/2026     20/01/2026                      054410050089:                        10,14,999            -
+      143      26                          11:46:49 AM                     Closure Proceeds                            .79   19,66,84,
+                                                                                                                               189.26
+123   S1475    19/Jan/20   19/Jan/2026     19/01/2026                      INF/NEFT/IN4260195       1,00,000.00                      -
+      7923     26                          06:14:49 PM                     6556697/BKID00000                                 19,76,99,
+                                                                           89/SACHINCHEMIC                                     189.05
+                                                                           ALS
+124   S1249    19/Jan/20   19/Jan/2026     19/01/2026                      COMPPAIDUBINN52                          10.92            -
+      4279     26                          04:51:54 PM                     026011018621555                                   19,75,99,
+                                                                                                                               189.05
+125   S1315    19/Jan/20   19/Jan/2026     19/01/2026                      NTS/0018NOBC000         53,93,925                         -
+      9913     26                          04:13:36 PM                     02826                           .00               19,75,99,
+                                                                           IMP_797513/SORBIT                                   199.97
+                                                                           OL CHEM PVTLTD
+126   S1315    19/Jan/20   19/Jan/2026     19/01/2026                      NTS/0018NIBLC000        11,800.00                         -
+      9863     26                          04:13:36 PM                     9626                                              19,22,05,
+                                                                           Commission/SORBIT                                   274.97
+                                                                           OL CHEM PVTLTD
+127   S1249    19/Jan/20   19/Jan/2026     19/01/2026                      INF/INFT/043061970       3,54,611.00                      -
+      4107     26                          03:02:15 PM                     331/SHREEJICHEMIC                                 19,21,93,
+                                                                           AL                                                  474.97
+128   S1247    19/Jan/20   19/Jan/2026     19/01/2026                      RTGS/ICICR4202601       25,00,000                         -
+      2048     26                          03:00:09 PM                     1900544400/BKID00               .00               19,18,38,
+                                                                           00089/SACHIN                                        863.97
+                                                                           CHEMICALS
+129   S1239    19/Jan/20   19/Jan/2026     19/01/2026                      BIL/ONL/001147636       10,940.00                         -
+      3668     26                          02:50:04 PM                     032/Adani Elec                                    18,93,38,
+                                                                                                                               863.97
+130   S1236    19/Jan/20   19/Jan/2026     19/01/2026                      BIL/ONL/001147634       11,530.00                         -
+      4970     26                          02:47:15 PM                     944/Adani Elec                                    18,93,27,
+                                                                                                                               923.97
+131   S1234    19/Jan/20   19/Jan/2026     19/01/2026                      BIL/ONL/001147633       24,290.00                         -
+      3023     26                          02:44:57 PM                     977/Adani Elec                                    18,93,16,
+                                                                                                                               393.97
+132   S1225    19/Jan/20   19/Jan/2026     19/01/2026                      RTGS-                                40,00,000            -
+      5833     26                          02:36:57 PM                     SBINR12026011913                            .00   18,92,92,
+                                                                           371657-SORBITOL                                     103.97
+                                                                           CHEM PVT L-
+                                                                           43960128973-
+                                                                           SBIN0006839
+133   S1167    19/Jan/20   19/Jan/2026     19/01/2026                      NEFT-                                2,59,600.00          -
+      8427     26                          01:34:23 PM                     0119i29702298581-                                 19,32,92,
+                                                                           Y-SL////BL//-                                       103.97
+                                                                           1440102000002875
+                                                                           -IBKL0NEFT01
+134   S1160    19/Jan/20   19/Jan/2026     19/01/2026                      NTS/0018NMUB000          1,02,53,0                        -
+      2244     26                          01:26:08 PM                     9126                         70.00                19,35,51,
+                                                                           IMP_797421/MESKA                                    703.97
+                                                                           JOINWAY
+                                                                           PHARMACEUTICAL
+                                                                           CO.,
+
+
+
+                                                                                                                                      Page 7 of
+
+--- PAGE 8 ---
+135  S1160    19/Jan/20   19/Jan/2026     19/01/2026                     NTS/0018NMUB000          2,360.00                        -
+     2179     26                          01:26:07 PM                    9126                                             18,32,98,
+                                                                         Commission/MESKA                                   633.97
+                                                                         JOINWAY
+                                                                         PHARMACEUTICAL
+                                                                         CO.,
+136  S1160    19/Jan/20   19/Jan/2026     19/01/2026                     NTS/0018NMUB000          1,327.78                        -
+     1507     26                          01:26:06 PM                    9126 FC Conversion                               18,32,96,
+                                                                         Tax/MESKA                                          273.97
+                                                                         JOINWAY
+                                                                         PHARMACEUTICAL
+                                                                         CO., - SGST
+137  S1160    19/Jan/20   19/Jan/2026     19/01/2026                     NTS/0018NMUB000          1,327.78                        -
+     1043     26                          01:26:06 PM                    9126 FC Conversion                               18,32,94,
+                                                                         Tax/MESKA                                          946.19
+                                                                         JOINWAY
+                                                                         PHARMACEUTICAL
+                                                                         CO., - CGST
+138  S1124    19/Jan/20   19/Jan/2026     19/01/2026                     RTGS-                               30,00,000            -
+     4352     26                          12:47:16 PM                    UBINR22026011901                           .00   18,32,93,
+                                                                         816714-                                            618.41
+                                                                         SUDARSHAN
+                                                                         PHARMA
+                                                                         INDUSTRIES LIMITE-
+                                                                         696705010000102-
+                                                                         UBIN0568945
+139  S1084    19/Jan/20   19/Jan/2026     19/01/2026                     RTGS-                               29,89,354            -
+     6926     26                          12:05:40 PM                    SRCBR1202601190                            .00   18,62,93,
+                                                                         6860957-ADINATH                                    618.41
+                                                                         PETROCHEMS-
+                                                                         014500100002915-
+                                                                         SRCB0000001
+140  S1070    19/Jan/20   19/Jan/2026     19/01/2026                     RTGS-                               35,00,000            -
+     3630     26                          11:47:28 AM                    UBINR22026011901                           .00   18,92,82,
+                                                                         806091-                                            972.41
+                                                                         SUDARSHAN
+                                                                         PHARMA
+                                                                         INDUSTRIES LIMITE-
+                                                                         696705010000102-
+                                                                         UBIN0568945
+141  S2785    17/Jan/20   17/Jan/2026     17/01/2026                     RTGS/ICICR4202601       69,44,986                        -
+     90       26                          04:07:50 PM                    1700543094/AMCB0               .00               19,27,82,
+                                                                         660022/SAMARIKAP                                   972.41
+                                                                         HARMA SOLTUIONS
+                                                                         LLP
+142  S2585    17/Jan/20   17/Jan/2026     17/01/2026                     RTGS-                               40,00,000            -
+     40       26                          04:05:32 PM                    UBINR22026011701                           .00   18,58,37,
+                                                                         759027-                                            986.41
+                                                                         SUDARSHAN
+                                                                         PHARMA
+                                                                         INDUSTRIES LIMITE-
+                                                                         696705010000102-
+                                                                         UBIN0568945
+143  S1574    17/Jan/20   17/Jan/2026     17/01/2026                     MMT/IMPS/6017151                    67,203.00            -
+     20       26                          03:53:59 PM                    15536/IB IMPS To                                 18,98,37,
+                                                                         054/AGROSYN                                        986.41
+                                                                         IM/Kotak Mahindra
+144  S1320    17/Jan/20   17/Jan/2026     17/01/2026                     INF/INFT/043049565                  35,02,023            -
+     69       26                          03:50:31 PM                    871/Inv Payment                            .00   18,99,05,
+                                                                         /ANDREAS                                           189.41
+                                                                         PHARMA
+145  S1286    17/Jan/20   17/Jan/2026     17/01/2026                     RTGS-                               40,00,000            -
+     52       26                          03:50:11 PM                    SBINR12026011713                           .00   19,34,07,
+                                                                         245991-SORBITOL                                    212.41
+                                                                         CHEM PVT L-
+                                                                         43960128973-
+                                                                         SBIN0006839
+146  S8336    17/Jan/20   17/Jan/2026     17/01/2026                     RTGS-                               11,55,858            -
+     7        26                          03:43:17 PM                    KKBKR52026011700                           .00   19,74,07,
+                                                                         920451-MODI                                        212.41
+                                                                         CHEMICAL-
+                                                                         3811429282-
+                                                                         KKBK0000958
+147  S9974    17/Jan/20   17/Jan/2026     17/01/2026                     INF/NEFT/IN4260175       7,400.00                        -
+     2456     26                          03:02:05 PM                    5589738/HDFC0000                                 19,85,63,
+                                                                         086/TOP10RETAILS                                   070.41
+                                                                         PRI
+148  S9394    16/Jan/20   16/Jan/2026     16/01/2026                     RTGS/ICICR4202601       15,00,000                        -
+     2956     26                          06:33:57 PM                    1600567598/UTIB00              .00               19,85,55,
+                                                                         02171/KRISHNA                                      670.41
+                                                                         SOLVECHEM
+                                                                         LIMITED
+149  S9323    16/Jan/20   16/Jan/2026     16/01/2026                     BIL/ONL/001146807        4,860.00                        -
+     7931     26                          05:25:28 PM                    369/Adani Elec                                   19,70,55,
+                                                                                                                            670.41
+150  S9298    16/Jan/20   16/Jan/2026     16/01/2026                     NEFT-                                8,06,053.00         -
+     4198     26                          05:03:17 PM                    KKBKH2601674486                                  19,70,50,
+                                                                         4-MANGLYA                                          810.41
+                                                                         CHEMICALS-
+                                                                         9320932107-
+                                                                         505011028299-
+                                                                         KKBK0000958
+151  S9297    16/Jan/20   16/Jan/2026     16/01/2026                     NEFT-                                8,06,908.00         -
+     0542     26                          05:02:32 PM                    KKBKH2601674407                                  19,78,56,
+                                                                         2-MANGLYA                                          863.41
+                                                                         CHEMICALS-
+                                                                         9320932107-
+                                                                         505011028299-
+                                                                         KKBK0000958
+
+
+
+                                                                                                                                  Page 8 of
+
+--- PAGE 9 ---
+152   S9229    16/Jan/20   16/Jan/2026    16/01/2026                      NEFT-                               50,000.00             -
+      6093     26                         04:04:46 PM                     MAHBH0063841248                                  19,86,63,
+                                                                          3-SKYNETRIX                                        771.41
+                                                                          INTERACTIVE
+                                                                          PRIVATE LIMI- -
+                                                                          0000006041689657
+                                                                          5-MAHB0001196
+153   S9218    16/Jan/20   16/Jan/2026    16/01/2026                      RTGS/ICICR4202601       28,35,000                         -
+      8331     26                         03:53:33 PM                     1600545558/DEUT0               .00               19,87,13,
+                                                                          784BBY/TATA                                        771.41
+                                                                          AIGGENERAL
+                                                                          INSURANCE CO L
+154   S9217    16/Jan/20   16/Jan/2026    16/01/2026                      RTGS/ICICR4202601        8,00,000.00                      -
+      0533     26                         03:50:53 PM                     1600545136/DEUT0                                 19,58,78,
+                                                                          784BBY/TATA                                        771.41
+                                                                          AIGGENERAL
+                                                                          INSURANCE CO L
+155   S9183    16/Jan/20   16/Jan/2026    16/01/2026                      INF/INFT/043038374                  31,50,000             -
+      5086     26                         03:11:32 PM                     681/Payment                                .00   19,50,78,
+                                                                          /ANDREAS                                           771.41
+                                                                          PHARMA
+156   S9176    16/Jan/20   16/Jan/2026    16/01/2026                      INF/INFT/043038257                   3,57,493.00          -
+      8285     26                         03:04:13 PM                     081/Inv Payment                                  19,82,28,
+                                                                          /ANDREAS                                           771.41
+                                                                          PHARMA
+157   S8373    15/Jan/20   15/Jan/2026    15/01/2026                      NEFT-                                2,40,720.00          -
+      2348     26                         03:35:14 PM                     YESCX60150032531                                 19,85,86,
+                                                                          -PARAS LAMINATES                                   264.41
+                                                                          PVT LTD-
+                                                                          GZBMUM2586-
+                                                                          013684600001459-
+                                                                          YESB0000001
+158   S7441    14/Jan/20   14/Jan/2026    14/01/2026                      INF/NEFT/IN4260145       1,00,000.00                      -
+      7315     26                         02:11:43 PM                     3926316/UTIB00000                                19,88,26,
+                                                                          18/SPILAXIS058                                     984.41
+159   S6849    13/Jan/20   13/Jan/2026    13/01/2026                      RTGS/ICICR4202601        2,16,000.00                      -
+      1488     26                         07:23:48 PM                     1300586718/IBKL00                                19,87,26,
+                                                                          01625/VANIK                                        984.41
+                                                                          FINANCE PRIVATE
+                                                                          LIMITED
+160   S6840    13/Jan/20   13/Jan/2026    13/01/2026                      RTGS-                                2,00,000.00          -
+      1258     26                         07:11:38 PM                     UBINR22026011301                                 19,85,10,
+                                                                          489655-                                            984.41
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+161   S6721    13/Jan/20   13/Jan/2026    13/01/2026                      RTGS/ICICR4202601       12,04,308                         -
+      4734     26                         05:27:25 PM                     1300571021/KKBK0               .00               19,87,10,
+                                                                          000841/RELIANCEC                                   984.41
+                                                                          HEMICALS
+162   S6713    13/Jan/20   13/Jan/2026    13/01/2026                      RTGS-                               10,00,000             -
+      1019     26                         05:18:35 PM                     UBINR22026011301                           .00   19,75,06,
+                                                                          474478-                                            676.41
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+163   S5846    12/Jan/20   12/Jan/2026    12/01/2026                      GIB/002057386594/       16,51,160                         -
+      9223     26                         07:35:46 PM                     DTAX                           .00               19,85,06,
+                                                                          /26011200121903ICI                                 676.41
+                                                                          C
+164   S5817    12/Jan/20   12/Jan/2026    12/01/2026                      NEFT-                                2,31,280.00          -
+      4939     26                         07:06:48 PM                     HSBCN0120969064                                  19,68,55,
+                                                                          3-SUPER BOND                                       516.41
+                                                                          ADHESIVES
+                                                                          PRIVATE LIMITE-
+                                                                          /ACC/NEFT///REC/SE
+                                                                          ND-006-239669-
+                                                                          001-HSBC0
+165   S5766    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS/ICICR4202601        7,99,920.00                      -
+      0854     26                         06:22:05 PM                     1200583273/SRCB0                                 19,70,86,
+                                                                          000262/VED                                         796.41
+                                                                          ROADWAYS
+166   S5760    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS/ICICR4202601        4,30,245.00                      -
+      8763     26                         06:17:05 PM                     1200582531/RATN0                                 19,62,86,
+                                                                          000209/SNSG                                        876.41
+                                                                          TRADING PRIVATE
+                                                                          LIMITED
+167   S5736    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS-                               15,32,700             -
+      2715     26                         05:59:06 PM                     CITIR520260112007                          .00   19,58,56,
+                                                                          09069-SUMITOMO                                     631.41
+                                                                          CHEMICAL INDIA
+                                                                          LIMITED-
+                                                                          0009663002-
+                                                                          CITI0100000
+168   S5728    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS-                                4,30,500.00          -
+      6204     26                         05:52:39 PM                     UBINR22026011201                                 19,73,89,
+                                                                          367585-                                            331.41
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+
+
+
+
+
+                                                                                                                                    Page 9 of
+
+--- PAGE 10 ---
+169   S5724    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS/ICICR4202601       27,00,000                        -
+      2354     26                         05:48:25 PM                     1200577939/RATN0               .00               19,78,19,
+                                                                          000209/SNSG                                        831.41
+                                                                          TRADING PRIVATE
+                                                                          LIMITED
+170   S5721    12/Jan/20   12/Jan/2026    12/01/2026                      054451000192 -          12,19,80,                        -
+      7345     26                         05:46:03 PM                     Payoff Source a/c          041.20                19,51,19,
+                                                                                                                             831.41
+171   S5721    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS-                               27,00,000            -
+      7912     26                         05:45:58 PM                     UBINR22026011201                           .00   7,31,39,7
+                                                                          366415-                                             90.21
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+172   S5707    12/Jan/20   12/Jan/2026    12/01/2026                      NEFT-                               5,45,750.00          -
+      4636     26                         05:35:52 PM                     KKBKH2601276184                                  7,58,39,7
+                                                                          3-PREMIER DRUG                                      90.21
+                                                                          HOUSE-PAYMENT-
+                                                                          9819079421-
+                                                                          KKBK0000958
+173   S5632    12/Jan/20   12/Jan/2026    12/01/2026                      RTGS-                               20,00,000            -
+      5377     26                         04:54:33 PM                     UBINR22026011201                           .00   7,63,85,5
+                                                                          352204-                                             40.21
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+174   S5493    12/Jan/20   12/Jan/2026    12/01/2026                      INF/NEFT/IN4260125      1,00,000.00                      -
+      7629     26                         02:54:57 PM                     2204132/UBIN0568                                 7,83,85,5
+                                                                          945/SUDARSHANP                                      40.21
+                                                                          HARMA
+175   S4735    11/Jan/20   11/Jan/2026    11/01/2026                      Loan Recovery           1,22,876.19                      -
+      3737     26                         08:26:40 PM                     For054460003340                                  7,82,85,5
+                                                                                                                              40.21
+176   S4224    10/Jan/20   10/Jan/2026    10/01/2026                      NEFT-                               55,000.00            -
+      4514     26                         08:58:02 PM                     002505258944-                                    7,81,62,6
+                                                                          SUDARSHAN                                           64.02
+                                                                          PHARMA
+                                                                          INDUSTRIES LI-
+                                                                          /URGENT/-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+177   S4219    10/Jan/20   10/Jan/2026    10/01/2026                      Loan Recovery           67,876.19                        -
+      9937     26                         08:51:04 PM                     For054460003340                                  7,82,17,6
+                                                                                                                              64.02
+178   S3426    09/Jan/20   09/Jan/2026    10/01/2026                      Loan Recovery           67,876.19                        -
+      6836     26                         12:23:55 AM                     For054460003340                                  7,81,49,7
+                                                                                                                              87.83
+179   S3226    09/Jan/20   09/Jan/2026    09/01/2026                      RTGS/ICICR4202601       52,00,000                        -
+      5169     26                         06:49:28 PM                     0900572175/UBIN0               .00               7,80,81,9
+                                                                          568945/SUDARSHA                                     11.64
+                                                                          NPHARMAINDUSTR
+                                                                          IESLTD
+180   S3174    09/Jan/20   09/Jan/2026    09/01/2026                      RTGS/ICICR4202601       20,00,000                        -
+      5848     26                         06:10:21 PM                     0900566852/UTIB00              .00               7,28,81,9
+                                                                          01394/KARAN                                         11.64
+                                                                          MONOMERS PVT
+                                                                          LTD
+181   S3138    09/Jan/20   09/Jan/2026    09/01/2026                      RTGS-                               41,06,400            -
+      9364     26                         05:44:04 PM                     SBINR52026010912                           .00   7,08,81,9
+                                                                          435126-VIHITA                                       11.64
+                                                                          CHEM PRIVATE
+                                                                          LIMITED-
+                                                                          42610958898-
+                                                                          SBIN0004266
+182   S3114    09/Jan/20   09/Jan/2026    09/01/2026                      RTGS-                               15,00,000            -
+      6283     26                         05:24:44 PM                     UTIBR52026010900                           .00   7,49,88,3
+                                                                          366832-AKKSHAT                                      11.64
+                                                                          PURE CHEM-
+                                                                          919030027927405-
+                                                                          UTIB0000508
+183   S3090    09/Jan/20   09/Jan/2026    09/01/2026                      MMT/IMPS/6009179                          1.00           -
+      8391     26                         05:05:32 PM                     79833/BAV/CASHFR                                 7,64,88,3
+                                                                          EE P/NSDL                                           11.64
+                                                                          PAYMENTS B
+184   S3053    09/Jan/20   09/Jan/2026    09/01/2026                      RTGS-                               15,00,000            -
+      8139     26                         04:44:57 PM                     CNRBR5202601097                            .00   7,64,88,3
+                                                                          4573563-SORBITOL                                    12.64
+                                                                          CHEM PRIVAT-
+                                                                          125008778297-
+                                                                          CNRB0000126
+185   S2830    09/Jan/20   09/Jan/2026    09/01/2026                      NEFT-                                9,863.00            -
+      5036     26                         01:07:18 PM                     SIBLN26009200793-                                7,79,88,3
+                                                                          SOUTH INDIAN                                        12.64
+                                                                          BANK-/FAST///// -
+                                                                          0263256000000067
+                                                                          -SIBL0000263
+186   S2829    09/Jan/20   09/Jan/2026    09/01/2026                      NEFT-                               19,730.00            -
+      5019     26                         01:06:35 PM                     SIBLN26009200479-                                7,79,98,1
+                                                                          SOUTH INDIAN                                        75.64
+                                                                          BANK-/FAST///// -
+                                                                          0263256000000067
+                                                                          -SIBL0000263
+
+
+
+
+
+                                                                                                                                  Page 10 of
+
+--- PAGE 11 ---
+187   S2828    09/Jan/20   09/Jan/2026     09/01/2026                     NEFT-                                 9,863.00            -
+      5176     26                          01:05:46 PM                    SIBLN26009200338-                                7,80,17,9
+                                                                          SOUTH INDIAN                                         05.64
+                                                                          BANK-/FAST///// -
+                                                                          0263256000000067
+                                                                          -SIBL0000263
+188   S2728    09/Jan/20   09/Jan/2026     09/01/2026                     RTGS/ICICR4202601        7,00,000.00                      -
+      2133     26                          11:29:35 AM                    0900512469/UBIN0                                 7,80,27,7
+                                                                          568945/SUDARSHA                                      68.64
+                                                                          NPHARMAINDUSTR
+                                                                          IESLTD
+189   S2726    09/Jan/20   09/Jan/2026     09/01/2026                     INF/INFT/042952393      20,00,000                         -
+      6383     26                          11:28:00 AM                    271/SEALANDTRAD                 .00              7,73,27,7
+                                                                          EEXI                                                 68.64
+190   S2710    09/Jan/20   09/Jan/2026     09/01/2026                     BIL/ONL/001142998           408.26                        -
+      9704     26                          11:11:10 AM                    594/Controller/ROC                               7,53,27,7
+                                                                          FILING WORLDLINE                                     68.64
+                                                                          EPAYM
+191   S2698    09/Jan/20   09/Jan/2026     09/01/2026                     RTGS/ICICR4202601       60,00,000                         -
+      3357     26                          10:59:42 AM                    0900509404/UTIB00               .00              7,53,27,3
+                                                                          00018/SUDARSHAN                                      60.38
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+192   S2644    09/Jan/20   09/Jan/2026     09/01/2026                     RTGS-                               33,00,000             -
+      3714     26                          09:46:18 AM                    SBINR12026010912                            .00  6,93,27,3
+                                                                          320258-                                              60.38
+                                                                          SORBITOLCHEM-
+                                                                          43960128973-
+                                                                          SBIN0006839
+193   S2642    09/Jan/20   09/Jan/2026     09/01/2026                     RTGS-                               50,00,000             -
+      0908     26                          09:42:02 AM                    SBINR12026010912                            .00  7,26,27,3
+                                                                          320001-                                              60.38
+                                                                          SORBITOLCHEM-
+                                                                          43960128973-
+                                                                          SBIN0006839
+194   S2428    09/Jan/20   09/Jan/2026     09/01/2026                     NEFT-                                1,61,660.00          -
+      1768     26                          02:03:01 AM                    HDFCH0072942621                                  7,76,27,3
+                                                                          6-CENTURION                                          60.38
+                                                                          REMEDIES PVT
+                                                                          LIMITED-0001-
+                                                                          50200094703942-
+                                                                          HDFC0000240
+195   S2399    08/Jan/20   08/Jan/2026     08/01/2026                     Loan Recovery            3,60,767.45                      -
+      2934     26                          11:27:10 PM                    For054460003340                                  7,77,89,0
+                                                                                                                               20.38
+196   S2241    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS-                                3,23,320.00          -
+      4826     26                          07:12:07 PM                    HDFCR5202601085                                  7,74,28,2
+                                                                          4957788-                                             52.93
+                                                                          CENTURION
+                                                                          LABORATORIES
+                                                                          PRIVATE LIMI-
+                                                                          50200094033291-
+                                                                          HDFC0000240
+197   S2219    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS/ICICR4202601        6,00,000.00                      -
+      6784     26                          06:52:42 PM                    0800568991/BKID00                                7,77,51,5
+                                                                          00089/SACHIN                                         72.93
+                                                                          CHEMICALS
+198   S2108    08/Jan/20   08/Jan/2026     08/01/2026                     NEFT-                                3,61,080.00          -
+      4428     26                          05:13:11 PM                    SCBLH00800679402                                 7,71,51,5
+                                                                          -ORBIT LIFESCIENCE                                   72.93
+                                                                          PRIVATE LIMITED--
+                                                                          22506188759-
+                                                                          SCBL0036001
+199   S2098    08/Jan/20   08/Jan/2026     08/01/2026                     NEFT-                                2,60,323.00          -
+      4760     26                          05:06:04 PM                    KKBKH2600878539                                  7,75,12,6
+                                                                          8-AGROSYN IMPEX-                                     52.93
+                                                                          PAYMENT-
+                                                                          1511994185-
+                                                                          KKBK0000958
+200   S2084    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS/ICICR4202601       30,00,000                         -
+      4774     26                          04:55:24 PM                    0800553290/BKID00               .00              7,77,72,9
+                                                                          00089/SACHIN                                         75.93
+                                                                          CHEMICALS
+201   S2081    08/Jan/20   08/Jan/2026     08/01/2026                     INF/INFT/042943921                   1,40,822.00          -
+      7348     26                          04:53:23 PM                    141/SUDARSHAN                                    7,47,72,9
+                                                                          PHARM                                                75.93
+202   S2065    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057250931/       10,00,000                         -
+      2617     26                          04:43:53 PM                    DTAX                            .00              7,49,13,7
+                                                                          /26010800113019ICI                                   97.93
+                                                                          C
+203   S2015    08/Jan/20   08/Jan/2026     08/01/2026                     NEFT-                                     1.00            -
+      5898     26                          04:06:08 PM                    HDFCH0072813505                                  7,39,13,7
+                                                                          1-STERLING                                           97.93
+                                                                          BIOTECH LIMITED-
+                                                                          MASAR-0001-
+                                                                          99951051051051-
+                                                                          HDFC0000240
+204   S1945    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS/ICICR4202601        2,25,000.00                      -
+      0252     26                          03:00:54 PM                    0800538274/UTIB00                                7,39,13,7
+                                                                          01624/PANKAJ                                         98.93
+                                                                          KUMAR AGARWAL
+205   S1928    08/Jan/20   08/Jan/2026     08/01/2026                     MMT/IMPS/6008147                    15,488.00             -
+      8264     26                          02:44:02 PM                    99884/Sudarshan                                  7,36,88,7
+                                                                          pharm/EEUREKA                                        98.93
+                                                                          IN/Apna Sahakari B
+206   S1927    08/Jan/20   08/Jan/2026     08/01/2026                     BIL/ONL/001142700           591.00                        -
+      9998     26                          02:43:11 PM                    809/Probitas I                                   7,37,04,2
+                                                                                                                               86.93
+
+
+                                                                                                                                   Page 11 of
+
+--- PAGE 12 ---
+207   S1923    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS/ICICR4202601       74,53,313                         -
+      9672     26                          02:39:50 PM                    0800535847/AMCB0               .00               7,37,03,6
+                                                                          660022/SAMARIKAP                                     95.93
+                                                                          HARMA SOLTUIONS
+                                                                          LLP
+208   S1826    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057237078/I      11,72,968                         -
+      0053     26                          01:07:07 PM                    CEGATE                         .00               6,62,50,3
+                                                                          /007000BEINIXY101                                    82.93
+                                                                          06002198068707
+209   S1820    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057236882/I       8,53,827.00                      -
+      6805     26                          01:03:40 PM                    CEGATE                                           6,50,77,4
+                                                                          /007000BEINIXY101                                    14.93
+                                                                          03031260569042
+210   S1812    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057236424/I      80,706.00                         -
+      4799     26                          12:56:19 PM                    CEGATE                                           6,42,23,5
+                                                                          /007000BEINNSA11                                     87.93
+                                                                          255528539942618
+211   S1809    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057236202/I      80,686.00                         -
+      0634     26                          12:53:00 PM                    CEGATE                                           6,41,42,8
+                                                                          /007000BEINNSA11                                     81.93
+                                                                          252322037280695
+212   S1805    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057235930/I      61,005.00                         -
+      9747     26                          12:49:00 PM                    CEGATE                                           6,40,62,1
+                                                                          /007000BEINNSA11                                     95.93
+                                                                          248263175940365
+213   S1802    08/Jan/20   08/Jan/2026     08/01/2026                     GIB/002057235614/I      87,072.00                         -
+      0890     26                          12:44:25 PM                    CEGATE                                           6,40,01,1
+                                                                          /007000BEINNSA11                                     90.93
+                                                                          243494823455389
+214   S1787    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS-                               99,00,000             -
+      6811     26                          12:31:19 PM                    CNRBR5202601087                            .00   6,39,14,1
+                                                                          4423568-SORBITOL                                     18.93
+                                                                          CHEM PRIVAT-
+                                                                          125008778297-
+                                                                          CNRB0015530
+215   S1752    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS-                                5,00,000.00          -
+      5376     26                          11:57:10 AM                    SRCBR1202601080                                  7,38,14,1
+                                                                          6521782-GAYATRI                                      18.93
+                                                                          INDUSTRIES-
+                                                                          146500100400178-
+                                                                          SRCB0000001
+216   S1703    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS-                               11,72,968             -
+      2624     26                          11:02:59 AM                    SCBLR12026010800                           .00   7,43,14,1
+                                                                          804103-GANGA                                         18.93
+                                                                          RASAYANIE PVT
+                                                                          LTD -33105123295-
+                                                                          SCBL0036001
+217   S1679    08/Jan/20   08/Jan/2026     08/01/2026                     RTGS-                                8,53,827.00          -
+      7292     26                          10:32:57 AM                    SCBLR12026010800                                 7,54,87,0
+                                                                          803491-GANGA                                         86.93
+                                                                          RASAYANIE PVT
+                                                                          LTD -33105123295-
+                                                                          SCBL0036001
+218   S1381    07/Jan/20   07/Jan/2026     07/01/2026                     Loan Recovery           14,48,106                         -
+      1171     26                          11:39:04 PM                    For054460003340                .45               7,63,40,9
+                                                                                                                               13.93
+219   S1096    07/Jan/20   07/Jan/2026     07/01/2026                     RTGS-                                4,09,224.00          -
+      0431     26                          06:09:36 PM                    KKBKR22026010720                                 7,48,92,8
+                                                                          591132-                                              07.48
+                                                                          GULBRANDSEN
+                                                                          PRIVATE LIMITED-
+                                                                          1046195439-
+                                                                          KKBK0000958
+220   S1421    06/Jan/20   06/Jan/2026     06/01/2026                     Loan Recovery           10,38,882                         -
+      817      26                          11:28:44 PM                    For054460003340                .45               7,53,02,0
+                                                                                                                               31.48
+221   S9854    06/Jan/20   06/Jan/2026     06/01/2026                     NEFT-                                2,45,322.00          -
+      2301     26                          05:38:43 PM                    SCBLH00600938555                                 7,42,63,1
+                                                                          -BERGER PAINTS                                       49.03
+                                                                          INDIA LIMITED-NEFT
+                                                                          PAYMENT-
+                                                                          32405019703-
+                                                                          SCBL0036001
+222   S9799    06/Jan/20   06/Jan/2026     06/01/2026                     BIL/ONL/001141807        1,508.26                         -
+      2571     26                          04:57:12 PM                    373/Controller/ROC                               7,45,08,4
+                                                                          Filing WORLDLINE                                     71.03
+                                                                          EPAYM
+223   S9760    06/Jan/20   06/Jan/2026     06/01/2026                     RTGS/ICICR4202601        6,82,326.00                      -
+      3838     26                          04:36:04 PM                    0600555420/HDFC0                                 7,45,06,9
+                                                                          000004/CHOLAMAN                                      62.77
+                                                                          DALAM
+                                                                          INVESTMENT AND
+                                                                          FI
+224   S9747    06/Jan/20   06/Jan/2026     06/01/2026                     RTGS/ICICR4202601        2,84,400.00                      -
+      7858     26                          04:27:03 PM                    0600553975/PUNB0                                 7,38,24,6
+                                                                          040510/JATIN                                         36.77
+                                                                          VASANTRAI MEHTA
+225   S9746    06/Jan/20   06/Jan/2026     06/01/2026                     RTGS/ICICR4202601        2,69,400.00                      -
+      3635     26                          04:25:26 PM                    0600553709/BARB0                                 7,35,40,2
+                                                                          VJBHAV/DARSHNA                                       36.77
+                                                                          JATINKUMAR
+                                                                          MEHTA
+226   S9745    06/Jan/20   06/Jan/2026     06/01/2026                     RTGS/ICICR4202601        2,84,400.00                      -
+      6916     26                          04:24:48 PM                    0600553608/PUNB0                                 7,32,70,8
+                                                                          040510/VASANTRA                                      36.77
+                                                                          YRATILAL MEHTA
+
+
+
+
+                                                                                                                                  Page 12 of
+
+--- PAGE 13 ---
+227   S9744    06/Jan/20   06/Jan/2026    06/01/2026                      RTGS/ICICR4202601        3,79,200.00                     -
+      4161     26                         04:23:41 PM                     0600553338/PUNB0                                 7,29,86,4
+                                                                          040510/JATIN                                        36.77
+                                                                          VASANTRAI MEHTA
+228   S9743    06/Jan/20   06/Jan/2026    06/01/2026                      RTGS/ICICR4202601        3,59,200.00                     -
+      5168     26                         04:22:55 PM                     0600553308/BARB0                                 7,26,07,2
+                                                                          VJBHAV/DARSHNA                                      36.77
+                                                                          JATINKUMAR
+                                                                          MEHTA
+229   S9742    06/Jan/20   06/Jan/2026    06/01/2026                      RTGS/ICICR4202601        2,84,400.00                     -
+      2545     26                         04:21:25 PM                     0600553121/PUNB0                                 7,22,48,0
+                                                                          040510/VASANTRA                                     36.77
+                                                                          YRATILAL MEHTA
+230   S9721    06/Jan/20   06/Jan/2026    06/01/2026                      RTGS/ICICR4202601       10,08,900                        -
+      4134     26                         04:04:06 PM                     0600550514/FDRL0               .00               7,19,63,6
+                                                                          001100/VIVRITI                                      36.77
+                                                                          CAPITAL LTD
+231   S9523    06/Jan/20   06/Jan/2026    06/01/2026                      RTGS-                               12,04,888            -
+      4667     26                         01:00:54 PM                     ICBKR12026010600                           .00   7,09,54,7
+                                                                          251980-HENGYU                                       36.77
+                                                                          CLEANING
+                                                                          PRODUCTS
+                                                                          PRIVATE LI-
+                                                                          0166000100000217
+                                                                          142-ICBK0000001
+232   S9439    06/Jan/20   06/Jan/2026    06/01/2026                      INF/INFT/042899798                   3,18,000.00         -
+      7237     26                         11:38:17 AM                     631/INV NO                                       7,21,59,6
+                                                                          MUM2622                                             24.77
+                                                                          /JADAVJISONSCHE
+233   S9429    06/Jan/20   06/Jan/2026    06/01/2026                      NEFT-                                1,15,970.00         -
+      7344     26                         11:31:18 AM                     HDFCH0071944296                                  7,24,77,6
+                                                                          6-ATILUS PHARMA                                     24.77
+                                                                          PVT LTD-0001-
+                                                                          50200050912835-
+                                                                          HDFC0000240
+234   S9079    05/Jan/20   05/Jan/2026    05/01/2026                      Loan Recovery           27,08,436                        -
+      4393     26                         11:42:00 PM                     For054460003340                .71               7,25,93,5
+                                                                                                                              94.77
+235   S8871    05/Jan/20   05/Jan/2026    05/01/2026                      NEFT-                                1,00,000.00         -
+      2106     26                         07:07:57 PM                     AXODH0056442665                                  6,98,85,1
+                                                                          1-RJMS LAB                                          58.06
+                                                                          PRIVATE LIMITED-
+                                                                          /////-
+                                                                          924020051740620-
+                                                                          UTIB0003527
+236   S8861    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS-                               21,96,712            -
+      3898     26                         06:59:17 PM                     KKBKR22026010520                           .00   6,99,85,1
+                                                                          558099-ORCH                                         58.06
+                                                                          LABORATORIES
+                                                                          INDIA PRIVATE-
+                                                                          1547407611-
+                                                                          KKBK0000958
+237   S8831    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS/ICICR4202601        5,00,000.00                     -
+      6937     26                         06:36:18 PM                     0500577331/UTIB00                                7,21,81,8
+                                                                          00018/SUDARSHAN                                     70.06
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+238   S8823    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS/ICICR4202601       20,00,000                        -
+      9959     26                         06:31:08 PM                     0500576520/UTIB00              .00               7,16,81,8
+                                                                          01394/KARAN                                         70.06
+                                                                          MONOMERS PVT
+                                                                          LTD
+239   S8814    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS-                               20,00,000            -
+      7910     26                         06:22:08 PM                     BKIDR52026010500                           .00   6,96,81,8
+                                                                          292067-SACHIN                                       70.06
+                                                                          CHEMICALS-
+                                                                          008930150000012-
+                                                                          BKID0000200
+240   S8769    05/Jan/20   05/Jan/2026    05/01/2026                      NEFT-                               15,000.00            -
+      3499     26                         05:46:55 PM                     BKIDY26005274336                                 7,16,81,8
+                                                                          -UNI COLOR                                          70.06
+                                                                          INDUSTRIES
+                                                                          PRIVATE LIMIIT--
+                                                                          251730150000008-
+                                                                          BKID0000200
+241   S8645    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS-                                6,00,052.00         -
+      8870     26                         04:28:13 PM                     KKBKR12026010500                                 7,16,96,8
+                                                                          789659-AGROSYN                                      70.06
+                                                                          IMPEX-1511994185-
+                                                                          KKBK0000958
+242   S8559    05/Jan/20   05/Jan/2026    05/01/2026                      INF/INFT/042886815                     330.00            -
+      5510     26                         03:12:42 PM                     261/INV NO                                       7,22,96,9
+                                                                          MUM2622                                             22.06
+                                                                          /JADAVJISONSCHE
+243   S8320    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS/ICICR4202601        5,00,000.00                     -
+      2308     26                         12:23:22 PM                     0500520706/UBIN0                                 7,22,97,2
+                                                                          568945/SUDARSHA                                     52.06
+                                                                          NPHARMAINDUSTR
+                                                                          IESLTD
+244   S8247    05/Jan/20   05/Jan/2026    05/01/2026                      RTGS-                                3,00,000.00         -
+      5176     26                         11:40:35 AM                     SRCBR1202601050                                  7,17,97,2
+                                                                          6366950-                                            52.06
+                                                                          UPSTREAM
+                                                                          REFINERY
+                                                                          SOLUTION LLP-
+                                                                          810000000005566-
+                                                                          SRCB0000001
+
+
+
+
+                                                                                                                                  Page 13 of
+
+--- PAGE 14 ---
+245   S7488    04/Jan/20   04/Jan/2026     04/01/2026                     Loan Recovery            4,96,342.71                      -
+      9124     26                          09:51:08 PM                    For054460003340                                  7,20,97,2
+                                                                                                                               52.06
+246   S7243    04/Jan/20   04/Jan/2026     04/01/2026                     penal charges             8,026.02                        -
+      2233     26                          02:02:38 PM                                                                     7,16,00,9
+                                                                                                                               09.35
+247   S6905    03/Jan/20   03/Jan/2026     03/01/2026                     Loan Recovery            5,04,368.73                      -
+      9760     26                          11:30:59 PM                    For054460003340                                  7,15,92,8
+                                                                                                                               83.33
+248   S6748    03/Jan/20   03/Jan/2026     03/01/2026                     RTGS/ICICR4202601        5,00,000.00                      -
+      5459     26                          07:15:06 PM                    0300560387/UTIB00                                7,10,88,5
+                                                                          00018/SUDARSHAN                                      14.60
+                                                                          PHARMA
+                                                                          INDUSTRIES LIM
+249   S6682    03/Jan/20   03/Jan/2026     03/01/2026                     RTGS/ICICR4202601       10,00,000                         -
+      0675     26                          06:07:27 PM                    0300554385/UBIN0               .00               7,05,88,5
+                                                                          568945/SUDARSHA                                      14.60
+                                                                          NPHARMAINDUSTR
+                                                                          IESLTD
+250   S6635    03/Jan/20   03/Jan/2026     03/01/2026                     RTGS/ICICR4202601       14,95,371                         -
+      3484     26                          05:23:59 PM                    0300549735/KKBK0               .00               6,95,88,5
+                                                                          001368/SUADRSHA                                      14.60
+                                                                          NPHARMAPVTLTDK
+                                                                          OTAK
+251   S6397    03/Jan/20   03/Jan/2026     03/01/2026                     NEFT-                                1,73,419.00          -
+      0115     26                          02:02:12 PM                    HDFCH0071261317                                  6,80,93,1
+                                                                          4-SWAN                                               43.60
+                                                                          CHEMICALS-0001-
+                                                                          08162000000462-
+                                                                          HDFC0000816
+252   S6345    03/Jan/20   03/Jan/2026     03/01/2026                     NEFT-                                1,94,700.00          -
+      2818     26                          01:07:30 PM                    0103i29678344181-                                6,82,66,5
+                                                                          Y-SL////BL//-                                        62.60
+                                                                          1440102000002875
+                                                                          -IBKL0NEFT01
+253   S6339    03/Jan/20   03/Jan/2026     03/01/2026                     NEFT-                               10,561.00             -
+      8566     26                          01:04:19 PM                    HDFCH0071262023                                  6,84,61,2
+                                                                          8-MASS DYECHEM                                       62.60
+                                                                          PRIVATE LIMITED-
+                                                                          0001-
+                                                                          50200043412187-
+                                                                          HDFC0000240
+254   S6339    03/Jan/20   03/Jan/2026     03/01/2026                     NEFT-                               10,384.00             -
+      8706     26                          01:04:13 PM                    HDFCH0071261557                                  6,84,71,8
+                                                                          3-EXPLICIT                                           23.60
+                                                                          CHEMICALS
+                                                                          PRIVATE LIMITED-
+                                                                          0001-
+                                                                          50200051516596-
+                                                                          HDFC0000240
+255   S6301    03/Jan/20   03/Jan/2026     03/01/2026                     NTS/0018NILC0007        55,684.34                         -
+      1553     26                          12:32:27 PM                    426:Commission                                   6,84,82,2
+                                                                                                                               07.60
+256   S6301    03/Jan/20   03/Jan/2026     03/01/2026                     NTS/0018NILC0007           590.00                         -
+      5162     26                          12:32:26 PM                    426:SFMS                                         6,84,26,5
+                                                                                                                               23.26
+257   M3100    03/Jan/20   03/Jan/2026     03/01/2026                     TRF TO FD no.           13,35,225                         -
+      319      26                          11:07:02 AM                    054410051130                   .00               6,84,25,9
+                                                                                                                               33.26
+258   S6173    03/Jan/20   03/Jan/2026     03/01/2026                     RTGS-                                5,00,000.00          -
+      6411     26                          10:36:02 AM                    UBINR22026010301                                 6,70,90,7
+                                                                          647456-                                              08.26
+                                                                          SUDARSHAN
+                                                                          PHARMA
+                                                                          INDUSTRIES LIMITE-
+                                                                          696705010000102-
+                                                                          UBIN0568945
+259   S5818    02/Jan/20   02/Jan/2026     03/01/2026                     Loan Recovery           40,02,175                         -
+      7852     26                          12:32:11 AM                    For054460003340                .07               6,75,90,7
+                                                                                                                               08.26
+260   S5471    02/Jan/20   02/Jan/2026     02/01/2026                     RTGS-                                4,09,224.00          -
+      2018     26                          05:09:30 PM                    KKBKR22026010220                                 6,35,88,5
+                                                                          496831-                                              33.19
+                                                                          GULBRANDSEN
+                                                                          PRIVATE LIMITED-
+                                                                          1046195439-
+                                                                          KKBK0000958
+261   S5316    02/Jan/20   02/Jan/2026     02/01/2026                     INF/NEFT/IN4260025      29,614.00                         -
+      9951     26                          03:07:12 PM                    3311863/DBSS0IN0                                 6,39,97,7
+                                                                          853/MERCHANTSHI                                      57.19
+                                                                          PPIN
+262   S5283    02/Jan/20   02/Jan/2026     02/01/2026                     RTGS/ICICR4202601       30,00,000                         -
+      2599     26                          02:38:22 PM                    0200533999/UBIN0               .00               6,39,68,1
+                                                                          568945/SUDARSHA                                      43.19
+                                                                          NPHARMAINDUSTR
+                                                                          IESLTD
+263   S5193    02/Jan/20   02/Jan/2026     02/01/2026                     RTGS-                               26,79,292             -
+      7431     26                          01:07:53 PM                    UTIBR72026010200                            .00  6,09,68,1
+                                                                          422445-SONGWON                                       43.19
+                                                                          SPECIALTY
+                                                                          CHEMICALS INDIA
+                                                                          P-915020015720082-
+
+                                                                          UTIB0000458
+
+
+
+
+
+
+                                                                                                                                   Page 14 of
+
+--- PAGE 15 ---
+                  264    S5040    02/Jan/20    02/Jan/2026      02/01/2026                        RTGS-                                 20,00,000               -
+                         0725     26                            10:48:04 AM                       UTIBR62026010247                              .00   6,36,47,4
+                                                                                                  475793-                                                 35.19
+                                                                                                  SUDARSHAN
+                                                                                                  PHARMA
+                                                                                                  INDUSTRIES
+                                                                                                  LIMITED-
+                                                                                                  921030007131058-
+                                                                                                  UTIB0000018
+                  265    S4835    01/Jan/20    02/Jan/2026      02/01/2026                        054451000192:Int.C        3,50,459.00                         -
+                         5674     26                            06:27:24 AM                       oll:02-12-2025 to                                   6,56,47,4
+                                                                                                  01-01-2026                                              35.19
+                  266    S4648    01/Jan/20    01/Jan/2026      01/01/2026                        Loan Recovery             22,93,732                           -
+                         0723     26                            11:49:08 PM                       For054460003340                  .07                6,52,96,9
+                                                                                                                                                          76.19
+                  267    S4475    01/Jan/20    01/Jan/2026      01/01/2026                        NTS/0018NMLC001              590.00                           -
+                         5738     26                            07:04:59 PM                       1826:Swift                                          6,30,03,2
+                                                                                                                                                          44.12
+                  268    S4475    01/Jan/20    01/Jan/2026      01/01/2026                        NTS/0018NMLC001           13,591.42                           -
+                         6280     26                            07:04:58 PM                       1826:Commission                                     6,30,02,6
+                                                                                                                                                          54.12
+                  269    S4474    01/Jan/20    01/Jan/2026      01/01/2026                        NEFT-                                  1,00,000.00            -
+                         8407     26                            07:04:28 PM                       AXODH0013162282                                     6,29,89,0
+                                                                                                  6-SUDARSHAN                                             62.70
+                                                                                                  PHARMA
+                                                                                                  INDUSTRIESLIMITED
+                                                                                                  -/////-
+                                                                                                  921030007131058-
+                                                                                                  UTIB0000018
+                  270    S4424    01/Jan/20    01/Jan/2026      01/01/2026                        BIL/ONL/001136560            982.00                           -
+                         7514     26                            06:06:45 PM                       017/Probitas I                                      6,30,89,0
+                                                                                                                                                          62.70
+                  271    S4418    01/Jan/20    01/Jan/2026      01/01/2026                        RTGS/ICICR4202601         61,53,201                           -
+                         1145     26                            06:01:51 PM                       0100545191/IOBA0                 .00                6,30,88,0
+                                                                                                  000625/RXIL                                             80.70
+                  272    M3456    01/Jan/20    01/Jan/2026      01/01/2026                        TRF TO FD no.             4,00,400.00                         -
+                         428      26                            05:50:28 PM                       054410051094                                        5,69,34,8
+                                                                                                                                                          79.70
+                  273    S4380    01/Jan/20    01/Jan/2026      01/01/2026                        BIL/ONL/001136538          1,636.00                           -
+                         6704     26                            05:22:38 PM                       257/Probitas I                                      5,65,34,4
+                                                                                                                                                          79.70
+                  274    S4095    01/Jan/20    01/Jan/2026      01/01/2026                        RTGS/ICICR4202601         44,00,000                           -
+                         3017     26                            12:49:57 PM                       0100516501/BKID00                .00                5,65,32,8
+                                                                                                  00089/SACHIN                                            43.70
+                                                                                                  CHEMICALS
+
+
+                  Page Total
+                  Opening Bal:            -19,58,84,717.72
+                  Withdrawls:             32,49,94,152.43
+                  Deposits:               18,11,66,758.41
+                  Closing Bal:            -5,65,32,843.70
+
+                  Legends Used in Account Statement
+                  1. BBPS - Bharat Bill Payment Service
+                  2. BCTT - Banking Cash Transaction Tax
+                  3. BIL - Internet Bill payment or funds transfer to Third party
+                  4. BPAY - Bill payment
+                  5. CCWD - Cardless Cash Withdrawal
+                  6. DTAX - Direct Tax
+                  7. EBA - Transaction on ICICI Direct
+                  8. IDTX - Indirect Tax
+                  9. IMPS - Immediate Payment Service
+                  10. INF - Internet fund transfer in linked accounts
+                  11. INFT - Internal Fund Transfer (Within ICICI Bank)
+                  12. LCCBRN CMS - Local cheque collection
+                  13. LNPY - Linked loan payment
+                  14. MMT - Mobile Money Transfer (Insta FT - IMPS)
+                  15. N chg - NEFT Charges
+                  16. NEFT - National Electronics Funds Transfer System (Other Bank Fund transfer)
+                  17. ONL - Online Shopping transaction (Payment done on third party website)
+                  18. PAC - Personal Accident cover
+                  19. PAVC - Pay any Visa credit card
+                  20. PAYC - Pay to Contact
+                  21. RCHG - Recharge
+                  22. SMO - Smart Money order
+                  23. T Chg - Travel Charges
+                  24. TOP - Mobile recharge
+                  25. UCCBRN CMS - Upcountry cheque collection
+                  26. VAT / MAT / NFS - Cash withdrawal at other bank ATM
+                  27. VPS / IPS - Debit card transaction
+
+
+
+                                                                                                                                                              Page 15 of
+
+--- PAGE 16 ---
+                    28. BIL - To third party is for RIB
+                    29. GIB - Tax & Statutory payment,EPFO, ESIC
+                    30. CMS - Internet bulk payment fund trf
+
+
+
+
+                                                                            ----------End Of Statement----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                             Page 16 of

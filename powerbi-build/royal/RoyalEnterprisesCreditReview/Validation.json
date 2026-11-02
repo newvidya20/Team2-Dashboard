@@ -1,0 +1,42 @@
+{
+  "pbir_files_validated": 150,
+  "visual_bindings": "passed",
+  "page_bounds": "passed",
+  "data_checks": {
+    "bank_transactions": 6274,
+    "bank_balance_errors": 0,
+    "gst_returns": 14,
+    "common_months": 11,
+    "financial_years": [
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "financial_parameters": 75,
+    "loan_schedule_emi": 5687124.0,
+    "balance_sheet_residuals": {
+      "2023-24": 0.0,
+      "2024-25": -0.05,
+      "2025-26": 0
+    }
+  },
+  "desktop_rendering": "Four pages verified in Power BI Desktop; financial register and loan notes inspected. Year buttons verified; latest default restored.",
+  "desktop_model_refresh": "Full refresh passed",
+  "live_dax_checks": "6274 bank transactions, 14 GST returns, 11 common months, 3 financial years and 25 parameters per year confirmed.",
+  "year_filter_results": {
+    "2023-24": {
+      "sales_crore": 75.2729622,
+      "reported_profit_crore": 2.0137262
+    },
+    "2024-25": {
+      "sales_crore": 200.135969,
+      "reported_profit_crore": 7.0249274
+    },
+    "2025-26": {
+      "sales_crore": 303.7197357,
+      "reported_profit_crore": 11.56309,
+      "status": "Provisional"
+    }
+  },
+  "original_application_files": "Unmodified"
+}

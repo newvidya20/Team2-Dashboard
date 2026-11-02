@@ -1,0 +1,149 @@
+/// 74 GSTR-3B documents across five registrations. Haryana February 2026 has no ARN/date, so filing remains unverified. Telangana starts October 2025 in supplied records; other four start April 2025. Registration-state turnover is not customer-state revenue. Inter-branch taxable supplies may be included; no consolidation elimination is possible from 3B alone.
+table 'GST Monthly'
+	lineageTag: e3902b98-7fb5-43d4-9963-88cdb2531ffe
+
+	/// GST Sales Cr
+	measure 'GST Sales Cr' = DIVIDE(SUM('GST Monthly'[Total Outward Supplies]),10000000)
+		formatString: #,0.00
+		lineageTag: 90ca5632-5acb-4afb-8d53-4cc6ee78c955
+
+	/// Taxable Sales Cr
+	measure 'Taxable Sales Cr' = DIVIDE(SUM('GST Monthly'[Taxable Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: 83821871-8cde-4e4c-b64e-23689c168908
+
+	/// Exempt Sales Cr
+	measure 'Exempt Sales Cr' = DIVIDE(SUM('GST Monthly'[Exempt Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: 5af28133-2c89-47e4-b963-4a3447ed7a18
+
+	/// Zero Rated Cr
+	measure 'Zero Rated Cr' = DIVIDE(SUM('GST Monthly'[Zero Rated Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: f324f8d5-f4b1-4fe3-ae40-9f5af0e25967
+
+	/// GST Filings
+	measure 'GST Filings' = COUNTROWS('GST Monthly')
+		formatString: #,0
+		lineageTag: ec0478af-3545-48a3-87a5-227fb80544e5
+
+	/// GST Late Fee
+	measure 'GST Late Fee' = SUM('GST Monthly'[Late Fee])
+		formatString: ₹ #,0.00
+		lineageTag: 51f2d29d-4e72-4e42-99fa-58169062edf2
+
+	/// Zero Rated Share
+	measure 'Zero Rated Share' = DIVIDE([Zero Rated Cr],[GST Sales Cr])
+		formatString: 0.00%
+		lineageTag: ae866797-239a-4abc-bbda-4dc039f60d45
+
+	column Month
+		dataType: string
+		lineageTag: 96f48d53-ae81-40b7-958e-ff99fda604ba
+		summarizeBy: none
+		sourceColumn: Month
+
+	column GSTIN
+		dataType: string
+		lineageTag: 43434dbe-ffe6-49c2-be14-751a7e7fa049
+		summarizeBy: none
+		sourceColumn: GSTIN
+
+	column 'Registration State'
+		dataType: string
+		lineageTag: ddb0487f-e92a-4ed3-b69f-aff20cee7fc0
+		summarizeBy: none
+		sourceColumn: Registration State
+
+	column 'Taxable Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: bcd28c05-b2d4-40e5-a013-77aad6007aa8
+		summarizeBy: none
+		sourceColumn: Taxable Sales
+
+	column 'Exempt Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 7a7dd323-e9cb-4419-9331-c205d46fe740
+		summarizeBy: none
+		sourceColumn: Exempt Sales
+
+	column 'Zero Rated Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 9b0ad20f-7663-4dd9-9141-e2b2b59c239a
+		summarizeBy: none
+		sourceColumn: Zero Rated Sales
+
+	column 'Non GST Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: ae74ce67-3385-4d17-9ab0-0f4e86245bef
+		summarizeBy: none
+		sourceColumn: Non GST Sales
+
+	column 'Total Outward Supplies'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 7d68b126-c0f1-4bf9-a947-5940b2738fc0
+		summarizeBy: none
+		sourceColumn: Total Outward Supplies
+
+	column 'Output Tax'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 98987c6c-4b4e-4579-bc26-a117b5351fd5
+		summarizeBy: none
+		sourceColumn: Output Tax
+
+	column 'Net ITC'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 181855dc-6972-4f63-9017-8ece225d1936
+		summarizeBy: none
+		sourceColumn: Net ITC
+
+	column 'Late Fee'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 667342e8-1542-4d55-847a-9c6dc88d09d1
+		summarizeBy: none
+		sourceColumn: Late Fee
+
+	column 'Interest Paid'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: d074b7bc-eeb6-4630-9ae5-babc05a4bd3b
+		summarizeBy: none
+		sourceColumn: Interest Paid
+
+	column 'Filed On'
+		dataType: string
+		lineageTag: 87c10302-06e3-45a6-9bbd-4b9299456cf1
+		summarizeBy: none
+		sourceColumn: Filed On
+
+	column 'Source ID'
+		dataType: int64
+		formatString: #,0
+		lineageTag: 968cd357-c56b-4640-b6e7-5270aae18a94
+		summarizeBy: none
+		sourceColumn: Source ID
+
+	column Source
+		dataType: string
+		lineageTag: 793d37a6-827e-49cd-9aca-724a3746bcea
+		summarizeBy: none
+		sourceColumn: Source
+
+	column 'Filing Evidence'
+		dataType: string
+		lineageTag: 86284ab2-80ef-439e-9177-09ad357bd2ad
+		summarizeBy: none
+		sourceColumn: Filing Evidence
+
+	partition 'GST Monthly' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("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",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Month","GSTIN","Registration State","Taxable Sales","Exempt Sales","Zero Rated Sales","Non GST Sales","Total Outward Supplies","Output Tax","Net ITC","Late Fee","Interest Paid","Filed On","Source ID","Source","Filing Evidence"}), X=Table.TransformColumnTypes(T,{{"Month", type text},{"GSTIN", type text},{"Registration State", type text},{"Taxable Sales", type number},{"Exempt Sales", type number},{"Zero Rated Sales", type number},{"Non GST Sales", type number},{"Total Outward Supplies", type number},{"Output Tax", type number},{"Net ITC", type number},{"Late Fee", type number},{"Interest Paid", type number},{"Filed On", type text},{"Source ID", Int64.Type},{"Source", type text},{"Filing Evidence", type text}}) in X
+

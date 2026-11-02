@@ -1,0 +1,159 @@
+
+--- PAGE 1 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/07/2026 to 31/07/2026 for Account Number 8026481131.
+
+
+                                                                                                                              INDIAN BANK
+                                                                                                                      MCB FORT MUMBAI
+                                                                                                                IFSC CODE:IDIB000M367
+                                                            1st FLOOR, UNITED INDIA BUILDING , SIR P M ROAD , FORT MUMBAI
+                                                                                                                       Branch Code :03281
+                                                                                                           Account Number : 8026481131
+                                                                                        Product type :  MICRO-SMALL-ENT-OCC-REPO
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301, 3rd Floor, Senate Aura Biplex,
+Above Kalyan Jewellers
+S.V. Road, Borivali West
+Mumbai - 400092
+Nominee Name :No
+Email : sachin@sudarshanpharma.org
+Statement Date :Sat Aug 01 10:41:00 IST 2026
+Cleared Balance :4437835.52
+Uncleared Amount :0.00
+Drawing Power :00
+Interest Rate : 8.500
+
+               Value   Post      Remitter          Description        Cheque No          DR           CR          Balance
+               Date    Date       Branch
+                                               BALANCE B/F                                                       286133205.
+                                                                                                                        48DR
+              09/07   09/07    MCB FORT        CHQ TRANSFE           00977019       10000058.00                  296133263.
+              /2026   /2026    MUMBAI          RTGS/ICIC/IDIBR52                                                        48DR
+                                               026070903262944/S
+                                               udarsha/INTERNAL
+                                               Txn Amt.
+                                               1,00,00,000.00
+                                               Charges.       58.00
+              09/07   09/07    SERVICE         CHEQUE DEPO           00318701                     669013.00      295464250.
+              /2026   /2026    BRANCH          CLEARING                                                                 48DR
+                               (CHENNAI)       09/07/2026 015 CHQ
+                                               DEP 318701
+                                               143015002 0010
+              14/07   14/07    SERVICE         CHEQUE DEPO           00801180                     387904.00      295076346.
+              /2026   /2026    BRANCH          CLEARING                                                                 48DR
+                               (CHENNAI)       14/07/2026 PUNJAB
+                                               NATIONAL BANK
+                                               CHQ DEP 801180
+                                               400024140 0010
+              21/07   21/07    SERVICE         CHEQUE DEPO           00000749                     121835.00      294954511.
+              /2026   /2026    BRANCH          CLEARING                                                                 48DR
+                               (CHENNAI)       21/07/2026 229 CHQ
+                                               DEP 000749
+                                               380229007 2546
+              22/07   22/07    MCB FORT        DEBIT CIBIL                             3379.00                   294957890.
+              /2026   /2026    MUMBAI          charges ECGLS                                                            48DR
+              22/07   22/07    MCB FORT        BY TRANSFER                                        59900000.00    235057890.
+              /2026   /2026    MUMBAI          TRANSFER FROM                                                            48DR
+                                               8359316247
+                                               SUDARSHAN
+                                               PHARMA
+                                               INDUSTRIES
+                                               LIMITED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Page No:1
+
+--- PAGE 2 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/07/2026 to 31/07/2026 for Account Number 8026481131.
+
+               Value   Post      Remitter          Description        Cheque No          DR           CR          Balance
+               Date    Date       Branch
+              22/07   22/07    MCB FORT        WITHDRAWAL                              3379.00                   235061269.
+              /2026   /2026    MUMBAI          TRANSFER                                                                 48DR
+                                               TRANSFER TO
+                                               8359316247
+                                               SUDARSHAN
+                                               PHARMA
+                                               INDUSTRIES
+                                               LIMITED
+              22/07   22/07    MCB FORT        CHQ TRANSFE           00977023       60000058.00                  295061327.
+              /2026   /2026    MUMBAI          RTGS/ICIC/IDIBR52                                                        48DR
+                                               026072203514742/S
+                                               udarsha/PAYMENT
+                                               Txn Amt.
+                                               6,00,00,000.00
+                                               Charges.       58.00
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295061475.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295061623.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295061771.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295061919.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295062067.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295062215.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295062363.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295062511.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295062659.
+              /2026   /2026                                                                                             48DR
+              23/07   23/07                    ISSUE OF MICR CA                          148.00                  295062807.
+              /2026   /2026                                                                                             48DR
+              28/07   28/07    MCB FORT        DEBIT ECGLS                          150000.00                    295212807.
+              /2026   /2026    MUMBAI          interest payment                                                         48DR
+              29/07   29/07    SERVICE         CHEQUE DEPO           00005232                      25056.00      295187751.
+              /2026   /2026    BRANCH          CLEARING                                                                 48DR
+                               (CHENNAI)       29/07/2026 240 CHQ
+                                               DEP 005232
+                                               400240015 0012
+              31/07   31/07    MUMBAI FORT     BY TRANSFER                                        2000000.00     293187751.
+              /2026   /2026                    RTGS/ICIC/ICICR42                                                        48DR
+                                               026073100577686/S
+                                               UDARSHA/
+                                               TRANSFER FROM
+                                               94957000128
+              31/07   31/07                    DEBIT INTEREST                       2261240.00                   295448991.
+              /2026   /2026                                                                                             48DR
+              31/07   31/07                    OD PENAL                             113173.00                    295562164.
+              /2026   /2026                    CHARGES                                                                  48DR
+
+   * Statement Downloaded By SUDARSHAN PHARMA INDUSTRIES LIMITED on Sat Aug 01 10:41:00 IST 2026
+
+
+ Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found
+
+the a/c correct.
+ END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Page No:2

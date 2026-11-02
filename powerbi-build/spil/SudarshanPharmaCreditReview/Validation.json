@@ -1,0 +1,59 @@
+{
+  "pbir_files_validated": 155,
+  "visual_bindings": "passed",
+  "page_bounds": "passed",
+  "company_identity": "passed",
+  "data_checks": {
+    "bank": {
+      "raw_rows": 25558,
+      "deduplicated_rows": 25180,
+      "overlap_rows_removed": 378,
+      "accounts": [
+        "Axis \u2022 1058",
+        "BOI \u2022 0001",
+        "ICICI \u2022 0192",
+        "Indian \u2022 1131",
+        "Kotak \u2022 5487",
+        "Union \u2022 0084",
+        "Union \u2022 0102"
+      ],
+      "date_range": [
+        "2025-04-01",
+        "2026-08-24"
+      ],
+      "confirmed_internal_credit": 1717510968.13,
+      "narration_internal_credit": 3515997316.03
+    },
+    "bank_balance_errors": 0,
+    "gst_returns": 74,
+    "gst_states": [
+      "Gujarat",
+      "Haryana",
+      "Maharashtra",
+      "Telangana",
+      "Uttarakhand"
+    ],
+    "common_months": 16,
+    "financial_years": [
+      "2023-24",
+      "2024-25",
+      "2025-26"
+    ],
+    "financial_parameters": 75,
+    "loan_rows": 32,
+    "emi_row_sum": 5131667.0,
+    "emi_printed_total": 323308,
+    "loan_limit_row_sum": 2340771621.0,
+    "loan_outstanding_row_sum": 1823651197.0,
+    "balance_sheet_residuals": {
+      "2023-24": 0.0,
+      "2024-25": 1000.0,
+      "2025-26": 0.0
+    }
+  },
+  "desktop_rendering": "All four report pages rendered in Power BI Desktop without visual errors.",
+  "desktop_model_refresh": "Full refresh passed.",
+  "year_filter_validation": "Live DAX confirmed distinct annual values and 25 parameters per financial year; see LiveModelChecks.json.",
+  "financial_basis": "Standalone. FY2024 prior GAAP; FY2025 restated Ind AS; FY2026 Ind AS.",
+  "publication": "Local project only; not published."
+}

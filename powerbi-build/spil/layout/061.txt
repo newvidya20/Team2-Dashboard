@@ -1,0 +1,164 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                               Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                      Branch                LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                           Customer Id           263166590
+    City                    MUMBAI                                                                                    Account No            696701010050084
+    State                   MAHARASHTRA                                                                               Account Currency      INR
+    Country                 INDIA                                                                                     Account Type          Current Account
+    Zip                     400092                                                                                    MICR Code             400026176
+    Mobile No               919819267453                                                                              IFSC Code             UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                             CKYC Number           70082478095339
+    Statement Date : 02/03/2026 14:22                                                                    Statement Period From -01/02/2026  To 28/02/2026
+    Records from 1 to 18.               No more records available.
+
+  Date              Remarks              Tran Id-1      UTR Number               Instr. ID         Withdrawals             Deposits               Balance
+04-02-2026    eTXN/By:6967050100         T60612585      -                                                                     10,00,000.00         15,15,329.61
+11:54:39      00102
+
+04-02-2026    eTXN/By:6967050100         T61338198      -                                                                      5,00,000.00         20,15,329.61
+12:05:02      00102
+
+05-02-2026    NACH/10/3964843594         U26662551      -                                                5,92,548.00                               14,22,781.61
+11:22:08      /TATACAPITAL
+
+05-02-2026    NACH/10/3983485223         U47904344      -                                                6,80,326.00                                 7,42,455.61
+15:43:43      /CHOLAMANDAL
+
+10-02-2026    MAND DR- TCP2589-          X80714883      -                                                1,50,751.00                                 5,91,704.61
+11:28:21
+
+12-02-2026    RTGS:CHOLAMANDA            S57914730      -                                                                      3,24,630.00           9,16,334.61
+19:36:25      LAMINVESTAND
+              HDFCR520260212692
+              33024
+
+15-02-2026    MAND DR- TCP2589-          U21086871      -                                                  62,386.00                                 8,53,948.61
+09:44:17
+
+15-02-2026    NACH/10/3036634090         U28847398      -                                                  55,814.00                                 7,98,134.61
+11:43:54      /HDFC BANK L
+
+16-02-2026    eTXN/To:6967050100         V24446104      -                                                5,00,000.00                                 2,98,134.61
+18:40:09      00102
+
+20-02-2026    NACH/10/3059312405         X63882965      -                                                1,49,584.00                                 1,48,550.61
+09:54:45      /HDFC BANK L
+
+26-02-2026    ePAY/To:BILLDESK           U84912194      -                                                   2,760.00                                 1,45,790.61
+15:38:30      PAYMENT
+              S/688641864/Loan no-
+              PEN0
+28-02-2026    RTGS:TATA CAPITAL          W51971703      -                                                                   1,30,79,067.81       1,32,24,858.42
+21:56:15      LIMITED
+              ICICR4202602280056
+              4573
+28-02-2026    Charges for PORD           W52358034      -                                                      58.41                             1,32,24,800.01
+22:02:07      Customer
+              Payment:UBINH26059
+              280012
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+28-02-2026     RTGSO-SUDARSHAN            W52358034        -                                               30,00,000.00                                1,02,24,800.01
+22:02:07       PHARMA INDU
+               UBINR220260228012
+               80012
+28-02-2026     Charges for PORD           W52500912        -                                                        58.41                              1,02,24,741.60
+22:04:29       Customer
+               Payment:UBINH26059
+               280034
+28-02-2026     RTGSO-TATA                 W52500912        -                                               70,00,000.00                                  32,24,741.60
+22:04:29       CAPITAL FINANCIA
+               UBINR220260228012
+               80034
+28-02-2026     eTXN/To:6967050100         W52892083        -                                               30,00,000.00                                   2,24,741.60
+22:12:35       00102
+
+28-02-2026     RTGS:TATA CAPITAL          W55386996        -                                                                       70,00,000.00          72,24,741.60
+23:39:40       LIMITED
+               ICICR4202602280056
+               6857
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                   Page No2
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                  TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

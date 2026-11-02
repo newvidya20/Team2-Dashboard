@@ -1,0 +1,79 @@
+
+--- PAGE 1 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/05/2026 to 31/05/2026 for Account Number 8026481131.
+
+
+                                                                                                                                               INDIAN BANK
+                                                                                                                                          Branch Code :03281
+                                                                                                                              Account Number : 8026481131
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301  3rd Floor  Senate Aura Biplex
+Above Kalyan Jewellers
+S.V. Road  Borivali West
+Mumbai 400092
+
+                 Value    Post      Credit Amount           Debit Amount           Closing Balance                    Description
+                 Date     Date
+                 07/05/  07/05/  94400                                           -299313513.94           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-07/05/2026 UNION
+
+                                                                                                         BANK OF INDIA (UBI)
+                                                                                                          CHQ DEP 549840 400026007 0691
+                 11/05/  11/05/  73066                                           -299240447.94           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-11/05/2026 229
+
+                                                                                                          CHQ DEP 001022 110229029 2546
+                                                                                                          RENEWAL
+                 15/05/  15/05/                          1416000                 -300656447.94           PROCESSING FEE- PROPERTY
+                 2026    2026                                                                            LOAN
+
+                 20/05/  20/05/  1000000                                         -299656447.94           NO BOOK DEPOSIT TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/ICIC/ICICN420260520526058
+                                                                                                         24/SUDARSHAN /
+                 20/05/  20/05/  3000000                                         -296656447.94           NO BOOK DEPOSIT TRANSFER
+                 2026    2026
+
+                                                                                                         RTGS/ICIC/ICICR420260520005739
+                                                                                                         03/SUDARSHA/
+                 26/05/  26/05/  84960                                           -296571487.94           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-26/05/2026 UNION
+
+                                                                                                         BANK OF INDIA (UBI)
+                                                                                                          CHQ DEP 549841 400026007 2546
+                 26/05/  26/05/  141600                                          -296429887.94           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-26/05/2026 211
+
+                                                                                                          CHQ DEP 299576 500211046 2546
+                 29/05/  29/05/  84960                                           -296344927.94           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-29/05/2026 UNION
+
+                                                                                                         BANK OF INDIA (UBI)
+                                                                                                          CHQ DEP 549842 400026007 0010
+                 30/05/  30/05/  62186                                           -296282741.94           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-30/05/2026 UNION
+
+                                                                                                         BANK OF INDIA (UBI)
+                                                                                                          CHQ DEP 549844 400026007 1869
+                 31/05/  31/05/                          2838996                 -299121737.94           DR INT TRANSACTION
+                 2026    2026
+                 31/05/  31/05/                          180                     -299121917.94           OD PNLTY INT TXN
+                 2026    2026
+
+Statement Downloaded by :SUDARSHAN PHARMA INDUSTRIES LIMITED on Tue Jun 02 15:11:14  IST 2026
+
+Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found the a/c
+correct.
+
+END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+                                                                            Page No:1

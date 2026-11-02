@@ -1,0 +1,76 @@
+﻿Financial Year,No,Parameter,Formula,Result,Evidence,Interpretation
+2023-24,1,EBIT,Reported pre-tax profit + interest,₹ 237.67 lakh,Calculated,Tax is not added again to pre-tax profit.
+2023-24,2,EBITDA (PDF: EBITA),Pre-tax profit + interest + depreciation,₹ 247.23 lakh,Calculated,PDF adds depreciation and amortization; no separate amortization disclosed.
+2023-24,3,Net Profit,Total income - expenses,₹ 201.37 lakh,Source pre-tax profit,Before proprietor personal income tax; PAT not established.
+2023-24,4,Operating Profit,Pre-tax profit + interest,₹ 237.67 lakh,Calculated,Equals EBIT using PDF definition.
+2023-24,5,Promoter Net Worth,Personal assets - personal liabilities,Not available,Missing evidence,Business capital is not a complete personal net worth statement.
+2023-24,6,DSCR,(PAT + D&A + interest) / (principal + interest),Not available,Missing evidence,Annual principal repayments and after-tax profit absent. July 2026 EMI schedule cannot replace annual debt service.
+2023-24,7,Current Ratio,Current assets / reported current liabilities,10.92 x,Classification caveat,Loan current maturities are not split out in supplied balance sheets.
+2023-24,8,Quick Ratio,(Current assets - inventory) / reported current liabilities,10.66 x,Classification caveat,Includes source current assets; current loan maturities not disclosed.
+2023-24,9,Debt-Equity Ratio,Total debt / proprietor capital,0.41 x,Calculated,"Total debt includes secured, unsecured and friends/relatives."
+2023-24,10,Adjusted Debt-Equity (literal PDF),(Total debt + unsecured loans) / capital,0.74 x,Double-counting caveat,Literal PDF adds unsecured debt already in total debt; standard debt/equity is parameter 9.
+2023-24,11,Interest Coverage,EBIT / interest,6.55 x,Calculated,"Interest from annual P&L, not the later EMI schedule."
+2023-24,12,TOL / TNW,Outside liabilities / tangible proprietor capital,0.55 x,Calculated,No intangible line disclosed; capital used as tangible business net worth.
+2023-24,13,Net Profit / Sales,Reported pre-owner-tax profit / sales,2.68%,Pre-tax basis,Not an after-tax margin.
+2023-24,14,Debt / EBITDA,Total debt / EBITDA,1.07 x,Calculated,Closing debt and annual EBITDA.
+2023-24,15,Operating Cash Flow / Interest,Operating cash flow / interest,Not available,Missing evidence,Cash-flow statement not supplied.
+2023-24,16,Retained Earnings / Equity,Retained earnings / equity,Not available,Not separately disclosed,Proprietorship capital does not identify corporate retained earnings.
+2023-24,17,Debtor Collection Period,Closing debtors / sales x 365,39.19 days,Closing balance proxy,Credit-sales split and opening debtor balances unavailable.
+2023-24,18,Creditor Payment Period,Closing creditors / purchases x 365,3.93 days,Closing balance proxy,Trade purchase denominator from trading account.
+2023-24,19,Stock Holding Period,Closing inventory / COGS x 365,1.14 days,Closing balance proxy,COGS = opening stock + purchases - closing stock; labour/freight excluded consistently.
+2023-24,20,Working Capital Ratio,Current assets / reported current liabilities,10.92 x,Classification caveat,Same formula as current ratio in supplied parameters.
+2023-24,21,Drawing Power,Eligible stock + eligible debtors - creditors,Not available,Missing eligibility data,Bureau reports historical DP of INR20 lakh on 7 Jul 2026; no annual eligible stock/debtor schedules.
+2023-24,22,Banking Trend Analysis,Inflow/outflow + internal/cheque/EMI return trends,See Banking,See Banking page,Banking July 2025-June 2026; not aligned to all three financial years.
+2023-24,23,Invoice Ageing,Invoice due date vs unpaid balance,Not available,Missing evidence,Invoice-level dates and outstanding settlements absent.
+2023-24,24,CIBIL / CMR Analysis,Supplied bureau reports dated 7 Jul 2026,Personal CIBIL 756; company rank unavailable,Historical bureau snapshot,"Personal report p1: score 756; dispute under review dated 25 Apr 2023. Company p2: 31 open, 17 closed, 0 delinquent; 96% WC utilisation. Company rank shown as dash. Personal report account histories not fully reviewed."
+2023-24,25,Evidence-based SWOT,Statement trends + gaps + historical bureau,See review notes,See review notes,Strength: revenue/profit growth. Weakness: rising debt/receivables. Opportunity: validate collections. Threat: high historical WC utilisation; provisional figures.
+2024-25,1,EBIT,Reported pre-tax profit + interest,₹ 783.45 lakh,Calculated,Tax is not added again to pre-tax profit.
+2024-25,2,EBITDA (PDF: EBITA),Pre-tax profit + interest + depreciation,₹ 791.57 lakh,Calculated,PDF adds depreciation and amortization; no separate amortization disclosed.
+2024-25,3,Net Profit,Total income - expenses,₹ 702.49 lakh,Source pre-tax profit,Before proprietor personal income tax; PAT not established.
+2024-25,4,Operating Profit,Pre-tax profit + interest,₹ 783.45 lakh,Calculated,Equals EBIT using PDF definition.
+2024-25,5,Promoter Net Worth,Personal assets - personal liabilities,Not available,Missing evidence,Business capital is not a complete personal net worth statement.
+2024-25,6,DSCR,(PAT + D&A + interest) / (principal + interest),Not available,Missing evidence,Annual principal repayments and after-tax profit absent. July 2026 EMI schedule cannot replace annual debt service.
+2024-25,7,Current Ratio,Current assets / reported current liabilities,11.96 x,Classification caveat,Loan current maturities are not split out in supplied balance sheets.
+2024-25,8,Quick Ratio,(Current assets - inventory) / reported current liabilities,10.12 x,Classification caveat,Includes source current assets; current loan maturities not disclosed.
+2024-25,9,Debt-Equity Ratio,Total debt / proprietor capital,0.81 x,Calculated,"Total debt includes secured, unsecured and friends/relatives."
+2024-25,10,Adjusted Debt-Equity (literal PDF),(Total debt + unsecured loans) / capital,1.46 x,Double-counting caveat,Literal PDF adds unsecured debt already in total debt; standard debt/equity is parameter 9.
+2024-25,11,Interest Coverage,EBIT / interest,9.68 x,Calculated,"Interest from annual P&L, not the later EMI schedule."
+2024-25,12,TOL / TNW,Outside liabilities / tangible proprietor capital,0.95 x,Calculated,No intangible line disclosed; capital used as tangible business net worth.
+2024-25,13,Net Profit / Sales,Reported pre-owner-tax profit / sales,3.51%,Pre-tax basis,Not an after-tax margin.
+2024-25,14,Debt / EBITDA,Total debt / EBITDA,1.32 x,Calculated,Closing debt and annual EBITDA.
+2024-25,15,Operating Cash Flow / Interest,Operating cash flow / interest,Not available,Missing evidence,Cash-flow statement not supplied.
+2024-25,16,Retained Earnings / Equity,Retained earnings / equity,Not available,Not separately disclosed,Proprietorship capital does not identify corporate retained earnings.
+2024-25,17,Debtor Collection Period,Closing debtors / sales x 365,33.45 days,Closing balance proxy,Credit-sales split and opening debtor balances unavailable.
+2024-25,18,Creditor Payment Period,Closing creditors / purchases x 365,3.38 days,Closing balance proxy,Trade purchase denominator from trading account.
+2024-25,19,Stock Holding Period,Closing inventory / COGS x 365,6.71 days,Closing balance proxy,COGS = opening stock + purchases - closing stock; labour/freight excluded consistently.
+2024-25,20,Working Capital Ratio,Current assets / reported current liabilities,11.96 x,Classification caveat,Same formula as current ratio in supplied parameters.
+2024-25,21,Drawing Power,Eligible stock + eligible debtors - creditors,Not available,Missing eligibility data,Bureau reports historical DP of INR20 lakh on 7 Jul 2026; no annual eligible stock/debtor schedules.
+2024-25,22,Banking Trend Analysis,Inflow/outflow + internal/cheque/EMI return trends,See Banking,See Banking page,Banking July 2025-June 2026; not aligned to all three financial years.
+2024-25,23,Invoice Ageing,Invoice due date vs unpaid balance,Not available,Missing evidence,Invoice-level dates and outstanding settlements absent.
+2024-25,24,CIBIL / CMR Analysis,Supplied bureau reports dated 7 Jul 2026,Personal CIBIL 756; company rank unavailable,Historical bureau snapshot,"Personal report p1: score 756; dispute under review dated 25 Apr 2023. Company p2: 31 open, 17 closed, 0 delinquent; 96% WC utilisation. Company rank shown as dash. Personal report account histories not fully reviewed."
+2024-25,25,Evidence-based SWOT,Statement trends + gaps + historical bureau,See review notes,See review notes,Strength: revenue/profit growth. Weakness: rising debt/receivables. Opportunity: validate collections. Threat: high historical WC utilisation; provisional figures.
+2025-26,1,EBIT,Reported pre-tax profit + interest,₹ 1258.30 lakh,Calculated,Tax is not added again to pre-tax profit.
+2025-26,2,EBITDA (PDF: EBITA),Pre-tax profit + interest + depreciation,₹ 1265.20 lakh,Calculated,PDF adds depreciation and amortization; no separate amortization disclosed.
+2025-26,3,Net Profit,Total income - expenses,₹ 1156.31 lakh,Source pre-tax profit,Before proprietor personal income tax; PAT not established.
+2025-26,4,Operating Profit,Pre-tax profit + interest,₹ 1258.30 lakh,Calculated,Equals EBIT using PDF definition.
+2025-26,5,Promoter Net Worth,Personal assets - personal liabilities,Not available,Missing evidence,Business capital is not a complete personal net worth statement.
+2025-26,6,DSCR,(PAT + D&A + interest) / (principal + interest),Not available,Missing evidence,Annual principal repayments and after-tax profit absent. July 2026 EMI schedule cannot replace annual debt service.
+2025-26,7,Current Ratio,Current assets / reported current liabilities,3.84 x,Classification caveat,Loan current maturities are not split out in supplied balance sheets.
+2025-26,8,Quick Ratio,(Current assets - inventory) / reported current liabilities,3.32 x,Classification caveat,Includes source current assets; current loan maturities not disclosed.
+2025-26,9,Debt-Equity Ratio,Total debt / proprietor capital,0.57 x,Calculated,"Total debt includes secured, unsecured and friends/relatives."
+2025-26,10,Adjusted Debt-Equity (literal PDF),(Total debt + unsecured loans) / capital,0.91 x,Double-counting caveat,Literal PDF adds unsecured debt already in total debt; standard debt/equity is parameter 9.
+2025-26,11,Interest Coverage,EBIT / interest,12.34 x,Calculated,"Interest from annual P&L, not the later EMI schedule."
+2025-26,12,TOL / TNW,Outside liabilities / tangible proprietor capital,1.02 x,Calculated,No intangible line disclosed; capital used as tangible business net worth.
+2025-26,13,Net Profit / Sales,Reported pre-owner-tax profit / sales,3.81%,Pre-tax basis,Not an after-tax margin.
+2025-26,14,Debt / EBITDA,Total debt / EBITDA,1.05 x,Calculated,Closing debt and annual EBITDA.
+2025-26,15,Operating Cash Flow / Interest,Operating cash flow / interest,Not available,Missing evidence,Cash-flow statement not supplied.
+2025-26,16,Retained Earnings / Equity,Retained earnings / equity,Not available,Not separately disclosed,Proprietorship capital does not identify corporate retained earnings.
+2025-26,17,Debtor Collection Period,Closing debtors / sales x 365,41.14 days,Closing balance proxy,Credit-sales split and opening debtor balances unavailable.
+2025-26,18,Creditor Payment Period,Closing creditors / purchases x 365,13.27 days,Closing balance proxy,Trade purchase denominator from trading account.
+2025-26,19,Stock Holding Period,Closing inventory / COGS x 365,6.95 days,Closing balance proxy,COGS = opening stock + purchases - closing stock; labour/freight excluded consistently.
+2025-26,20,Working Capital Ratio,Current assets / reported current liabilities,3.84 x,Classification caveat,Same formula as current ratio in supplied parameters.
+2025-26,21,Drawing Power,Eligible stock + eligible debtors - creditors,Not available,Missing eligibility data,Bureau reports historical DP of INR20 lakh on 7 Jul 2026; no annual eligible stock/debtor schedules.
+2025-26,22,Banking Trend Analysis,Inflow/outflow + internal/cheque/EMI return trends,See Banking,See Banking page,Banking July 2025-June 2026; not aligned to all three financial years.
+2025-26,23,Invoice Ageing,Invoice due date vs unpaid balance,Not available,Missing evidence,Invoice-level dates and outstanding settlements absent.
+2025-26,24,CIBIL / CMR Analysis,Supplied bureau reports dated 7 Jul 2026,Personal CIBIL 756; company rank unavailable,Historical bureau snapshot,"Personal report p1: score 756; dispute under review dated 25 Apr 2023. Company p2: 31 open, 17 closed, 0 delinquent; 96% WC utilisation. Company rank shown as dash. Personal report account histories not fully reviewed."
+2025-26,25,Evidence-based SWOT,Statement trends + gaps + historical bureau,See review notes,See review notes,Strength: revenue/profit growth. Weakness: rising debt/receivables. Opportunity: validate collections. Threat: high historical WC utilisation; provisional figures.

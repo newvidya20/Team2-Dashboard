@@ -1,0 +1,27 @@
+/// Evidence-based SWOT. Selected-year profitability/ratios plus explicitly historical source flags. No automatic approval score or unsupported risk thresholds.
+table 'Credit Notes'
+	lineageTag: dc5b7505-4533-40f5-a362-b3dbe32c3e8f
+
+	/// Credit Interpretation
+	measure 'Credit Interpretation' = SWITCH(SELECTEDVALUE('Credit Notes'[Topic]),"Strength","Reported PAT ₹" & FORMAT([FY Net Profit]/100000,"0.00") & " lakh. " & IF(ISBLANK([Finance Sales Growth]),"No earlier comparable revenue supplied.","Revenue changed " & FORMAT([Finance Sales Growth],"+0.0%;-0.0%") & " versus prior FY."),"Weakness","Assess PAT margin " & FORMAT([Net Profit Margin],"0.00%") & "; debt/equity " & FORMAT([Debt Equity Ratio],"0.00") & "x; core interest cover " & FORMAT([Operating Interest Coverage],"0.00") & "x.","Opportunity","Obtain receivable ageing, cash-flow and principal-repayment schedules to verify collection and debt-servicing capacity.","Threat","Historical 2024 provider litigation and GST-delay flags require current verification. No bureau score is supplied.")
+		formatString: General
+		displayFolder: Credit Review
+		lineageTag: 740a757b-1e33-487d-92ed-63c193fc5818
+
+	column Order
+		dataType: int64
+		lineageTag: 4b8432bc-b758-47e1-93d1-5c0d6b4d1059
+		summarizeBy: none
+		sourceColumn: Order
+
+	column Topic
+		dataType: string
+		lineageTag: 3a8d54b7-75e6-42d6-b651-e8c53f62a31c
+		summarizeBy: none
+		sourceColumn: Topic
+		sortByColumn: Order
+
+	partition 'Credit Notes' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/4uONtRRUAouKUrNSy/JUIrVUYg20lFQCk9NzM5LLS4GCxjrKCj5FxTkF5WU5mWWVILFTHQUlEIyilITS5RiYwH1+mPoRQAAAA==",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Order","Topic"}), X=Table.TransformColumnTypes(T,{{"Order", Int64.Type},{"Topic", type text}}) in X
+

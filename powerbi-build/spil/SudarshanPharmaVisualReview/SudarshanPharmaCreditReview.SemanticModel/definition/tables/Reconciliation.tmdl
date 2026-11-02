@@ -1,0 +1,94 @@
+/// Availability-based monthly aggregate only. Months with fewer than five GST registrations and bank accounts without supplied entries are explicit. GST can include inter-registration supplies. Cash/book/tax/scope differences are not receivables or verified unexplained turnover. Party-level GST not supplied.
+table Reconciliation
+	lineageTag: 34dac2c6-b2e1-4d39-a525-a8d08b352e29
+
+	/// Common GST Cr
+	measure 'Common GST Cr' = DIVIDE(SUM('Reconciliation'[GST Supplies]),10000000)
+		formatString: #,0.00
+		lineageTag: d15bcb87-461f-40a6-80c4-73202864db96
+
+	/// Common Credits Cr
+	measure 'Common Credits Cr' = DIVIDE(SUM('Reconciliation'[Gross Bank Credits]),10000000)
+		formatString: #,0.00
+		lineageTag: f213d184-f0b2-412d-b162-b1d7816e1f84
+
+	/// Common Adjusted Cr
+	measure 'Common Adjusted Cr' = DIVIDE(SUM('Reconciliation'[Adjusted Credit Candidates]),10000000)
+		formatString: #,0.00
+		lineageTag: 9cb2aef8-6481-4d40-992b-1a6701ba3c76
+
+	/// Common Gap Cr
+	measure 'Common Gap Cr' = [Common Adjusted Cr]-[Common GST Cr]
+		formatString: #,0.00
+		lineageTag: afa57693-f91c-402b-9500-c66092c1d294
+
+	/// Common Months
+	measure 'Common Months' = COUNTROWS('Reconciliation')
+		formatString: 0
+		lineageTag: 7fed534e-bcb8-41de-8fb8-da7e36265c8d
+
+	column Month
+		dataType: string
+		lineageTag: dd8e364f-4c6e-4cf1-adbb-65fbdb7571fa
+		summarizeBy: none
+		sourceColumn: Month
+
+	column 'GST Supplies'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 187eeffd-999c-4d26-bedc-f1dba511d9bc
+		summarizeBy: none
+		sourceColumn: GST Supplies
+
+	column 'Gross Bank Credits'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: e3443217-8418-497f-9ec5-a33ff4e3ffaa
+		summarizeBy: none
+		sourceColumn: Gross Bank Credits
+
+	column 'Own Account Credit Markers'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: facab254-f3d7-48a5-b12d-b7b42b671e1d
+		summarizeBy: none
+		sourceColumn: Own Account Credit Markers
+
+	column 'Loan Candidates'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: b83ac54b-1933-4529-aca6-bbfb8f1784d5
+		summarizeBy: none
+		sourceColumn: Loan Candidates
+
+	column 'Adjusted Credit Candidates'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 5206214c-f115-4fae-8fae-d8f7aab9b23a
+		summarizeBy: none
+		sourceColumn: Adjusted Credit Candidates
+
+	column 'GST Registrations'
+		dataType: int64
+		formatString: #,0
+		lineageTag: f2937492-afcf-44f0-8196-d243d8a81ec8
+		summarizeBy: none
+		sourceColumn: GST Registrations
+
+	column 'Bank Accounts With Entries'
+		dataType: int64
+		formatString: #,0
+		lineageTag: 38938cc6-c85a-44fb-b2b9-b06b89f48e81
+		summarizeBy: none
+		sourceColumn: Bank Accounts With Entries
+
+	column Coverage
+		dataType: string
+		lineageTag: 22ee36dc-a380-48b7-8fc2-52cb16b38d1d
+		summarizeBy: none
+		sourceColumn: Coverage
+
+	partition Reconciliation = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/52Vy2qcRxCFX2Xodbmoy6nbMptka3B2xguBR2ZgkMxI9vOHniGgkM1I/QD99fnPV/V//bpMLD4JFnlWptcEu8o+STrpk+XBNWQ5yNJgNRLSHISICWcRSGl9fri8nh7Oh7++/H24HH+cXl4vD6+n56eX9Y3+xcQiiCC6JdjyigkKEy9HGk9QqATGnadICDmuHdY8fT8mF2WaZaCdFWSeKTYQnqRSH+kA+y1HmJp0cuJ+QC0CpDVcjKGzT5KqiVVjgq3JNGrcEJyE9mGhETOUpXDuNHkfrBchQ2sqdF/cMoIRTUaTpiAUrZwkLJTomAoH9zsQs6hKHCUQRpCGhkiLFnuSa1toQLmvDNXJikQFR94NUVkUnu1l3exBKtquXjMcW6/2TjHnIJ8ceLBQISbaoSxDsUl/nM+Hx9Pv4/9Rh5dfP3+eT8fvb5i6CF2772keuxYVNAOLQjq3k0W5h2Rx7zd1QWv7Xh5Qt0rOD6FtUaSLJ0Z59s2jgRrhAVmGq3nszwnDtKqxGVWrA27NZe+G5ifRRd49mVl4M2DVwGDAKFJt8W4BW1zrRMwANsJ2M7k+Qt5xXSZDUrmLKtQrdJq1SbevpqPcuGkqZo1oZceN9ufpfHr6cfj19Pt4OT2ejt8Pj8+Xw/PT8T/oN0BfpKqV5bVHwba05WW5pTXykkRKK1eRT0lHX90Vh7a7csRHcmJRlI+6FriTuitbfIbTyAQSlSNcSgbsoc926+kYHqWgei8wFqVnTlU5u18bommVkGrh8p0pxTuSMRTRnQYWpw6gIxRsHyLnIkSbd6js1ewa0qi9VHPI3CxVLGzX7VfVZHdbgzSpVu7t8LuxtShNMhUQFt1rtRU6XrdxhUeaF4vtn4ltkdiS2sZdJOJW7L3Yb/8AoNOF6wQHAAA=",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Month","GST Supplies","Gross Bank Credits","Own Account Credit Markers","Loan Candidates","Adjusted Credit Candidates","GST Registrations","Bank Accounts With Entries","Coverage"}), X=Table.TransformColumnTypes(T,{{"Month", type text},{"GST Supplies", type number},{"Gross Bank Credits", type number},{"Own Account Credit Markers", type number},{"Loan Candidates", type number},{"Adjusted Credit Candidates", type number},{"GST Registrations", Int64.Type},{"Bank Accounts With Entries", Int64.Type},{"Coverage", type text}}) in X
+

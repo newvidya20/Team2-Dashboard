@@ -1,0 +1,15 @@
+﻿Page,Order,Parameter,Status,Evidence or Requirement
+GST,1,Buyer/supplier totals & shares,Unavailable,"GSTR-1, GSTR-2B or sales/purchase party ledger required. GSTR-3B is aggregate."
+GST,2,Exports and export share,Partial,Zero-rated values shown separately; export vs SEZ split absent.
+GST,3,Filing date and late fee,Available,ARN dates and section 5.1 late fee extracted; fee may relate to previous tax period.
+GST,4,State/location revenue split,Unavailable,Registered GST state is Maharashtra; that does not establish buyer-state distribution.
+GST,5,Intra-group transactions,Unavailable,Related-party ownership mapping and invoice ledger required.
+GST,6,HSN product summary,Unavailable,HSN-level GSTR-1 or item ledger required.
+Banking,1,Internal account transactions,Partial,Exact same-date reciprocal amount plus ownership narration cue; ambiguous pairs remain unconfirmed.
+Banking,2,"Inflows/outflows, credits and BTO",Available,"Gross flows extracted. Adjusted BTO excludes confirmed internal credits, loan candidates and return markers."
+Banking,3,Cheque / ECS / NACH returns,Candidate markers,"Narration markers; candidate counts are entries, not verified unique failed payments."
+Banking,4,Party receipts/payments,Available,Source narration names retained; abbreviated names are not fuzzy matched.
+Banking,5,"Loans, cash and penal charges",Candidate markers,Narration classifications require verification; loan disbursement candidates are not proven business receipts.
+Banking,6,CC utilisation,Historical bureau only,"Company bureau p2: 96% utilisation, INR50 lakh sanctioned, INR20 lakh DP, INR17.2 lakh average O/S; dated 7 Jul 2026. Supplied bank accounts are current accounts."
+Reconciliation,1,Party-wise GST vs banking,Unavailable,No party-level GST data. Bank party receipts can be reviewed but GST variances cannot be computed.
+Reconciliation,2,Common-period aggregate bridge,Partial,July 2025-May 2026 only. Bank cash and GST booked supplies have different tax/timing bases.

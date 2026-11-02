@@ -1,0 +1,1433 @@
+
+--- PAGE 1 ---
+Regd. Off.: 301, Aura Biplex, Above Kalyan Jewellers, S.V. Road, Borivali (West), Mumbai - 400092. 
+ 
+ 
+SSUDARSHAN PHARMA INDUSTRIES LTD 
+Head Office : 301, Aura Biplex, Premium Retail, Premises, 7, S.V. Road, Borivali (West), Mumbai - 400092. 
+E-mail : compliance@sudarshanpharma.com, Website : www.sudarshanpharma.com 
+Board Line : +91-22-42221111 / 43331111/42221116 (100 line) CIN: L51496MH2008PLC184997 
+ 
+ 
+ 
+ 
+ 
+SPIL/CS/SE/2026-2027/06               Date: 30 th April 2026 
+ 
+To, 
+The Listing Department  
+BSE Limited 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 001  
+ 
+ 
+BSE Scrip Code: 543828 
+BSE Trading Symbol: SUDARSHAN 
+ISIN: INE00TV01023 
+ 
+Ref:  Regulation 33 of SEBI (Listing Obligations And Disclosure  Requirements) Regulations, 2015 
+Sub:  Outcome of the Meeting of Board of Directors of the Compa ny held on Thursday, 30th April, 2026 
+ -------------------------------------------------------------- ------------------------------------------------------------- 
+ 
+Dear Sir / Madam, 
+ 
+Pursuant to Regulation 33 of the SEBI (Listing Obligations And Disclosure Requirements) Regulations, 2015, we are 
+submitting herewith Audited Standalone & Consolidated Financial Results for the quarter and financial year ended on 
+31st March, 2026 as approved by the Board of Directors of the Compa ny along-with Auditors’ Report at its meeting 
+held today. 
+ 
+The meeting of the Board of Directors commenced at 6.30 pm and concluded at 9.00 pm.   
+ 
+We request you to kindly take the above information on record. 
+ 
+Thanks & Regards, 
+Yours faithfully,  
+ 
+For Sudarshan Pharma Industries Limited 
+ 
+ 
+ 
+Hemal Mehta 
+Chairman & Managing Director 
+ 
+ 
+HEMAL 
+VASANTR
+AI MEHTA
+Digitally signed by 
+HEMAL VASANTRAI 
+MEHTA 
+Date: 2026.04.30 
+23:41:38 +05'30'
+
+--- PAGE 2 ---
+Statement of Un-audited Standalone Financial Results for the Half Year ended 31st March, 2026
+Statement of Standalone Audited Financial Results for Quarter and Year Ended 31st March, 2026
+31-Mar-26 31-Dec-25 31-Mar-25 31-Mar-26 31-Mar-25
+Refer note 2 Un-Audited Refer note 2 Audited Audited
+INCOME
+I Revenue from operations 19,980.98              15,837.13                16,156.81        66,749.85       50,249.34       
+II Other Income 320.79                  168.96                     91.11               840.44            299.88            
+III Total Income ( I +II ) 20,301.77              16,006.09                16,247.91        67,590.29       50,549.22       
+IV EXPENSES
+(a) Cost of Material s Consumed 105.65                   58.15                       298.75             297.68            399.90            
+(b) Purchase of Stock-in-Trade 19,356.54              15,177.88                16,445.88        65,599.01       48,859.26       
+(c ) Changes in inventories of finished goods, work-in-progress & Stock-in-Trade (2,328.75)              (1,365.11)               (2,797.48)        (7,063.44)      (5,330.06)      
+(d) Employee Bene fit Expenses 184.80                   167.97                     123.97             618.97            451.84            
+(e ) Finance Costs 727.39                  624.17                     444.26             2,529.74         1,621.53         
+(f) Depreciation and Amortization Expense 100.36                  80.63                      75.55              340.65           270.18           
+(g) Other Expenses 832.40                  720.86                     564.76             2,400.87         2,114.22         
+Total Expenses (IV (a to g)) 18,978.40             15,464.55                15,155.68        64,723.48       48,386.88       
+V Profit before exceptional and extraordinary items and tax 1,323.37                541.55                     1,092.23          2,866.82         2,162.34         
+¬Exceptional Items -                        -                         164.84            -                281.73           
+VI Profit before extraordinary items and tax ¬ 1,323.37               541.55                     927.39             2,866.82         1,880.61         
+Extraordinary items -                        -                         -                -                
+VII Profit before tax¬ 1,323.37               541.55                     927.39             2,866.82         1,880.61         
+VIII Tax expense:
+(a) Current tax 340.65                  135.01                    253.75            709.31           539.65           
+(b) Deferred tax (Expense) / Income 53.83                    (24.01)                    (29.05)             (15.27)           (52.04)           
+(c) Tax for Earlier Year (25.39)                   (25.39)           (9.16)             
+Total Tax Expenses 369.09                  111.00                     224.71             668.65            478.45            
+IX Net Profit/(Loss) for the year from continuing operations 954.28                  430.54                     702.68             2,198.16         1,402.16         
+Net Profit/(Loss) for the year 954.28                  430.54                     702.68             2,198.16         1,402.16         
+X Other comprehensive income, net of income tax
+  i) items that will not be reclassified to profit or loss 5.53                      (1.16)                      (1.16)               2.04               (4.65)             
+ ii) income tax relating to items that will not be reclassified 
+      to profit or loss (1.39)                     0.29                         0.29                 (0.51)              1.17                
+Total other comprehensive income, net of income tax 4.14                      (0.87)                       (0.87)                1.53                (3.48)              
+XI Total comprehensive income for the period/ year (7+8) 958.42                  429.67                     701.81             2,199.69         1,398.68         
+XII Paid up Equity Share Capital (Face Value of Equity Shares Rs.10/- each 2,406.59               2,406.59                 2,406.59         2,406.59        2,406.59        
+XIII Reserve Excluding Revaluaion Reserve 12,863.92      10,664.23      
+XIV Earning per share (in Rs) from Continuing Operations:
+(i)   Basic EPS 0.40                      0.18                        0.29                0.91               0.58               
+(ii)   Diluted EPS 0.39                      0.18                        0.29                0.90               0.58               
+For Sudarshan Pharma Industries Limited
+Hemal Mehta
+(Managing Director)
+DIN : 02211121
+Place : Mumbai 
+Date : 30th April, 2026
+SUDARSHAN PHARMA INDUSTRIES  LIMITED
+CIN : L51496MH2008PLC184997
+301, Aura Biplex, Above Kalyan Jewellers, S. V. Road, Borivali (West), Mumbai, Maharashtra 400092 India.
+Sr. 
+No. Particulars
+Quarter ended Year Ended
+HEMAL 
+VASANTR
+AI MEHTA
+Digitally signed by HEMAL VASANTRAI 
+MEHTA 
+DN: c=IN, o=Personal, title=0743, 
+2.5.4.20=106c3f0d8eaa0dd505f60c67ec7
+cc16a657a33621e34ab0a197601e019535
+b4f, postalCode=400092, st=Maharashtra, 
+serialNumber=8e84a47ee0ef86f5c1d0fbb
+0005ce849d90d1f30abb1b7d6a8b1ff0aa
+dab79ad, cn=HEMAL VASANTRAI MEHTA 
+Date: 2026.04.30 22:23:26 +05'30'
+TWINKALKUMAR 
+PRAVINKUMAR 
+JAIN
+Digitally signed by 
+TWINKALKUMAR 
+PRAVINKUMAR JAIN 
+Date: 2026.04.30 22:38:12 
++05'30'
+
+--- PAGE 3 ---
+Notes to Standalone Financial results:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Quarter Ended Year Ended
+31-Mar-25 31-Mar-25
+Net Profit/(Loss)after Tax/ Reserve reported under previous GAAP                     740.78                   1,587.70 
+Ind AS adjustments [Increase in profits / (decrease in profits)]
+Effect of measuring the Interest cost on term loan at EIR 1.96                       (1.77)                       
+Impact due to Amortisation of ROU, finance cost on lease liability net of 
+rent actual charged
+(8.88)                      (25.35)                     
+Actuarial (gain)/Loss on employee defined benefit funds recognized in 
+Other comprehensive income
+1.16                       4.65                         
+Fair Valuation of Investments 2.97                       11.08                      
+Impact due to IND AS 40 (10.28)                    (41.13)                     
+Tax impact on Ind AS adjustment 21.62                     62.40                      
+Impact due to Expected credit losses (46.64)                    (195.42)                   
+Net Profit/(Loss) after Tax/ Reserve as per Ind AS 702.68                    1,402.17                  
+Other comprehensive income, net of income tax (0.87)                      (3.48)                       
+Net Profit/(Loss) after Tax/ Reserve as per Ind AS 701.81                    1,398.68                  
+Particilars
+The Statement has been reviewed by Members of the Audit Committee and approved by the Board of Directors at their respective meetings held on April 30, 
+2026. The statutory auditors have issued an unmodified review opinion on these results. This Statement has been prepared in accordance with the Companies 
+(Indian Accounting Standard) Rules, 2015 (Ind AS) prescribed under section 133 of the Companies Act, 2013 and rules amended from time to time.Companies 
+whose shares are listed on SME Platform of any Exchange are exempt from compulsory Adoption of IND AS. Begining April 01,2025 The company has for the 
+first time adopted Indian accounting Standards volutarily with the transition date of April 01, 2024.
+The Company is engaged in manufacturing of API, Jobwork manufacturing in Pharmaceuticals items and traders in chemicals and sol vents in India. The 
+Company is engaged in the business of speciality chemicals only and therefore, there is only one reportable segment. There is n o reportable segment and the 
+segment wise disclosure requirement of lND AS 108 on operating segment is not applicable to it.
+The previous periods’ figures have been re-grouped / re-arranged / re-casted wherever necessary to make it comparable with the current period.
+The Statutory Auditors have conducted an audit of the above mentioned quarterly and year to date results as required by Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015. The Report of the statutory auditors will be uploaded on the BSE portal along with the results 
+and is also available on the Company's website www.sudarshanpharma.com.
+Vide letter dated 31st July, 2024 to BSE Limited on the progress of the litigation against Regans International DMCC, the Company had won an award in its 
+favour announced by the Dubai Court in lawsuit against (i) Regans International DMCC and (ii) Nand Biharilal Chhabaria Biharila l Chunilal in Dubai, United 
+Arab Emirates. According to the award announced, (i) Regans International DMCC and (i) Nand Biharilal Chhabaria Biharilal Chuni lal have been ordered to 
+pay to the Company an amount of UAE Dirham 40,30,934.00 (equivalent to approx. Rs.9,18,82,890/- i.e. Rupees Ninety Crores Eighteen Lakhs Eighty-Two 
+Thousand Eight Hundred And Ninety only) along with interest at 5% annually on the adjudged amount until the full payment is mad e.
+Till 31st March, 2026, the Company had received an amount of 
+Rs.4,68,00,535/- (including interest) out of the total outstanding amount and the balance would be received by the Company in f uture.
+The Board of Directors of the Company accorded it’s consent to raise funds up to Rs.1,500 Crores (Rupees Fifteen Hundred Crores) by issuing Foreign Currency 
+Convertible Bonds (FCCB). Subsequently Extraordinary General Meeting of the members of Company was convened on August 11, 2025 wherein special 
+resolution for raising funds by issuance of FCCB was passed successfully. 
+The Company had submitted its application with BSE Limited (“BSE”) to obtain in-principle approval for issue of FCCB upto the a mount of USD 35,000,000 
+(United States Dollars Thirty Five Million only). On 26th September 2025, in-principle approval was received from BSE.
+The Company had submitted an application with the Reserve Bank of India (RBI) through the Company’s Authorised Dealer, viz., IC ICI Bank for obtaining 
+Loan Registration Number. The application was successfully processed and Loan Registration Number was obtained by the Company f rom the RBI on 15th 
+October, 2025. However, since the said fund-raising did not fructify due to reasons which were beyond the control of the Company, the Company applied with 
+the RBI to surrender the said LRN. 
+The management of the Company had multiple rounds of discussions with the investors and hence applied for a fresh proposal of f und-raising in the form of 
+FCCBs for which another application was submitted with the LRN and was approved by the RBI on 25th March 2026.
+The Company entered into a d efinitive agreement dated 4th Aug ust 2025 with Srigen Lifescience s Private Limited (Srigen), an Active Pharmaceutical
+Ingredients (API) manufacturing company, for the acquisition of operational manufacturing facility located in Telangana comprising land, buildi ng, and plant
+& machinery, at a consideration of Rs.25,50,00,000/- (Rupees Twenty Five Crores And Fifty Lakhs only). 
+The reconciliation of net profit or loss reported in accordance with Indian GAAP to total comprehensive income in accordance with Ind AS is given below:-
+Profit reconciliation
+The figures for the quarter ended March 31, 2026 and March 31, 2025 is the balancing figures between the unaudited figures in respect of the quarters were 
+subjected to limited review by the Statutory Auditors. The management has exercised necessary diligence to ensure that the financial results provide a true and 
+fair view of the Company’s affairs. The Auditor’s Limited Review Report of the statutory auditors is being filed with BSE Limited and is also available on the 
+Company's website www.sudarshanpharma.com.
+
+--- PAGE 4 ---
+301, Aura Biplex, Above Kalyan Jewellers, S. V. Road, Borivali (West), Mumbai, Maharashtra 400092 India.
+31-Mar-26 31-Mar-25
+Audited Audited
+Assets
+Non-current assets
+Property, plant and equipment 7,276.85                3,007.44                  
+Capital work-in-progress 343.51                   2,253.98                  
+Investment properties 1,151.66                1,192.80                  
+Intangible assets 996.75                   33.06                        
+Financial assets
+Investments 775.40                   317.21                      
+Loans -                         -                           
+Other financial assets 3,125.84                869.19                      
+Deferred tax assets 19.39                     4.64                          
+Other non-current assets 1,254.07                -                           
+Total non-current assets 14,943.47              7,678.318                
+Current assets
+Inventories 20,665.52              13,704.09                
+Financial assets
+Investments -                         166.91                     
+Trade receivables 19,922.85              15,207.74                
+Loans 268.84                   542.17                      
+Cash and cash equivalents 10.90                     38.86                        
+Other financial assets 972.18                   641.64                      
+Other current assets 2,634.21                2,342.95                  
+Total current assets 44,474.50              32,644.35                
+Total assets 59,417.97              40,322.67                
+Equity and liabilities
+Equity
+Equity share capital 2,406.59                2,406.59                  
+Other equity 12,863.92              10,664.23                
+Total equity 15,270.51              13,070.82                
+Liabilities
+Non-current liabilities
+Financial liabilities
+Borrowings 3,039.26                1,042.91                  
+Lease liabilities 51.31                     263.64                      
+Other financial liabilities 33.27                     33.27                        
+Provisions 18.83                     14.88                        
+Total non-current liabilities 3,142.68                1,354.69                  
+Current liabilities
+Financial liabilities
+Borrowings 25,069.68              16,259.06                
+Lease liabilities 88.11                     98.67                        
+Trade payables
+Total outstanding dues of micro enterprises and small enterprises 5,771.41                3,417.67                  
+Total outstanding dues of creditors other than micro enterprises and 
+small enterprises 8,940.13                5,398.54                  
+Other financial liabilities 14.86                     116.53                      
+Current Tax liabilities 664.34                   509.73                      
+Employee benefit obligations 1.57                       1.24                          
+Other current liabilities 454.67                   95.70                        
+Total current liabilities 41,004.78              25,897.15                
+Total liabilities 44,147.46              27,251.85                
+Total equity and liabilities 59,417.97              40,322.67                
+For Sudarshan Pharma Industries Limited
+Hemal Mehta
+(Managing Director)
+DIN : 02211121
+Place : Mumbai 
+Date : 30th April, 2026
+SUDARSHAN PHARMA INDUSTRIES  LIMITED
+CIN : L51496MH2008PLC184997
+Statement of Standalone Assets and Liabilities for the period ended 31st March, 2026
+(Figures are ₹ in Lakhs) (unless specified otherwise '0 'denotes amounts less than ₹ Five Hundred )
+Sr. 
+No PARTICULARS
+HEMAL 
+VASANTR
+AI MEHTA
+Digitally signed by HEMAL 
+VASANTRAI MEHTA 
+DN: c=IN, o=Personal, title=0743, 
+2.5.4.20=106c3f0d8eaa0dd505f60c67
+ec7cc16a657a33621e34ab0a197601e
+019535b4f, postalCode=400092, 
+st=Maharashtra, 
+serialNumber=8e84a47ee0ef86f5c1d
+0fbb0005ce849d90d1f30abb1b7d6a8
+b1ff0aadab79ad, cn=HEMAL 
+VASANTRAI MEHTA 
+Date: 2026.04.30 22:24:29 +05'30'
+TWINKALK
+UMAR 
+PRAVINKU
+MAR JAIN
+Digitally signed by 
+TWINKALKUMAR 
+PRAVINKUMAR 
+JAIN 
+Date: 2026.04.30 
+22:38:37 +05'30'
+
+--- PAGE 5 ---
+SUDARSHAN PHARMA INDUSTRIES  LIMITED
+CIN : L51496MH2008PLC184997
+301, Aura Biplex, Above Kalyan Jewellers, S. V. Road, Borivali (West), Mumbai, Maharashtra 400092 India.
+Statement of Standalone Cashflow for the period ended 31st March, 2026
+(Figures are ₹ in Lakhs) (unless specified otherwise '0 'denotes amounts less than ₹ Five Hundred )
+31-Mar-26 31-Mar-25
+Audited Audited
+A. Cash Flows From Operating Activities
+Net Profit before Tax and After Exceptional Items 2,866.82                    1,880.61                     
+Adjustments for:
+Exceptional Items -                           281.73                       
+Depreciation and amortisation expense 340.65                       270.18                        
+Finance costs 2,529.74                   1,571.70                     
+Provision for doubtful debts 39.72                        195.42                        
+Gain on sale of assets (102.01)                    -                              
+Gain on early termination of lease (18.49)                       -                              
+Unrealised Foreign exchange gain (net) (184.77)                     -                              
+Realised/Unrealised gain on Mutual Funds (8.38)                         (11.08)                         
+Interest Income (222.83)                    (92.21)                         
+Operating Cash Generated Before Working Capital Changes 5,240.44                   4,096.35                     
+(Increase) / Decrease in Inventory (6,961.43)                  (5,267.54)                    
+(Increase)/ Decrease in Trade Receivables (4,754.84)                  (3,655.22)                    
+(Increase)/Decrease in Other financial assets 715.45                       (635.60)                       
+(Increase)/Decrease in other current assets (291.26)                     (266.22)                       
+Increase/(Decrease) in Trade Payables 6,080.11                    2,798.21                     
+Increase/(Decrease) in Other current liabilities 256.03                       (106.12)                       
+Increase / (Decrease) in Short Term Provision 2.38                           (4.28)                           
+Increase / (Decrease) in Long Term Provision 3.96                           6.85                            
+Net Changes in working capital 290.82                       (3,033.57)                   
+Less : Tax (566.04)                    (284.13)                       
+Net Cash Flow from  Operating Activities (A) (275.22)                     (3,317.70)                   
+B. Cash Flows From Investing Activities
+Sale / (Purchase) of Fixed Assets and intangible assets (Including capital advances) (6,909.43)                 (53.19)                         
+(Increase) / Decrease in Capital Work in Progress 1,910.47                   (2,065.94)                    
+Investment in Subsidiary Company -                           (6.59)                           
+Payment for Investment in subsidiary (456.92)                    (0.70)                           
+Proceeds from sale of intagible assets 114.94                      -                              
+Fixed deposits placed (2,969.99)                 -                              
+Fixed and Corporate Deposits matured -                           10.03                          
+Proceeds from sale of Mutual Funds 175.29                       -                              
+Interest Income 164.51                      92.21                          
+Net Cash Generated From Investing Activities (B) (7,971.15)                 (2,024.18)                    
+C. Cash Flow From Financing Activities
+Payments of lease liabilities (principal) (95.56)                       (73.92)                         
+Payment of lease liability (Interest) (28.46)                       (23.48)                         
+Proceeds / (Repayment) of Non-current Borrowings 1,996.36                   (1.30)                           
+Proceeds/(Repayment) in current borrowings 8,807.73                    6,607.84                     
+Payment  Received Towards Share Warrant -                           382.12                       
+Finance costs paid (2,461.66)                 (1,523.64)                    
+Net Cash from Financing Activities [C] 8,218.41                    5,367.62                     
+Net Increase / (Decrease) in Cash and Cash Equivalents (A+B+C) (27.96)                      25.74                          
+Opening Balance of Cash & Cash Equivalents 38.86                        13.12                          
+Closing Balance of Cash & Cash Equivalents 10.90                         38.86                          
+For Sudarshan Pharma Industries Limited
+Hemal Mehta
+(Managing Director)
+DIN : 02211121
+Place : Mumbai 
+Date : 30th April, 2026
+Sr. 
+No PARTICULARS
+HEMAL 
+VASANTR
+AI MEHTA
+Digitally signed by HEMAL 
+VASANTRAI MEHTA 
+DN: c=IN, o=Personal, title=0743, 
+2.5.4.20=106c3f0d8eaa0dd505f60c67
+ec7cc16a657a33621e34ab0a197601e
+019535b4f, postalCode=400092, 
+st=Maharashtra, 
+serialNumber=8e84a47ee0ef86f5c1d
+0fbb0005ce849d90d1f30abb1b7d6a8
+b1ff0aadab79ad, cn=HEMAL 
+VASANTRAI MEHTA 
+Date: 2026.04.30 22:24:54 +05'30'
+TWINKALKUMAR 
+PRAVINKUMAR 
+JAIN
+Digitally signed by 
+TWINKALKUMAR 
+PRAVINKUMAR JAIN 
+Date: 2026.04.30 22:39:05 
++05'30'
+
+--- PAGE 6 ---
+      
+ 
+ 
+ 
+B/203, Borivali Paras CHS, Rokadia Lane, Near Gokul Hotel, Borivali West, Mumbai, 400 092. 
+E-mail: ngstoffice@gmail.com, catwinkal@gmail.com  
+ 
+NGST & Associates 
+Chartered Accountants 
+Independent Auditor’s Report on the Quarterly and Year-to-Date Audited Financial Results of the Company 
+Pursuant to Regulations 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+as amended 
+TO THE BOARD OF DIRECTORS 
+SUDARSHAN PHARMA INDUSTRIES LIMITED 
+Opinion  
+We have audited the accompanying statement of Annual Standalone  Financial Results of SUDARSHAN PHARMA 
+INDUSTRIES LIMITED (“the Company”), for the Quarterly  and year ended March 31, 202 6 attached herewith being 
+submitted by the Company pursuant to the requirement of Regulat ion 33 of the SEBI (Listing Obligation and Disclosure 
+Requirements) Regulations 2015, as amended (“Listing Regulations”). 
+In our opinion and to the best of our information and according  to the explanations given to us, the aforesaid annual 
+standalone financial results: 
+(i) are presented in accordance with the requirement of Regulat ion 33 of the Listing Regulations in this regards; 
+and  
+(ii) give a true and fair view in conformity with the recogniti on and measurement principles laid down in the 
+applicable accounting standards, and other accounting principle s generally accepted in India, of the 
+standalone net profit and other financial information of the Company for the half year and year ended March 
+31, 2026. 
+Basis of Opinion 
+We conducted our audit of the annual standalone financial resul ts in accordance with the Standards on Auditing (SAs) 
+specified under section 143(10) of the Companies Act 2013 (“Act ”). Our responsibilities under those Standards are 
+further described in the Auditors’ Responsibilities for the Audit of the Annual standalone financial results section of our 
+report. We are independent of the Company in accordance with the Code of Ethics issued by the Institute of Chartered 
+Accountants of India (“ICAI”), together with the ethical requir ements that are relevant to our audit of the Annual 
+standalone financial results under the provisions of the Act an d the Rules thereunder, and we have fulfilled our other 
+ethical responsibilities in accordance with these requirements and the ICAI’s Code of Ethics. We believe that the audit 
+evidence we have obtained is sufficient and appropriate to provide a basis for our opinion on the financial results. 
+Responsibilities of Management for the Annual standalone financial results 
+The Annual standalone financial results have been prepared on t he basis of Annual standalone financial Statements. 
+The Company’s Board of Directors is responsible for the matters  stated in section 134(5) of the Act with respect to the 
+preparation of these financial results that give a true and fair view of the financial results of the Company in accordance 
+with the accounting principles generally accepted in India, inc luding the Indian Accounting Standards specified under 
+section 133 of the Act read with relevant rules issued thereunder and other accounting principles generally accepted in 
+India and in compliance with Regulation 33 of the Listing Regulations.  This responsibility also includes maintenance of 
+adequate accounting records in accordance with the provisions of the Act for safeguarding of the assets of the Company 
+and for preventing and detecting frauds and other irregularitie s; selection and application of appropriate accounting 
+policies; making judgments and estimates that are reasonable an d prudent; and design, implementation and 
+maintenance of adequate internal  financial controls, that were operating effectively for ensuring the accuracy and 
+completeness of the accounting records, relevant to the preparation and presentation of the  Annual standalone financial 
+results that give a true and fair view and are free from material misstatement, whether due to fraud or error. 
+
+--- PAGE 7 ---
+      
+ 
+ 
+ 
+B/203, Borivali Paras CHS, Rokadia Lane, Near Gokul Hotel, Borivali West, Mumbai, 400 092. 
+E-mail: ngstoffice@gmail.com, catwinkal@gmail.com  
+ 
+NGST & Associates 
+Chartered Accountants 
+ 
+In preparing the Annual standalone financial results, the Board of Directors is responsible for assessing the Company’s 
+ability to continue as a going concern, disclosing, as applicab le, matters related to going concern and using the going 
+concern basis of accounting unless the management either intends to liquidate the Company or to cease operations, or 
+has no realistic alternative but to do so.  
+The Board of Directors is also responsible for overseeing the Company’s financial reporting process. 
+Auditors’ Responsibilities for the Audit of the Annual standalone financial results 
+Our objectives are to obtain reasonable assurance about whether  the Annual standalone financial results as a whole 
+are free from material misstatement, whether due to fraud or er ror, and to issue an auditors’ report that includes our 
+opinion. Reasonable assurance is a high level of assurance but is not a guarantee that an audit conducted in accordance 
+with SAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are 
+considered material if, individually or in the aggregate, they could reasonably be expected to influence the economic 
+decisions of users taken on the basis of these Annual standalone financial results. 
+As part of an audit in accordance with SAs, we exercise profess ional judgment and maintain professional skepticism 
+throughout the audit. We also: 
+භ Identify and assess the risks of material misstatement of the Annual standalone financial results, whether due 
+to fraud or error, design and perform audit procedures responsive to those risks, and obtain audit evidence that 
+is sufficient and appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement 
+resulting from fraud is higher than for one resulting from error, as fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal control.  
+භ Obtain an understanding of internal control relevant to the au dit in order to design audit procedures that are 
+appropriate in the circumstances. Under section 143(3)(i) of the Act, we are also responsible for expressing our 
+opinion on whether the Company has adequate internal financial controls with reference to Annual standalone 
+financial results in place and the operating effectiveness of such controls.  
+භ Evaluate the appropriateness of accounting policies used and t he reasonableness of accounting estimates and 
+related disclosures made by Management and Board of Directors.  
+භ Conclude on the appropriateness of management’s use of the goi ng concern basis of accounting and, based 
+on the audit evidence obtained, whether a material uncertainty exists related to events or conditions that may 
+cast significant doubt on the ability of the Company to continu e as a going concern. If we conclude that a 
+material uncertainty exists, we are required to draw attention in our auditors’ report to the related disclosures in 
+the Annual standalone financial results or, if such disclosures  are inadequate, to modify our opinion. Our 
+conclusions are based on the audit evidence obtained up to the date of our auditors’ report. However, future 
+events or conditions may cause the Company to cease to continue as a going concern.  
+භ Evaluate the overall presentation, structure and content of th e Annual standalone financial results, including 
+the disclosures, and whether the Annual standalone financial results represent the underlying transactions and 
+events in a manner that achieves fair presentation.  
+We communicate with those charged with governance regarding, am ong other matters, the planned scope and timing 
+of the audit and significant audit findings, including any significant deficiencies in internal control that we identify during 
+our audit.  
+
+--- PAGE 8 ---
+      
+ 
+ 
+ 
+B/203, Borivali Paras CHS, Rokadia Lane, Near Gokul Hotel, Borivali West, Mumbai, 400 092. 
+E-mail: ngstoffice@gmail.com, catwinkal@gmail.com  
+ 
+NGST & Associates 
+Chartered Accountants 
+We also provide those charged wi th governance with a statement that we have complied with relevant ethical 
+requirements regarding independence, and to communicate with th em all relationships and other matters that may 
+reasonably be thought to bear on our independence, and where applicable, related safeguards. 
+Other Matters 
+The Annual standalone financial results include the results for the Quarter ended March 31, 2026 being the balancing 
+figures between the audited figures in respect of full financial year and the published unaudited year-to-date figures 
+upto the third quarter of the current financial year which were subjected to limited review. 
+For NGST & Associates 
+             Chartered Accountants 
+Firm Reg. No. – 135159W 
+Place:  Mumbai 
+Date: April 30, 2026 
+Twinkalkumar Jain 
+Partner 
+Membership No. 156938 
+          UDIN - 26156938RFKXFC6275 
+ 
+ 
+TWINKALKUMAR 
+PRAVINKUMAR 
+JAIN
+Digitally signed by 
+TWINKALKUMAR 
+PRAVINKUMAR JAIN 
+Date: 2026.04.30 22:34:41 
++05'30'
+
+--- PAGE 9 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+4(a) Property, plant and equipment
+(See accounting policy in Note 3(c))
+Particulars
+Building Factory Land Factory Land at Kudus Factory Land at Mahad Factory Land at Talasari Factory Premises Furnitures & Fixtures Off ice Equipment Vehicle Computer Plant & Machinery
+ Capital work-in-
+progress 
+Deemed Cost
+ Balance at April 1, 2024 -                 32.05                                 -                                896.43                            126.67                167.36                        130.03                37.36                                 8.03                   479.05                   1,876.98           188.04                    
+ Impact due to Ind AS 1,649.88                
+Additions -                   0.49                             12.74                    37.21                                   1.28                     1.47                         53.19                416.07                   
+Disposals -                   -                   
+Balance at March 31, 2025 -                  32.05                                 -                                896.43                            126.67                167.85                        142.77                74.57                                 9.31                   480.52                   1,930.17           2,253.98                 
+ Balance at April 1, 2025 -                 32.05                                 -                                896.43                            126.67                167.85                        142.77                74.57                                 9.31                   480.52                    1,930.17             2,253.98                 
+Additions 1,658.29          656.52          -                                     -                                  -                                    281.18                 153.21                          2.94                      49.64                                   0.24                     1,830.03                 4,632.05             129.38
+Disposals -                   -                                     -                                  -                                    -                       -                                -                       -                                      -                   -2039.85
+Balance at March 31, 2026 1,658.29        656.52          32.05                                 -                                896.43                            407.85                321.06                        145.71                124.21                               9.56                   2,310.55               6,562.23           343.51                    
+Accumulated depreciation
+  Balance at April 1, 2024 -                 -                                    -                                -                                  -                     -                              -                     -                                    -                     -                        -                    
+Depreciation -                   -                4.68                     27.12                            22.18                    8.68                                     3.85                     36.48                       102.99                
+Disposals -                   -                   
+Balance at March 31, 2025 -                  -                -                                     -                                  -                                    4.68                      27.12                            22.18                    8.68                                     3.85                     36.48                       102.99                
+ Balance at April 1, 2025 -                 -                                    -                                -                                  4.68                    27.12                          22.18                  8.68                                   3.85                   36.48                     102.99              
+Depreciation 2.45                 -                -                                     -                                    6.87                      27.39                            21.92                    14.84                                   2.89                     55.66                       132.02                
+Disposals -                   -                                     -                                    -                       -                                -                       -                                      -                       -                   
+Balance at March 31, 2025 2.45                -                -                                     -                                  -                                    11.55                    54.51                            44.10                    23.52                                   6.74                     92.15                       235.01                
+Carrying amount
+As at April 1, 2024 -                   -                32.05                                 -                                  896.43                             126.67                  167.36                          130.03                  37.36                                   8.03                     479.05                    1,876.98             188.04                    
+As at March 31, 2025 -                   -                32.05                                 -                                  896.43                             121.99                  140.73                          120.59                  65.89                                   5.46                     444.04                    1,827.18             2,253.98                 
+As at March 31, 2026 1,655.84        656.52          32.05                                 -                                896.43                            396.30                266.55                        101.61                100.69                               2.81                   2,218.41               6,327.21           343.51                    
+Security:
+4(b) Intangible assets under development
+(See accounting policy in Note 3(d))
+Ageing for Intangible assets under development:
+< 1 year 1- 2 years 2- 3 years > 3 years
+As at March 31, 2025
+Projects in progress -                      
+Projects temporarily suspended -                      
+Total -                    -                              -                     -                                    -                     
+As at March 31, 2026
+Projects in progress -                      
+Projects temporarily suspended -                    
+Total -                    -                              -                     -                                    -                     
+Properties with a carrying amount INRXX lakhs as at March 31, 2026 (March 31, 2025: INR 1,946.02 lakhs ; April 1, 2024: INR 1,995.83 lakhs) are mortgaged to secure loans as detailed in note 16.
+Note: Title deeds of all immovable properties are held in the name of the Company
+There was no Intangible assets under develeopment as at April 1, 2024.
+Intangible assets under development Amount in CWIP for a period of Total
+
+--- PAGE 10 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+4(c) Intangible assets
+(See accounting policy in Note 3(d))
+ Particulars  Software & Web Design  Total 
+Deemed Cost
+Balance at April 1, 2024 61                                    61                      
+Additions -                    
+Disposals -                    
+Balance at March 31, 2025 61                                    61                      
+Balance at April 1, 2025 61                                    61                      
+Additions 1,010                                  1,010                
+Disposals -                      
+Balance at March 31, 2026 1,072                                1,072                 
+Accumulated Amortisation
+Balance at April 1, 2024 -                    
+Amortisation 28                                      
+Disposals -                      
+Balance at March 31, 2025 28                                    -                     
+Balance at April 1, 2025 28                                      28                     
+Amortisation 47                                      -                       
+Disposals -                                   -                     
+Balance at March 31, 2026 75                                    28                      
+Carrying amount
+As at April 1, 2024 61                                    61                      
+As at March 31, 2025 33.06                                33                      
+As at March 31, 2026 996.75                              997                    
+
+--- PAGE 11 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+5 Leases
+(See accounting policy in Note 3(l))
+Leases - Company as lessee
+A Right of use assets Right of use assets Right of use assets
+Lease properties that do not meet the definition of investment property are presented separately as right-of-use assets.
+Particulars Building  Leasehold land Total 
+Recognised on April 1, 2024 on transition to Ind AS 163.33                        840.00                          1,003.33                         
+Additions 274.55                        274.55                            
+Deletions -                              -                                 -                                  
+Balance at March 31, 2025 437.88                      840.00                          1,277.88                        
+Balance at April 1, 2025 437.88                        840.00                           1,277.88                         
+Additions 71.59                           
+Deletions (226.50)                       
+Balance at March 31, 2026 282.97                      840.00                          1,123                              
+Accumulated Depreciation
+Balance at April 1, 2024 -                              -                                 -                                  
+Depreciation 88.62                           9.00                               97.62                               
+Balance at March 31, 2025 88.62                         9.00                              97.62                              
+Balance at April 1, 2025 88.62                           9.00                              97.62                              
+Depreciation 120.80                        -                                 120.80                            
+Deletions (45.09)                         -                                 (45.09)                             
+Balance at March 31, 2026 164.34                      9.00                              173.33                           
+Carrying amounts
+As at April 1, 2024 163.33                        840.00                           1,003.33                         
+As at March 31, 2025 349.26                        831.00                           1,180.26                         
+As at March 31, 2026 118.63                        831.00                           949.64                             
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2025 
+ As at 
+April 01, 2024 
+B Lease liabilities
+Non current                            51.31                            263.64                              101.96 
+Current                            88.11                              98.67                                59.71 
+Total 139.42                        362.30                           161.67                             
+Maturity analysis of lease liabilities
+Less than one year                            80.77                              70.14                                64.78 
+One to five years                            58.65                              73.02                              143.16 
+More than five years                                  -                                      -                                        -   
+Total undiscounted lease liabilities                          139.42                            143.16                                   208 
+Terms and repayment schedule
+On transition to Ind AS, in respect of leases previously classified as operating leases, lease liability is measured at the present value of remaining lease payments
+discounted using the incremental borrowing rate at the date of initial application and the right-of-use assets have been measured at the amount equal to lease
+liability, adjusted for any prepaid or accrued lease payments recognised in the balance sheet immediately before the date of initial application. Th e Company has
+availed the transitional exemption of not applying Ind AS 116 for the leases for which the remaining lease term is less than 12 months or are of low value i tems as
+on the date of initial application.
+The lease terms are in the range of 2 years to 5 years with an option to renew the lease after initial lease term. The Company has used the incremental borro wing
+rate of 10% p.a. for determining the lease liability.
+The Company leases office premises across locations. These leases of office premises were entered into in earlier years across locations and some of t he facilities
+are undertaken during the year. Information about leases for which the Company is a lessee is presented below
+The Company has entered into lease agreements for various premises with contract terms of 7 to 12 months. These leases are short-term and/or leases of low-value
+items. The Company has elected not to recognise right-of-use assets and lease liabilities for these leases
+
+--- PAGE 12 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2025 
+Reconciliation from opening balance to closing balance
+362.30                          161.67                             
+Non-cash changes
+New leases 71.59                            271.83                             
+Termination of lease (198.91)                         -                                   
+Interest on lease liabilities 28.46                            23.48                               
+Cash flows
+Payment of lease liabilities (124.01)                         (94.67)                              
+Closing balance 139.42                          362.30                             
+Non-Current 51.31                            263.64                             
+Current 88.11                            98.67                               
+5 Leases (continued)
+C Amount recognised in Statement of profit or loss For the year ended 
+March 31, 2026 
+ For the year ended 
+March 31, 2025 
+Depreciation of right-of-use assets                            120.80                                97.62 
+Interest expense on lease liabilities                              28.46                                23.48 
+Expenses relating to short-term leases 7.04                              3.73                                 
+D Extension options
+Opening balance / recognised on April 1, 2023 on transition to Ind AS
+Certain lease agreements include extension options to provide operational flexibility. The Company assesses at lease commencement date
+whether it is reasonably certain to exercise the extension options. The Company reassesses whether it is reasonably certain to exercise the
+options if there is a significant event or significant changes in circumstances within its control. The facilities where the extension option is prac tical to be
+exercised, the Company has considered the potential extended lease term in determining the lease liability for the Company.
+
+--- PAGE 13 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2025 
+ As at 
+April 01, 2024 
+6 Investment properties
+Gross carrying amount
+Opening gross carrying amount                   1,192.80                      1,233.93               1,233.93 
+Additions -                                                        -                            -   
+Closing gross carrying amount 1,192.80                 1,233.93                     1,233.93               
+Accumulated depreciation
+Opening accumulated depreciation 41.13                                                     -                            -   
+Depreciation charge 41.13                                                41.13                          -   
+Closing accumulated depreciation                       82.26                           41.13                          -   
+Net carrying amount 1,151.66                 1,192.80                     1,233.93               
+7 Investments
+A
+Unquoted equity shares
+Investment in Subsidiaries
+Investment in Sudarshan Pharma Lifescience Private Limited 10.00                                                10.00                    10.00 
+Investment in Life Science Chemicals Private Limited 200.00                                             200.00                  200.00 
+Investment in Ratna Lifescience Pvt Ltd 349.70                                               99.70                    99.70 
+Investment in Ishwari Healthcare Pvt Ltd 150.00                                                    -                            -   
+Investment in Sudarshan Maven Private Limited 0.70                                                     0.70                          -   
+Investment in Sudarshan Pharma Private Limited-Singapore 6.59                                                     6.59                          -   
+Investment in Cibachem General Trading LLC-Dubai, UAE 56.92                                                      -                            -   
+Investment in Sudarshan Pharma Private Limited- Poland 1.27                                                        -                            -   
+In Others
+Investment in National Saving Certificate 0.20                                                     0.20                      0.20 
+Investment in Dombivali Nagri Sahakari Bank 0.02                                                     0.02                      0.02 
+Total Non-Current investments 775.40                     317.21                        309.92                  
+\B Current investments
+-                                                 166.91                  155.82 
+Total current investments -                        166.91                      155.82                  
+Notes: 
+(a) Aggregate book value of quoted investments -                          -                              -                      
+(b) Aggregate market value of quoted investments -                         166.91                       155.82                  
+(c) Aggregate value of unquoted investments -                         -                              -                       
+(d) Aggregate amount of impairment in value of investments -                         -                              -                       
+8 Loans
+Loan to others -                        -                                                      -   
+-                       -                             -                      
+Inter-Corporate Loans to Others -                        206.09                      -                      
+Inter-Corporate Loans to Related Parties 268.84                   336.09                      463.45                  
+268.84                  542.17                      463.45                  
+Breakup of security details
+Loans considered good - Secured
+Loans considered good - Unsecured
+Loans which have significant increase in credit risk
+Loans-credit impaired
+Total -                        -                             -                      
+Loss allowance -                            -                      
+Total loans -                        -                             -                      
+Non-Current investments
+Investment in ABSL Low duration Mutual Funds
+ (Pledged for Purchase Finance Facility)
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2024 
+Current
+ As at 
+March 31, 2025 
+Non-current
+
+--- PAGE 14 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2025 
+ As at 
+April 01, 2024 
+9 Other financial assets 
+(See accounting policy in Note 3(b))
+(Unsecured considered good, unless otherwise stated)
+Non-current
+ Security deposits for Premises 19.71                       22.01                          15.16                   
+ Other Security Deposits 267.16                     314.22                        51.88                   
+ Earnest money deposit 100.28                     108.05                        106.29                  
+ Fixed Deposits with bank under Lien 2,633.40                  379.76                        412.66                  
+Interest on Fixed Deposits with Banks under Lien 105.30                     45.16                          22.28                   
+3,125.84                 869.19                        608.27                  
+Earnest money deposit -                          104.85                       -                       
+ Fixed Deposits with bank under Lien 968.81                     532.59                        432.20                  
+Interest on Fixed Deposits with Banks under Lien 3.37                         4.20                            11.16                   
+Insurance Claim Receivable* -                          -                              281.73                 
+972.18                  641.64                      725.09                  
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2025 
+ As at 
+April 01, 2024 
+Other tax assets (net)
+Advance tax (net of provision for tax) -                          -                                                       -  
+                            -                                  -                            -  
+10 Other assets
+Capital advance 1,254.07                  -                                                       -  
+1,254.07                 -                              -                       
+Other assets (continued)
+Prepaid expenses 295.10                     200.32                        177.89                  
+Advance for subscription in equity shares -                          150.00                       -                       
+Advance to Suppliers 489.74                     825.73                        -                       
+Advance to staff 2.98                         3.07                            1.82                     
+Other receivable 104.04                     78.37                          467.15                  
+Balance with Government authorities 1,742.35                  1,085.45                     1,342.23               
+2,634.21                 2,342.94                     1,989.08               
+11 Inventories
+(See accounting policy in Note 3(e))
+Raw Material 87.20                      151.10                        179.47                  
+Packing Material 47.92                      86.03                          120.18                  
+Finished Good 36.87                      218.56                        157.48                  
+Traded Goods 20,493.53               13,248.41                   7,979.43               
+Total 20,665.52                13,704.09                   8,436.55               
+(Unsecured considered good, unless otherwise stated)
+Current
+Current
+Non-current
+
+--- PAGE 15 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+12 Trade Receivables
+(See accounting policy in Note 3(b))
+ Trade Receivables considered good - -                                                         -   -                       
+ Trade Receivables considered good - 20,718.11                                   15,963.28 12,308.06             
+ Trade Receivables which have significant -                                                         -   -                       
+ Trade Receivables - credit impaired -                                                         -   -                       
+20,718.11               15,963.28                   12,308.06             
+ Less: Loss Allowance (795.26)                                          (755.54) (560.12)                
+ Net trade receivables* 19,922.85                15,207.74                   11,747.94             
+Movement in loss allowance of trade receivables
+Opening balance 755.54                     560.12                        560.12                  
+Impairment loss on financial assets 39.72                       195.42                        -                       
+Closing balance 795.26                     755.54                        560.12                  
+*Above balances of trade receivables include balances with related parties -                              -                       
+Notes:
+(ii) For related party balances and terms and conditions with related parties refer note 35.
+13(a) Cash and cash equivalents
+Balance with banks 5.72                                                   21.38 7.25                     
+Cash In Hand 5.19                                                     6.28 5.87                     
+Unspend CSR Bank Accounts 11.20                          -                       
+10.90                      38.86                          13.12                   
+13(b) Bank balances other than cash and cash equivalents
+ In Fixed Deposits with bank under Lien 
+with original maturity for more than 3 
+months but less than 12 months 
+-                                                        -   -                       
+ Interest on Fixed Deposits with Banks 
+ Debit balances in Cash Credit accounts  -                                                         -   -                       
+                            -                                  -                            -   
+ (iv) No trade or other receivable are due from directors or other officers of the Group either severally or jointly with any other 
+ are no trade or other receivable are due from firms or private companies respectively in which any director is a partner, a director 
+ No Trade receivable are due from the directors or officers of the Company either severally or jointly with any other person. Nor 
+any trade receivable are due from any private companies respectively in which ant director is a partner, director or member. 
+ Trade receivables are non interest bearings and are generally on terms of not more than 30 days 
+ (i) For trade receivables ageing refer note 39. 
+  (iii) Trade receivables are non interest bearings and are generally on terms of not more than ____days. 
+ (iii) Information about the Company’s exposure to credit and market risks, and impairment losses for trade receivables is included 
+in Note 33(c). 
+
+--- PAGE 16 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+ As at 
+March 31, 2026 
+ As at 
+March 31, 2025 
+ As at 
+April 01, 2024 
+14 Equity share capital
+3,500.00 3,500.00                 3,500.00                    
+Preference share capital -                          -                             
+Total 3,500.00             3,500.00                  3,500.00                    
+Issued, subscribed and fully paid-up
+Equity Share Capital
+2,406.59             2,406.59                  2,406.59                    
+2,406.59             2,406.59                  2,406.59                    
+a) Reconciliation of the number of shares outstanding at the beginning and at the end of the year
+Equity shares of INR 1/- each No of shares Amount No of shares Amount No of shares Amount
+Shares outstanding at the beginning of the year 24,06,58,870       2,406.59           24,06,58,870       2,406.59              2,40,65,887            2,406.59                    
+Shares issued during the year -                       -                    -                        -                           -                             
+Shares outstanding at the end of the year 24,06,58,870       2,406.59           24,06,58,870       2,406.59              2,40,65,887            2,406.59                    
+b) Rights, preferences and restrictions attached to equity shares
+d) Particulars of shareholders holding more than 5% shares of a class of shares
+No. of shares % of holding No. of shares % of holding No. of shares % of holding 
+Equity shares of INR 10/- each
+Mr. Sachin Vasantrai Mehta (Promoter and Director) 6,62,05,470         27.51% 6,62,05,470         27.51%              66,20,547 27.51%
+Mr. Hemal Vasantrai Mehta (Promoter and Director) 6,40,21,020         26.60% 6,40,21,020         26.60%              64,02,102 26.60%
+13,02,26,490       54.11% 13,02,26,490        54.11% 1,30,22,649             54.11%
+14 Equity share capital (continued)
+e)
+f) Shareholding of promoters
+No. of shares % of holding No. of shares % of holding No. of shares % of holding 
+Equity shares of INR 10/- each
+Hemal Vasantrai Mehta 6,40,21,020         26.60%        6,40,21,020 26.60%              64,02,102 26.60%
+Sachin Vasantrai Mehta 6,62,05,470         27.51%        6,62,05,470 27.51%              66,20,547 27.51%
+Devangi Hemal Mehta 22,94,070            0.95%           22,94,070 0.95%                2,29,407 0.95%
+Sachin V Mehta HUF 16,45,120            0.68%           16,45,120 0.68%                1,64,512 0.68%
+Hemal V Mehta HUF 16,45,120            0.68%           16,45,120 0.68%                1,64,512 0.68%
+Namrata Sachin Mehta                                        16,45,120            0.68%           16,45,120 0.68%                1,64,512 0.68%
+Vasantray Ratilal Mehta                                     4,93,190              0.20%             4,93,190 0.20%                    32,872 0.14%
+Indumati V Mehta                                            -                       0.00%                        -   0.00%                    16,447 0.07%
+Jatin Vasantrai Mehta                                       1,64,470              0.07%             1,64,470 0.07%                    16,447 0.07%
+Total 13,81,13,580        57.39% 13,81,13,580        57.39% 1,38,11,358             57.39%
+% change in shareholding of promoters
+Year ended
+March 31, 2026
+Year ended
+March 31, 2025
+Year ended
+March 31, 2024
+Equity shares of INR 10/- each
+Hemal Vasantrai Mehta 0.00% 0.00% 0.00%
+Sachin Vasantrai Mehta 0.00% 0.00% 0.00%
+Devangi Hemal Mehta 0.00% 0.00% 0.00%
+Sachin V Mehta HUF 0.00% 0.00% 0.00%
+Hemal V Mehta HUF 0.00% 0.00% 0.00%
+Namrata Sachin Mehta                                        0.00% 0.00% 0.00%
+Vasantray Ratilal Mehta                                     0.00% 0.07% 0.00%
+Indumati V Mehta                                            0.00% -0.07% 0.00%
+Jatin Vasantrai Mehta                                       0.00% 0.00% 0.00%
+The Company has one class of equity share having a par value of Rs. 10 per share. Each shareholder is eligible for one vote per share held. The dividend pro posed by the Board
+of Directors is subject to the approval of the shareholders in the Annual General Meeting, except in case of interim dividend. In the event of liquidati on, the equity
+shareholders are eligible to receive the remaining assets of the Company after distribution of all preferential amounts, in proportion to their shareholding.
+As at 
+March 31, 2025 
+(See accounting policy in Note 3(u))
+ As at 
+March 31, 2026 
+ As at 
+April 01, 2024 
+3,50,00,000 (Previous year: 3,50,00,000) equity shares of Rs. 10 each
+Authorised share capital
+Equity Share Capital
+24,06,58,870 Equity Shares of Rs. 1/- each, Fully Paid Up ( Previous year 2,40,65,887 Equity Shares of Rs. 10/- 
+each)
+ As at 
+March 31, 2025 
+As at 
+March 31, 2026 Name of the shareholder*
+There are no bonus shares during a period of five years immediately preceding the financial year ended March 31, 2025
+ As at 
+April 01, 2024 
+<this space has been intentionally left blank>
+As at 
+March 31, 2026 
+As at 
+March 31, 2025 
+ As at 
+April 01, 2024 
+
+--- PAGE 17 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+ As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+15 Other equity
+A. Movement in Reserves and surplus
+Retained earnings 
+Opening balance 4,501.09                  3,102.41      3,174.61 
+Profit for the year 2,198.16                  1,402.16 
+Other comprehensive income for the year, net of tax 1.53                               (3.48)                 -   
+Dividend paid during the year                    -                        -            (72.20)
+Closing balance         6,700.78           4,501.09      3,102.41 
+Money Received Towards Share Warrant 382.12                       382.12                 -   
+Opening Balance
+Add: Additions during the year
+Less: Shares allotted against Share Warrants
+Closing balance            382.12              382.12                 -   
+Securities premium 
+Opening balance 5,781.02                  5,781.02      5,781.02 
+Add: Additions on account of issue of subscription shares pursuant to Share Warrants                      -   
+Less: Share Warrants issue expenses                      -   
+Closing balance 5,781.02       5,781.02           5,781.02      
+Total other equity 12,863.92      10,664.23         8,883.44      
+B. Nature and purpose of reserves 
+Capital Redemption Reserve
+16 Borrowings
+As at 
+March 31, 
+As at 
+March 31, 
+ As at 
+April 01, 
+Term Loans from Banks 2,473.50                     622.50         874.61 
+Term Loans from NBFC -                              292.30                 -   
+Car Loan 47.34                           73.38           26.92 
+        2,520.84              988.18         901.53 
+Term Loans from Banks & NBFC's 518.42                          54.72         142.69 
+           518.42                54.72         142.69 
+Total         3,039.26           1,042.91      1,044.21 
+Current
+Secured loans
+Working Capital Limits with Banks 15,876.94              10,347.74      5,690.99 
+Working Capital Limits with NBFC 6,401.86                  5,042.99      3,062.81 
+Current maturities of term loans from banks 288.46                        256.33         296.65 
+Current maturities of Car loan 26.02                            23.73             4.59 
+Inter corporate deposit from others 415.98                        263.90         300.00 
+Inter corporate deposit from related party 1,860.16                     226.36         207.36 
+Interest Accrued and Due 12.44                              9.55 11.34           
+Unsecured loans
+Current maturities of term loans from Banks & NBFC's 187.83           88.46                          77.49 
+25,069.68     16,259.06         9,651.22      
+16 Borrowings (continued)
+d) Terms and Repayment Schedule  Nominal 
+interest rate 
+ Year of 
+maturity 
+ As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+Non-Current, Secured
+Non-current
+Secured loans
+Unsecured loans
+The Indian Companies Act, 2013 (the “Companies Act”) requires that where a company purchases its own shares out of free reserves 
+or securities premium account, a sum equal to the nominal value of the shares so purchased shall be transferred to a capital 
+redemption reserve account and details of such transfer shall be disclosed in the balance sheet. The capital redemption reserve 
+account may be applied by the Company, in paying up unissued shares of the company to be issued to shareholders of the company 
+as fully paid bonus shares. The Company established this reserve pursuant to the redemption of equity shares and preference shares 
+issued in earlier years.
+Personal guarantees from promoter directors for term loans.
+
+--- PAGE 18 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+17 Trade payables
+ As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+Total outstanding dues of micro enterprises and small enterprises 5,771.41                  3,417.68      2,405.38 
+Total outstanding dues of creditors other than micro enterprises and small enterprises 8,940.13                 5,398.55      3,612.61 
+14,711.55   8 ,816.22        6 ,018.00     
+Of the above trade payables amounts due to related parties are as below:
+Trade Payables due to related parties (Refer note 35).-               309.00           232.00         
+Notes:
+(iii) Information about the Company’s exposure to market risks is included in note 33(c).
+Particulars  As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+a) Principal amount and the interest
+- Principal amount due to micro 5,771.41        3,417.68          2,405.38     
+- Interest due on above -                -                   -              
+b) Amount of interest paid by the
+buyer under MSMED Act, 2006 -                -                   -              
+c) Amount of interest due and
+payable for the period of delay in
+making payment (which has been
+id b b d h i d d
+-                -                   -              
+d) The amount of interest accrued -                -                   -              
+e) The amount of further interest
+remaining due and payable even in
+the succeeding year, until such date 
+-                -                   -              
+18 Other financial liabilities
+Non-Current
+Security Deposits on lease property 33.27                           33.27 33.27          
+33.27            33.27                33.27           
+Current
+Short term deposit -                             105.00                 -   
+Capital creditors 7.85                            7.85                 -   
+Outstanding for payment of equity shares 5.50                                -                   -   
+Employee Benefits Payable 1.51                            3.68                 -   
+14.86            116.53              -              
+19 Current tax
+ As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+Provision for tax 664.34                        509.73         238.79 
+Current tax liability/assets 664.34           509.73              238.79         
+20 Employee benefit obligations
+(See accounting policy in Note 3(g) and 3(h))
+ As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+ As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+Provision for Gratuity 16.96                13.01                           6.91 1.22               0.89                              0.66 
+Provision for Leave encashment 1.88                  1.86                             1.11 0.35               0.34                              0.21 
+18.83               14.88             8.02               1.57               1.24                  0.87             
+21 Other liabilities
+Current  As at 
+March 31, 
+2026 
+ As at 
+March 31, 
+2025 
+ As at 
+April 01, 
+2024 
+Liability towards corporate social responsibility -                                11.20 11.20           
+Statutory dues 65.83                           43.53 52.09           
+Advance received from customers 388.73                          40.77 254.79         
+Other Payables 0.10                               0.21             0.26 
+       454.67          95.70                318.35         
+A. Dues to micro and small enterprises - As per Micro, Small and Medium Enterprises Development Act, 2006 ('MSMED' 
+Act)
+This information has been determined to the extent such parties have been identified on the basis of information available with the 
+Company.
+Non-current Current
+(i) For related party balances and terms and conditions with related parties, refer note 35.
+(ii) For trade payables ageing refer note 40.
+
+--- PAGE 19 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian R upees, except share data and as stated)
+ For the year ended 
+March 31, 2026 
+ For the year ended 
+March 31, 2025 
+22 Revenue from operations
+(See accounting policy in Note 3(i))
+Sale of finished goods 65,443.25                                             49,958.49 
+Sale of services 1,306.60                                                 290.84 
+Total revenue from operations 66,749.85                      50,249.34                       
+23 Other income  For the year ended March 31, 2026  For the year ended March 31, 2025 
+Interest income under the effective interest method on:
+Foreign exchange gain (net) 218.54                                                               -   
+Freight charges -                                                                     -   
+Interest Income 222.83                                                         92.21 
+Other Income 125.00                                                       102.89 
+Rental income 143.92                                                         92.62 
+Gain on early termination of lease 18.49                                                                 -   
+Unwinding of Interest income on security deposits 1.28                                                                1.07 
+Income from sale of Investments (mutual funds) (net) 8.38                                                                    -   
+Net fair value gains on Mutual funds measured at fair value through profit or loss -                                  11.08                             
+Net gain on sale of Intangible asset 102.01                           -                                  
+840.44                           299.88                            
+24 Cost of materials consumed
+Raw material 
+Inventory at the beginning of the year 151.10                           179.47                            
+Add: Purchases during the year 62.49                             71.25                              
+Less: Inventory at the end of the year 87.20                             151.10                            
+Cost of materials consumed 126.39                           99.62                              
+Packing material
+Inventory at the beginning of the year 86.03                             120.18                            
+Add: Purchases during the year 133.19                           266.13                            
+Less: Inventory at the end of the year 47.92                             86.03                              
+Cost of materials consumed 171.29                           300.28                            
+25 Purchase of Stock-in-Trade 65,599.01                      48,859.26                       
+Purchase of Stock-in-Trade 49,142.29                      
+Less: Interbranch purchase 283.02                           
+ For the year ended 
+March 31, 2026 
+ For the year ended 
+March 31, 2025 
+26  Change in inventories of finished goods, stock-in-trade and work in progress
+Inventory at the beginning of the year 13,466.96                       8,136.91                         
+Finished Goods-Traded 13,248.41                      7,979.43                         
+Finished Goods-Manufactured 218.56                           157.48                            
+Inventory at the end of the year 20,530.40                      13,466.96                       
+Finished Goods-Traded 20,493.53                      13,248.41                       
+Finished Goods-Manufactured 36.87                             218.56                            
+Changes in inventories of Manufactured goods 181.68                            (61.08)                             
+Changes in inventories of Traded goods (7,245.12)                        (5,268.98)                        
+(7,063.44)                       (5,330.06)                        
+27 Employee benefit expense
+Salaries, wages and bonus 418.17                                                       298.37 
+Gratuity expense (refer note 36) 7.29                                                               3.26 
+Contribution to provident and other funds (refer note 36) 4.85                                                                2.22 
+Staff welfare expenses 8.66                                                               3.99 
+Directors Remuneration 180.00                                                       144.00 
+618.97                           451.84                            
+28 Finance cost
+Interest on Term loans 233.01                                                         78.50 
+Interest on Working capital loans 1,836.02                                                 1,203.47 
+Other borrowing cost 159.75                                                         56.63 
+Factoring costs 165.59                                                       163.65 
+Interest on loan at measured at EIR 106.90                                                         95.80 
+Interest expense on lease liabilities 28.46                                                           23.48 
+2,529.74                        1,621.53                         
+29 Depreciation and amortisation expenses
+Depreciation of property, plant and equipment 178.72                            131.43                            
+Depreciation on Investment property 41.13                             41.13                              
+Depreciation of right-of-use assets 120.80                           97.62                              
+340.65                           270.18                            
+
+--- PAGE 20 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian R upees, except share data and as stated)
+30 Other expenses
+Rent 7.04                                                               3.73 
+Repairs and maintenance 11.56                                                             6.35 
+Rates and taxes 145.90                                                         61.58 
+Insurance 126.95                                                         52.28 
+Travelling and conveyance 87.42                                                           79.44 
+Payment to auditors (refer details below) 20.28                                                            12.00 
+Printing & Stationary 11.15                                                           14.39 
+Advertising and sales promotion 1.69                                                               2.05 
+Legal and professional fees 523.80                                                       394.86 
+Clearing, freight and forwarding charges 225.08                                                        284.39 
+Office expenses 83.38                                                           58.56 
+Postage and telegram 10.07                                                             7.21 
+Factory Expenses 4.92                                                             11.60 
+Provision for doubtful debts 39.72                                                         195.42 
+Foreign exchange loss (net) -                                                               20.09 
+Telephone Charges 3.26                                                               2.53 
+Warehouse and storage expenses 131.00                                                       108.83 
+Job Work charges 1.78                                                             12.28 
+CSR expenses 30.89                                                           22.14 
+Transportation Charges 623.92                                                       528.13 
+Loading unloading expenses 44.37                                                           63.36 
+Commission & Brokerage expenses 70.39                                                           52.92 
+Other Direct Cost 76.66                                                             5.66 
+Electricity Expense 9.20                                                               8.92 
+Loss on Insurance Claim -                                                             281.73 
+Business Promotion & Marketing Expenses 110.42                                                        105.50 
+Total 2,400.87                        2,395.95                         
+Note: Payment to auditors
+As auditor:
+- for statutory audit 12.00                             
+- other services
+Reimbursement of expenses -                                 
+Total -                                 12.00                             
+31  Earnings per share 
+ (See accounting policy in Note 3(o)) 
+ (i) Basic and diluted earnings per share 
+The calculation of basic earnings per share is based on
+profit attributable to ordinary shareholders and weighted-
+average number of ordinary shares outstanding as
+follows: 
+ For the year ended 
+March 31, 2026 
+ For the year ended 
+March 31, 2025 
+Profit for the year attributable to equity shareholders (A) 21,99,69,156.68             13,98,67,697                  
+Weighted average equity shares considered fo r calculation of earnings per share (B)* 24,06,58,870                  24,06,58,870                  
+Basic and diluted earnings per ordinary share (INR) (A/B) 0.91                                0.58                                
+(ii) Diluted earnings per share
+Profit for the year attributable to equity shareholders 21,99,69,156.68             13,98,67,696.55             
+Profit for the year attributable to equity shareholders to the effect of dilution (A) 21,99,69,156.68            13,98,67,696.55             
+Weighted average equity shares (diluted) consider ed for calculation of earnings per share (B) 24,35,37,786                 24,21,07,584                  
+Diluted earnings per ordinary share (INR) (A/B) 0.90                                0.58                                
+
+--- PAGE 21 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+32 Income tax disclosure
+A Amount recognised in Statement of Profit and Loss
+(i) Current Tax
+(ii) Deferred Tax
+B Income tax recognised in other comprehensive income
+Before Tax Tax 
+(expense) 
+benefit
+Net of tax Before Tax Tax (expense) 
+benefit
+Net of tax
+              2.04 (0.51)           2                      (5)                   1                          (3)                    
+              2.04               (0.51)                          2                     (5)                          1                        (3)
+C Reconciliation of effective tax rate
+% Amount % Amount
+Profit before tax 2,867            2,162                
+25% 722               29% 630                   
+Effect of:
+Non-deductible expenses / (income) 0% -                0%
+Deferred tax not recognised on business losses & Unabsorbed depreciation 0% -                0% -                   
+Effect to change in tax rates 0% -                  0% -                    
+Others 0% (0)                    0%
+Effective tax rate / tax expense 25%                  721 29%                    630 
+D Recognised deferred tax assets and liabilities
+Particulars  As at 
+March 31, 
+2026 
+ As at 
+March 31, 2025 
+ As at 
+April 1, 2024 
+Deferred tax liabilities
+               86.86                   31.26                    9.63 
+Others (Ind AS adjustments)            (101.12)                  (20.35)                  43.23 
+Total deferred tax liabilities (A)             (14.26)                   10.92                 52.86 
+Provision for Employee benefits                  5.14                   12.43                    0.56 
+Provision for doubtful receivables                      -   
+Provision for Carried Forward Loss                      -                       3.12                    3.72 
+                     -                           -                          -   
+Total deferred tax assets (B)                 5.14                   15.55                   4.29 
+MAT credit utilization
+19.39              4.64                     (48.57)               
+E Movement in temporary differences for the year ended March 31, 2026
+Particulars Balance as at 
+April 1, 2025
+Recognised in 
+profit or loss 
+Recognised in 
+OCI 
+Balance as at 
+March 31, 2026
+Deferred tax liabilities
+                  31.26                55.60                         -   86.86                 
+Leases                 (20.35)              (80.77) (101.12)             
+Total deferred tax liabilities (A)                   10.92              (25.17)                         -                   (14.26)
+                        -                        -                           -   -                    
+                       -                       -                           -   -                  
+Provision for gratuity                  12.43               (7.29) 5.14                 
+Provision for bonus                        -                       -                           -   -                  
+Provision for doubtful receivables                         -                        -                           -   -                    
+Provision for warranty expenses                     3.12                (3.12)                         -   -                    
+Leases                         -                        -                           -   -                    
+                       -                       -                           -   -                  
+Total deferred tax assets                  15.55             (10.42)                         -                     5.14 
+                    4.64                14.75                         -                    19.39 
+ For the year ended March 31, 
+2025 
+Tax using the Company's domestic tax rate
+Remeasurement (loss)/gain on defined benefit plan
+Total
+Particulars
+(See accounting policy in Note 3(m))
+For the year ended March 31, 2025
+ Deferred tax assets (net) relate to the following: 
+Tax expense (i + ii)
+For the year ended March 31, 2026
+ For the year ended 
+March 31, 2026 
+Property, plant and equipment and intangible assets
+Deferred tax assets and liabilities are attributable to the following:
+Property, plant and equipment and intangible assets
+Deferred tax assets
+Net deferred tax asset (B-A)
+Deferred tax assets
+Disallowance under section 35DDA of the Income Tax Act, 1961
+Unabsorbed depreciation
+Others (Ind AS adjustments)
+Disallowance under section 43A of the Income Tax Act, 1961
+ For the year ended 
+March 31, 2026 
+ For the year ended March 31, 
+2025 
+709                                               
+(15)                                                
+694                                               
+540                                                  
+(52)                                                   
+488                                                  
+Disallowance under section 43A of the Income Tax Act, 1961
+Net deferred tax (liabilities) / asset (B-A)
+Unabsorbed depreciation
+Equity-settled share-based payments
+
+--- PAGE 22 ---
+Sudarshan Pharma Industries Limited
+Notes forming part of the financial statements for the year ended March 31, 2026
+(All amount are in Lakhs of Indian Rupees, except share data and as stated)
+32 Income tax disclosure (continued)
+Movement in temporary differences for the year ended March 31, 2025
+Particulars Balance as at 
+April 1, 2024
+Recognised in 
+profit or loss 
+Recognised in 
+OCI 
+Balance as at 
+March 31, 2025
+Deferred tax liabilities
+                    9.63 21.63              -                      31.26                 
+Leases                   43.23 (63.57)              (20.35)                
+Total deferred tax liabilities (A)                  52.86             (41.94)                         -                   10.92 
+                       -   -                 -                      -                   
+                       -   -                 -                      -                   
+Provision for gratuity                     0.56 11.87              12.43                  
+Provision for bonus                         -   -                   -                      -                     
+Provision for doubtful receivables                         -   -                   -                      -                     
+Provision for warranty expenses                     3.72 (0.60)                -                      3.12                    
+Leases                         -   -                   -                     
+                        -   -                   -                     
+Total deferred tax assets                    4.29               11.27                         -                   15.55 
+                (48.57)                53.21                         -                      4.64 
+Business loss
+Net deferred tax (liabilities) / asset (B- A)
+Unabsorbed depreciation
+Property, plant and equipment and intangible assets
+Deferred tax assets
+Equity-settled share-based payments

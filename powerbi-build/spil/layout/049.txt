@@ -1,0 +1,537 @@
+
+--- PAGE 1 ---
+                                                                    Account Statement
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301 3rd Flr Aura Biplex                                                                             Cust. Reln. No.              301079096
+Above Kalyan Jewellers                                                                              Account No.                  0148095487
+Sv Rd Borivali W MUMBAI CITY                                                                        Period                       From 01/04/2026 To 30/04/2026
+Mumbai                                                                                              Currency                     INR
+MAHARASHTRA                                                                                         Branch                       MUMBAI - BKC 27
+INDIA                                                                                               Nomination Regd              N
+400092                                                                                              Nominee Name
+
+
+
+
+
+
+ Sl. No.              Date                       Description                Chq / Ref number                   Amount              Dr / Cr            Balance             Dr / Cr
+1        30/04/2026                      MAHBR52026043023785406          RTGSINW-0105525752                 1,970,000.00             CR           -216,982,368.29           DR
+                                         SUDARSHAN SOLVENTS
+                                         INDUST
+2        30/04/2026                      MMCCHG_SUDHPHAR_AP                                                    118.00                DR           -218,952,368.29           DR
+                                         R2026
+3        22/04/2026                      HDFCH00949701873 TATA           NEFTINW-1563140186                  791,991.68              CR           -218,952,250.29           DR
+                                         CAPITAL LIMITED 701
+                                         SUDARSHA
+4        21/04/2026                      IB: FUND TRANSFER TO                       IB                      1,820,000.00             DR           -219,744,241.97           DR
+                                         0150421717
+5        21/04/2026                      IB: FUND TRANSFER TO                       IB                       230,000.00              DR           -217,924,241.97           DR
+                                         0150421717
+6        21/04/2026                      ICICR42026042100511047          RTGSINW-0105008343                 2,000,000.00             CR           -217,694,241.97           DR
+                                         SUDARSHAN PHARMA
+                                         INDUSTRI
+7        17/04/2026                      IFT-SIDDHA IMPEX-FCM-            FCM-260417MEAM9C                   231,304.00              DR           -219,694,241.97           DR
+                                         260417MEAM9C
+8        17/04/2026                      ICICR42026041700573564          RTGSINW-0104865722                  200,000.00              CR           -219,462,937.97           DR
+                                         SUDARSHAN PHARMA
+                                         INDUSTRI
+9        17/04/2026                      HDFCH00939890484 VIRAL          NEFTINW-1557650270                  105,195.00              CR           -219,662,937.97           DR
+                                         ALKALIS LTD SUDARSHAN
+                                         PHARM
+10       17/04/2026                      NEFT-KAPISH BANSAL-              FCM-260417ME13LF                   83,654.00               DR           -219,768,132.97           DR
+                                         CMS1072694724505
+11       17/04/2026                      NEFT-M S NEON LAB                FCM-260417ME13LH                    2,124.00               DR           -219,684,478.97           DR
+                                         CHEMICA-
+                                         CMS1072694724507
+12       17/04/2026                      NEFT-BHAVNA ROADWAYS             FCM-260417ME13LB                   13,945.00               DR           -219,682,354.97           DR
+                                         -CMS1072694724501
+
+13       17/04/2026                      NEFT-HARKESHAV                   FCM-260417ME13LJ                   73,185.00               DR           -219,668,409.97           DR
+                                         AYURVEDA-
+                                         CMS1072694724509
+14       17/04/2026                      NEFT-CHEMICALS AND               FCM-260417ME13L9                   10,201.00               DR           -219,595,224.97           DR
+                                         CHEMIC-
+                                         CMS1072694724499
+15       17/04/2026                      NEFT-DKSH INDIA PRIVATE          FCM-260417ME13LD                   174,876.00              DR           -219,585,023.97           DR
+                                         L-CMS1072694724503
+
+--- PAGE 2 ---
+ Sl. No.              Date                       Description                Chq / Ref number                   Amount              Dr / Cr            Balance             Dr / Cr
+16       17/04/2026                      NEFT-ARK TRANS                   FCM-260417ME13LE                   111,900.00              DR           -219,410,147.97           DR
+                                         LOGISTICS-
+                                         CMS1072694724504
+17       17/04/2026                      NEFT-CTL LOGISTICS               FCM-260417ME13LG                   35,242.00               DR           -219,298,247.97           DR
+                                         INDIA -CMS1072694724506
+18       17/04/2026                      NEFT-D K  PHARMA CHEM             FCM-260417ME13LI                  22,420.00               DR           -219,263,005.97           DR
+                                         PVT-CMS1072694724508
+19       17/04/2026                      NEFT-V-TRANS DRIVING             FCM-260417ME13LC                    9,796.00               DR           -219,240,585.97           DR
+                                         EXCE-CMS1072694724502
+20       17/04/2026                      NEFT-LEONARD                     FCM-260417ME13LA                   183,513.00              DR           -219,230,789.97           DR
+                                         LOGISTICS PR-
+21       17/04/2026                      NEFT-ANAND M KEVADIYA-           FCM-260417ME13L8                   14,000.00               DR           -219,047,276.97           DR
+                                         CMS1072694724498
+
+22       17/04/2026                      RTGS-NORTH ROADWAYS              FCM-260417ME1A8A                   205,425.00              DR           -219,033,276.97           DR
+                                         SERVI-
+                                         KKBKR22026041722271769
+
+23       17/04/2026                      IFT-GREEN ARC ADVISORY           FCM-260417ME0Y5J                   81,000.00               DR           -218,827,851.97           DR
+                                         AND FI-FCM-260417ME0Y5J
+
+24       17/04/2026                      IFT-APEX SOLUTIONS-FCM           FCM-260417ME0Y5K                    1,977.00               DR           -218,746,851.97           DR
+                                         -260417ME0Y5K
+25       17/04/2026                      ICICR42026041700537917          RTGSINW-0104836604                  800,000.00              CR           -218,744,874.97           DR
+                                         SUDARSHAN PHARMA
+                                         INDUSTRI
+26       17/04/2026                      GST_0151_PDF PENALTY                  301079096                      2,393.82               DR           -219,544,874.97           DR
+                                         CHARGES_301079096_SUD
+                                         ARSHAN P
+27       17/04/2026                      0151_PDF PENALTY                      301079096                     13,299.00               DR           -219,542,481.15           DR
+                                         CHARGES_301079096_SUD
+                                         ARSHAN PHARM
+28       15/04/2026                      Loan Recovery For -                                                 895,833.32              DR           -219,529,182.15           DR
+                                         1368TL0100000144
+29       15/04/2026                      Loan Recovery For -                                                 133,348.83              DR           -218,633,348.83           DR
+                                         1368TL0100000144
+30       15/04/2026                      MAHBR52026041523623316          RTGSINW-0104690222                 1,500,000.00             CR           -218,500,000.00           DR
+                                         SUDARSHAN SOLVENTS
+                                         INDUST
+31       15/04/2026                      Loan Recovery For -                                                 195,146.17              DR           -220,000,000.00           DR
+                                         1368TL0100000144
+32       13/04/2026                      NEFT-SRI BALAJI TRADERS          FCM-260413MBTPC8                   80,000.00               DR           -219,804,853.83           DR
+                                         -CMS1032693843309
+33       11/04/2026                      IFT-APEX SOLUTIONS-FCM           FCM-260411MB4M63                    7,350.00               DR           -219,724,853.83           DR
+                                         -260411MB4M63
+34       11/04/2026                      NEFT-SATISH COMPUTERS            FCM-260411MB4TFV                    4,950.00               DR           -219,717,503.83           DR
+                                         -CMS1012693458763
+35       11/04/2026                      RTGS-CHEMIN                      FCM-260411MB4FHR                   207,090.00              DR           -219,712,553.83           DR
+                                         DISTRIBUTORS-
+                                         KKBKR22026041122176154
+
+36       11/04/2026                      RTGS-TANISHQ                     FCM-260411MB4FHO                   289,926.00              DR           -219,505,463.83           DR
+                                         ENTERPRISE-
+                                         KKBKR22026041122176151
+
+37       11/04/2026                      IFT-KENT ENTERPRISES-            FCM-260411MB4M64                   238,817.00              DR           -219,215,537.83           DR
+                                         FCM-260411MB4M64
+38       11/04/2026                      NEFT-A R  ENTERPRISE-            FCM-260411MB4TFT                   33,453.00               DR           -218,976,720.83           DR
+                                         CMS1012693458761
+39       11/04/2026                      RTGS-J V CHEM-                   FCM-260411MB4FHP                   263,376.00              DR           -218,943,267.83           DR
+                                         KKBKR22026041122176152
+
+40       11/04/2026                      NEFT-ARCK ENTERPRISE-            FCM-260411MB4TFW                   13,362.00               DR           -218,679,891.83           DR
+                                         CMS1012693458764
+41       11/04/2026                      NEFT-OC SPECIALITIES             FCM-260411MB4TFU                   26,550.00               DR           -218,666,529.83           DR
+                                         CHEM-
+
+--- PAGE 3 ---
+ Sl. No.              Date                       Description                Chq / Ref number                  Amount              Dr / Cr            Balance             Dr / Cr
+                                        CMS1012693458762
+
+42       11/04/2026                     NEFT-R R INNOVATIVE PVT          FCM-260411MB4TFQ                    75,456.00              DR           -218,639,979.83           DR
+                                        L-CMS1012693458758
+43       11/04/2026                     RTGS-MOKSH INTERCHEM             FCM-260411MB4FHQ                   338,657.00              DR           -218,564,523.83           DR
+                                        -KKBKR22026041122176153
+
+44       11/04/2026                     NEFT-VLS LOGISTICS-              FCM-260411MB4TFS                    64,994.00              DR           -218,225,866.83           DR
+                                        CMS1012693458760
+45       11/04/2026                     NEFT-ARCK ENTERPRISE-            FCM-260411MB4TFR                    9,144.00               DR           -218,160,872.83           DR
+                                        CMS1012693458759
+46       11/04/2026                     NEFT-HAP ENTERPRISE-             FCM-260411MB4TFN                    33,630.00              DR           -218,151,728.83           DR
+                                        CMS1012693458755
+47       11/04/2026                     NEFT-D H L EXPRESS PVT           FCM-260411MB4TFP                    73,722.00              DR           -218,118,098.83           DR
+                                        LT-CMS1012693458757
+48       11/04/2026                     IFT-METRO CHEM                   FCM-260411MB4M62                   122,749.00              DR           -218,044,376.83           DR
+                                        CORPORATION-FCM-
+                                        260411MB4M62
+49       11/04/2026                     NEFT-INDUSTRIAL                  FCM-260411MB4TFM                    37,170.00              DR           -217,921,627.83           DR
+                                        ASSOCIATE-
+                                        CMS1012693458754
+50       11/04/2026                     NEFT-ALR ANALYTICALS             FCM-260411MB4TFO                    6,195.00               DR           -217,884,457.83           DR
+                                        PRIV-CMS1012693458756
+51       11/04/2026                     NEFT-JAI JAGANNATH                FCM-260411MB4TFL                   35,640.00              DR           -217,878,262.83           DR
+                                        SECURI-
+                                        CMS1012693458753
+52       11/04/2026                     IFT-METRO CHEM                   FCM-260411MB4M61                   122,749.00              DR           -217,842,622.83           DR
+                                        CORPORATION-FCM-
+                                        260411MB4M61
+53       11/04/2026                     NEFT-V N PHARMA-                 FCM-260411MB4TFK                   163,312.00              DR           -217,719,873.83           DR
+                                        CMS1012693458752
+54       11/04/2026                     ICICR42026041100540851           RTGSINW-0104551165                1,000,000.00             CR           -217,556,561.83           DR
+                                        SUDARSHAN PHARMA
+                                        INDUSTRI
+55       11/04/2026                     CMSM_NUCCHG_SPHARM                                                    590.00                DR           -218,556,561.83           DR
+                                        A01_MAR26 (Value
+                                        Date:10/04/2026)
+56       08/04/2026                     RTGS-SUDARSHAN                   FCM-260408M8ICXW                  3,000,000.00             DR           -218,555,971.83           DR
+                                        PHARMA IND-
+                                        KKBKR22026040822126198
+
+57       08/04/2026                     IB: FUND TRANSFER FROM                     IB                      2,800,000.00             CR           -215,555,971.83           DR
+                                        0150421717
+58       06/04/2026                     CNRBH00122884560                 NEFTINW-1545303943                  33,200.00              CR           -218,355,971.83           DR
+                                        CHODISETTI LOKESH
+                                        SUDARSHAN PHARM
+59       04/04/2026                     HDFCH00910774184 AMINO           NEFTINW-1543788956                  7,080.00               CR           -218,389,171.83           DR
+                                        ORGANICS SUDARSHAN
+                                        PHARMA I
+60       04/04/2026                     IFT-JINAY INTERLINK-FCM-         FCM-260404M4Z5QG                   127,397.00              DR           -218,396,251.83           DR
+                                        260404M4Z5QG
+61       03/04/2026                     RTGS-SUDARSHAN                    FCM-260403M4T69V                 4,000,000.00             DR           -218,268,854.83           DR
+                                        PHARMA IND-
+                                        KKBKR22026040322043483
+
+62       03/04/2026                     IB: FUND TRANSFER FROM                     IB                      1,485,175.00             CR           -214,268,854.83           DR
+                                        0150421717
+63       03/04/2026                     IB: FUND TRANSFER FROM                     IB                      4,000,000.00             CR           -215,754,029.83           DR
+                                        0150421717
+64       03/04/2026                     NEFT-SONA RAJKUMAR               FCM-260403M4SDP2                    38,278.00              DR           -219,754,029.83           DR
+                                        JAISWA-
+                                        CMS0932690995299
+65       03/04/2026                     NEFT RTN                         NEFTINW-1542801203                  38,278.00              CR           -219,715,751.83           DR
+                                        CMS0932690940846
+                                        INCORRECT ACCOUNT
+                                        NUMBE
+
+--- PAGE 4 ---
+ Sl. No.              Date                       Description               Chq / Ref number                  Amount              Dr / Cr            Balance             Dr / Cr
+66       03/04/2026                     NEFT-BHAVESH JADHAV-            FCM-260403M4MYGO                    25,431.00              DR           -219,754,029.83           DR
+                                        CMS0932690940858
+67       03/04/2026                     NEFT-SINOKOR                     FCM-260403M4MYGK                   38,806.00              DR           -219,728,598.83           DR
+                                        MERCHANT MAR-
+68       03/04/2026                     NEFT-FAIZ COOL CARE              FCM-260403M4MYG7                   12,862.00              DR           -219,689,792.83           DR
+                                        SERVI-CMS0932690940871
+
+69       03/04/2026                     NEFT-HITESH HEMANT               FCM-260403M4MYGI                   45,749.00              DR           -219,676,930.83           DR
+                                        DESAI-CMS0932690940852
+
+70       03/04/2026                     NEFT-PITAMBER JHA-               FCM-260403M4MYGZ                   54,800.00              DR           -219,631,181.83           DR
+                                        CMS0932690940872
+71       03/04/2026                     NEFT-AMIT YADAV-                 FCM-260403M4MYGV                   20,282.00              DR           -219,576,381.83           DR
+                                        CMS0932690940865
+72       03/04/2026                     NEFT-SONA RAJKUMAR               FCM-260403M4MYGC                   38,278.00              DR           -219,556,099.83           DR
+                                        JAISWA-
+                                        CMS0932690940846
+73       03/04/2026                     NEFT-ANSARI TEMPO                FCM-260403M4MYGS                  100,000.00              DR           -219,517,821.83           DR
+                                        SERVICE-
+                                        CMS0932690940862
+74       03/04/2026                     NEFT-TCI EXPRESS LTD-            FCM-260403M4MYG6                  186,200.00              DR           -219,417,821.83           DR
+                                        CMS0932690940870
+75       03/04/2026                     NEFT-CHEMEXPO                    FCM-260403M4MYG8                    9,570.00              DR           -219,231,621.83           DR
+                                        EXHIBITION -
+                                        CMS0932690940842
+76       03/04/2026                     NEFT-APARNA JALUI-               FCM-260403M4MYGY                   29,787.00              DR           -219,222,051.83           DR
+                                        CMS0932690940868
+77       03/04/2026                     NEFT-ARCK ENTERPRISE-            FCM-260403M4MYG9                   11,238.00              DR           -219,192,264.83           DR
+                                        CMS0932690940843
+78       03/04/2026                     NEFT-SHRINIVAS PATIL-            FCM-260403M4MYH0                   22,100.00              DR           -219,181,026.83           DR
+                                        CMS0932690940873
+79       03/04/2026                     NEFT-RR SHIPPING AND             FCM-260403M4MYGX                  127,600.00              DR           -219,158,926.83           DR
+                                        LOGI-CMS0932690940867
+80       03/04/2026                     NEFT-UNI GOODS INDIA             FCM-260403M4MYGL                   70,180.00              DR           -219,031,326.83           DR
+                                        CARR-CMS0932690940855
+
+81       03/04/2026                     NEFT-SHRISHTI SAMEER             FCM-260403M4MYGU                   71,300.00              DR           -218,961,146.83           DR
+                                        MAYE-CMS0932690940864
+
+82       03/04/2026                     NEFT-SAVVI LOGISTICS-            FCM-260403M4MYGT                   80,000.00              DR           -218,889,846.83           DR
+                                        CMS0932690940863
+83       03/04/2026                     NEFT-ANIL RAMDULAR               FCM-260403M4MYGH                   17,009.00              DR           -218,809,846.83           DR
+                                        PRASAD-
+                                        CMS0932690940851
+84       03/04/2026                     NEFT-P K LOGISTIC-               FCM-260403M4MYGF                   21,100.00              DR           -218,792,837.83           DR
+                                        CMS0932690940849
+85       03/04/2026                     NEFT-MOHD GUFRAN                 FCM-260403M4MYGB                   30,760.00              DR           -218,771,737.83           DR
+                                        SIDDIQUI-
+                                        CMS0932690940845
+86       03/04/2026                     NEFT-NIRAV KISHOR SHAH           FCM-260403M4MYG5                   79,423.00              DR           -218,740,977.83           DR
+                                        -CMS0932690940869
+
+87       03/04/2026                     NEFT-HANUMAN                     FCM-260403M4MYGN                   53,371.00              DR           -218,661,554.83           DR
+                                        SHESHNARAYAN-
+                                        CMS0932690940857
+88       03/04/2026                     NEFT-SWATI RAJESH               FCM-260403M4MYGM                    31,265.00              DR           -218,608,183.83           DR
+                                        GUPTA-CMS0932690940856
+
+89       03/04/2026                     NEFT-MAGNUM CARGO                FCM-260403M4MYGE                   39,548.00              DR           -218,576,918.83           DR
+                                        PVT LTD-
+                                        CMS0932690940848
+90       03/04/2026                     NEFT-SONAM AKHILESH              FCM-260403M4MYGP                   79,984.00              DR           -218,537,370.83           DR
+                                        MISHR-CMS0932690940859
+
+91       03/04/2026                     NEFT-RITCO LOGISTICS             FCM-260403M4MYGJ                  139,160.00              DR           -218,457,386.83           DR
+                                        LIMI-CMS0932690940853
+
+--- PAGE 5 ---
+ Sl. No.              Date                      Description                Chq / Ref number                  Amount              Dr / Cr            Balance             Dr / Cr
+92       03/04/2026                     NEFT-GEETA RAM ASARE-           FCM-260403M4MYGW                    48,309.00              DR           -218,318,226.83          DR
+                                        CMS0932690940866
+93       03/04/2026                     NEFT-GAJERA PARTH-              FCM-260403M4MYGQ                    38,200.00              DR           -218,269,917.83          DR
+                                        CMS0932690940860
+94       03/04/2026                     NEFT-SHREE RAJ                  FCM-260403M4MYGD                    57,986.00              DR           -218,231,717.83          DR
+                                        CHEMICALS-
+                                        CMS0932690940847
+95       03/04/2026                     NEFT-NALLAGORLA                 FCM-260403M4MYGR                    14,012.00              DR           -218,173,731.83          DR
+                                        LALITHA-
+                                        CMS0932690940861
+96       03/04/2026                     NEFT-SWAYAMBHU                  FCM-260403M4MYGG                    1,900.00               DR           -218,159,719.83          DR
+                                        LOGISTICS -
+                                        CMS0932690940850
+97       03/04/2026                     NEFT-CHODISETTI                 FCM-260403M4MYGA                    33,200.00              DR           -218,157,819.83          DR
+                                        LOKESH-
+                                        CMS0932690940844
+98       03/04/2026                     IFT-GLOBAL OCEAN                 FCM-260403M4N586                  101,225.00              DR           -218,124,619.83          DR
+                                        LOGISTICS IN-FCM-
+                                        260403M4N586
+99       03/04/2026                     IFT-APEX SOLUTIONS-FCM           FCM-260403M4N588                  145,998.00              DR           -218,023,394.83          DR
+                                        -260403M4N588
+100      03/04/2026                     IFT-JINAY INTERLINK-FCM-         FCM-260403M4N587                   28,550.00              DR           -217,877,396.83          DR
+                                        260403M4N587
+101      03/04/2026                     ICICR42026040300535445          RTGSINW-0104112149                1,000,000.00             CR           -217,848,846.83          DR
+                                        SUDARSHAN PHARMA
+                                        INDUSTRI
+102      02/04/2026                     T160260929115859                NEFTINW-1542031753                  79,985.00              CR           -218,848,846.83          DR
+                                        SUDARSHAN PHARMA
+                                        INDUSTRIES LIMIT
+103      02/04/2026                     NEFT RTN                        NEFTINW-1541993066                  31,265.00              CR           -218,928,831.83          DR
+                                        CMS0922690730412
+                                        INCORRECT ACCOUNT
+                                        NUMBE
+104      02/04/2026                     NEFT RTN                        NEFTINW-1541966565                  53,371.00              CR           -218,960,096.83          DR
+                                        CMS0922690730410
+                                        INCORRECT ACCOUNT
+                                        NUMBE
+105      02/04/2026                     NEFT RTN                        NEFTINW-1541988647                  79,424.00              CR           -219,013,467.83          DR
+                                        CMS0922690730396
+                                        UNKNOWN END
+106      02/04/2026                     NEFT RTN                        NEFTINW-1541988646                  71,300.00              CR           -219,092,891.83          DR
+                                        CMS0922690730419
+                                        UNKNOWN END
+107      02/04/2026                     NEFT RTN                        NEFTINW-1541974065                  20,282.00              CR           -219,164,191.83          DR
+                                        CMS0922690730381
+                                        INCORRECT ACCOUNT
+                                        NUMBE
+108      02/04/2026                     NEFT RTN                        NEFTINW-1541973053                  48,309.00              CR           -219,184,473.83          DR
+                                        CMS0922690730411
+                                        INCORRECT ACCOUNT
+                                        NUMBE
+109      02/04/2026                     NEFT RTN                        NEFTINW-1541987892                  29,160.00              CR           -219,232,782.83          DR
+                                        CMS0922690730420
+                                        UNKNOWN END
+110      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4735S                   97,292.00              DR           -219,261,942.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730393
+111      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4735W                   32,477.00              DR           -219,164,650.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730397
+112      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4736A                   48,309.00              DR           -219,132,173.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730411
+113      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4736E                   28,734.00              DR           -219,083,864.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730415
+
+--- PAGE 6 ---
+ Sl. No.              Date                      Description                Chq / Ref number                  Amount              Dr / Cr            Balance            Dr / Cr
+114     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47364                   36,513.00              DR           -219,055,130.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730405
+115     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735U                   50,086.00              DR           -219,018,617.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730395
+116     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4736G                  125,370.00              DR           -218,968,531.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730417
+117     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47360                   28,636.00              DR           -218,843,161.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730401
+118     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735O                   40,683.00              DR           -218,814,525.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730389
+119     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47368                   21,882.00              DR           -218,773,842.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730409
+120     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4736I                   71,300.00              DR           -218,751,960.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730419
+121     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47366                   28,620.00              DR           -218,680,660.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730407
+122     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4736C                   13,312.00              DR           -218,652,040.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730413
+123     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47362                   78,220.00              DR           -218,638,728.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730403
+124     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735M                   28,905.00              DR           -218,560,508.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730387
+125     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735K                   26,729.00              DR           -218,531,603.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730385
+126     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735I                   13,813.00              DR           -218,504,874.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730383
+127     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735Y                   27,868.00              DR           -218,491,061.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730399
+128     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735Q                  112,870.00              DR           -218,463,193.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730391
+129     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4735G                   20,282.00              DR           -218,350,323.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730381
+130     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4736D                   31,018.00              DR           -218,330,041.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730414
+131     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47369                   53,371.00              DR           -218,299,023.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730410
+132     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47367                   80,620.00              DR           -218,245,652.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730408
+133     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M47365                   65,462.00              DR           -218,165,032.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730406
+134     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4736J                   29,160.00              DR           -218,099,570.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730420
+135     02/04/2026                      NEFT-SUDARSHAN                   FCM-260402M4736B                   31,265.00              DR           -218,070,410.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730412
+
+--- PAGE 7 ---
+ Sl. No.              Date                       Description               Chq / Ref number                   Amount              Dr / Cr            Balance             Dr / Cr
+136      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735T                  15,583.00               DR           -218,039,145.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730394
+137      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735L                  38,305.00               DR           -218,023,562.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730386
+138      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M47363                  99,000.00               DR           -217,985,257.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730404
+139      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M47361                  33,900.00               DR           -217,886,257.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730402
+140      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735P                  39,860.00               DR           -217,852,357.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730390
+141      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4736H                   40,500.00               DR           -217,812,497.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730418
+142      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735X                  106,229.00              DR           -217,771,997.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730398
+143      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735Z                  28,626.00               DR           -217,665,768.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730400
+144      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735F                  27,234.00               DR           -217,637,142.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730380
+145      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735V                  79,424.00               DR           -217,609,908.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730396
+146      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4735R                   51,486.00               DR           -217,530,484.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730392
+147      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4735J                  79,985.00               DR           -217,478,998.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730384
+148      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4735N                   98,446.00               DR           -217,399,013.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730388
+149      02/04/2026                     NEFT-SUDARSHAN                    FCM-260402M4736F                  119,444.00              DR           -217,300,567.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730416
+150      02/04/2026                     NEFT-SUDARSHAN                   FCM-260402M4735H                   64,085.00               DR           -217,181,123.83          DR
+                                        PHARMA IND-
+                                        CMS0922690730382
+151      02/04/2026                     IFT-SUDARSHAN PHARMA              FCM-260402M47342                  45,018.00               DR           -217,117,038.83          DR
+                                        INDUSTRI-FCM-
+                                        260402M47342
+152      02/04/2026                     IFT-SUDARSHAN PHARMA              FCM-260402M47344                  38,735.00               DR           -217,072,020.83          DR
+                                        INDUSTRI-FCM-
+                                        260402M47344
+153      02/04/2026                     ICICR42026040200579266          RTGSINW-0104077173                 3,000,000.00             CR           -217,033,285.83          DR
+                                        SUDARSHAN PHARMA
+                                        INDUSTRI
+154      01/04/2026                     Int.Coll:0148095487:02-03-                                         1,462,665.00             DR           -220,033,285.83          DR
+                                        2026 to 01-04-2026
+
+--- PAGE 8 ---
+Opening balance                                 as on 01/04/2026   INR -218,570,620.83
+Closing balance                                 as on 30/04/2026   INR -216,982,368.29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        You may call our 24-hour Customer Contact Centre at our number 1860 266 2666
+                                       Write to us at Customer Contact Centre. Kotak Mahindra Bank Ltd. Post Box Number 16344, Mumbai 400 013

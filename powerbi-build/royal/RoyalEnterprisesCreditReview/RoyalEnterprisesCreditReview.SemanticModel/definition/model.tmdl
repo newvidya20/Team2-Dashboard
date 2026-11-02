@@ -1,0 +1,24 @@
+model RoyalEnterprisesCreditReview
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation ReviewSource = ROYAL ENTERPRISES ZIP and credit due diligence review parameters; 23 October 2026 build
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table 'GST Monthly'
+ref table 'Bank Transactions'
+ref table Period
+ref table Reconciliation
+ref table Financials
+ref table 'Finance Year'
+ref table 'Financial Parameters'
+ref table 'Review Coverage'
+ref table 'Loan Schedule'
+

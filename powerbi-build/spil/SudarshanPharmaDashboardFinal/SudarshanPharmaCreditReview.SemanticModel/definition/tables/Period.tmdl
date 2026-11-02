@@ -1,0 +1,20 @@
+/// Snapshot coverage April 2025-August 2026. Bank account coverage and GST registration coverage vary; August GST absent.
+table Period
+	lineageTag: b8069607-882a-481e-937a-bd1a4ae366ab
+
+	column Month
+		dataType: string
+		lineageTag: 61b12345-90a3-46b5-88e7-93fce3fa75e9
+		summarizeBy: none
+		sourceColumn: Month
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 7ffed442-566e-4f3b-b427-a10d60ad5e99
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	partition Period = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/23QwQ3AIAxD0V1yJlJIS6CzIPZfowdcqQq+WU8+/TnFzZvaLWUvD1nl00Y1qHaqg+rDtBrVStVPDTXyDTX+vaiiQ6j3n6JDUnRIig5J0WHregGkXEmDdwEAAA==",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Month","Financial Year"}), X=Table.TransformColumnTypes(T,{{"Month", type text},{"Financial Year", type text}}) in X
+

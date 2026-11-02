@@ -1,0 +1,41 @@
+/// Ratios as supplied, including percentages expressed in percentage points. Recomputed ratios are separate measures; provider definitions may differ.
+table 'Source Ratios'
+	lineageTag: 06a5be42-2d1f-48be-994f-1c37fb83b0b2
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 658f3855-3a47-4a62-8bd5-f593ba7c834b
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	column Metric
+		dataType: string
+		lineageTag: eb1f21bc-4af8-4ea6-83be-4e49ef09d02b
+		summarizeBy: none
+		sourceColumn: Metric
+
+	column Value
+		dataType: double
+		lineageTag: cbbd1b78-df2a-4a92-86ce-ea6c2468527f
+		summarizeBy: sum
+		sourceColumn: Value
+
+	column 'Source Row'
+		dataType: double
+		lineageTag: f293ff3f-a034-4d68-b2e8-b91756d408ec
+		summarizeBy: sum
+		sourceColumn: Source Row
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition 'Source Ratios' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/42WUW+bMBSF/4qFNKmbXM++GAOPXZpOlVZp6yLtoeoDTb0UNYUOTLr8+4mE2sY2LO/fuedg7r323V0EFOAcKMQRjm7lTladRF+b+k09obMPHyMcM85TAgLn9/hAxz3NJ2jOM8JzzbKehQhHyy/Xq8sLdFM0m7JqjyxjhCWY0YHVKUIsJdSQOkGIBJJxg1oBVo47JSLHjPnuLkgSYTjL2+OYVU8bf78IG4Nr7IOH4wHX2OMoyYThtPGtVF1TobpCyz9dqfb6eDLMYtc8DPOcJMzQ1p8P0UKQPJmtfVX+lY/oom2lev9bnBKeYManLXwRh5RQbkSBT14Ur6Uqtmj58rqt9/Jx6OW+i5LpfGEVtVWBgGEVMJJnRqczLrqmkZVCt4Uq6wiDIGmOWeqGcjBG0thQOoRHgUVpyx9duX52DDPXcAQd7TLXzmGAGUabXVdKNrJVaFHvZFNspDbmJMkweOM+KejPXeM6wyTOCLPK6zzf6mpzrmTzgi7lg/p8bNihuDf8p8A6ySmwjrGq+xY5drFGWd/G4G2CIJvkBMDAOkUQ5oLkVmUnhR/Xm9n/gY79CGQxoYlBQ+Z26KEyn4kwg4eCuDhk8/zxGolwQnIM3noY7Z9V11R930UYaEbiBIM3kxM8zwWhwvChzrBw2l+54E3pFJxacKg1LJgRkRpYx/hVN89ltdHbzK5OMeRukmkebF6Hmea5zVt7ZCcrVTd7dFnsh78eB5bHDGXtjDElbMq6Pday3BUPW9keuE9DOW9LBEAQmY1at4SHsnhU1TwUin3Pjaz9R8IYYiy1MfNGGGM52JS5ior2CS3qaiebtuwvsv16K9+tvZUwRbOE2by5myZ4zm3cnH7xhm4KJZuy2Paytnt5Vb3u7AOqf6OfxVa2xydJBjj2L/HT5GlKhCU3/+k0eUZJlhi5M8PDA0CiRd0qR3k4UxEe5+WMjjFCY6N0ZntOCYRxI9RRr8qqqNYTGXmCY+8pMqugqVFYK3BSASTmveL+H9C5ZUh7DAAA", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Financial Year","Metric","Value","Source Row"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Financial Year", type text},{"Metric", type text},{"Value", type nullable number},{"Source Row", type nullable number}}, "en-US")
+				in Typed
+

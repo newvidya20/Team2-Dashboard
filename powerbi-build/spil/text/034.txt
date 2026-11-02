@@ -1,0 +1,182 @@
+
+--- PAGE 1 ---
+Page No:1
+ 
+              
+                            
+                                          
+                                                        
+                                                                      
+                         STATEMENT OF ACCOUNT from 01/09/2025 to 30/09/2025 for Account Number 8026481131.
+     
+INDIAN BANK
+Branch Code :03281
+Account Number : 8026481131
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301  3rd Floor  Senate Aura Biplex
+Above Kalyan Jewellers
+S.V. Road  Borivali West
+Mumbai 400092
+ 
+Value
+Date
+Post
+Date
+Credit Amount Debit Amount Closing Balance Description
+01/09/
+2025
+01/09/
+2025
+2043807 -296548712.42 CHEQUE DEPOSIT
+ CLEARING-30/08/2025 240
+ 6505 CTS-CHQ:002452 - HBL
+01/09/
+2025
+01/09/
+2025
+ 2043807 -298592519.42 OUTWARD CLEARING CHEQUE
+RETURN
+ Charges-Account closed
+01/09/
+2025
+01/09/
+2025
+ 590 -298593109.42 CHQ DISHONOUR
+02/09/
+2025
+02/09/
+2025
+2518203 -296074906.42 CHEQUE DEPOSIT
+ CLEARING-01/09/2025 026
+ 0691 CTS-CHQ:010288 - UBOI
+02/09/
+2025
+02/09/
+2025
+401200 -295673706.42 CHEQUE DEPOSIT
+ CLEARING-01/09/2025 002
+ 0691 CTS-CHQ:737562 - SBOI
+02/09/
+2025
+02/09/
+2025
+328040 -295345666.42 CHEQUE DEPOSIT
+ CLEARING-01/09/2025 229
+ 0691 CTS-CHQ:002382 - IBL
+02/09/
+2025
+02/09/
+2025
+500000 -294845666.42 CHEQUE DEPOSIT
+ CLEARING-01/09/2025 CENTRAL
+BANK OF INDIA
+ 0691 CTS-CHQ:?21425 - CBOI
+02/09/
+2025
+02/09/
+2025
+ 500000 -295345666.42 OUTWARD CLEARING CHEQUE
+RETURN
+ Charges-Advice not received
+03/09/
+2025
+03/09/
+2025
+280963 -295064703.42 CHEQUE DEPOSIT
+ CLEARING-02/09/2025 U T I BANK
+LTD
+ 2546 CTS-CHQ:048504 - ABL
+06/09/
+2025
+06/09/
+2025
+1424118 -293640585.42 CHEQUE DEPOSIT
+ CLEARING-05/09/2025 ICICI
+BANKING CORPN
+ 6505 CTS-CHQ:002163 - IBL
+06/09/
+2025
+06/09/
+2025
+139830 -293500755.42 CHEQUE DEPOSIT
+ CLEARING-05/09/2025 240
+ 6505 CTS-CHQ:007925 - HBL
+06/09/
+2025
+06/09/
+2025
+235976 -293264779.42 CHEQUE DEPOSIT
+ CLEARING-05/09/2025 002
+ 6505 CTS-CHQ:737563 - SBOI
+08/09/
+2025
+08/09/
+2025
+1593000 -291671779.42 NO BOOK DEPOSIT TRANSFER
+ 
+RTGS/ICIC/ICICR420250908005610
+35/CATION P/
+
+--- PAGE 2 ---
+Page No:2
+ 
+              
+                            
+                                          
+                                                        
+                                                                      
+                         STATEMENT OF ACCOUNT from 01/09/2025 to 30/09/2025 for Account Number 8026481131.
+     
+ 
+Statement Downloaded by :SUDARSHAN PHARMA INDUSTRIES LIMITED on Wed Oct 01 12:23:01  IST 2025
+ 
+Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found the a/c
+correct.
+ 
+END OF STATEMENT - from Internet Banking.
+Value
+Date
+Post
+Date
+Credit Amount Debit Amount Closing Balance Description
+10/09/
+2025
+10/09/
+2025
+400860 -291270919.42 CHEQUE DEPOSIT
+ CLEARING-09/09/2025 002
+ 0010 CTS-CHQ:737564 - SBOI
+10/09/
+2025
+10/09/
+2025
+ 1000058.41 -292270977.83 WITHDRAWAL TRANSFER
+ 
+RTGS/UBIN/IDIBR52025091047421
+978/SUDARSHA/.
+ Txn Amt.      1000000.00 Charges.
+58.41
+15/09/
+2025
+15/09/
+2025
+ 10000 -292280977.83 WITHDRAWAL TRANSFER
+ ins char sep 2025
+15/09/
+2025
+15/09/
+2025
+ 7700 -292288677.83 WITHDRAWAL TRANSFER
+ ins char sep 2025
+ Folio Charges - Txn {
+00000000000188 }
+25/09/
+2025
+25/09/
+2025
+ 1180 -292289857.83 FOLIO CHARGES
+30/09/
+2025
+30/09/
+2025
+ 2756465 -295046322.83 DR INT TRANSACTION

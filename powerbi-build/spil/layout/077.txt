@@ -1,0 +1,331 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                              Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                     Branch                MIDCORPORATEJ
+
+    S V ROAD BORIVALI  WEST                                                                                          Customer Id           263166590
+    City                    MUMBAI                                                                                   Account No            696705010000102
+    State                   MAHARASHTRA                                                                              Account Currency      INR
+    Country                 INDIA                                                                                    Account Type          Cash Credit Account
+    Zip                     400092                                                                                   MICR Code             400026175
+    Mobile No               919819267453                                                                             IFSC Code             UBIN0568945
+    E-mail                  sudarshanspeciality@gmail.com                                                            CKYC Number           70082478095339
+    Statement Date : 17/06/2026 12:04                                                                    Statement Period From -01/05/2026  To 31/05/2026
+    Records from 1 to 61.               No more records available.
+
+  Date              Remarks              Tran Id-1      UTR Number               Instr. ID        Withdrawals              Deposits              Balance
+31-05-2026    696705010000102:Pnl        Y50803212      -                                               2,98,224.00                           -17,07,82,634.16
+05:43:28      Chrg:01-05-2026 to
+              31-05-2026
+
+31-05-2026    696705010000102:Int.       Y50803212      -                                              14,46,384.00                           -17,04,84,410.16
+05:43:28      Coll:01-05-2026 to 31-
+              05-2026
+29-05-2026    NEFT:ALIVUS LIFE           X44645893      Sender                                                                 9,84,614.00    -16,90,38,026.16
+15:35:21      SCIENCES LIMITED                          No:HSBCN14951
+              HSBCN14951434884                          434884
+
+26-05-2026    68940E54F0186026P          A865435        -                                                                      8,03,400.00    -17,00,22,640.16
+18:00:12      OD001
+
+26-05-2026    REJECT:17039668:A          A854802        -                                                                        42,775.00    -17,08,26,040.16
+17:37:07      CCOUNT BLOCKED
+
+26-05-2026    REJECT:17039668:A          A854802        -                                                 42,775.00                           -17,08,68,815.16
+17:37:07      CCOUNT BLOCKED
+
+26-05-2026    REJECT:17036632:P          A846951        -                                                                      9,00,000.00    -17,08,26,040.16
+17:22:39      AYMENT STOPPED
+              BY DRAWER
+26-05-2026    REJECT:17036632:P          A846951        -                                               9,00,000.00                           -17,17,26,040.16
+17:22:39      AYMENT STOPPED
+              BY DRAWER
+26-05-2026    REJECT:17036631:P          A846947        -                                                                    15,00,000.00     -17,08,26,040.16
+17:22:37      AYMENT STOPPED
+              BY DRAWER
+26-05-2026    REJECT:17036631:P          A846947        -                                              15,00,000.00                           -17,23,26,040.16
+17:22:37      AYMENT STOPPED
+              BY DRAWER
+26-05-2026    NEFT:PCDA NAVY             V45924651      Sender                                                                    4,229.00    -17,08,26,040.16
+16:33:19      MUMBAIPCDA NAVY                           No:SBIN4261464
+              MUMBAI                                    56763
+              SBIN42614645
+26-05-2026    68940E54F0103826P          A738461        -                                                                    14,13,500.00     -17,08,30,269.16
+15:46:21      OD001
+
+25-05-2026    NEFT:ALIVUS LIFE           U96728617      Sender                                                               11,35,612.00     -17,22,43,769.16
+20:35:52      SCIENCES LIMITED                          No:HSBCN14549
+              HSBCN14549605055                          605055
+
+
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+21-05-2026    NEFT:MAC CHEM              S7810120       Sender                                                                 1,53,270.00    -17,33,79,381.16
+18:07:17      PRODUCTS INDIA                            No:CMS1412603
+              PVT LTD                                   019094
+              CMS1412603019
+20-05-2026    NEFT:MEGHMANI              Y16148426      Sender                                                                 6,49,496.00    -17,35,32,651.16
+12:32:23      PIGMENTS                                  No:HDFCH01008
+              HDFCH01008020733                          020733
+
+19-05-2026    NEFT:PCDA NAVY             X66358140      Sender                                                                   65,293.00    -17,41,82,147.16
+19:13:13      MUMBAIPCDA NAVY                           No:SBIN3261395
+              MUMBAI                                    22224
+              SBIN32613952
+15-05-2026    RTGS:V N S                 U55784105      -                                                                      3,39,840.00    -17,42,47,440.16
+17:57:56      CHEMICAL INDUSTR
+              IDIBR5202605150223
+              8162
+15-05-2026    NEFT:SHREETECH             U54019654      Sender                                                                 3,31,231.00    -17,45,87,280.16
+17:47:27      INTERNATIONAL                             No:SIBLN261354
+              SIBLN26135485143                          85143
+15-05-2026    NACH/TRE/22497050          U46404528      -                                                                    36,55,758.00     -17,49,18,511.16
+15:50:21      66/M1  RI 140526
+              000116/INDB00000
+13-05-2026    NEFT:EXCEL FINE            S91491123      Sender                                                                 1,30,980.00    -17,85,74,269.16
+13:04:12      CHEMICALS                                 No:BARBR26133
+              BARBR26133526633                          526633
+12-05-2026    NEFT:ALIVUS LIFE           S48266586      Sender                                                                 9,07,521.00    -17,87,05,249.16
+20:03:13      SCIENCES LIMITED                          No:BARBD26132
+              BARBD26132662071                          662071
+12-05-2026    NEFT:P I                   S43263230      Sender                                                                 1,04,625.00    -17,96,12,770.16
+19:10:50      INDUSTRIES LTD                            No:AXISCN1341
+              AXISCN1341172300                          172300
+12-05-2026    REJECT:17039644:A          A944686        -                                                                      5,59,084.00    -17,97,17,395.16
+17:46:17      CCOUNT BLOCKED
+
+12-05-2026    REJECT:17039644:A          A944686        -                                               5,59,084.00                           -18,02,76,479.16
+17:46:17      CCOUNT BLOCKED
+
+12-05-2026    REJECT:17039643:A          A372449        -                                                                        15,930.00    -17,97,17,395.16
+12:17:19      CCOUNT BLOCKED
+
+12-05-2026    REJECT:17039643:A          A372449        -                                                 15,930.00                           -17,97,33,325.16
+12:17:19      CCOUNT BLOCKED
+
+12-05-2026    REJECT:17039642:A          A372438        -                                                                        22,199.00    -17,97,17,395.16
+12:17:19      CCOUNT BLOCKED
+
+12-05-2026    REJECT:17039642:A          A372438        -                                                 22,199.00                           -17,97,39,594.16
+12:17:19      CCOUNT BLOCKED
+
+11-05-2026    REJECT:17039622:A          A899654        -                                                                      9,62,880.00    -17,97,17,395.16
+15:20:45      CCOUNT BLOCKED
+
+11-05-2026    REJECT:17039622:A          A899654        -                                               9,62,880.00                           -18,06,80,275.16
+15:20:45      CCOUNT BLOCKED
+
+08-05-2026    240326USD0001848           A554083        -                                                                             0.94    -17,97,17,395.16
+14:00:30
+
+07-05-2026    REJECT:17039635:A          A629311        -                                                                        86,376.00    -17,97,17,396.10
+14:53:55      CCOUNT BLOCKED
+
+07-05-2026    REJECT:17039635:A          A629311        -                                                 86,376.00                           -17,98,03,772.10
+14:53:55      CCOUNT BLOCKED
+
+06-05-2026    NEFT:EPAO                  V5604500       Sender                                                                    4,847.00    -17,97,17,396.10
+18:42:09      CUSTOMS DUTY                              No:SBIC3003347
+              DRAWBACK                                  61832
+              PAYMENTS
+              SBIC30033
+06-05-2026    REJECT:17039633:A          A829862        -                                                                      6,05,255.00    -17,97,22,243.10
+16:06:01      DVICE NOT
+              RECEIVED
+
+
+
+
+                                                                                Page No2
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 3 ---
+06-05-2026    REJECT:17039633:A          A829862         -                                               6,05,255.00                            -18,03,27,498.10
+16:06:01      DVICE NOT
+              RECEIVED
+06-05-2026    68940E51F0082926P          A827694         -                                                                      5,71,071.14     -17,97,22,243.10
+16:05:11      OD001
+
+06-05-2026    REJECT:17039617:A          A651109         -                                                                         8,968.00     -18,02,93,314.24
+14:52:36      CCOUNT BLOCKED
+
+06-05-2026    REJECT:17039617:A          A651109         -                                                   8,968.00                           -18,03,02,282.24
+14:52:36      CCOUNT BLOCKED
+
+05-05-2026    UPIAB/612569030348         U43417364       -                                                                         2,000.00     -18,02,93,314.24
+20:37:11      /CR/CAREWELL/HDF
+              C/aky4434-1@okax
+
+05-05-2026    REJECT:17029717:A          A901753         -                                                                      6,96,696.00     -18,02,95,314.24
+16:28:27      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17029717:A          A901753         -                                               6,96,696.00                            -18,09,92,010.24
+16:28:27      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17036625:A          A589827         -                                                                      3,42,200.00     -18,02,95,314.24
+13:41:09      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17036625:A          A589827         -                                               3,42,200.00                            -18,06,37,514.24
+13:41:09      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17039524:A          A368072         -                                                                      1,02,660.00     -18,02,95,314.24
+12:17:34      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17039524:A          A368072         -                                               1,02,660.00                            -18,03,97,974.24
+12:17:34      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17036626:A          A272685         -                                                                        90,860.00     -18,02,95,314.24
+11:45:19      CCOUNT BLOCKED
+
+05-05-2026    REJECT:17036626:A          A272685         -                                                 90,860.00                            -18,03,86,174.24
+11:45:19      CCOUNT BLOCKED
+
+04-05-2026    NEFT:VANIK                 T54223370       Sender                                                                        39.03    -18,02,95,314.24
+18:13:11      FINANCE PRIVATE                            No:IN426124586
+              LIMITED                                    20331
+              IN4261245862033
+04-05-2026    REJECT:17039623:A          A884749         -                                                                      4,99,406.00     -18,02,95,353.27
+15:45:58      CCOUNT BLOCKED
+
+04-05-2026    REJECT:17039623:A          A884749         -                                               4,99,406.00                            -18,07,94,759.27
+15:45:58      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039621:A          A941916         -                                                                         5,239.00     -18,02,95,353.27
+17:21:59      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039621:A          A941916         -                                                   5,239.00                           -18,03,00,592.27
+17:21:59      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039627:A          A941903         -                                                                        41,914.00     -18,02,95,353.27
+17:21:57      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039627:A          A941903         -                                                 41,914.00                            -18,03,37,267.27
+17:21:57      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039626:A          A929105         -                                                                        97,180.00     -18,02,95,353.27
+16:58:56      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039626:A          A929105         -                                                 97,180.00                            -18,03,92,533.27
+16:58:56      CCOUNT BLOCKED
+
+02-05-2026    REJECT:17039625:A          A837043         -                                                                        35,695.00     -18,02,95,353.27
+15:47:11      CCOUNT BLOCKED
+
+
+
+
+
+
+
+                                                                                 Page No3
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 4 ---
+02-05-2026     REJECT:17039625:A           A837043          -                                                    35,695.00                             -18,03,31,048.27
+15:47:11       CCOUNT BLOCKED
+
+02-05-2026     REJECT:17039586:A           A293600          -                                                                            51,023.00     -18,02,95,353.27
+11:43:53       CCOUNT BLOCKED
+
+02-05-2026     REJECT:17039586:A           A293600          -                                                    51,023.00                             -18,03,46,376.27
+11:43:53       CCOUNT BLOCKED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                     Page No4
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                   TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

@@ -1,0 +1,124 @@
+/// GSTR1/GSTR3B filing details. Delay recomputed from supplied due and filing dates, floored at zero; source delay retained. Late fee amounts are not supplied.
+table 'GST Filings'
+	lineageTag: 79bff081-4cd1-4022-b644-e5ea8e0de803
+
+	/// Filings Reviewed
+	measure 'Filings Reviewed' = COUNTROWS('GST Filings')
+		formatString: #,0
+		displayFolder: Compliance
+		lineageTag: 1aa43f91-9f24-4d48-8352-80ea3a97163e
+
+	/// Late Filings
+	measure 'Late Filings' = COUNTROWS(FILTER('GST Filings','GST Filings'[Delay Days]>0))
+		formatString: #,0
+		displayFolder: Compliance
+		lineageTag: ed6269ab-52f7-4707-9cdc-750bca000cd3
+
+	/// Late Filing Share
+	measure 'Late Filing Share' = DIVIDE([Late Filings],[Filings Reviewed])
+		formatString: 0.0%
+		displayFolder: Compliance
+		lineageTag: 3af834df-0b48-4b5a-8744-d6978db84d4f
+
+	/// Maximum Filing Delay
+	measure 'Maximum Filing Delay' = MAX('GST Filings'[Delay Days])
+		formatString: 0 "days"
+		displayFolder: Compliance
+		lineageTag: 7e8870d3-7996-4544-992c-aa2394844f07
+
+	/// Average Filing Delay
+	measure 'Average Filing Delay' = AVERAGE('GST Filings'[Delay Days])
+		formatString: 0.0 "days"
+		displayFolder: Compliance
+		lineageTag: 3128953d-5e7a-4e17-b134-773c31317bc7
+
+	column Month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 3bf67659-4781-4e9e-a8f6-4934f5144a4a
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column GSTIN
+		dataType: string
+		lineageTag: 9528b760-b84f-48f4-a68f-4aa14bc29a62
+		summarizeBy: none
+		sourceColumn: GSTIN
+
+	column State
+		dataType: string
+		lineageTag: b66e353b-86e9-44cb-a91c-6664d6b3b7a7
+		summarizeBy: none
+		sourceColumn: State
+
+	column Return
+		dataType: string
+		lineageTag: 46b6f197-bfb4-4b1d-ac62-2fcf61b23260
+		summarizeBy: none
+		sourceColumn: Return
+
+	column 'Due Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: e835ee56-02d3-4dad-b190-0094cd8d542a
+		summarizeBy: none
+		sourceColumn: Due Date
+
+		variation Variation
+			isDefault
+			relationship: a2c0ff21-3e8e-417a-925a-571cec68d8f0
+			defaultHierarchy: LocalDateTable_ec38411a-ea3a-4439-a4a6-2ab3bafce156.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Filing Date'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: aa0909ca-542d-40da-b9e2-3f557261e9bb
+		summarizeBy: none
+		sourceColumn: Filing Date
+
+		variation Variation
+			isDefault
+			relationship: 12506a57-f071-4fb0-9473-c948bc49bf60
+			defaultHierarchy: LocalDateTable_0914043a-a4ab-423b-8ac7-ad526d059abb.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Delay Days'
+		dataType: double
+		lineageTag: 7cf3ec6d-7b7f-4af6-9a3e-69581feb0cd0
+		summarizeBy: sum
+		sourceColumn: Delay Days
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Source Delay Days'
+		dataType: double
+		lineageTag: faff0b5a-5878-431a-b3f8-5b936c39e15b
+		summarizeBy: sum
+		sourceColumn: Source Delay Days
+
+	column 'Source Row'
+		dataType: double
+		lineageTag: 932a0eab-96c8-4642-853d-b5ad8b6e6132
+		summarizeBy: sum
+		sourceColumn: Source Row
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition 'GST Filings' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/52avY7dNhCFXyVgPVpw+CuV3gRwkS4OECCGiy2MOMHCRWK/f0DqknMkrWQNS14JH2YlzeE5w/340Tjr/GTnybIhY/O75/c/f7B+tr/yn8mQ+eXz65e/DZn3H37/zT8bety/TM7iIhvKlJ8sufkTNeiig7IFKPPk2JB35F3BLh3LVonlI5aJnyx5K1BWQh1C3eRmQzPNBcoCdRpomKxUui76U/XuAa2/66BS6bqQP98LVFupR6ifXDQUKRZoEKhXQgNC08SLoWQp2YKNgg1KbDxifXn5BZsEG5XYdMRa+vr99ZV8FmpSUjNS54nZkHPkSg/41lr1Nh123mGDFNs6q17QUUUF+uJBDa216gUVFWQg1BbyhkKgEJ4shdZc9TYdFpuL3cTWkLPkymcQpL10QlBJG6y0V2jtdVdeyx1NOMt736grJ+JUqFmprx3EFqhlkVrPBtHse09VMIzMh7Za4vpQQbJvPVQBOaS6iV17phEU+5ZkPTBVNnmziIYClW8qslJbBSN1rgthgl4r6yxPCxfyt3ulsgqmfNa4kD6NQamrwokIfcjqQn4ppUalrG5Ae+q6r8akFFXBZGSui/bnZ6Wk8k6bN4rqyZdCQaY1fV+VEpjLZGVLiaDSmravOinQ0t4CTSLSqr6vKgnQVaPbNpVAo3X9BH3fF63U1lCuP1ReEFp++ePzf99+ev789a+X151OO9yrivZXw+Zn8jN61nrbALzweAd/2OH23urvI2jZtuqCZ9m52+urF0bYsnfVBVqY9hLrBTW76BMmhHXR2O1d1gsjbDTfj0Vjw6Y7Vrc4275o7KaV9cIIWwyur3qTDOVMuTr8Jpn1thF4PMJDplDhTTvrbSPwdIQ3R9Ldbr1tBC6et1olbw0FplAzCsTJPASfj/DmULr1FYemhO9j8GJoobIDdv8rNk2HvgrD3QWLX1PCTyNxd8Ji2pTo02AMfnhEUq7icQAXM1D1VUgOYGXGqj6NygEczYCe7ANznGzxio64fiPgbAb05Do298Ag/k4JPw/PPTaIz1Oy9xHaGXKeXPVmEEsH5OQYpGF7wBwxoCbHOA1bPeaJATnZh2qebDDEkThug8WInFxHawgYI4JyFbB7ytB5wm7UwG5319Z2zO63dZYQcQc2Z+LC7rZb5wkFJ+Z7Xcg32L23zhIKTRz4urBvOXCNfMscA0cFj0VDg2nTV12dHqC3VYNnG6pa4vi6ADQ4NoV8C01S+broCTKBXVNot8Akmne3FhPF4tYSuDWFdAsuHdkukitCksCsKaQbcRs2fiJg1RTCLTSJ62IDF+Li1TJ4Nb2OXI/rsli1AR25GtplcGp6Fbke3WWwaiMNeT7Ay9KPAypyNcbLYNT0NV8N8zL4tKGaT0d6GUyaXkLeGOxJw2SwaHoNuR7vZbBoeg25GvLN4M/0CrIf9a3er6WmGfyZXkLemPj11ziDO9MLyHHuB5vMDENfvX5cTv9mcGZ6AdnPALnuBA0tvTigH5eDwFn2xla1C4h+V2Df/3n59+Xbj3Ovb1suHFu3ihXY08yLx9ZOh708DoY2UVb7RtbtQ4s+9BOhU2A3OTdsEgYeX3s1eJdyizA3x4FH2EEN3idcPGsNB4lTgHfpFmeI8SBwCu4+2ZapeyAXdifZWQ0+T7V4lj2ruecHxHiYvWi5+yPiIpiRKdaJ4fE/RX4EPvdEReKZeHece1chbvihPrm6LxA3vBAOrXS1XvkgnFepaz31QDiouqkN5/4H/gHh6H/uYzfeJ+IjODqf+9S964FjyKPtuY+9ON08Oh53G7t3O0VrqEgjzqJuKsIdp4PH2zcF4dTlbA+4P/0PEOkaYuYmAAA=", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Month","GSTIN","State","Return","Due Date","Filing Date","Delay Days","Source Delay Days","Source Row"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Month", type nullable date},{"GSTIN", type text},{"State", type text},{"Return", type text},{"Due Date", type nullable date},{"Filing Date", type nullable date},{"Delay Days", type nullable number},{"Source Delay Days", type nullable number},{"Source Row", type nullable number}}, "en-US")
+				in Typed
+

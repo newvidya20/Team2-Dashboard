@@ -1,0 +1,14 @@
+/// Three annual statement years; latest is audited, not provisional.
+table 'Finance Year'
+	lineageTag: a0838de2-fbee-4914-82ad-b4d3057ec6e0
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: a040bc70-5d7e-4801-b187-516ebc4e686b
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	partition 'Finance Year' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/4uOVjIyMDLWNTJRitUBs010jUxhbFNdIzOl2FgAddtqjiUAAAA=",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Financial Year"}), X=Table.TransformColumnTypes(T,{{"Financial Year", type text}}) in X
+

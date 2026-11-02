@@ -1,0 +1,61 @@
+/// Source obligation schedule CC utilisation on 30 June 2026 only. Do not apply June limits to historical months. Bank/account coverage is incomplete, and differing source balances are preserved for reconciliation. Kotak and Union CC limits not supplied in schedule.
+table 'CC Snapshot'
+	lineageTag: 78dae08a-7a0a-483f-b87a-3f2edbe17274
+
+	column 'As Of'
+		dataType: string
+		lineageTag: 3e01b788-d1c5-4442-a839-f777b0625219
+		summarizeBy: none
+		sourceColumn: As Of
+
+	column Account
+		dataType: string
+		lineageTag: 53ba6b4a-97cd-408a-81b7-1e34a705f0e3
+		summarizeBy: none
+		sourceColumn: Account
+
+	column Sanctioned
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 5016186a-b3fb-40b6-980f-431ff12b56d3
+		summarizeBy: none
+		sourceColumn: Sanctioned
+
+	column 'Schedule Outstanding'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0d047753-2c82-480a-9a10-b2579e5457dd
+		summarizeBy: none
+		sourceColumn: Schedule Outstanding
+
+	column 'Schedule Utilisation'
+		dataType: double
+		formatString: 0.00%
+		lineageTag: 31b940db-6fc7-457f-b5b8-b0f7a0a670a2
+		summarizeBy: none
+		sourceColumn: Schedule Utilisation
+
+	column 'Statement Drawn'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: ef0083a5-83f3-4751-87d6-8a34557f3012
+		summarizeBy: none
+		sourceColumn: Statement Drawn
+
+	column 'Statement Less Schedule'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: ff495b51-fb06-4a19-8d07-2ffa0995a119
+		summarizeBy: none
+		sourceColumn: Statement Less Schedule
+
+	column Interpretation
+		dataType: string
+		lineageTag: a7579963-ce6b-4f8b-a5f4-838f1e4f3b58
+		summarizeBy: none
+		sourceColumn: Interpretation
+
+	partition 'CC Snapshot' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/63RTU7DMBAF4KtYXjtmxuOfsVhBVxFIHKDqwjQpjRqcqEkl2HEWjsZJUBOgVbd0Fpb1NItPb5ZLacD4AnxBIJW8e2sG8fXxKRAcS4XGwTQaFKKPiIaOf9CRnOHI9iw2RoE2GKdhhhAhoJKPXcpiWG/r6tDWYsipH7bdeCueU96JddsNTX4Rr+ldVM1mU+9Fc9zu+vqmSmMtV+pCWC7KRTkRAaORyszAmRgcI/lIE5FDBM/Wu7/caFYF6Asi2Osjc9WkPBeJhFLRmdKwRyIDbi7SUQiB3FlsWYG2PO1jhECWPdHVkfdPPz0CoFS/lz4Kw+nqoElZRkKwTqNXhfHsOTqr2c5L12/vIe1zGtMuTbzcjWI49H3b1JVUGE7MGGPwhH5iOmaILgZvAzhmo/Khbefnv77VN7EP/yEmAwAA",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"As Of","Account","Sanctioned","Schedule Outstanding","Schedule Utilisation","Statement Drawn","Statement Less Schedule","Interpretation"}), X=Table.TransformColumnTypes(T,{{"As Of", type text},{"Account", type text},{"Sanctioned", type number},{"Schedule Outstanding", type number},{"Schedule Utilisation", type number},{"Statement Drawn", type number},{"Statement Less Schedule", type number},{"Interpretation", type text}}) in X
+

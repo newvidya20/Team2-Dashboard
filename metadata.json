@@ -1,0 +1,6 @@
+{
+  "name": "Team 2 Hub",
+  "description": "Internal dashboard and lead assessment management hub for Team 2 at Loanbazaar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

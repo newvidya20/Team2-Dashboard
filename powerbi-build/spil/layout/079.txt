@@ -1,0 +1,408 @@
+
+--- PAGE 1 ---
+                                                            Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                              Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                     Branch               MIDCORPORATEJ
+
+    S V ROAD BORIVALI  WEST                                                                                          Customer Id          263166590
+    City                    MUMBAI                                                                                   Account No           696705010000102
+    State                   MAHARASHTRA                                                                              Account Currency     INR
+    Country                 INDIA                                                                                    Account Type         Cash Credit Account
+    Zip                     400092                                                                                   MICR Code            400026175
+    Mobile No               919819267453                                                                             IFSC Code            UBIN0568945
+    E-mail                  sudarshanspeciality@gmail.com                                                            CKYC Number          70082478095339
+    Statement Date : 06/08/2026 10:17
+    Records from 1 to 93.              No more records available.
+
+  Date              Remarks             Tran Id-1       UTR Number              Instr. ID         Withdrawals             Deposits              Balance
+06-08-2026    INWARD RET CHQ            Y63063221       -                                                    590.00                                5,92,552.15
+09:25:31      No 17029720 CHG
+
+05-08-2026    REJECT:17029720:IN        A935346         -                                                                     6,96,696.00          5,93,142.15
+17:10:30      SUFFICIENT FUNDS
+              IN THE ACCO
+
+05-08-2026    REJECT:17029720:IN        A935346         -                                               6,96,696.00                               -1,03,553.85
+17:10:30      SUFFICIENT FUNDS
+              IN THE ACCO
+
+05-08-2026    NACH/10/3097251404        X88460023       -                                                 58,310.00                                5,93,142.15
+10:30:28      /HDFC BANK L
+
+04-08-2026    NEFT:LARSEN AND           X34501667       Sender                                                                  57,441.00          6,51,452.15
+16:11:00      TOUBRO LTD.                               No:AXISCN1425
+              AXISCN1425367934                          367934
+03-08-2026    RTGSO-SUDARSHAN           W59764347       -                                             40,00,000.00                                 5,94,011.15
+16:58:23      PHARMA INDU
+              UBINR220260803011
+              10909
+03-08-2026    Charges for PORD          W59764347       -                                                     58.41                               45,94,011.15
+16:58:23      Customer
+              Payment:UBINH26215
+              110909
+31-07-2026    NEFT:TFL QUINN            U55211974       Sender                                                                  59,968.00         45,94,069.56
+22:03:12      INDIA PRIVATE                             No:HSBCN21272
+              LIMITED                                   664912
+              HSBCN21272664
+29-07-2026    68940B02E24E3165C         A922904         -                                                    590.00                               45,34,101.56
+19:18:11      OR001
+
+28-07-2026    NEFT:VANIK                S22709573       Sender                                                                   1,206.36         45,34,691.56
+19:03:49      FINANCE PRIVATE                           No:IN426209529
+              LIMITED                                   26269
+              IN4262095292626
+27-07-2026    68940B0205492125P         A1092443        -                                                    835.30                               45,33,485.20
+18:22:20      AY001
+
+27-07-2026    68940B0205492125P         A1092443        -                                                                     8,28,107.75         45,34,320.50
+18:22:20      AY001
+
+
+
+
+
+
+
+
+                                                                               Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 2 ---
+27-07-2026     NEFT:EPAO                  Y41188126       Sender                                                                      1,380.00         37,06,212.75
+16:48:22       CUSTOMS DUTY                               No:SBIC3003489
+               DRAWBACK                                   40133
+               PAYMENTS
+               SBIC30034
+26-07-2026     51200008/24-06-            X46917373       -                                                      295.00                                37,04,832.75
+10:15:11       2026/17039655IW
+               CLG REJ
+26-07-2026     15520007/22-06-            X46917279       -                                                      295.00                                37,05,127.75
+10:15:11       2026/17036644IW
+               CLG REJ
+26-07-2026     59170020/08-06-            X46917160       -                                                      295.00                                37,05,422.75
+10:15:10       2026/17039679IW
+               CLG REJ
+26-07-2026     91280007/05-06-            X46917039       -                                                      295.00                                37,05,717.75
+10:15:10       2026/17029718IW
+               CLG REJ
+26-07-2026     108930032/26-05-           X46916928       -                                                      295.00                                37,06,012.75
+10:15:10       2026/17039668IW
+               CLG REJ
+26-07-2026     111620005/12-05-           X46916838       -                                                      295.00                                37,06,307.75
+10:15:10       2026/17039644IW
+               CLG REJ
+26-07-2026     8470029/12-05-             X46916734       -                                                      295.00                                37,06,602.75
+10:15:09       2026/17039643IW
+               CLG REJ
+26-07-2026     8470026/12-05-             X46916598       -                                                      295.00                                37,06,897.75
+10:15:09       2026/17039642IW
+               CLG REJ
+26-07-2026     70040014/11-05-            X46916482       -                                                      295.00                                37,07,192.75
+10:15:09       2026/17039622IW
+               CLG REJ
+26-07-2026     75970046/07-05-            X46916373       -                                                      295.00                                37,07,487.75
+10:15:09       2026/17039635IW
+               CLG REJ
+26-07-2026     92250039/06-05-            X46916278       -                                                      295.00                                37,07,782.75
+10:15:09       2026/17039617IW
+               CLG REJ
+26-07-2026     58680005/05-05-            X46916173       -                                                      295.00                                37,08,077.75
+10:15:08       2026/17036625IW
+               CLG REJ
+26-07-2026     34330012/05-05-            X46916078       -                                                      295.00                                37,08,372.75
+10:15:08       2026/17039524IW
+               CLG REJ
+26-07-2026     27100011/05-05-            X46915987       -                                                      295.00                                37,08,667.75
+10:15:08       2026/17036626IW
+               CLG REJ
+26-07-2026     8630010/05-05-             X46915877       -                                                      295.00                                37,08,962.75
+10:15:08       2026/17029717IW
+               CLG REJ
+26-07-2026     20520006/04-05-            X46915779       -                                                      295.00                                37,09,257.75
+10:15:08       2026/17039623IW
+               CLG REJ
+26-07-2026     57770022/02-05-            X46915683       -                                                      295.00                                37,09,552.75
+10:15:07       2026/17039625IW
+               CLG REJ
+26-07-2026     90410013/02-05-            X46915580       -                                                      295.00                                37,09,847.75
+10:15:07       2026/17039626IW
+               CLG REJ
+26-07-2026     34620009/02-05-            X46915454       -                                                      295.00                                37,10,142.75
+10:15:07       2026/17039621IW
+               CLG REJ
+26-07-2026     34320048/02-05-            X46915351       -                                                      295.00                                37,10,437.75
+10:15:07       2026/17039627IW
+               CLG REJ
+26-07-2026     740010/02-05-              X46915244       -                                                      295.00                                37,10,732.75
+10:15:07       2026/17039586IW
+               CLG REJ
+26-07-2026     70790005/28-04-            X46915145       -                                                      295.00                                37,11,027.75
+10:15:06       2026/17036645IW
+               CLG REJ
+
+
+
+
+
+
+                                                                                  Page No2
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                  TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 3 ---
+26-07-2026     98870051/28-04-            X46915050       -                                                      295.00                                37,11,322.75
+10:15:06       2026/17039616IW
+               CLG REJ
+26-07-2026     121910039/27-04-           X46914959       -                                                      295.00                                37,11,617.75
+10:15:06       2026/17039595IW
+               CLG REJ
+26-07-2026     70100005/27-04-            X46914862       -                                                      295.00                                37,11,912.75
+10:15:06       2026/17039599IW
+               CLG REJ
+26-07-2026     54450005/27-04-            X46914745       -                                                      295.00                                37,12,207.75
+10:15:06       2026/17039613IW
+               CLG REJ
+26-07-2026     20980030/27-04-            X46914627       -                                                      295.00                                37,12,502.75
+10:15:05       2026/17039602IW
+               CLG REJ
+26-07-2026     64700009/21-04-            X46914531       -                                                      295.00                                37,12,797.75
+10:15:05       2026/17039580IW
+               CLG REJ
+26-07-2026     66170008/21-04-            X46914434       -                                                      295.00                                37,13,092.75
+10:15:05       2026/17036623IW
+               CLG REJ
+26-07-2026     22210006/20-04-            X46914327       -                                                      295.00                                37,13,387.75
+10:15:05       2026/17039572IW
+               CLG REJ
+26-07-2026     81140029/18-04-            X46914210       -                                                      295.00                                37,13,682.75
+10:15:05       2026/17039574IW
+               CLG REJ
+26-07-2026     56390014/18-04-            X46914103       -                                                      295.00                                37,13,977.75
+10:15:04       2026/17039575IW
+               CLG REJ
+26-07-2026     5180042/17-04-             X46914016       -                                                      295.00                                37,14,272.75
+10:15:04       2026/17039664IW
+               CLG REJ
+26-07-2026     99910015/16-04-            X46913908       -                                                      295.00                                37,14,567.75
+10:15:04       2026/17036624IW
+               CLG REJ
+26-07-2026     106710029/15-04-           X46913730       -                                                      295.00                                37,14,862.75
+10:15:04       2026/17039567IW
+               CLG REJ
+26-07-2026     50190004/15-04-            X46913602       -                                                      295.00                                37,15,157.75
+10:15:03       2026/17039525IW
+               CLG REJ
+26-07-2026     26410006/14-04-            X46913489       -                                                      295.00                                37,15,452.75
+10:15:03       2026/17039654IW
+               CLG REJ
+26-07-2026     25060007/14-04-            X46913375       -                                                      295.00                                37,15,747.75
+10:15:03       2026/17039557IW
+               CLG REJ
+26-07-2026     97830045/13-04-            X46913258       -                                                      295.00                                37,16,042.75
+10:15:03       2026/17039564IW
+               CLG REJ
+26-07-2026     110940005/10-04-           X46912929       -                                                      295.00                                37,16,337.75
+10:15:02       2026/17039530IW
+               CLG REJ
+26-07-2026     63330024/09-04-            X46912824       -                                                      295.00                                37,16,632.75
+10:15:02       2026/17039522IW
+               CLG REJ
+26-07-2026     36500005/08-04-            X46912720       -                                                      295.00                                37,16,927.75
+10:15:02       2026/17039512IW
+               CLG REJ
+26-07-2026     103410029/07-04-           X46912613       -                                                      295.00                                37,17,222.75
+10:15:01       2026/17039651IW
+               CLG REJ
+26-07-2026     66700028/07-04-            X46912516       -                                                      295.00                                37,17,517.75
+10:15:01       2026/17039649IW
+               CLG REJ
+26-07-2026     9730029/06-04-             X46912397       -                                                      295.00                                37,17,812.75
+10:15:01       2026/17029716IW
+               CLG REJ
+26-07-2026     117740011/04-04-           X46912279       -                                                      295.00                                37,18,107.75
+10:15:01       2026/17034907IW
+               CLG REJ
+
+
+
+
+                                                                                  Page No3
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                  TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 4 ---
+26-07-2026     90880019/04-04-            X46912161       -                                                     295.00                                37,18,402.75
+10:15:00       2026/17039520IW
+               CLG REJ
+26-07-2026     87850004/04-04-            X46912025       -                                                     295.00                                37,18,697.75
+10:15:00       2026/17039507IW
+               CLG REJ
+26-07-2026     25800011/03-04-            X46911905       -                                                     295.00                                37,18,992.75
+10:15:00       2026/17039517IW
+               CLG REJ
+26-07-2026     25930016/03-04-            X46911792       -                                                     295.00                                37,19,287.75
+10:15:00       2026/17036628IW
+               CLG REJ
+26-07-2026     37830015/03-04-            X46911668       -                                                     295.00                                37,19,582.75
+10:15:00       2026/17039513IW
+               CLG REJ
+26-07-2026     119740022/02-04-           X46891554       -                                                     295.00                                37,19,877.75
+10:14:59       2026/17039609IW
+               CLG REJ
+26-07-2026     119740021/02-04-           X46891450       -                                                     295.00                                37,20,172.75
+10:14:59       2026/17039659IW
+               CLG REJ
+26-07-2026     126710046/02-04-           X46891303       -                                                     295.00                                37,20,467.75
+10:14:59       2026/17039506IW
+               CLG REJ
+26-07-2026     112010006/02-04-           X46891173       -                                                     295.00                                37,20,762.75
+10:14:59       2026/17039514IW
+               CLG REJ
+26-07-2026     107090004/02-04-           X46891032       -                                                     295.00                                37,21,057.75
+10:14:58       2026/17039515IW
+               CLG REJ
+26-07-2026     71460004/02-04-            X46890907       -                                                     295.00                                37,21,352.75
+10:14:58       2026/17034949IW
+               CLG REJ
+26-07-2026     49050009/02-04-            X46890818       -                                                     295.00                                37,21,647.75
+10:14:58       2026/17038347IW
+               CLG REJ
+26-07-2026     21350007/02-04-            X46890668       -                                                     295.00                                37,21,942.75
+10:14:58       2026/17038348IW
+               CLG REJ
+24-07-2026     NEFT:TFL QUINN             W65526973       Sender                                                                  1,23,440.00         37,22,237.75
+23:03:59       INDIA PRIVATE                              No:HSBCN20569
+               LIMITED                                    600773
+               HSBCN20569600
+23-07-2026     68940E54F0117226P          A297994         -                                                                      10,72,875.00         35,98,797.75
+12:21:08       OD001
+
+21-07-2026     68940E51F0108426P          A852794         -                                                                       5,00,500.00         25,25,922.75
+19:07:37       OD002
+
+20-07-2026     RTGSO-SACHIN               T41611949       -                                               29,00,000.00                                20,25,422.75
+12:57:24       CHEMICALS
+               UBINR220260720019
+               27591
+20-07-2026     Charges for PORD           T41611949       -                                                       58.41                               49,25,422.75
+12:57:24       Customer
+               Payment:UBINH26201
+               927591
+20-07-2026     NEFTO-RAHUL NANA           T39013504       -                                                   9,000.00                                49,25,481.16
+12:19:27       JAGTAP
+               002868945525
+20-07-2026     Charges for PORD           T39013504       -                                                        2.66                               49,34,481.16
+12:19:27       Customer
+               Payment:UBINJ26201
+20-07-2026     TCP2589- Charges for       T17251057       -                                                     177.00                                49,34,483.82
+02:54:52       Mandate Processing
+
+20-07-2026     SMS Banking                T17250833       -                                                     160.78                                49,34,660.82
+02:54:51       Charges/42600400
+
+18-07-2026     PROCESSING                 A124618         -                                      1         3,12,485.98                                49,34,821.60
+11:17:25       CHARGE
+
+
+
+
+
+
+                                                                                  Page No4
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161
+
+--- PAGE 5 ---
+18-07-2026     696705010000102 -         Y95961551       -                                               12,26,743.40                                52,47,307.58
+11:15:43       Payoff Source a/c
+
+16-07-2026     NEFT:SUVIDHI              X73766413       Sender                                                                    46,138.00         64,74,050.98
+16:50:08       INDUSTRIES                                No:CMS1972617
+               PRIVATE LIMIT                             730101
+               CMS197261773
+16-07-2026     NEFT:GUJARAT              X69148869       Sender                                                                  1,13,042.00         64,27,912.98
+15:37:00       FLUOROCHEMICALS                           No:IN226197091
+               LIMITED                                   48474
+               IN22619709148
+10-07-2026     REJECT:17039645:A         A897520         -                                                                      11,92,980.00         63,14,870.98
+16:58:01       CCOUNT BLOCKED
+
+10-07-2026     REJECT:17039645:A         A897520         -                                               11,92,980.00                                51,21,890.98
+16:58:01       CCOUNT BLOCKED
+
+08-07-2026     NEFT:VANIK                Y92695812       Sender                                                                    39,677.90         63,14,870.98
+18:41:57       FINANCE PRIVATE                           No:IN426189586
+               LIMITED                                   20940
+               IN4261895862094
+08-07-2026     NEFT:OM SAI               Y77927867       Sender                                                                  1,81,720.00         62,75,193.08
+15:32:03       PHARMA PACK                               No:CITIN266966
+               CITIN26696643979                          43979
+06-07-2026     REJECT:17029719:A         A823332         -                                                                       6,96,696.00         60,93,473.08
+15:31:36       DVICE NOT
+               RECEIVED
+06-07-2026     REJECT:17029719:A         A823332         -                                                6,96,696.00                                53,96,777.08
+15:31:36       DVICE NOT
+               RECEIVED
+06-07-2026     RTGS:TATACAPITAL          X16855114       -                                                                       4,52,333.00         60,93,473.08
+12:12:03       LIMITED4489
+               HDFCR520260706795
+               40037
+
+06-07-2026     IMPSAB/61879678420        X11891282       -                                                                               1.00        56,41,140.08
+11:03:26       8/API Banking
+               EB/9923702336
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                 Page No5
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+        This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

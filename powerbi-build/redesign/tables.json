@@ -1,0 +1,518 @@
+{
+  "Review Year": {
+    "columns": [
+      [
+        "Financial Year",
+        "String"
+      ]
+    ],
+    "rows": [
+      [
+        "2021-2022"
+      ],
+      [
+        "2022-2023"
+      ],
+      [
+        "2023-2024"
+      ]
+    ],
+    "description": "Disconnected year selector: KPIs use selected year, while trend charts retain all three financial years."
+  },
+  "Statement Layout": {
+    "columns": [
+      [
+        "Order",
+        "Int64"
+      ],
+      [
+        "Statement",
+        "String"
+      ],
+      [
+        "Line Item",
+        "String"
+      ],
+      [
+        "Metric",
+        "String"
+      ]
+    ],
+    "rows": [
+      [
+        1,
+        "Profit & loss",
+        "Operating revenue",
+        "FY Sales"
+      ],
+      [
+        2,
+        "Profit & loss",
+        "Other income",
+        "FY Other Income"
+      ],
+      [
+        3,
+        "Profit & loss",
+        "Total income",
+        "FY Total Income"
+      ],
+      [
+        4,
+        "Profit & loss",
+        "Operating EBITDA \u00b7 source",
+        "FY Reported EBITDA"
+      ],
+      [
+        5,
+        "Profit & loss",
+        "Depreciation & amortization",
+        "FY Depreciation and Amortization"
+      ],
+      [
+        6,
+        "Profit & loss",
+        "Finance costs",
+        "FY Interest"
+      ],
+      [
+        7,
+        "Profit & loss",
+        "Profit before tax",
+        "FY Profit Before Tax"
+      ],
+      [
+        8,
+        "Profit & loss",
+        "Profit after tax",
+        "FY Net Profit"
+      ],
+      [
+        9,
+        "Balance sheet",
+        "Tangible net worth",
+        "Tangible Net Worth"
+      ],
+      [
+        10,
+        "Balance sheet",
+        "Interest-bearing debt",
+        "Total Debt"
+      ],
+      [
+        11,
+        "Balance sheet",
+        "Current assets",
+        "FY Current Assets"
+      ],
+      [
+        12,
+        "Balance sheet",
+        "Current liabilities",
+        "FY Current Liabilities"
+      ],
+      [
+        13,
+        "Balance sheet",
+        "Trade receivables",
+        "FY Debtors"
+      ],
+      [
+        14,
+        "Balance sheet",
+        "Trade payables",
+        "FY Creditors"
+      ],
+      [
+        15,
+        "Balance sheet",
+        "Inventory",
+        "FY Inventory"
+      ],
+      [
+        16,
+        "Balance sheet",
+        "Net working capital",
+        "Working Capital"
+      ],
+      [
+        17,
+        "Balance sheet",
+        "Total assets",
+        "FY Total Assets"
+      ]
+    ],
+    "description": "Statement comparison layout; all amounts derive from supplied statements, no synthetic balancing items."
+  },
+  "Credit Notes": {
+    "columns": [
+      [
+        "Order",
+        "Int64"
+      ],
+      [
+        "Topic",
+        "String"
+      ]
+    ],
+    "rows": [
+      [
+        1,
+        "Strength"
+      ],
+      [
+        2,
+        "Weakness"
+      ],
+      [
+        3,
+        "Opportunity"
+      ],
+      [
+        4,
+        "Threat"
+      ]
+    ],
+    "description": "Evidence-based SWOT. Selected-year profitability/ratios plus explicitly historical source flags. No automatic approval score or unsupported risk thresholds."
+  },
+  "Calculation Register": {
+    "columns": [
+      [
+        "No",
+        "Int64"
+      ],
+      [
+        "Category",
+        "String"
+      ],
+      [
+        "Parameter",
+        "String"
+      ],
+      [
+        "Formula",
+        "String"
+      ],
+      [
+        "Metric",
+        "String"
+      ],
+      [
+        "Unit",
+        "String"
+      ],
+      [
+        "Evidence Status",
+        "String"
+      ],
+      [
+        "Interpretation",
+        "String"
+      ]
+    ],
+    "rows": [
+      [
+        1,
+        "Profitability",
+        "EBIT",
+        "PAT + interest + current/deferred tax",
+        "EBIT",
+        "Currency",
+        "Calculated",
+        "Includes other income. Core operating EBIT is available separately."
+      ],
+      [
+        2,
+        "Profitability",
+        "EBITDA (PDF: EBITA)",
+        "PAT + interest + tax + depreciation/amortization",
+        "EBITDA - PDF EBITA",
+        "Currency",
+        "Calculated",
+        "PDF calls this EBITA but adds depreciation and amortization. Includes other income."
+      ],
+      [
+        3,
+        "Profitability",
+        "Net profit after tax",
+        "Total income \u2212 expenses \u2212 current/deferred tax",
+        "FY Net Profit",
+        "Currency",
+        "Calculated",
+        "Expenses in source exclude income tax. PAT reconciles after tax."
+      ],
+      [
+        4,
+        "Profitability",
+        "Operating profit \u00b7 PDF definition",
+        "PAT + interest + current/deferred tax",
+        "EBIT",
+        "Currency",
+        "Definition caveat",
+        "Equals EBIT under the PDF formula; includes other income. Core operating EBIT excludes other income."
+      ],
+      [
+        5,
+        "Capital",
+        "Promoter net worth",
+        "Personal assets \u2212 personal liabilities",
+        "",
+        "Currency",
+        "Missing evidence",
+        "Promoter personal asset/liability statements not supplied. Corporate net worth cannot substitute."
+      ],
+      [
+        6,
+        "Debt service",
+        "DSCR",
+        "(PAT + D&A + interest) / (principal repayment + interest)",
+        "",
+        "Ratio",
+        "Missing evidence",
+        "Annual principal repayments missing. Later-period banking EMI payments cannot substitute."
+      ],
+      [
+        7,
+        "Liquidity",
+        "Current ratio",
+        "Current assets / current liabilities",
+        "Current Ratio",
+        "Ratio",
+        "Calculated",
+        "Closing balances; measure also equals PDF working capital ratio."
+      ],
+      [
+        8,
+        "Liquidity",
+        "Quick ratio",
+        "(Current assets \u2212 inventory) / current liabilities",
+        "Quick Ratio",
+        "Ratio",
+        "Calculated",
+        "No additional prepaid-expense adjustment is specified by the PDF."
+      ],
+      [
+        9,
+        "Capital",
+        "Debt / equity",
+        "Interest-bearing debt / corporate equity",
+        "Debt Equity Ratio",
+        "Ratio",
+        "Calculated",
+        "Corporate equity is used. Disclosed unsecured debt is already included in total debt."
+      ],
+      [
+        10,
+        "Capital",
+        "Adjusted debt / equity \u00b7 PDF",
+        "(Total debt + unsecured loans) / equity",
+        "PDF Literal Adjusted Debt Equity",
+        "Ratio",
+        "Definition caveat",
+        "Literal PDF formula can double count unsecured debt. Standard debt/equity is shown separately; source unsecured borrowings are zero."
+      ],
+      [
+        11,
+        "Debt service",
+        "Interest coverage \u00b7 PDF EBIT",
+        "EBIT including other income / finance costs",
+        "Interest Coverage Ratio",
+        "Ratio",
+        "Calculated",
+        "Core operating interest coverage is also shown in the headline cards for a stricter operating view."
+      ],
+      [
+        12,
+        "Capital",
+        "TOL / tangible net worth",
+        "(Current + noncurrent liabilities) / (equity \u2212 intangibles)",
+        "TOL TNW Ratio",
+        "Ratio",
+        "Calculated",
+        "Uses all outside liabilities; intangible assets deducted from net worth."
+      ],
+      [
+        13,
+        "Profitability",
+        "Net profit / sales",
+        "PAT / revenue from operations",
+        "Net Profit Margin",
+        "Percent",
+        "Calculated",
+        "Shown as a percentage."
+      ],
+      [
+        14,
+        "Debt service",
+        "Debt / EBITDA \u00b7 PDF",
+        "Total debt / PAT-derived EBITDA",
+        "Debt EBITDA Ratio",
+        "Ratio",
+        "Calculated",
+        "PDF EBITDA includes other income. Source-EBITDA leverage is shown separately."
+      ],
+      [
+        15,
+        "Debt service",
+        "Operating cash flow / interest",
+        "Operating cash flow / finance costs",
+        "",
+        "Ratio",
+        "Missing evidence",
+        "No operating cash-flow statement supplied."
+      ],
+      [
+        16,
+        "Capital",
+        "Retained earnings / equity",
+        "Reserves and surplus / equity",
+        "Reserves Equity Proxy",
+        "Percent",
+        "Proxy only",
+        "Separate retained earnings not disclosed. Reserves and surplus is an explicit proxy."
+      ],
+      [
+        17,
+        "Working capital",
+        "Debtor collection period",
+        "Closing debtors / sales \u00d7 365",
+        "Debtor Days",
+        "Days",
+        "Calculated",
+        "Credit sales unavailable; closing trade receivables used."
+      ],
+      [
+        18,
+        "Working capital",
+        "Creditor payment period",
+        "Closing creditors / purchases \u00d7 365",
+        "Creditor Days",
+        "Days",
+        "Calculated",
+        "Uses purchases of stock in trade, consistent with PDF denominator."
+      ],
+      [
+        19,
+        "Working capital",
+        "Stock holding period",
+        "Closing inventory / COGS \u00d7 365",
+        "Stock Days",
+        "Days",
+        "Calculated",
+        "COGS = material consumed + purchases + signed inventory change."
+      ],
+      [
+        20,
+        "Liquidity",
+        "Working capital ratio",
+        "Current assets / current liabilities",
+        "Working Capital Ratio",
+        "Ratio",
+        "Calculated",
+        "Identical to current ratio under the PDF definition; net working capital is a separate amount."
+      ],
+      [
+        21,
+        "Working capital",
+        "Drawing power",
+        "Eligible stock + eligible debtors \u2212 creditors",
+        "",
+        "Currency",
+        "Missing evidence",
+        "Eligibility ageing, security margins and eligible stock/debtor schedules absent."
+      ],
+      [
+        22,
+        "Banking",
+        "Banking trend analysis",
+        "Inflows/outflows, internal transfers and return trends",
+        "",
+        "Text",
+        "Banking tab",
+        "April\u2013December 2024 banking data; displayed separately from selected annual financial statements."
+      ],
+      [
+        23,
+        "Working capital",
+        "Invoice ageing",
+        "Invoice due dates vs unpaid invoice balances",
+        "",
+        "Text",
+        "Missing evidence",
+        "No invoice-level dates, outstanding ledger or settlement allocation supplied."
+      ],
+      [
+        24,
+        "Credit review",
+        "CIBIL / CMR analysis",
+        "Verified credit bureau report",
+        "",
+        "Text",
+        "Missing evidence",
+        "No score/CMR report supplied. Source no-default narrative is not a bureau clearance."
+      ],
+      [
+        25,
+        "Credit review",
+        "Evidence-based SWOT",
+        "Source-linked strengths, weaknesses and follow-up",
+        "",
+        "Text",
+        "Finance tab",
+        "Statement growth/profitability, leverage, debt servicing and historical provider flags; no invented bureau score or sanction recommendation."
+      ]
+    ],
+    "description": "All 25 numbered financial/credit parameters in the supplied credit due diligence PDF; definition caveats and missing evidence are explicit."
+  },
+  "Bank Controls": {
+    "columns": [
+      [
+        "Order",
+        "Int64"
+      ],
+      [
+        "Control",
+        "String"
+      ]
+    ],
+    "rows": [
+      [
+        1,
+        "Gross outflows"
+      ],
+      [
+        2,
+        "Loan disbursements"
+      ],
+      [
+        3,
+        "Cash deposits"
+      ],
+      [
+        4,
+        "EMI payments"
+      ],
+      [
+        5,
+        "Internal transfer debits"
+      ],
+      [
+        6,
+        "Internal transfer credits"
+      ],
+      [
+        7,
+        "Penal charges \u00b7 INR"
+      ],
+      [
+        8,
+        "EMI / ECS / NACH returns"
+      ],
+      [
+        9,
+        "CC utilisation"
+      ]
+    ],
+    "description": "Consolidated banking control panel. Amounts in crore unless expressly labelled INR. No inferred sanction limit."
+  }
+}

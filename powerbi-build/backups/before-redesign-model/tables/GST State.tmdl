@@ -1,0 +1,58 @@
+/// State-wise taxable values. Exports and exempt/nil/non-GST buckets retained by source label. Subtotals excluded.
+table 'GST State'
+	lineageTag: 4d1a652d-508c-4fab-a849-f642c4ac2f3d
+
+	/// State Revenue
+	measure 'State Revenue' = CALCULATE(SUM('GST State'[Amount]),KEEPFILTERS('GST State'[Type]="Revenue"))
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: 79ac948c-a342-4b41-bbf3-c4e82d48e9e6
+
+	/// State Purchases
+	measure 'State Purchases' = CALCULATE(SUM('GST State'[Amount]),KEEPFILTERS('GST State'[Type]="Purchases"))
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: GST
+		lineageTag: 6a10c0e2-0468-40bc-9333-726bf8573061
+
+	column Month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 58f80077-9061-42d3-8d4f-12395ff77ae9
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Type
+		dataType: string
+		lineageTag: 2593dde2-0fe4-4850-870d-01a69743d955
+		summarizeBy: none
+		sourceColumn: Type
+
+	column State
+		dataType: string
+		lineageTag: 18f242f2-6780-45b3-9ddf-5d1c80757d49
+		summarizeBy: none
+		sourceColumn: State
+
+	column 'State Code'
+		dataType: string
+		lineageTag: 7bc61d2e-0203-4a10-828a-8061b3625b5e
+		summarizeBy: none
+		sourceColumn: State Code
+
+	column Amount
+		dataType: double
+		lineageTag: 37c3263f-c7d6-43dd-8674-1df53e19fee7
+		summarizeBy: sum
+		sourceColumn: Amount
+
+	partition 'GST State' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Month","Type","State","State Code","Amount"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Month", type nullable date},{"Type", type text},{"State", type text},{"State Code", type text},{"Amount", type nullable number}}, "en-US")
+				in Typed
+

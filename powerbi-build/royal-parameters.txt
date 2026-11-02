@@ -1,0 +1,64 @@
+CREDIT DUE DILIGENCE – REVIEW PARAMETERS 
+GST, Banking & Financial Analysis Checklist 
+1. GST Review Parameters 
+• Buyer and supplier list with total sales and purchases. 
+• Sales-to-percentage ratio with buyer and supplier. 
+• Export details and total export ratio to annual turnover. 
+• Filing date along with late fee details. 
+• Location-wise, state-wise and revenue breakup. 
+• Intra-group transactions. 
+• HSN-code-wise product summary. 
+2. Banking Review Parameters 
+• Internal account transactions. 
+• Inflows / outflows. 
+• Cheque returns. 
+• ECS / NACH returns and penal charges. 
+• Number of credit entries. 
+• BTO (Banking Turnover). 
+• Party-wise inflow / outflow. 
+• Loan disbursement and cash deposits. 
+• CC utilisation. 
+3. Banking & GST Reconciliation (Triangular Report) 
+• Party-wise GST vs. Banking reconciliation: Check the amount booked in GST for each party against the corresponding party -
+wise credit received in the bank account. 
+4. Financial & Credit Analysis Parameters (Income tax (Audit report) 
+S.No. Parameter Formula Type 
+1 EBIT Net Income + Interest + Tax Calculation 
+2 EBITA Net Profit + Interest + Tax + Depreciation + Amortization Calculation 
+3 Net Profit Total Income – Total Expenses Calculation 
+4 Operating Profit Net Profit + Interest + Tax Calculation 
+5 Promoter Net Worth — Calculation 
+6 DSCR Net Profit + Depreciation + Interest / (Principal Repayment + Interest) Calculation 
+7 Current Ratio Current Assets / Current Liabilities Calculation 
+8 Quick Ratio (Current Assets – Inventory) / Current Liabilities Calculation 
+9 Debt–Equity Ratio Total Debt / Net Worth (Equity) Calculation 
+10 Adj. Debt Equity Ratio (Total Debt + Unsecured Loans) / Net Worth Calculation 
+11 Interest Coverage Ratio EBIT / Interest Calculation 
+12 TOL / TNW Ratio Total Outside Liabilities / Tangible Net Worth Calculation 
+13 Net Profit to Sales (Net Profit / Sales) × 100 Calculation 
+14 Debt to EBITDA Ratio Total Debt / EBITDA Calculation 
+15 Operating Cash Flow / Interest Ratio Operating Cash Flow / Interest Expense Calculation 
+16 Retained Earnings / Equity Retained Earnings / Shareholders' Equity Calculation 
+17 Debtors Collection Periods (Debtors / Sales) × 365 Calculation 
+18 Creditors Collection Periods (Creditors / Purchases) × 365 Calculation 
+19 Stocks Periods (Inventory / Cost of Goods Sold) × 365 Calculation 
+20 Working Capital Ratio Current Assets / Current Liabilities Calculation 
+21 Drawing Power Eligible Stock + Eligible Debtors – Creditors Calculation 
+22 
+Banking Trend Analysis (Internal 
+Transfer + Outward Cheque Return 
++ EMI Return) 
+Total Out Flow + Total In Flow Trend / Analysis 
+S.No. Parameter Formula Type 
+23 Invoice Ageing Invoice ageing Trend / Analysis 
+24 CIBIL / CMR Analysis CIBIL / CMR analysis Trend / Analysis 
+25 AI SWOT AI SWOT Trend / Analysis 
+Note: All parameters should be evaluated along with supporting financial statements, GST returns, bank statements, credit bureau reports and other 
+relevant credit documents. 
+ 
+ 
+ 
+Date : 21st Aug 2026 
+ 
+ 
+ 

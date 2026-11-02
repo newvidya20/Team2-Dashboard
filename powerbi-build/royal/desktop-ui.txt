@@ -1,0 +1,1818 @@
+
+
+
+ms-pbi.pbi.microsoft.com/minerva/reportView.html
+
+ms-pbi.pbi.microsoft.com/minerva/reportView.html - Web content
+
+
+
+
+
+
+
+RoyalEnterprisesCreditReview
+
+
+
+
+Save
+Undo
+Redo
+RoyalEnterprisesCreditReview Last saved: Today at 4:29 PM
+RoyalEnterprisesCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Insert
+Modeling
+Design
+View
+Optimize
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Format painter
+Like the formatting of something in your document? Use Format painter to apply that look to other content. 1. Select content with formatting you like. 2. On the Home tab, choose Format painter. 3. Select something else to apply the formatting.
+Data
+Get data
+Get data
+
+Queries
+Refresh
+Refresh
+
+Insert
+New visual
+Calculations
+New measure
+Sensitivity
+Sensitivity
+Sensitivity
+Apply a label to classify the sensitivity of your report and protect its content.
+Share
+Publish
+Copilot
+Prep data for AI
+Copilot
+Copilot
+Uncover insights in your data with the help of AI.
+
+
+Switch ribbons
+
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+
+
+Show keyboard shortcuts
+Show keyboard shortcuts
+Show screen reader tips
+Show screen reader tips (opens in new tab)
+
+Skip to main content
+Skip to main content
+
+Power BI Report
+Power BI Report
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+ROYAL ENTERPRISES / INCOME TAX & AUDIT REVIEW
+
+ 4. Financial & Credit Analysis
+
+
+
+4. Financial & Credit Analysis
+
+ 4. Financial & Credit Analysis
+
+
+
+Three financial years  |  INR crore  |  Profit is before proprietor personal income tax  |  FY2025-26 is provisional
+
+Select financial year Select financial year
+
+
+Select financial year
+Financial Year
+2023-24
+2024-25
+2025-26
+
+ 4. Financial & Credit Analysis
+
+
+
+2023-24 audited  •  2024-25 audited  •  2025-26 provisional
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+
+
+
+ 4. Financial & Credit Analysis
+
+
+
+Sales
+
+ 4. Financial & Credit Analysis
+
+
+
+Reported net profit
+
+ 4. Financial & Credit Analysis
+
+
+
+EBITDA
+
+ 4. Financial & Credit Analysis
+
+
+
+Total debt
+
+ 4. Financial & Credit Analysis
+
+Finance Sales Cr 303.72.
+303.72
+
+ 4. Financial & Credit Analysis
+
+Finance Profit Cr 11.56.
+11.56
+
+ 4. Financial & Credit Analysis
+
+Finance EBITDA Cr 12.65.
+12.65
+
+ 4. Financial & Credit Analysis
+
+Finance Debt Cr 13.29.
+13.29
+
+ 4. Financial & Credit Analysis
+
+
+
+INR crore • selected statement year
+
+ 4. Financial & Credit Analysis
+
+
+
+Before proprietor personal income tax
+
+ 4. Financial & Credit Analysis
+
+
+
+Reported pre-tax profit + interest + D&A
+
+ 4. Financial & Credit Analysis
+
+
+
+Includes friends/relatives borrowing
+
+Three-year sales trend | INR crore Finance Sales Cr by Financial Year Three-year sales trend | INR crore
+
+
+Three-year sales trend | INR crore
+
+Finance Sales Cr by Financial Year
+
+
+
+0
+0
+200
+200
+400
+400
+
+Financial Year
+
+2023-24
+2023-24
+
+2024-25
+2024-25
+
+2025-26
+2025-26
+Plot area
+Finance Sales Cr
+75.2729622
+200.135969
+303.7197357
+Series labels
+
+Three-year profit and debt | INR crore Finance Profit Cr and Finance Debt Cr by Financial Year Three-year profit and debt | INR crore
+
+
+Three-year profit and debt | INR crore
+
+Finance Profit Cr and Finance Debt Cr by Financial Year
+
+
+
+0
+0
+10
+10
+
+Financial Year
+
+2023-24
+2023-24
+
+2024-25
+2024-25
+
+2025-26
+2025-26
+Plot area
+Finance Profit Cr
+2.0137262
+7.0249274
+11.56309
+Finance Debt Cr
+2.654534097
+10.4467029
+13.2889689
+Series labels
+Legend
+
+Legend
+Finance Profit Cr
+
+
+Finance Profit Cr
+Finance Debt Cr
+
+
+Finance Debt Cr
+
+Selected-year credit ratios Selected-year credit ratios
+
+
+Selected-year credit ratios
+
+Scroll up
+Scroll down
+Scroll left
+Scroll right
+
+Row Selection Financial Year Statement Status Debt Equity Current Ratio Interest Cover Reported Margin
+Row Selection
+Financial Year
+Statement Status
+Debt Equity
+Current Ratio
+Interest Cover
+Reported Margin
+Select Row 2025-26 Provisional 0.57x 3.84x 12.34x 3.81%
+Select Row
+Select Row
+2025-26
+Provisional
+0.57x
+3.84x
+12.34x
+3.81%
+
+ 4. Financial & Credit Analysis
+
+
+
+ALL 25 FINANCIAL & CREDIT PARAMETERS  •  Results and evidence update with the year filter
+
+Formula, result and evidence register | scroll to see all 25 parameters Formula, result and evidence register | scroll to see all 25 parameters
+
+
+Formula, result and evidence register | scroll to see all 25 parameters
+
+Scroll up
+Scroll down
+Scroll left
+Scroll right
+
+Row Selection No Parameter Formula Result Evidence Interpretation
+Row Selection
+No
+Parameter
+Formula
+Result
+Evidence
+Interpretation
+Select Row 1 EBIT Reported pre-tax profit + interest ₹ 1258.30 lakh Calculated Tax is not added again to pre-tax profit.
+Select Row
+Select Row
+1
+EBIT
+Reported pre-tax profit + interest
+₹ 1258.30 lakh
+Calculated
+Tax is not added again to pre-tax profit.
+Select Row 2 EBITDA (PDF: EBITA) Pre-tax profit + interest + depreciation ₹ 1265.20 lakh Calculated PDF adds depreciation and amortization; no separate amortization disclosed.
+Select Row
+Select Row
+2
+EBITDA (PDF: EBITA)
+Pre-tax profit + interest + depreciation
+₹ 1265.20 lakh
+Calculated
+PDF adds depreciation and amortization; no separate amortization disclosed.
+Select Row 3 Net Profit Total income - expenses ₹ 1156.31 lakh Source pre-tax profit Before proprietor personal income tax; PAT not established.
+Select Row
+Select Row
+3
+Net Profit
+Total income - expenses
+₹ 1156.31 lakh
+Source pre-tax profit
+Before proprietor personal income tax; PAT not established.
+Select Row 4 Operating Profit Pre-tax profit + interest ₹ 1258.30 lakh Calculated Equals EBIT using PDF definition.
+Select Row
+Select Row
+4
+Operating Profit
+Pre-tax profit + interest
+₹ 1258.30 lakh
+Calculated
+Equals EBIT using PDF definition.
+Select Row 5 Promoter Net Worth Personal assets - personal liabilities Not available Missing evidence Business capital is not a complete personal net worth statement.
+Select Row
+Select Row
+5
+Promoter Net Worth
+Personal assets - personal liabilities
+Not available
+Missing evidence
+Business capital is not a complete personal net worth statement.
+Select Row 6 DSCR (PAT + D&A + interest) / (principal + interest) Not available Missing evidence Annual principal repayments and after-tax profit absent. July 2026 EMI schedule cannot replace annual debt service.
+Select Row
+Select Row
+6
+DSCR
+(PAT + D&A + interest) / (principal + interest)
+Not available
+Missing evidence
+Annual principal repayments and after-tax profit absent. July 2026 EMI schedule cannot replace annual debt service.
+Select Row 7 Current Ratio Current assets / reported current liabilities 3.84 x Classification caveat Loan current maturities are not split out in supplied balance sheets.
+Select Row
+Select Row
+7
+Current Ratio
+Current assets / reported current liabilities
+3.84 x
+Classification caveat
+Loan current maturities are not split out in supplied balance sheets.
+Select Row 8 Quick Ratio (Current assets - inventory) / reported current liabilities 3.32 x Classification caveat Includes source current assets; current loan maturities not disclosed.
+Select Row
+Select Row
+8
+Quick Ratio
+(Current assets - inventory) / reported current liabilities
+3.32 x
+Classification caveat
+Includes source current assets; current loan maturities not disclosed.
+Select Row 9 Debt-Equity Ratio Total debt / proprietor capital 0.57 x Calculated Total debt includes secured, unsecured and friends/relatives.
+Select Row
+Select Row
+9
+Debt-Equity Ratio
+Total debt / proprietor capital
+0.57 x
+Calculated
+Total debt includes secured, unsecured and friends/relatives.
+Select Row 10 Adjusted Debt-Equity (literal PDF) (Total debt + unsecured loans) / capital 0.91 x Double-counting caveat Literal PDF adds unsecured debt already in total debt; standard debt/equity is parameter 9.
+Select Row
+Select Row
+10
+Adjusted Debt-Equity (literal PDF)
+(Total debt + unsecured loans) / capital
+0.91 x
+Double-counting caveat
+Literal PDF adds unsecured debt already in total debt; standard debt/equity is parameter 9.
+Select Row 11 Interest Coverage EBIT / interest 12.34 x Calculated Interest from annual P&L, not the later EMI schedule.
+Select Row
+Select Row
+11
+Interest Coverage
+EBIT / interest
+12.34 x
+Calculated
+Interest from annual P&L, not the later EMI schedule.
+Select Row 12 TOL / TNW Outside liabilities / tangible proprietor capital 1.02 x Calculated No intangible line disclosed; capital used as tangible business net worth.
+Select Row
+Select Row
+12
+TOL / TNW
+Outside liabilities / tangible proprietor capital
+1.02 x
+Calculated
+No intangible line disclosed; capital used as tangible business net worth.
+Select Row 13 Net Profit / Sales Reported pre-owner-tax profit / sales 3.81% Pre-tax basis Not an after-tax margin.
+Select Row
+Select Row
+13
+Net Profit / Sales
+Reported pre-owner-tax profit / sales
+3.81%
+Pre-tax basis
+Not an after-tax margin.
+Select Row 14 Debt / EBITDA Total debt / EBITDA 1.05 x Calculated Closing debt and annual EBITDA.
+Select Row
+Select Row
+14
+Debt / EBITDA
+Total debt / EBITDA
+1.05 x
+Calculated
+Closing debt and annual EBITDA.
+Select Row 15 Operating Cash Flow / Interest Operating cash flow / interest Not available Missing evidence Cash-flow statement not supplied.
+Select Row
+Select Row
+15
+Operating Cash Flow / Interest
+Operating cash flow / interest
+Not available
+Missing evidence
+Cash-flow statement not supplied.
+Select Row 16 Retained Earnings / Equity Retained earnings / equity Not available Not separately disclosed Proprietorship capital does not identify corporate retained earnings.
+Select Row
+Select Row
+16
+Retained Earnings / Equity
+Retained earnings / equity
+Not available
+Not separately disclosed
+Proprietorship capital does not identify corporate retained earnings.
+Select Row 17 Debtor Collection Period Closing debtors / sales x 365 41.14 days Closing balance proxy Credit-sales split and opening debtor balances unavailable.
+Select Row
+Select Row
+17
+Debtor Collection Period
+Closing debtors / sales x 365
+41.14 days
+Closing balance proxy
+Credit-sales split and opening debtor balances unavailable.
+Select Row 18 Creditor Payment Period Closing creditors / purchases x 365 13.27 days Closing balance proxy Trade purchase denominator from trading account.
+Select Row
+Select Row
+18
+Creditor Payment Period
+Closing creditors / purchases x 365
+13.27 days
+Closing balance proxy
+Trade purchase denominator from trading account.
+Select Row 19 Stock Holding Period Closing inventory / COGS x 365 6.95 days Closing balance proxy COGS = opening stock + purchases - closing stock; labour/freight excluded consistently.
+Select Row
+Select Row
+19
+Stock Holding Period
+Closing inventory / COGS x 365
+6.95 days
+Closing balance proxy
+COGS = opening stock + purchases - closing stock; labour/freight excluded consistently.
+Select Row 20 Working Capital Ratio Current assets / reported current liabilities 3.84 x Classification caveat Same formula as current ratio in supplied parameters.
+Select Row
+Select Row
+20
+Working Capital Ratio
+Current assets / reported current liabilities
+3.84 x
+Classification caveat
+Same formula as current ratio in supplied parameters.
+
+ 4. Financial & Credit Analysis
+
+
+
+LOAN OBLIGATIONS  •  7 JULY 2026 SNAPSHOT  •  Separate from the selected annual statements
+
+Loan schedule | INR Loan schedule | INR
+
+
+Loan schedule | INR
+
+Scroll up
+Scroll down
+Scroll left
+Scroll right
+
+Row Selection Lender Security Sanctioned Disbursed Monthly EMI
+Row Selection
+Lender
+Security
+Sanctioned
+Disbursed
+Monthly EMI
+Select Row AMBVIT FINANCE UNSECURED 25,38,999.00 25,38,999.00 93,070.00
+Select Row
+Select Row
+AMBVIT FINANCE
+UNSECURED
+25,38,999.00
+25,38,999.00
+93,070.00
+Select Row ARKA FINANCE UNSECURED 25,56,345.00 25,00,000.00 93,705.00
+Select Row
+Select Row
+ARKA FINANCE
+UNSECURED
+25,56,345.00
+25,00,000.00
+93,705.00
+Select Row AXIS FINANCE UNSECURED 50,00,000.00 48,69,211.00 1,82,019.00
+Select Row
+Select Row
+AXIS FINANCE
+UNSECURED
+50,00,000.00
+48,69,211.00
+1,82,019.00
+Select Row CLIX CAPITAL UNSECURED 35,45,771.00 33,96,909.00 1,29,974.00
+Select Row
+Select Row
+CLIX CAPITAL
+UNSECURED
+35,45,771.00
+33,96,909.00
+1,29,974.00
+Select Row CREDIT SAISONS UNSECURED 66,00,000.00 28,30,421.00 2,34,488.00
+Select Row
+Select Row
+CREDIT SAISONS
+UNSECURED
+66,00,000.00
+28,30,421.00
+2,34,488.00
+Select Row DEUTCH BANK UNSECURED 50,00,000.00 48,60,275.00 1,78,587.00
+Select Row
+Select Row
+DEUTCH BANK
+UNSECURED
+50,00,000.00
+48,60,275.00
+1,78,587.00
+Select Row EPIMONEY PRIVATE LIMITED UNSECURED 6,00,000.00 5,62,710.00 28,034.00
+Select Row
+Select Row
+EPIMONEY PRIVATE LIMITED
+UNSECURED
+6,00,000.00
+5,62,710.00
+28,034.00
+Select Row FULLERTON INDIA UNSECURED 32,00,000.00 26,14,021.00 1,73,843.00
+Select Row
+Select Row
+FULLERTON INDIA
+UNSECURED
+32,00,000.00
+26,14,021.00
+1,73,843.00
+Select Row GODREJ FINANCE UNSECURED 40,00,000.00 38,38,600.00 2,17,696.00
+Select Row
+Select Row
+GODREJ FINANCE
+UNSECURED
+40,00,000.00
+38,38,600.00
+2,17,696.00
+Select Row HDFC BANK SECURED 22,64,000.00 22,64,000.00 36,483.00
+Select Row
+Select Row
+HDFC BANK
+SECURED
+22,64,000.00
+22,64,000.00
+36,483.00
+Select Row HERO FINANCE UNSECURED 30,15,300.00 27,20,054.00 1,06,010.00
+Select Row
+Select Row
+HERO FINANCE
+UNSECURED
+30,15,300.00
+27,20,054.00
+1,06,010.00
+Select Row ICICI BANK UNSECURED 75,00,000.00 75,00,000.00 2,65,173.00
+Select Row
+Select Row
+ICICI BANK
+UNSECURED
+75,00,000.00
+75,00,000.00
+2,65,173.00
+Select Row ICICI BANK HL SECURED 1,33,87,134.00 1,33,87,134.00 1,20,448.00
+Select Row
+Select Row
+ICICI BANK HL
+SECURED
+1,33,87,134.00
+1,33,87,134.00
+1,20,448.00
+Select Row IDFC FIRST BANK UNSECURED 51,00,000.00 48,56,696.00 2,48,473.00
+Select Row
+Select Row
+IDFC FIRST BANK
+UNSECURED
+51,00,000.00
+48,56,696.00
+2,48,473.00
+Select Row IIFL UNSECURED 30,35,703.00 29,04,175.00 1,09,748.00
+Select Row
+Select Row
+IIFL
+UNSECURED
+30,35,703.00
+29,04,175.00
+1,09,748.00
+Select Row INDIFI INFO UNSECURED 30,46,999.00 29,10,119.00 2,84,431.00
+Select Row
+Select Row
+INDIFI INFO
+UNSECURED
+30,46,999.00
+29,10,119.00
+2,84,431.00
+Select Row INDUSIND BANK UNSECURED 50,00,000.00 50,00,000.00 1,74,553.00
+Select Row
+Select Row
+INDUSIND BANK
+UNSECURED
+50,00,000.00
+50,00,000.00
+1,74,553.00
+Select Row KARUR VYSHYA BANK UNSECURED 50,00,000.00 48,20,050.00 2,42,433.00
+Select Row
+Select Row
+KARUR VYSHYA BANK
+UNSECURED
+50,00,000.00
+48,20,050.00
+2,42,433.00
+Select Row KINARA FINANCE UNSECURED 30,00,000.00 30,00,000.00 1,01,844.00
+Select Row
+Select Row
+KINARA FINANCE
+UNSECURED
+30,00,000.00
+30,00,000.00
+1,01,844.00
+Select Row L & T UNSECURED 50,51,620.00 48,45,650.00 1,76,978.00
+Select Row
+Select Row
+L & T
+UNSECURED
+50,51,620.00
+48,45,650.00
+1,76,978.00
+
+ 4. Financial & Credit Analysis
+
+
+
+SOURCE TOTAL DISCREPANCY
+EMI rows total INR56.87 lakh/month. Printed total is INR54.45 lakh; the difference INR2.42 lakh equals the Siemens EMI.
+No annual DSCR is inferred.
+
+ 4. Financial & Credit Analysis
+
+
+
+EVIDENCE-BASED SWOT & BUREAU SNAPSHOT
+Strength: rising sales/profit. Weakness: rising debt/receivables. Opportunity: verify collections. Threat: provisional figures and bureau-reported 96% WC utilisation. On 7 Jul 2026: personal CIBIL 756 (p1), dispute under review dated 25 Apr 2023; company 31 open, 17 closed, 0 delinquent (p2), rank a dash. Full personal account histories have not been reviewed.
+
+ 4. Financial & Credit Analysis
+
+
+
+YEAR CORRECTION: The folder says FY2026-27, but the provisional balance sheet and P&L explicitly say 31 March 2026. Displayed as FY2025-26.
+
+ 4. Financial & Credit Analysis
+
+
+
+ROYAL ENTERPRISES  |  PDF CREDIT REVIEW
+
+ 4. Financial & Credit Analysis
+
+
+
+04 / 04     •     Historical source evidence
+
+
+
+Filters
+Show or hide the filter pane from report readers
+Collapse or expand the filter pane while editing. This also determines how report readers see it
+
+Search Filters on this page
+
+
+Filters on this page
+More options
+
+Add data fields here
+
+Filters on all pages
+More options
+
+Add data fields here
+
+Desktop layout
+Desktop layout
+Mobile layout
+Mobile layout
+
+Previous pages
+Next pages
+
+1. GST Review
+2. Banking Review
+3. Banking & GST Reconciliation
+4. Financial & Credit Analysis
+New page
+
+
+Visualizations
+Visualizations
+Build visual
+
+Build visual
+
+
+Format page
+
+
+Theme
+
+
+
+All visual types
+Stacked bar chart
+
+Stacked column chart
+
+Clustered bar chart
+
+Clustered column chart
+
+100% Stacked bar chart
+
+100% Stacked column chart
+
+Line chart
+
+Area chart
+
+Stacked area chart
+
+100% Stacked area chart
+
+Line and stacked column chart
+
+Line and clustered column chart
+
+Ribbon chart
+
+Waterfall chart
+
+Funnel
+
+Scatter chart
+
+Pie chart
+
+Donut chart
+
+Treemap
+
+Map
+
+Filled map
+
+Shape map
+
+Azure Maps
+
+Gauge
+
+Card
+
+KPI
+
+Slicer
+
+Table
+
+Matrix
+
+R script visual
+
+Python visual
+
+Key influencers
+
+Decomposition tree
+
+Narrative
+
+Goals (Preview)
+
+Gantt chart (Preview)
+
+Paginated report
+
+Button slicer
+
+Input slicer
+
+List slicer (Preview)
+
+Image
+
+ArcGIS for Power BI
+
+Power Apps for Power BI
+
+Power Automate for Power BI
+
+Get more visuals
+
+ValuesAdd data fields here
+Values
+
+No data fields added. Add data fields here
+Drill through
+Cross-report
+
+Cross-report
+Off
+Keep all filters
+
+Keep all filters
+On
+
+
+
+Add drill-through fields here
+
+
+
+
+
+Data
+Data
+
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+More options
+Table Finance Year
+Finance Year
+
+More options
+Table Financial Parameters
+Financial Parameters
+
+More options
+Table Financials
+Financials
+
+More options
+Table GST Monthly
+GST Monthly
+
+More options
+Table Loan Schedule
+Loan Schedule
+
+More options
+Table Period
+Period
+
+More options
+Table Reconciliation
+Reconciliation
+
+More options
+Table Review Coverage
+Review Coverage
+
+More options
+
+Page 4 of 4
+Zoom Out
+
+
+Zoom In
+Zoom level. Click to open the Zoom dialog box
+Fit to page
+Power BI Desktop
+
+This project's files were changed externally. Apply to view the latest changes.
+
+
+
+
+
+
+
+
+
+
+
+Report Zoomed To 52%
+
+
+Name: Reconciliation. Storage mode: Import. Data refreshed: 10/23/2026, 4:17:53 PM. Description: Only 11 common months, July 2025-May 2026. GST excludes taxes while bank receipts include timing differences. Gap is neither an outstanding balance nor proof of unreported sales..
+
+
+ms-pbi.pbi.microsoft.com/minerva/dataExploreView.html
+
+ms-pbi.pbi.microsoft.com/minerva/dataExploreView.html - Web content
+
+
+
+
+
+
+
+RoyalEnterprisesCreditReview
+
+
+
+
+Save
+Undo
+Redo
+RoyalEnterprisesCreditReview Last saved: Today at 4:29 PM
+RoyalEnterprisesCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Data
+Get data
+Get data
+
+Excel workbook
+OneLake ​​catalog
+OneLake ​​catalog
+
+SQL Server
+Enter data
+Dataverse
+Recent sources
+Manage and connect to recent sources.
+Queries
+Transform data
+Transform data
+
+Refresh
+Refresh
+
+Relationships
+Manage relationships
+Calculations
+New measure
+Quick measure
+New column
+New table
+Security
+Manage roles
+View as
+Sensitivity
+Sensitivity
+Sensitivity
+Apply a label to classify the sensitivity of your report and protect its content.
+Share
+Publish
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+Formula bar
+
+Expand to full page
+
+Cancel
+
+Commit
+
+
+
+Data
+Data
+
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Finance Year
+Finance Year
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financial Parameters
+Financial Parameters
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financials
+Financials
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table GST Monthly
+GST Monthly
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Loan Schedule
+Loan Schedule
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Period
+Period
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Reconciliation
+Reconciliation
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Review Coverage
+Review Coverage
+
+This field or table is visible in report view. Select to hide it.
+More options
+
+
+This project's files were changed externally. Apply to view the latest changes.
+
+
+
+
+
+
+
+
+
+
+
+9 results
+
+
+ms-pbi.pbi.microsoft.com/minerva/modelView.html
+
+ms-pbi.pbi.microsoft.com/minerva/modelView.html - Web content
+
+
+
+
+
+
+
+RoyalEnterprisesCreditReview
+
+
+
+
+Save
+Undo
+Redo
+RoyalEnterprisesCreditReview Last saved: Today at 4:29 PM
+RoyalEnterprisesCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Data
+Get data
+Get data
+
+Queries
+Refresh
+Refresh
+
+Relationships
+Manage relationships
+Calculations
+New measure
+New column
+New table
+Calculation group
+Parameters
+New parameter
+New parameter
+Add parameters to visuals and DAX expressions to act as variables. Report readers can use slicers to adjust the inputs and see different outcomes.
+Security
+Manage roles
+View as
+Q&A
+Q&A setup
+Sensitivity
+Sensitivity
+Sensitivity
+Apply a label to classify the sensitivity of your report and protect its content.
+Share
+Publish
+
+
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+
+
+
+
+Many to one relationship from Bank Transactions to Period
+Many to one relationship from Financials to Finance Year
+Many to one relationship from Financial Parameters to Finance Year
+Many to one relationship from GST Monthly to Period
+Many to one relationship from Reconciliation to Period
+
+ Bank Transactions table 1 of 9 Unselected 26 Columns 
+
+
+Bank Transactions
+More options
+
+table content
+Collapse
+
+ Finance Year table 2 of 9 Unselected 1 Columns 
+
+
+Finance Year
+More options
+
+table content
+Collapse
+
+ Financial Parameters table 3 of 9 Unselected 7 Columns 
+
+
+Financial Parameters
+More options
+
+table content
+Collapse
+
+ Financials table 4 of 9 Unselected 39 Columns 
+
+
+Financials
+More options
+
+table content
+Collapse
+
+ GST Monthly table 5 of 9 Unselected 19 Columns 
+
+
+GST Monthly
+More options
+
+table content
+Collapse
+
+ Loan Schedule table 6 of 9 Unselected 11 Columns 
+
+
+Loan Schedule
+More options
+
+table content
+Collapse
+
+ Period table 7 of 9 Unselected 2 Columns 
+
+
+Period
+More options
+
+table content
+Collapse
+
+ Reconciliation table 8 of 9 Unselected 12 Columns 
+
+
+Reconciliation
+More options
+
+table content
+Collapse
+
+ Review Coverage table 9 of 9 Unselected 5 Columns 
+
+
+Review Coverage
+More options
+
+table content
+Collapse
+Previous pages
+Next pages
+
+All tables
+All tables
+New Layout
+
+Properties
+Properties
+Cards
+
+Cards
+Show the database in the header when applicable
+
+Show the database in the header when applicable
+Show related fields when card is collapsed
+
+Show related fields when card is collapsed
+Pin related fields to top of card
+
+Pin related fields to top of card
+
+
+Data
+Data
+
+Tables
+Model
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Finance Year
+Finance Year
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financial Parameters
+Financial Parameters
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financials
+Financials
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table GST Monthly
+GST Monthly
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Loan Schedule
+Loan Schedule
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Period
+Period
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Reconciliation
+Reconciliation
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Review Coverage
+Review Coverage
+
+This field or table is visible in report view. Select to hide it.
+More options
+
+
+Zoom Out
+
+
+Zoom In
+100%
+Reset layout
+Fit to page
+
+This project's files were changed externally. Apply to view the latest changes.
+
+
+
+
+
+
+
+
+
+
+No results found
+
+
+ms-pbi.pbi.microsoft.com/minerva/daxQueryView.html
+
+ms-pbi.pbi.microsoft.com/minerva/daxQueryView.html - Web content
+
+
+
+
+
+
+
+RoyalEnterprisesCreditReview
+
+
+
+
+Save
+Undo
+Redo
+RoyalEnterprisesCreditReview Last saved: Today at 4:29 PM
+RoyalEnterprisesCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Editing
+Format
+Comment
+Uncomment
+Find
+Replace
+Command palette
+Copilot
+Copilot
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+
+DAX queries will be saved to your model
+  They won't be visible when published in the Power BI service. 
+https://go.microsoft.com/fwlink/?linkid=2247952
+Learn more Opens in new window
+
+Expand
+Run the selected portion of the DAX query or the whole thing if nothing is selected (F5 or CTRL + SHIFT + E)
+
+Update model with changes (0)
+
+
+
+Editor content;Press Alt+F1 for Accessibility Options.
+
+Toggle results container
+
+Results
+Your query results will show up here
+Previous pages
+Next pages
+
+Query 1
+Query 1
+New query
+
+Data
+Data
+
+Tables
+Model
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Finance Year
+Finance Year
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financial Parameters
+Financial Parameters
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financials
+Financials
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table GST Monthly
+GST Monthly
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Loan Schedule
+Loan Schedule
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Period
+Period
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Reconciliation
+Reconciliation
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Review Coverage
+Review Coverage
+
+This field or table is visible in report view. Select to hide it.
+More options
+
+
+Query 1 of 1
+Zoom Out
+
+
+Zoom In
+Zoom level. Click to open the Zoom dialog box
+
+This project's files were changed externally. Apply to view the latest changes.
+
+
+
+
+
+
+
+9 results
+
+
+ms-pbi.pbi.microsoft.com/minerva/tmdlView.html
+
+ms-pbi.pbi.microsoft.com/minerva/tmdlView.html - Web content
+
+
+
+
+
+
+
+
+RoyalEnterprisesCreditReview
+
+
+
+
+Save
+Undo
+Redo
+RoyalEnterprisesCreditReview Last saved: Today at 4:29 PM
+RoyalEnterprisesCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Editing
+Format
+Find
+Replace
+Command palette
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+Switch to editing mode to apply your changes.
+
+Preview how the script would change the semantic model.
+
+
+Editor content;Press Alt+F1 for Accessibility Options.
+
+
+Problems 0
+Output 0
+Expand/Collapse toggle bottom
+
+Previous pages
+Next pages
+
+Script 1
+Script 1
+New script
+
+Data
+Data
+
+Tables
+Model
+
+
+View and organize all of the items in your semantic model. 
+Learn how 
+
+Close
+
+Search
+Search
+
+
+
+ Semantic model
+Semantic model
+More options
+ Calculation groups (0)
+More options
+ Cultures (0)
+More options
+ Expressions (0)
+More options
+ Functions (0)
+More options
+ Measures (0)
+Measures (32)
+More options
+ Perspectives (0)
+More options
+ Relationships (5)
+Relationships (5)
+More options
+ Roles (0)
+More options
+ Tables (9)
+Tables (9)
+More options
+
+
+Zoom Out
+
+
+Zoom In
+Zoom level. Click to open the Zoom dialog box
+
+This project's files were changed externally. Apply to view the latest changes.
+
+Edit your model with TMDL
+Edit your model with TMDL
+Close Dialog
+
+TMDL view is a feature-rich code editor that allows you to edit models quickly.
+Get started by dragging and dropping objects from the Data pane.
+Learn more about TMDL view
+
+Try it now
+
+Report Zoomed To 100%. 10 results
+

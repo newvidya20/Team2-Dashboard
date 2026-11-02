@@ -1,0 +1,119 @@
+
+--- PAGE 1 ---
+                                                                     Account Statement
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301 3rd Flr Aura Biplex                                                                              Cust. Reln. No.                301079096
+Above Kalyan Jewellers                                                                               Account No.                    0148095487
+Sv Rd Borivali W MUMBAI CITY                                                                         Period                         From 01/05/2026 To 31/05/2026
+Mumbai                                                                                               Currency                       INR
+MAHARASHTRA                                                                                          Branch                         MUMBAI - BKC 27
+INDIA                                                                                                Nomination Regd                N
+400092                                                                                               Nominee Name
+
+
+
+
+
+
+ Sl. No.               Date                       Description                 Chq / Ref number                   Amount               Dr / Cr            Balance             Dr / Cr
+1        31/05/2026                      MMCCHG_SUDHPHAR_MA                                                      118.00                DR            -219,859,304.61           DR
+                                         Y2026
+2        22/05/2026                      HDFCH01012243212 AMINO            NEFTINW-1594207614                  15,930.00               CR            -219,859,186.61           DR
+                                         ORGANICS SUDARSHAN
+                                         PHARMA I
+3        21/05/2026                      RTGS-SUDARSHAN                    FCM-260521N2HNLB                   9,000,000.00             DR            -219,875,116.61           DR
+                                         PHARMA IND-
+                                         KKBKR22026052122877885
+
+4        21/05/2026                      ICICR42026052100532199           RTGSINW-0106592133                  9,000,000.00             CR            -210,875,116.61           DR
+                                         CHEMSTACK PRIVATE
+                                         LIMITED
+5        18/05/2026                      RTGS-SUDARSHAN                     FCM-260518N0ZJXK                  1,300,000.00             DR            -219,875,116.61           DR
+                                         PHARMA IND-
+                                         KKBKR22026051822835688
+
+6        15/05/2026                      Loan Recovery For -                                                   895,833.32              DR            -218,575,116.61           DR
+                                         1368TL0100000144
+7        15/05/2026                      Loan Recovery For -                                                   365,132.00              DR            -217,679,283.29           DR
+                                         1368TL0100000144
+8        11/05/2026                      IFT-GLOBESPECIALITY               FCM-260511MWNJGD                   1,164,660.00             CR            -217,314,151.29           DR
+                                         CHEMICALS-FCM-
+                                         260511MWNJGD
+9        01/05/2026                      Int.Coll:0148095487:02-04-                                           1,496,443.00             DR            -218,478,811.29           DR
+                                         2026 to 01-05-2026
+
+--- PAGE 2 ---
+Opening balance                                 as on 01/05/2026   INR -216,982,368.29
+Closing balance                                 as on 31/05/2026   INR -219,859,304.61
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        You may call our 24-hour Customer Contact Centre at our number 1860 266 2666
+                                       Write to us at Customer Contact Centre. Kotak Mahindra Bank Ltd. Post Box Number 16344, Mumbai 400 013

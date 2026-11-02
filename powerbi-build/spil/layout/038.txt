@@ -1,0 +1,770 @@
+
+--- PAGE 1 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+                                                                                                                              INDIAN BANK
+                                                                                                                      MCB FORT MUMBAI
+                                                                                                                IFSC CODE:IDIB000M367
+                                                            1st FLOOR, UNITED INDIA BUILDING , SIR P M ROAD , FORT MUMBAI
+                                                                                                                       Branch Code :03281
+                                                                                                           Account Number : 8026481131
+                                                                                        Product type :  MICRO-SMALL-ENT-OCC-REPO
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301, 3rd Floor, Senate Aura Biplex,
+Above Kalyan Jewellers
+S.V. Road, Borivali West
+Mumbai - 400092
+Nominee Name :No
+Email : sachin@sudarshanpharma.org
+Statement Date :Wed Aug 12 16:54:39 IST 2026
+Cleared Balance :4933435.52
+Uncleared Amount :0.00
+Drawing Power :00
+Interest Rate : 8.500
+
+              Value    Post      Remitter          Description       Cheque No          DR            CR          Balance
+               Date    Date       Branch
+                                               BALANCE B/F                                                      299121917.
+                                                                                                                        94DR
+              05/06   05/06   SERVICE          CHEQUE DEPO           00549845                      94400.00     299027517.
+              /2026   /2026   BRANCH           CLEARING                                                                 94DR
+                              (CHENNAI)        05/06/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               549845 400026007
+                                               0691
+              05/06   05/06   SERVICE          CHEQUE DEPO           00981613                     872224.20     298155293.
+              /2026   /2026   BRANCH           CLEARING                                                                 74DR
+                              (CHENNAI)        05/06/2026 002 CHQ
+                                               DEP 981613
+                                               380002068 0691
+              08/06   08/06   MUMBAI FORT      BY TRANSFER                                        20815529      90000000.7
+              /2026   /2026                    RTGS/ICIC/ICICR42                                         3.00            4DR
+                                               026060800573038/S
+                                               UDARSHA/
+                                               TRANSFER FROM
+                                               94957000128
+              09/06   09/06   SERVICE          CHEQUE DEPO           00040589                     194700.00     89805300.7
+              /2026   /2026   BRANCH           CLEARING                                                                  4DR
+                              (CHENNAI)        09/06/2026 UNION
+                                               BANK OF INDIA
+                                               (UBI) CHQ DEP
+                                               040589 500026012
+                                               0010
+              09/06   09/06   SERVICE          CHEQUE DEPO           00981614                     872224.20     88933076.5
+              /2026   /2026   BRANCH           CLEARING                                                                  4DR
+                              (CHENNAI)        09/06/2026 002 CHQ
+                                               DEP 981614
+                                               380002068 6505
+              10/06   10/06   MCB FORT         WITHDRAWAL                           2306071.21                  91239147.7
+              /2026   /2026   MUMBAI           TRANSFER                                                                  5DR
+                                               NEFT/SCBL/IDIBN5
+                                               2026061045775818/
+                                               Shakti d/PAYMENT
+                                               Txn Amt.
+                                               23,06,042.00
+                                               Charges.       29.21
+                                               TRANSFER TO
+                                               89634032816
+
+
+
+
+                                                                   Page No:1
+
+--- PAGE 2 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+               Value    Post      Remitter          Description        Cheque No           DR            CR          Balance
+               Date     Date       Branch
+              10/06    10/06   MCB FORT         WITHDRAWAL                            472629.21                    91711776.9
+              /2026    /2026   MUMBAI           TRANSFER                                                                    6DR
+                                                NEFT/KKBK/IDIBN5
+                                                2026061045775820/
+                                                SURVIVAL/PAYMEN
+                                                T Txn Amt.
+                                                4,72,600.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            2503536.21                   94215313.1
+              /2026    /2026   MUMBAI           TRANSFER                                                                    7DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775822/SH
+                                                REEJI /PAYMENT
+                                                Txn Amt.
+                                                25,03,507.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            4025402.21                   98240715.3
+              /2026    /2026   MUMBAI           TRANSFER                                                                    8DR
+                                                NEFT/NNSB/IDIBN5
+                                                2026061045775823/
+                                                TRADEX
+                                                C/PAYMENT Txn
+                                                Amt.
+                                                40,25,373.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            7937318.21                   106178033.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   59DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775824/C
+                                                OGNIZAN/PAYMEN
+                                                T Txn Amt.
+                                                79,37,289.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            537755.21                    106715788.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   80DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061045775825/
+                                                TASC
+                                                CHE/PAYMENT Txn
+                                                Amt.       5,37,726.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            984739.21                    107700528.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   01DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061045775827/
+                                                MODY
+                                                CHE/PAYMENT Txn
+                                                Amt.       9,84,710.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            166409.21                    107866937.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   22DR
+                                                NEFT/UBIN/IDIBN52
+                                                026061045775828/V
+                                                N PHAR/PAYMENT
+                                                Txn Amt.
+                                                1,66,380.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+
+
+
+
+
+
+
+
+
+
+                                                                    Page No:2
+
+--- PAGE 3 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+               Value    Post      Remitter          Description        Cheque No          DR            CR           Balance
+               Date     Date       Branch
+              10/06    10/06   MCB FORT         WITHDRAWAL                            112719.21                    107979656.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  43DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061045775829/
+                                                Nikeon C/PAYMENT
+                                                Txn Amt.
+                                                1,12,690.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            3332588.21                   111312244.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  64DR
+                                                NEFT/SBIN/IDIBN52
+                                                026061045775830/R
+                                                PD SUST/PAYMENT
+                                                Txn Amt.
+                                                33,32,559.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            174640.21                    111486884.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  85DR
+                                                NEFT/UBIN/IDIBN52
+                                                026061045775831/M
+                                                EMBA
+                                                CH/PAYMENT Txn
+                                                Amt.       1,74,611.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            855529.21                    112342414.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  06DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061045775832/
+                                                P R Phar/PAYMENT
+                                                Txn Amt.
+                                                8,55,500.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            499102.21                    112841516.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  27DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061045775834/
+                                                Manisha /PAYMENT
+                                                Txn Amt.
+                                                4,99,073.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                             95514.61                    112937030.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  88DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775835/DA
+                                                XSH CH/PAYMENT
+                                                Txn Amt.
+                                                95,509.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            351008.21                    113288039.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  09DR
+                                                NEFT/UTIB/IDIBN52
+                                                026061045775837/A
+                                                KKSHAT /PAYMENT
+                                                Txn Amt.
+                                                3,50,979.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page No:3
+
+--- PAGE 4 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+               Value    Post      Remitter          Description        Cheque No           DR            CR          Balance
+               Date     Date       Branch
+              10/06    10/06   MCB FORT         WITHDRAWAL                             98417.61                    113386456.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   70DR
+                                                NEFT/KKBK/IDIBN5
+                                                2026061045775840/
+                                                SIDDHA I/PAYMENT
+                                                Txn Amt.
+                                                98,412.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            300029.21                    113686485.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   91DR
+                                                NEFT/BKID/IDIBN52
+                                                026061045775842/G
+                                                ranock /PAYMENT
+                                                Txn Amt.
+                                                3,00,000.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            567255.21                    114253741.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   12DR
+                                                NEFT/UTIB/IDIBN52
+                                                026061045775845/P
+                                                aresh C/PAYMENT
+                                                Txn Amt.
+                                                5,67,226.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            1264375.21                   115518116.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   33DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061045775846/
+                                                Vividh c/PAYMENT
+                                                Txn Amt.
+                                                12,64,346.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            1911629.21                   117429745.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   54DR
+                                                NEFT/KKBK/IDIBN5
+                                                2026061045775848/
+                                                RELIANCE/PAYMEN
+                                                T Txn Amt.
+                                                19,11,600.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            2832029.21                   120261774.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   75DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775849/SH
+                                                IV CHE/PAYMENT
+                                                Txn Amt.
+                                                28,32,000.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            1144629.21                   121406403.
+              /2026    /2026   MUMBAI           TRANSFER                                                                   96DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775850/SH
+                                                IV CHE/PAYMENT
+                                                Txn Amt.
+                                                11,44,600.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                     Page No:4
+
+--- PAGE 5 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+               Value    Post      Remitter          Description        Cheque No          DR            CR           Balance
+               Date     Date       Branch
+              10/06    10/06   MCB FORT         WITHDRAWAL                            476804.21                    121883208.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  17DR
+                                                NEFT/KKBK/IDIBN5
+                                                2026061045775852/
+                                                MLA
+                                                INDU/PAYMENT Txn
+                                                Amt.       4,76,775.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                             11805.61                    121895013.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  78DR
+                                                NEFT/SBIN/IDIBN52
+                                                026061045775853/D
+                                                ALMIA L/PAYMENT
+                                                Txn Amt.
+                                                11,800.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                             42780.61                    121937794.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  39DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775854/PR
+                                                OTO CH/PAYMENT
+                                                Txn Amt.
+                                                42,775.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                             45435.61                    121983230.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  00DR
+                                                NEFT/IOBA/IDIBN52
+                                                026061045775855/H
+                                                Y GRO C/PAYMENT
+                                                Txn Amt.
+                                                45,430.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                             12659.61                    121995889.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  61DR
+                                                NEFT/NKGS/IDIBN5
+                                                2026061045775856/
+                                                ARCK
+                                                ENT/PAYMENT Txn
+                                                Amt.         12,654.00
+                                                Charges.        5.61
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            167365.41                    122163255.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  02DR
+                                                NEFT/INDB/IDIBN52
+                                                026061045775857/M
+                                                AGNUM
+                                                C/PAYMENT Txn
+                                                Amt.       1,67,348.00
+                                                Charges.       17.41
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MCB FORT         WITHDRAWAL                            8839417.21                   131002672.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  23DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775859/Adi
+                                                tya B/PAYMENT Txn
+                                                Amt.
+                                                88,39,388.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page No:5
+
+--- PAGE 6 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+               Value    Post      Remitter         Description        Cheque No           DR            CR          Balance
+               Date     Date       Branch
+              10/06    10/06   MCB FORT         WITHDRAWAL                           2288989.21                   133291661.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  44DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061045775860/Adi
+                                                tya B/PAYMENT Txn
+                                                Amt.
+                                                22,88,960.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              10/06    10/06   MUMBAI FORT      BY TRANSFER                                        2503507.00     130788154.
+              /2026    /2026                    IDIBN520260610457                                                         44DR
+                                                75822 SHREEJI CH
+                                                INCORRECT AC
+                                                TRANSFER FROM
+                                                89634000124
+              11/06    11/06   MCB FORT         WITHDRAWAL                           50000029.21                  180788183.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  65DR
+                                                NEFT/KKBK/IDIBN5
+                                                2026061145854026/
+                                                SUDARSHA/PAYME
+                                                NT Txn Amt.
+                                                5,00,00,000.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                           50000029.21                  230788212.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  86DR
+                                                NEFT/ICIC/IDIBN520
+                                                26061145854028/SU
+                                                DARSHA/PAYMENT
+                                                Txn Amt.
+                                                5,00,00,000.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                             84155.61                   230872368.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  47DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061145854941/
+                                                Amit Roa/PAYMENT
+                                                Txn Amt.
+                                                84,150.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                           113591.41                    230985959.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  88DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061145854944/
+                                                Bhanusha/PAYMEN
+                                                T Txn Amt.
+                                                1,13,574.00
+                                                Charges.       17.41
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                           156575.41                    231142535.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  29DR
+                                                NEFT/BARB/IDIBN5
+                                                2026061145854945/
+                                                Jehlum R/PAYMENT
+                                                Txn Amt.
+                                                1,56,558.00
+                                                Charges.       17.41
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                           103967.41                    231246502.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  70DR
+                                                NEFT/PJSB/IDIBN52
+                                                026061145854946/M
+                                                anish R/PAYMENT
+                                                Txn Amt.
+                                                1,03,950.00
+                                                Charges.       17.41
+                                                TRANSFER TO
+                                                89634032816
+
+
+
+                                                                    Page No:6
+
+--- PAGE 7 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+               Value    Post      Remitter          Description        Cheque No          DR            CR          Balance
+               Date     Date       Branch
+              11/06    11/06   MCB FORT         WITHDRAWAL                            217829.21                    231464331.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  91DR
+                                                NEFT/PUNB/IDIBN5
+                                                2026061145854947/
+                                                North Ro/PAYMENT
+                                                Txn Amt.
+                                                2,17,800.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                             44205.61                    231508537.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  52DR
+                                                NEFT/BARB/IDIBN5
+                                                2026061145854949/
+                                                Om Shiva/PAYMENT
+                                                Txn Amt.
+                                                44,200.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                            232067.21                    231740604.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  73DR
+                                                NEFT/CNRB/IDIBN5
+                                                2026061145854951/
+                                                Uni Good/PAYMENT
+                                                Txn Amt.
+                                                2,32,038.00
+                                                Charges.       29.21
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                             20105.61                    231760710.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  34DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061145854953/
+                                                SHRI
+                                                SHY/PAYMENT Txn
+                                                Amt.         20,100.00
+                                                Charges.        5.61
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                            1703796.41                   233464506.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  75DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061145854954/
+                                                NEW
+                                                LINE/PAYMENT Txn
+                                                Amt.
+                                                17,03,779.00
+                                                Charges.       17.41
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                            1409252.41                   234873759.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  16DR
+                                                NEFT/KKBK/IDIBN5
+                                                2026061145854955/
+                                                SURABHI
+                                                /PAYMENT Txn Amt.
+                                                14,09,235.00
+                                                Charges.       17.41
+                                                TRANSFER TO
+                                                89634032816
+              11/06    11/06   MCB FORT         WITHDRAWAL                             73521.61                    234947280.
+              /2026    /2026   MUMBAI           TRANSFER                                                                  77DR
+                                                NEFT/HDFC/IDIBN5
+                                                2026061145854957/
+                                                Shree Da/PAYMENT
+                                                Txn Amt.
+                                                73,516.00 Charges.
+                                                5.61 TRANSFER TO
+                                                89634032816
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Page No:7
+
+--- PAGE 8 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+
+              Value    Post     Remitter         Description        Cheque No         DR           CR          Balance
+               Date    Date      Branch
+              12/06   12/06   MCB FORT        CHQ TRANSFE          00977018       50000058.00                284947338.
+              /2026   /2026   MUMBAI          RTGS/ICIC/IDIBR52                                                      77DR
+                                              026061202760650/S
+                                              UDARSHA/LC
+                                              Payme Txn Amt.
+                                              5,00,00,000.00
+                                              Charges.       58.00
+              12/06   12/06   SERVICE         CHEQUE DEPO          00980920                    1385883.29    283561455.
+              /2026   /2026   BRANCH          CLEARING                                                               48DR
+                              (CHENNAI)       12/06/2026 002 CHQ
+                                              DEP 980920
+                                              380002068 0691
+              17/06   17/06   SERVICE         CHEQUE DEPO          00863402                     23600.00     283537855.
+              /2026   /2026   BRANCH          CLEARING                                                               48DR
+                              (CHENNAI)       17/06/2026 240 CHQ
+                                              DEP 863402
+                                              110240022 2546
+              20/06   20/06   MUMBAI FORT     BY TRANSFER                                      101371.00     283436484.
+              /2026   /2026                   NEFT/MAHB/MAHB                                                         48DR
+                                              N120260620563111
+                                              19/SUDARSHAN /
+                                              TRANSFER FROM
+                                              94959000126
+              21/06   21/06   MCB FORT        WITHDRAWAL                           10000.00                  283446484.
+              /2026   /2026   MUMBAI          TRANSFER                                                               48DR
+                                              INSPECTION
+                                              CHARGES JUN2026
+                                              TRANSFER TO
+                                              96272032813
+              21/06   21/06   MCB FORT        WITHDRAWAL                             7700.00                 283454184.
+              /2026   /2026   MUMBAI          TRANSFER                                                               48DR
+                                              INSPECTION
+                                              CHARGES JUN2026
+                                              TRANSFER TO
+                                              96272032813
+              30/06   30/06                   DEBIT INTEREST                      2461552.00                 285915736.
+              /2026   /2026                                                                                          48DR
+              30/06   30/06                   OD PENAL                            217469.00                  286133205.
+              /2026   /2026                   CHARGES                                                                48DR
+              09/07   09/07   MCB FORT        CHQ TRANSFE          00977019       10000058.00                296133263.
+              /2026   /2026   MUMBAI          RTGS/ICIC/IDIBR52                                                      48DR
+                                              026070903262944/S
+                                              udarsha/INTERNAL
+                                              Txn Amt.
+                                              1,00,00,000.00
+                                              Charges.       58.00
+              09/07   09/07   SERVICE         CHEQUE DEPO          00318701                    669013.00     295464250.
+              /2026   /2026   BRANCH          CLEARING                                                               48DR
+                              (CHENNAI)       09/07/2026 015 CHQ
+                                              DEP 318701
+                                              143015002 0010
+              14/07   14/07   SERVICE         CHEQUE DEPO          00801180                    387904.00     295076346.
+              /2026   /2026   BRANCH          CLEARING                                                               48DR
+                              (CHENNAI)       14/07/2026 PUNJAB
+                                              NATIONAL BANK
+                                              CHQ DEP 801180
+                                              400024140 0010
+              21/07   21/07   SERVICE         CHEQUE DEPO          00000749                    121835.00     294954511.
+              /2026   /2026   BRANCH          CLEARING                                                               48DR
+                              (CHENNAI)       21/07/2026 229 CHQ
+                                              DEP 000749
+                                              380229007 2546
+              22/07   22/07   MCB FORT        DEBIT CIBIL                            3379.00                 294957890.
+              /2026   /2026   MUMBAI          charges ECGLS                                                          48DR
+              22/07   22/07   MCB FORT        BY TRANSFER                                      59900000.00   235057890.
+              /2026   /2026   MUMBAI          TRANSFER FROM                                                          48DR
+                                              8359316247
+                                              SUDARSHAN
+                                              PHARMA
+                                              INDUSTRIES
+                                              LIMITED
+
+
+
+
+                                                                 Page No:8
+
+--- PAGE 9 ---
+                                                                                             STATEMENT OF ACCOUNT from 01/06/2026 to 12/08/2026 for Account Number 8026481131.
+
+              Value    Post      Remitter         Description        Cheque No          DR            CR          Balance
+               Date    Date       Branch
+              22/07   22/07   MCB FORT         WITHDRAWAL                              3379.00                  235061269.
+              /2026   /2026   MUMBAI           TRANSFER                                                                48DR
+                                               TRANSFER TO
+                                               8359316247
+                                               SUDARSHAN
+                                               PHARMA
+                                               INDUSTRIES
+                                               LIMITED
+              22/07   22/07   MCB FORT         CHQ TRANSFE          00977023        60000058.00                 295061327.
+              /2026   /2026   MUMBAI           RTGS/ICIC/IDIBR52                                                       48DR
+                                               026072203514742/S
+                                               udarsha/PAYMENT
+                                               Txn Amt.
+                                               6,00,00,000.00
+                                               Charges.       58.00
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295061475.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295061623.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295061771.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295061919.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295062067.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295062215.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295062363.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295062511.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295062659.
+              /2026   /2026                                                                                            48DR
+              23/07   23/07                    ISSUE OF MICR CA                         148.00                  295062807.
+              /2026   /2026                                                                                            48DR
+              28/07   28/07   MCB FORT         DEBIT ECGLS                          150000.00                   295212807.
+              /2026   /2026   MUMBAI           interest payment                                                        48DR
+              29/07   29/07   SERVICE          CHEQUE DEPO          00005232                       25056.00     295187751.
+              /2026   /2026   BRANCH           CLEARING                                                                48DR
+                              (CHENNAI)        29/07/2026 240 CHQ
+                                               DEP 005232
+                                               400240015 0012
+              31/07   31/07   MUMBAI FORT      BY TRANSFER                                       2000000.00     293187751.
+              /2026   /2026                    RTGS/ICIC/ICICR42                                                       48DR
+                                               026073100577686/S
+                                               UDARSHA/
+                                               TRANSFER FROM
+                                               94957000128
+              31/07   31/07                    DEBIT INTEREST                       2261240.00                  295448991.
+              /2026   /2026                                                                                            48DR
+              31/07   31/07                    OD PENAL                             113173.00                   295562164.
+              /2026   /2026                    CHARGES                                                                 48DR
+              05/08   05/08   SERVICE          CHEQUE DEPO          00027655                     495600.00      295066564.
+              /2026   /2026   BRANCH           CLEARING                                                                48DR
+                              (CHENNAI)        04/08/2026 229 CHQ
+                                               DEP 027655
+                                               396229031 0288
+                                               RENEWAL
+   * Statement Downloaded By SUDARSHAN PHARMA INDUSTRIES LIMITED on Wed Aug 12 16:54:39 IST 2026
+
+
+ Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found
+
+the a/c correct.
+ END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+                                                                   Page No:9

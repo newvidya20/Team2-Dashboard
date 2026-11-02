@@ -1,0 +1,71 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                               Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                      Branch                LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                           Customer Id           263166590
+    City                    MUMBAI                                                                                    Account No            696701010050084
+    State                   MAHARASHTRA                                                                               Account Currency      INR
+    Country                 INDIA                                                                                     Account Type          Current Account
+    Zip                     400092                                                                                    MICR Code             400026176
+    Mobile No               919819267453                                                                              IFSC Code             UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                             CKYC Number           70082478095339
+    Statement Date : 10/02/2026 18:15                                                                    Statement Period From -01/01/2026  To 10/02/2026
+    Records from 1 to 13.               No more records available.
+
+  Date              Remarks              Tran Id-1      UTR Number               Instr. ID         Withdrawals             Deposits              Balance
+10-02-2026    MAND DR- TCP2589-          X80714883      -                                                1,50,751.00                                5,91,704.61
+11:28:21
+
+05-02-2026    NACH/10/3983485223         U47904344      -                                                6,80,326.00                                7,42,455.61
+15:43:43      /CHOLAMANDAL
+
+05-02-2026    NACH/10/3964843594         U26662551      -                                                5,92,548.00                               14,22,781.61
+11:22:08      /TATACAPITAL
+
+04-02-2026    eTXN/By:6967050100         T61338198      -                                                                      5,00,000.00         20,15,329.61
+12:05:02      00102
+
+04-02-2026    eTXN/By:6967050100         T60612585      -                                                                     10,00,000.00         15,15,329.61
+11:54:39      00102
+
+20-01-2026    NACH/10/3865485841         X74217012      -                                                1,49,584.00                                5,15,329.61
+11:08:37      /HDFC BANK L
+
+16-01-2026    MAND DR- TCP2589-          V26303424      -                                                  62,991.00                                6,64,913.61
+12:14:52
+
+15-01-2026    NACH/10/3846515882         U62723400      -                                                  55,814.00                                7,27,904.61
+11:47:10      /HDFC BANK L
+
+12-01-2026    MAND DR- TCP2589-          S52376362      -                                                1,51,991.00                                7,83,718.61
+10:59:27
+
+12-01-2026    RTNCHG/05012026/R          S39591945      -                                                     472.00                                9,35,709.61
+04:02:36      s680326/CHOLAMAN
+              DALAM /3790293045
+
+09-01-2026    NEFT:CHOLAMANDA            X96895620      Sender                                                                   99,242.00          9,36,181.61
+20:34:40      LAM INVEST AND                            No:HDFCH00732
+              FINANC1470                                386585
+              HDFCH0073
+
+09-01-2026    eTXN/By:6967050100         X88189412      -                                                                      5,00,000.00          8,36,939.61
+18:53:17      00102
+
+05-01-2026    NACH/10/3781301498         U85351992      -                                                5,97,832.00                                3,36,939.61
+13:08:06      /TATACAPITAL
+
+
+
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

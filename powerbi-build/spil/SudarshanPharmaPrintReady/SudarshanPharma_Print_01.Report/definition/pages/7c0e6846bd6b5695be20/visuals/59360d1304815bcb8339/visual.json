@@ -1,0 +1,144 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.4.0/schema.json",
+  "name": "59360d1304815bcb8339",
+  "position": {
+    "x": 42.666666666666664,
+    "y": 632.9333333333334,
+    "width": 1037.186351706037,
+    "height": 100.66666666666667,
+    "z": 10,
+    "tabOrder": 10
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "TXN-0015 | Date: 2025-04-01 | Month: 2025-04 | Bank: Kotak • 5487 | Party: KKBKR22025040116502541 AS ON 01/04/2025 INR -198,234,706.63 AS ON 31/01/2026 INR -212,315,737.16",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "YOU MAY CALL OUR 24-HOUR CUSTOMER CONTACT CENTRE AT OUR NUMBER 1860 266 2666 | Narration: RTGS-ARHAMPHARMACHEM- KKBKR22025040116502541 as on",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "01/04/2025 INR -198,234,706.63 as on 31/01/2026 INR -212,315,737.16 You may call our 24-hour Customer Contact Centre at our number 1860 266 2666 | Debit: 466,100 | Credit: 0 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Balance: -198,700,806.63 | Internal Match: No own-account marker | Return Type: No return marker | Penal Charges: 0 | Cash Deposit: 0 | Loan Credit Candidate: 0 | BTO Eligible: 0 |",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              },
+              {
+                "textRuns": [
+                  {
+                    "value": "Source ID: 48 | Source: KOTAK (5487) - 01-04-2025 To 31-01-2026.pdf | Page: 73 | Reference: FCM-250401FYXDG2",
+                    "textStyle": {
+                      "fontFamily": "Arial",
+                      "fontSize": "9pt",
+                      "color": "#243B50"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "background": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "Literal": {
+                      "Value": "'#FFFFFF'"
+                    }
+                  }
+                }
+              }
+            },
+            "transparency": {
+              "expr": {
+                "Literal": {
+                  "Value": "0D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "visualHeader": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

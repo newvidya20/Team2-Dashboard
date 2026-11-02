@@ -1,0 +1,569 @@
+[
+  {
+    "source": 0,
+    "bank": "Axis \u2022 1058",
+    "rows": 164,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 1,
+    "bank": "Axis \u2022 1058",
+    "rows": 133,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 2,
+    "bank": "Axis \u2022 1058",
+    "rows": 152,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 3,
+    "bank": "Axis \u2022 1058",
+    "rows": 171,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 4,
+    "bank": "Axis \u2022 1058",
+    "rows": 111,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 5,
+    "bank": "Axis \u2022 1058",
+    "rows": 128,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 6,
+    "bank": "Axis \u2022 1058",
+    "rows": 57,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 7,
+    "bank": "Axis \u2022 1058",
+    "rows": 171,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 8,
+    "bank": "Axis \u2022 1058",
+    "rows": 130,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 9,
+    "bank": "Axis \u2022 1058",
+    "rows": 122,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 10,
+    "bank": "Axis \u2022 1058",
+    "rows": 183,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 11,
+    "bank": "Axis \u2022 1058",
+    "rows": 145,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 12,
+    "bank": "Axis \u2022 1058",
+    "rows": 118,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 13,
+    "bank": "Axis \u2022 1058",
+    "rows": 137,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 14,
+    "bank": "BOI \u2022 0001",
+    "rows": 19,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 15,
+    "bank": "BOI \u2022 0001",
+    "rows": 9,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 16,
+    "bank": "BOI \u2022 0001",
+    "rows": 12,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 17,
+    "bank": "BOI \u2022 0001",
+    "rows": 5,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 18,
+    "bank": "ICICI \u2022 0192",
+    "rows": 256,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 19,
+    "bank": "ICICI \u2022 0192",
+    "rows": 411,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 20,
+    "bank": "ICICI \u2022 0192",
+    "rows": 419,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 21,
+    "bank": "ICICI \u2022 0192",
+    "rows": 304,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 22,
+    "bank": "ICICI \u2022 0192",
+    "rows": 409,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 23,
+    "bank": "ICICI \u2022 0192",
+    "rows": 430,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 24,
+    "bank": "ICICI \u2022 0192",
+    "rows": 274,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 25,
+    "bank": "ICICI \u2022 0192",
+    "rows": 373,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 26,
+    "bank": "ICICI \u2022 0192",
+    "rows": 573,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 27,
+    "bank": "ICICI \u2022 0192",
+    "rows": 629,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 28,
+    "bank": "ICICI \u2022 0192",
+    "rows": 776,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 29,
+    "bank": "ICICI \u2022 0192",
+    "rows": 958,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 30,
+    "bank": "ICICI \u2022 0192",
+    "rows": 905,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 31,
+    "bank": "ICICI \u2022 0192",
+    "rows": 631,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 32,
+    "bank": "Indian \u2022 1131",
+    "rows": 18,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 33,
+    "bank": "Indian \u2022 1131",
+    "rows": 22,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 34,
+    "bank": "Indian \u2022 1131",
+    "rows": 19,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 35,
+    "bank": "Indian \u2022 1131",
+    "rows": 2,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 36,
+    "bank": "Indian \u2022 1131",
+    "rows": 24,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 37,
+    "bank": "Indian \u2022 1131",
+    "rows": 23,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 38,
+    "bank": "Indian \u2022 1131",
+    "rows": 81,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 39,
+    "bank": "Indian \u2022 1131",
+    "rows": 37,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 40,
+    "bank": "Indian \u2022 1131",
+    "rows": 32,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 41,
+    "bank": "Indian \u2022 1131",
+    "rows": 24,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 42,
+    "bank": "Indian \u2022 1131",
+    "rows": 11,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 43,
+    "bank": "Indian \u2022 1131",
+    "rows": 57,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 44,
+    "bank": "Indian \u2022 1131",
+    "rows": 23,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 45,
+    "bank": "Indian \u2022 1131",
+    "rows": 73,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 46,
+    "bank": "Kotak \u2022 5487",
+    "rows": 48,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 47,
+    "bank": "Kotak \u2022 5487",
+    "rows": 22,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 48,
+    "bank": "Kotak \u2022 5487",
+    "rows": 1590,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 49,
+    "bank": "Kotak \u2022 5487",
+    "rows": 154,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 50,
+    "bank": "Kotak \u2022 5487",
+    "rows": 9,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 51,
+    "bank": "Kotak \u2022 5487",
+    "rows": 22,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 52,
+    "bank": "Kotak \u2022 5487",
+    "rows": 14,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 53,
+    "bank": "Union \u2022 0084",
+    "rows": 8,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 54,
+    "bank": "Union \u2022 0084",
+    "rows": 6,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 55,
+    "bank": "Union \u2022 0084",
+    "rows": 8,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 56,
+    "bank": "Union \u2022 0084",
+    "rows": 21,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 57,
+    "bank": "Union \u2022 0084",
+    "rows": 13,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 58,
+    "bank": "Union \u2022 0084",
+    "rows": 11,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 59,
+    "bank": "Union \u2022 0084",
+    "rows": 293,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 60,
+    "bank": "Union \u2022 0084",
+    "rows": 13,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 61,
+    "bank": "Union \u2022 0084",
+    "rows": 18,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 62,
+    "bank": "Union \u2022 0084",
+    "rows": 17,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 63,
+    "bank": "Union \u2022 0084",
+    "rows": 501,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 64,
+    "bank": "Union \u2022 0084",
+    "rows": 520,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 65,
+    "bank": "Union \u2022 0084",
+    "rows": 306,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 66,
+    "bank": "Union \u2022 0084",
+    "rows": 325,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 67,
+    "bank": "Union \u2022 0102",
+    "rows": 1515,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 68,
+    "bank": "Union \u2022 0102",
+    "rows": 992,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 69,
+    "bank": "Union \u2022 0102",
+    "rows": 1495,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 70,
+    "bank": "Union \u2022 0102",
+    "rows": 1310,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 71,
+    "bank": "Union \u2022 0102",
+    "rows": 1258,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 72,
+    "bank": "Union \u2022 0102",
+    "rows": 1492,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 73,
+    "bank": "Union \u2022 0102",
+    "rows": 1307,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 74,
+    "bank": "Union \u2022 0102",
+    "rows": 1032,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 75,
+    "bank": "Union \u2022 0102",
+    "rows": 1143,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 76,
+    "bank": "Union \u2022 0102",
+    "rows": 138,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 77,
+    "bank": "Union \u2022 0102",
+    "rows": 61,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 78,
+    "bank": "Union \u2022 0102",
+    "rows": 22,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 79,
+    "bank": "Union \u2022 0102",
+    "rows": 93,
+    "balance_errors": [],
+    "parse_failures": 0
+  },
+  {
+    "source": 80,
+    "bank": "Union \u2022 0102",
+    "rows": 20,
+    "balance_errors": [],
+    "parse_failures": 0
+  }
+]

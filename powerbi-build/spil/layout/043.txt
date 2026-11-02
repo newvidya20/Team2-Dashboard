@@ -1,0 +1,571 @@
+
+--- PAGE 1 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                                                                                                                                              INDIAN BANK
+                                                                                                                                         Branch Code :03281
+                                                                                                                             Account Number : 8026481131
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301  3rd Floor  Senate Aura Biplex
+Above Kalyan Jewellers
+S.V. Road  Borivali West
+Mumbai 400092
+
+                Value     Post      Credit Amount           Debit Amount          Closing Balance                    Description
+                 Date     Date
+                05/06/  05/06/   94400                                          -299027517.94           CHEQUE DEPOSIT
+                 2026   2026                                                                             CLEARING-05/06/2026 UNION
+
+                                                                                                        BANK OF INDIA (UBI)
+                                                                                                         CHQ DEP 549845 400026007 0691
+                05/06/  05/06/   872224.2                                       -298155293.74           CHEQUE DEPOSIT
+                 2026   2026                                                                             CLEARING-05/06/2026 002
+
+                                                                                                         CHQ DEP 981613 380002068 0691
+                08/06/  08/06/   208155293                                      -90000000.74            NO BOOK DEPOSIT TRANSFER
+                 2026   2026
+
+                                                                                                        RTGS/ICIC/ICICR420260608005730
+                                                                                                        38/SUDARSHA/
+                09/06/  09/06/   194700                                         -89805300.74            CHEQUE DEPOSIT
+                 2026   2026                                                                             CLEARING-09/06/2026 UNION
+
+                                                                                                        BANK OF INDIA (UBI)
+                                                                                                         CHQ DEP 040589 500026012 0010
+                09/06/  09/06/   872224.2                                       -88933076.54            CHEQUE DEPOSIT
+                 2026   2026                                                                             CLEARING-09/06/2026 002
+
+                                                                                                         CHQ DEP 981614 380002068 6505
+                10/06/  10/06/                           2306071.21             -91239147.75            WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                        NEFT/SCBL/IDIBN52026061045775
+                                                                                                        818/Shakti d/PAYMENT
+                                                                                                         Txn Amt.      2306042.00 Charges.
+                                                                                                        29.21
+                10/06/  10/06/                           472629.21              -91711776.96            WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                        NEFT/KKBK/IDIBN52026061045775
+                                                                                                        820/SURVIVAL/PAYMENT
+                                                                                                         Txn Amt.       472600.00 Charges.
+                                                                                                        29.21
+                10/06/  10/06/                           2503536.21             -94215313.17            WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                        NEFT/ICIC/IDIBN520260610457758
+                                                                                                        22/SHREEJI /PAYMENT
+                                                                                                         Txn Amt.      2503507.00 Charges.
+                                                                                                        29.21
+                10/06/  10/06/                           4025402.21             -98240715.38            WITHDRAWAL TRANSFER
+                 2026   2026
+
+                                                                                                        NEFT/NNSB/IDIBN52026061045775
+                                                                                                        823/TRADEX C/PAYMENT
+                                                                                                         Txn Amt.      4025373.00 Charges.
+                                                                                                        29.21
+
+
+
+
+
+
+
+                                                                            Page No:1
+
+--- PAGE 2 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                 Value    Post      Credit Amount            Debit Amount          Closing Balance                    Description
+                 Date     Date
+                 10/06/  10/06/                          7937318.21              -106178033.59           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/ICIC/IDIBN520260610457758
+                                                                                                         24/COGNIZAN/PAYMENT
+                                                                                                          Txn Amt.      7937289.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          537755.21               -106715788.8            WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061045775
+                                                                                                         825/TASC CHE/PAYMENT
+                                                                                                          Txn Amt.       537726.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          984739.21               -107700528.01           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061045775
+                                                                                                         827/MODY CHE/PAYMENT
+                                                                                                          Txn Amt.       984710.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          166409.21               -107866937.22           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/UBIN/IDIBN520260610457758
+                                                                                                         28/V N PHAR/PAYMENT
+                                                                                                          Txn Amt.       166380.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          112719.21               -107979656.43           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061045775
+                                                                                                         829/Nikeon C/PAYMENT
+                                                                                                          Txn Amt.       112690.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          3332588.21              -111312244.64           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/SBIN/IDIBN520260610457758
+                                                                                                         30/RPD SUST/PAYMENT
+                                                                                                          Txn Amt.      3332559.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          174640.21               -111486884.85           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/UBIN/IDIBN520260610457758
+                                                                                                         31/MEMBA CH/PAYMENT
+                                                                                                          Txn Amt.       174611.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          855529.21               -112342414.06           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061045775
+                                                                                                         832/P R Phar/PAYMENT
+                                                                                                          Txn Amt.       855500.00 Charges.
+                                                                                                         29.21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                             Page No:2
+
+--- PAGE 3 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                 Value    Post      Credit Amount            Debit Amount           Closing Balance                    Description
+                 Date     Date
+                 10/06/  10/06/                           499102.21               -112841516.27           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/HDFC/IDIBN52026061045775
+                                                                                                          834/Manisha /PAYMENT
+                                                                                                           Txn Amt.       499073.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           95514.61                -112937030.88           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/ICIC/IDIBN520260610457758
+                                                                                                          35/DAXSH CH/PAYMENT
+                                                                                                           Txn Amt.         95509.00 Charges.
+                                                                                                          5.61
+                 10/06/  10/06/                           351008.21               -113288039.09           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/UTIB/IDIBN520260610457758
+                                                                                                          37/AKKSHAT /PAYMENT
+                                                                                                           Txn Amt.       350979.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           98417.61                -113386456.7            WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/KKBK/IDIBN52026061045775
+                                                                                                          840/SIDDHA I/PAYMENT
+                                                                                                           Txn Amt.         98412.00 Charges.
+                                                                                                          5.61
+                 10/06/  10/06/                           300029.21               -113686485.91           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/BKID/IDIBN520260610457758
+                                                                                                          42/Granock /PAYMENT
+                                                                                                           Txn Amt.       300000.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           567255.21               -114253741.12           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/UTIB/IDIBN520260610457758
+                                                                                                          45/Paresh C/PAYMENT
+                                                                                                           Txn Amt.       567226.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           1264375.21              -115518116.33           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/HDFC/IDIBN52026061045775
+                                                                                                          846/Vividh c/PAYMENT
+                                                                                                           Txn Amt.      1264346.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           1911629.21              -117429745.54           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/KKBK/IDIBN52026061045775
+                                                                                                          848/RELIANCE/PAYMENT
+                                                                                                           Txn Amt.      1911600.00 Charges.
+                                                                                                          29.21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                             Page No:3
+
+--- PAGE 4 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                 Value    Post      Credit Amount            Debit Amount          Closing Balance                     Description
+                 Date     Date
+                 10/06/  10/06/                           2832029.21              -120261774.75           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/ICIC/IDIBN520260610457758
+                                                                                                          49/SHIV CHE/PAYMENT
+                                                                                                           Txn Amt.      2832000.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           1144629.21              -121406403.96           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/ICIC/IDIBN520260610457758
+                                                                                                          50/SHIV CHE/PAYMENT
+                                                                                                           Txn Amt.      1144600.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           476804.21               -121883208.17           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/KKBK/IDIBN52026061045775
+                                                                                                          852/MLA INDU/PAYMENT
+                                                                                                           Txn Amt.       476775.00 Charges.
+                                                                                                          29.21
+                 10/06/  10/06/                           11805.61                -121895013.78           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/SBIN/IDIBN520260610457758
+                                                                                                          53/DALMIA L/PAYMENT
+                                                                                                           Txn Amt.         11800.00 Charges.
+                                                                                                          5.61
+                 10/06/  10/06/                           42780.61                -121937794.39           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/ICIC/IDIBN520260610457758
+                                                                                                          54/PROTO CH/PAYMENT
+                                                                                                           Txn Amt.         42775.00 Charges.
+                                                                                                          5.61
+                 10/06/  10/06/                           45435.61                -121983230              WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/IOBA/IDIBN520260610457758
+                                                                                                          55/HY-GRO C/PAYMENT
+                                                                                                           Txn Amt.         45430.00 Charges.
+                                                                                                          5.61
+                 10/06/  10/06/                           12659.61                -121995889.61           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/NKGS/IDIBN52026061045775
+                                                                                                          856/ARCK ENT/PAYMENT
+                                                                                                           Txn Amt.         12654.00 Charges.
+                                                                                                          5.61
+                 10/06/  10/06/                           167365.41               -122163255.02           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                          NEFT/INDB/IDIBN520260610457758
+                                                                                                          57/MAGNUM C/PAYMENT
+                                                                                                           Txn Amt.       167348.00 Charges.
+                                                                                                          17.41
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                             Page No:4
+
+--- PAGE 5 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                 Value    Post      Credit Amount           Debit Amount           Closing Balance                    Description
+                 Date     Date
+                 10/06/  10/06/                          8839417.21              -131002672.23           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/ICIC/IDIBN520260610457758
+                                                                                                         59/Aditya B/PAYMENT
+                                                                                                          Txn Amt.      8839388.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/                          2288989.21              -133291661.44           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/ICIC/IDIBN520260610457758
+                                                                                                         60/Aditya B/PAYMENT
+                                                                                                          Txn Amt.      2288960.00 Charges.
+                                                                                                         29.21
+                 10/06/  10/06/  2503507                                         -130788154.44           NO BOOK DEPOSIT TRANSFER
+                 2026    2026                                                                             IDIBN52026061045775822
+
+                                                                                                         SHREEJI CH INCORRECT AC
+                 11/06/  11/06/                          50000029.21             -180788183.65           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/KKBK/IDIBN52026061145854
+                                                                                                         026/SUDARSHA/PAYMENT
+                                                                                                          Txn Amt.    50000000.00 Charges.
+                                                                                                         29.21
+                 11/06/  11/06/                          50000029.21             -230788212.86           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/ICIC/IDIBN520260611458540
+                                                                                                         28/SUDARSHA/PAYMENT
+                                                                                                          Txn Amt.    50000000.00 Charges.
+                                                                                                         29.21
+                 11/06/  11/06/                          84155.61                -230872368.47           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061145854
+                                                                                                         941/Amit Roa/PAYMENT
+                                                                                                          Txn Amt.         84150.00 Charges.
+                                                                                                         5.61
+                 11/06/  11/06/                          113591.41               -230985959.88           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061145854
+                                                                                                         944/Bhanusha/PAYMENT
+                                                                                                          Txn Amt.       113574.00 Charges.
+                                                                                                         17.41
+                 11/06/  11/06/                          156575.41               -231142535.29           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/BARB/IDIBN52026061145854
+                                                                                                         945/Jehlum R/PAYMENT
+                                                                                                          Txn Amt.       156558.00 Charges.
+                                                                                                         17.41
+                 11/06/  11/06/                          103967.41               -231246502.7            WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/PJSB/IDIBN52026061145854
+                                                                                                         946/Manish R/PAYMENT
+                                                                                                          Txn Amt.       103950.00 Charges.
+                                                                                                         17.41
+
+
+
+
+
+
+
+
+                                                                            Page No:5
+
+--- PAGE 6 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                 Value    Post      Credit Amount           Debit Amount           Closing Balance                    Description
+                 Date     Date
+                 11/06/  11/06/                          217829.21               -231464331.91           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/PUNB/IDIBN52026061145854
+                                                                                                         947/North Ro/PAYMENT
+                                                                                                          Txn Amt.       217800.00 Charges.
+                                                                                                         29.21
+                 11/06/  11/06/                          44205.61                -231508537.52           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/BARB/IDIBN52026061145854
+                                                                                                         949/Om Shiva/PAYMENT
+                                                                                                          Txn Amt.         44200.00 Charges.
+                                                                                                         5.61
+                 11/06/  11/06/                          232067.21               -231740604.73           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/CNRB/IDIBN52026061145854
+                                                                                                         951/Uni Good/PAYMENT
+                                                                                                          Txn Amt.       232038.00 Charges.
+                                                                                                         29.21
+                 11/06/  11/06/                          20105.61                -231760710.34           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061145854
+                                                                                                         953/SHRI SHY/PAYMENT
+                                                                                                          Txn Amt.         20100.00 Charges.
+                                                                                                         5.61
+                 11/06/  11/06/                          1703796.41              -233464506.75           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061145854
+                                                                                                         954/NEW LINE/PAYMENT
+                                                                                                          Txn Amt.      1703779.00 Charges.
+                                                                                                         17.41
+                 11/06/  11/06/                          1409252.41              -234873759.16           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/KKBK/IDIBN52026061145854
+                                                                                                         955/SURABHI /PAYMENT
+                                                                                                          Txn Amt.      1409235.00 Charges.
+                                                                                                         17.41
+                 11/06/  11/06/                          73521.61                -234947280.77           WITHDRAWAL TRANSFER
+                 2026    2026
+
+                                                                                                         NEFT/HDFC/IDIBN52026061145854
+                                                                                                         957/Shree Da/PAYMENT
+                                                                                                          Txn Amt.         73516.00 Charges.
+                                                                                                         5.61
+                 12/06/  12/06/                          50000058                -284947338.77           CAS REMITTANCE THROUGH
+                 2026    2026                                                                            CHEQUE
+
+
+                                                                                                         RTGS/ICIC/IDIBR520260612027606
+                                                                                                         50/SUDARSHA/LC Payme
+                                                                                                          Txn Amt.    50000000.00 Charges.
+                                                                                                         58.00
+                 12/06/  12/06/  1385883.29                                      -283561455.48           CHEQUE DEPOSIT
+                 2026    2026                                                                             CLEARING-12/06/2026 002
+
+                                                                                                          CHQ DEP 980920 380002068 0691
+
+
+
+
+
+
+                                                                             Page No:6
+
+--- PAGE 7 ---
+                                                                                   STATEMENT OF ACCOUNT from 01/06/2026 to 30/06/2026 for Account Number 8026481131.
+
+
+                 Value     Post      Credit Amount            Debit Amount           Closing Balance                     Description
+                  Date     Date
+                 17/06/  17/06/   23600                                            -283537855.48            CHEQUE DEPOSIT
+                  2026   2026                                                                                CLEARING-17/06/2026 240
+
+                                                                                                             CHQ DEP 863402 110240022 2546
+                 20/06/  20/06/   101371                                           -283436484.48            NO BOOK DEPOSIT TRANSFER
+                  2026   2026
+
+                                                                                                            NEFT/MAHB/MAHBN120260620563
+                                                                                                            11119/SUDARSHAN /
+                 21/06/  21/06/                            10000                   -283446484.48            WITHDRAWAL TRANSFER
+                  2026   2026                                                                               CHARGES
+
+                                                                                                             INSPECTION CHARGES-JUN2026
+                 21/06/  21/06/                            7700                    -283454184.48            WITHDRAWAL TRANSFER
+                  2026   2026                                                                               CHARGES
+
+                                                                                                             INSPECTION CHARGES-JUN2026
+                 30/06/  30/06/                            2461552                 -285915736.48            DR INT TRANSACTION
+                  2026   2026
+                 30/06/  30/06/                            217469                  -286133205.48            OD PNLTY INT TXN
+                  2026   2026
+
+Statement Downloaded by :SUDARSHAN PHARMA INDUSTRIES LIMITED on Wed Jul 08 17:04:17  IST 2026
+
+Unless a constituent notifies the Bank immediately of any discrepancy found by him/her in this statement of a/c, it will be taken that he has found the a/c
+correct.
+
+END OF STATEMENT - from Internet Banking.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              Page No:7

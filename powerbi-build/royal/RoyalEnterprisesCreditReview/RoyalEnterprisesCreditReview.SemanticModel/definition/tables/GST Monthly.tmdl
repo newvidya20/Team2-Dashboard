@@ -1,0 +1,124 @@
+/// GSTR-3B section 3.1 values. Zero-rated supplies are not independently verified export turnover. ARN date used as filing evidence; no statutory due date assumed.
+table 'GST Monthly'
+	lineageTag: 1213d00d-acc1-4569-bf8a-7737bcb1e5b7
+
+	/// GST Sales Cr
+	measure 'GST Sales Cr' = DIVIDE(SUM('GST Monthly'[Total Outward Supplies]),10000000)
+		formatString: #,0.00
+		lineageTag: f433f2fe-df03-41c7-b493-f151697bf6e3
+
+	/// Taxable Sales Cr
+	measure 'Taxable Sales Cr' = DIVIDE(SUM('GST Monthly'[Taxable Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: 6c1de6be-974d-4405-af0c-4c26b6ec98e8
+
+	/// Exempt Sales Cr
+	measure 'Exempt Sales Cr' = DIVIDE(SUM('GST Monthly'[Exempt Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: eee0bdad-9df9-4635-aee4-4f1ab7964bf3
+
+	/// Zero Rated Cr
+	measure 'Zero Rated Cr' = DIVIDE(SUM('GST Monthly'[Zero Rated Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: 72e8f253-66b1-455e-894a-22e7e452730e
+
+	/// GST Late Fee
+	measure 'GST Late Fee' = SUM('GST Monthly'[Late Fee])
+		formatString: ₹ #,0.00
+		lineageTag: 2d5ac177-d871-43b6-95bf-8a973328e349
+
+	/// GST Filings
+	measure 'GST Filings' = COUNTROWS('GST Monthly')
+		formatString: 0
+		lineageTag: f7751fb9-9cf5-41cb-877e-70d9b1fa715c
+
+	/// Zero Rated Share
+	measure 'Zero Rated Share' = DIVIDE([Zero Rated Cr],[GST Sales Cr])
+		formatString: 0.00%
+		lineageTag: 2f58c4b5-aa9f-4197-8e90-1c6a1ae13053
+
+	column Month
+		dataType: string
+		lineageTag: 778421ce-f534-4b7d-9f29-4c4eabf2f0bf
+		summarizeBy: none
+		sourceColumn: Month
+
+	column 'Taxable Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 6a8424c3-eac8-4425-b2e3-1981d608a77b
+		summarizeBy: none
+		sourceColumn: Taxable Sales
+
+	column 'Exempt Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 202d4eec-cfa0-4bef-9d62-975ace049a95
+		summarizeBy: none
+		sourceColumn: Exempt Sales
+
+	column 'Zero Rated Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 4bd966db-578b-42c4-8876-dad3085e8314
+		summarizeBy: none
+		sourceColumn: Zero Rated Sales
+
+	column 'Non GST Sales'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 5638d104-080e-4d6c-a7bd-41e94b341001
+		summarizeBy: none
+		sourceColumn: Non GST Sales
+
+	column 'Total Outward Supplies'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: cd7e0ef7-a54e-4b04-ba16-ab083c84ce93
+		summarizeBy: none
+		sourceColumn: Total Outward Supplies
+
+	column 'Output Tax'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: d809ce42-8e19-44a0-a3e1-fb26f8785d42
+		summarizeBy: none
+		sourceColumn: Output Tax
+
+	column 'Net ITC'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: b55e7395-d0bd-47a4-9e6c-a72411645be5
+		summarizeBy: none
+		sourceColumn: Net ITC
+
+	column 'Late Fee'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 41bc87f1-ceba-4b8b-8cda-e87e8a54d2b6
+		summarizeBy: none
+		sourceColumn: Late Fee
+
+	column 'Interest Paid'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: e937bfc8-d97c-44d5-9e5d-931ccf22f2e7
+		summarizeBy: none
+		sourceColumn: Interest Paid
+
+	column 'Filed On'
+		dataType: string
+		lineageTag: ddc9e0a4-9847-44f1-ac01-f7c0586f4a51
+		summarizeBy: none
+		sourceColumn: Filed On
+
+	column Source
+		dataType: string
+		lineageTag: 7b44df1e-f99d-4122-a466-27a48babc92f
+		summarizeBy: none
+		sourceColumn: Source
+
+	partition 'GST Monthly' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/32VvW7bQBCEX4VQTR529n9bB0iCVEaSKobhJkjt96+CEyUnvqOpTqMl5yN3bvT0dGFi3wiXdaFG6yLGGVXB/ctV+UAuUkgz0O2Ddbn/dLsnb5yXdbl8+fHzuzy8cDx8/vb4SYziK349vhD6WHv9/efyvC53EL6DcEmWlf9j+EAWTYvmPPnLxnTmz0f+clkXYTYEN/V1ESeLMB4wxCWJvfYh1kRyK6yLC1k0zDS2UZzRyERjG+llXZTY6HonKMGVxd6zQMncY5eD1XaVixv7ew7rHPAzDu1jI4fdt4Jwd1LLAWGSQckNOdn7Bj2ztyP7DnzzIQhHjG9gkmHeYlhC38AGO3P3I/e+tj17HMwpFUMkJ1kUnK0m+9xweiLiyL5fsfu4abIBg/0kw0nacB5to9pQZ+555N6v2G3UlQpj+GaZNYKbxOgP2vh09XXgj36Cb49Z2TM9JG+WxZWj5RQ94Pz5QUf+b8XIUgqFj8ufZKSTasv5BfAmOAPAEUAvRC1LWAvp/UcGyykEBQKc/TqkmYhWui5JPQupUx1h47M6Ak8svteRMRe8OdaFiStdcowEiVEJ4TokKYwWvUqjkhvx/R+DdqqijOb+pvJ/lXle4L2qpgLv59uqSPb6QQKSEkN/IxESSvuQpCKb+LpYuoY1GdLjvbjOYXpx3WCe/wIOIau6VwcAAA==",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Month","Taxable Sales","Exempt Sales","Zero Rated Sales","Non GST Sales","Total Outward Supplies","Output Tax","Net ITC","Late Fee","Interest Paid","Filed On","Source"}), X=Table.TransformColumnTypes(T,{{"Month", type text},{"Taxable Sales", type number},{"Exempt Sales", type number},{"Zero Rated Sales", type number},{"Non GST Sales", type number},{"Total Outward Supplies", type number},{"Output Tax", type number},{"Net ITC", type number},{"Late Fee", type number},{"Interest Paid", type number},{"Filed On", type text},{"Source", type text}}) in X
+

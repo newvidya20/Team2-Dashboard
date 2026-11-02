@@ -1,0 +1,73 @@
+
+--- PAGE 1 ---
+                                                             Statement of Account
+    SUDARSHAN PHARMA INDUSTRIES LIMITED                                                                               Union Bank of India
+    C/O SUDARSHAN PHARMA INDUSTRIA P L
+    301 3RD FL AURA BIPLEX ABOVE KALYAN JEWELLER                                                                      Branch                LOKHANDWALACOMPLEX
+
+    S V ROAD BORIVALI  WEST                                                                                           Customer Id           263166590
+    City                    MUMBAI                                                                                    Account No            696701010050084
+    State                   MAHARASHTRA                                                                               Account Currency      INR
+    Country                 INDIA                                                                                     Account Type          Current Account
+    Zip                     400092                                                                                    MICR Code             400026176
+    Mobile No               919819267453                                                                              IFSC Code             UBIN0569674
+    E-mail                  sudarshanspeciality@gmail.com                                                             CKYC Number           70082478095339
+    Statement Date : 03/01/2026 10:37                                                                    Statement Period From -01/12/2025  To 31/12/2025
+    Records from 1 to 11.               No more records available.
+
+  Date              Remarks              Tran Id-1       UTR Number              Instr. ID         Withdrawals             Deposits               Balance
+31-12-2025    eTXN/By:6967050100         Y39136587      -                                                                      7,00,000.00           9,34,771.61
+11:10:01      00102
+
+27-12-2025    Sms Charges For Dec        V45037832      -                                                       12.69                                2,34,771.61
+07:34:44      Qtr ,2025
+
+20-12-2025    NACH/10/3682007467         Y4389054       -                                                1,49,584.00                                 2,34,784.30
+10:09:29      /HDFC BANK L
+
+15-12-2025    NACH/10/3657390583         U82338439      -                                                  55,814.00                                 3,84,368.30
+12:59:16      /HDFC BANK L
+
+15-12-2025    MAND DR- TCP2589-          U75198887      -                                                  63,467.00                                 4,40,182.30
+11:07:05
+
+10-12-2025    NEFT:CHOLAMANDA            Y90555557      Sender                                                                   58,757.00           5,03,649.30
+20:33:50      LAM INVEST AND                            No:HDFCH00668
+              FINANC1470                                685470
+              HDFCH0066
+
+10-12-2025    MAND DR- TCP2589-          Y46370782      -                                                1,52,232.00                                 4,44,892.30
+10:59:29
+
+06-12-2025    eTXN/By:6967050100         W13300880      -                                                                      2,00,000.00           5,97,124.30
+19:22:50      00102
+
+06-12-2025    MMSD-Charges for           V96211945      -                                                     177.00                                 3,97,124.30
+15:59:21      NACH Mandate
+              Processing
+05-12-2025    NACH/10/3606250042         V29091596      -                                                6,80,326.00                                 3,97,301.30
+18:11:49      /CHOLAMANDAL
+
+02-12-2025    eTXN/By:6967050100         T41044247      -                                                                     10,00,000.00         10,77,627.30
+19:54:04      00102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                Page No1
+    For any queries, please get in touch with us on our 24 x 7 customer service help line no.1800 2222 44 #. Customers outside India need to dial +91 80 2530 2510.
+       This is a system generated output and requires no signature. Customers are requested to immediately notify the Bank of any discrepancy in the statement
+                                 TO AVAIL OUR LOAN PRODUCTS GIVE MISSED CALL AT 9619333333 OR SMS <ULOAN> TO 56161

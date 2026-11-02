@@ -1,0 +1,14 @@
+/// Disconnected year selector: KPIs use selected year, while trend charts retain all three financial years.
+table 'Review Year'
+	lineageTag: 19ee8e0d-1758-41d7-8136-c677304b4f8c
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 80af19aa-64b4-4891-a43c-f5adacd43e62
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	partition 'Review Year' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/4uOVjIyMDLUNTIwMlKK1VEAc41AXGM41xjENVGKjQUAflOFPy0AAAA=",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Financial Year"}), X=Table.TransformColumnTypes(T,{{"Financial Year", type text}}) in X
+

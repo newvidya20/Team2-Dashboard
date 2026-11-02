@@ -1,0 +1,57 @@
+/// Month-grain calendar; India April-March financial years. Common Period identifies shared GST/bank April-September 2024 coverage.
+table Calendar
+	lineageTag: c6c8ff93-fc08-4834-acdc-9e2ba0481ef1
+
+	column Month
+		dataType: dateTime
+		formatString: MMM yyyy
+		lineageTag: a664994e-872d-48a7-8940-128a839703d7
+		summarizeBy: none
+		sourceColumn: Month
+
+		variation Variation
+			isDefault
+			relationship: c00cada5-03b6-4bfe-80dc-87de5db8573c
+			defaultHierarchy: LocalDateTable_55b809d4-a4d1-4946-9f0b-70841a228a31.'Date Hierarchy'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Month Label'
+		dataType: string
+		lineageTag: 0481cb9b-99a8-4143-8aac-fbe293382ca0
+		summarizeBy: none
+		sourceColumn: Month Label
+		sortByColumn: 'Month Sort'
+
+	column 'Month Sort'
+		dataType: double
+		isHidden
+		lineageTag: b2776058-f095-4d1e-b4a1-72f170549cb9
+		summarizeBy: sum
+		sourceColumn: Month Sort
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 4d0b5cab-28f5-454e-bfc1-2eb97dd9ccd2
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	column 'Common Period'
+		dataType: string
+		lineageTag: 0870aeb1-d2a6-4ff9-903c-ecbc0a39125a
+		summarizeBy: none
+		sourceColumn: Common Period
+
+	partition Calendar = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/3XSu2oDMRCF4VcJqiXQdS9lIKQwxClSBePCMUuaYBsnDuTtg3d0YEZoGhfr74hl9e92JvoYnc/OB2PN4+X6cH9g7P3XZ0t/x2Ss2Z7N3sIX8i+HP+6L6gfym9uJ+0H1I/wX96Pqp/r+t0/uJ9XP5N+WC/ez5oMn/3r8YT541Qfy2/Mv90H1kfzTcuQ+9n1yvp6/OazfM60+eeX85Hw9/3n54F4/P+F+r9wn1ct+4Kmf5GJuvewHvqhe9gM/qF72Az+qXvYDP6le9gM/a77pp/raT8/LfuCD6mU/8LHvc9tPXn2u/fS87AdeP1/2A59UL/uBp36yi8VY8758s4EMCIOiD2RBGAz6QCaEwagPZEMYUEPdgYwIA4qoN2gqqoNaUR3wr9pUBE+33POyIni6Zeb3/7wUpY83BgAA", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Month","Month Label","Month Sort","Financial Year","Common Period"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Month", type nullable date},{"Month Label", type text},{"Month Sort", type nullable number},{"Financial Year", type text},{"Common Period", type text}}, "en-US")
+				in Typed
+

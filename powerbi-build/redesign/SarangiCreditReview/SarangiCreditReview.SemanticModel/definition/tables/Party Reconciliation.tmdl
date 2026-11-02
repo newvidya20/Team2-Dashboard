@@ -1,0 +1,130 @@
+/// Apr-Sep 2024 only. Exact normalized names (punctuation/spacing/case ignored). GST taxable amounts vs gross bank cash flows incl tax, loans and transfers; variance is NOT an outstanding debtor/creditor balance or proof of mismatch. No GSTIN exists in bank source. Unmatched entries retained.
+table 'Party Reconciliation'
+	lineageTag: 9cdd1e5d-368e-4d02-973f-899f5183a6bb
+
+	/// Apr-Sep2024 taxable GST values vs gross bank cash; variance is not an outstanding balance.
+	measure 'Common GST Sales' = SUM('Party Reconciliation'[GST Sales])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: 4325f68c-53fb-4a75-8c8c-efd10ac80ceb
+
+	/// Apr-Sep2024 taxable GST values vs gross bank cash; variance is not an outstanding balance.
+	measure 'Common GST Purchases' = SUM('Party Reconciliation'[GST Purchases])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: 1ec234c8-a4df-467b-81e7-91a1b77a1751
+
+	/// Apr-Sep2024 taxable GST values vs gross bank cash; variance is not an outstanding balance.
+	measure 'Common Bank Receipts' = SUM('Party Reconciliation'[Bank Receipts])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: 58561455-7ee5-4bed-aa89-8caa01d8e2a0
+
+	/// Apr-Sep2024 taxable GST values vs gross bank cash; variance is not an outstanding balance.
+	measure 'Common Bank Payments' = SUM('Party Reconciliation'[Bank Payments])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: ec7bd78d-90b4-430e-8f95-27e30efba4e3
+
+	/// Apr-Sep2024 taxable GST values vs gross bank cash; variance is not an outstanding balance.
+	measure 'Sales Cash Variance' = SUM('Party Reconciliation'[Sales Less Receipts])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: 07be3afd-d598-4b57-8bed-ad4aee9be263
+
+	/// Apr-Sep2024 taxable GST values vs gross bank cash; variance is not an outstanding balance.
+	measure 'Purchases Cash Variance' = SUM('Party Reconciliation'[Purchases Less Payments])
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: 66f0012c-f849-4ba8-8801-d4671f1b6509
+
+	/// Unmatched Bank Receipts
+	measure 'Unmatched Bank Receipts' = CALCULATE([Common Bank Receipts],FILTER('Party Reconciliation','Party Reconciliation'[Match Status]<>"Exact normalized name"))
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: 473de745-bf26-40a4-9033-0633492d0a11
+
+	/// Matched Name Receipts
+	measure 'Matched Name Receipts' = CALCULATE([Common Bank Receipts],'Party Reconciliation'[Match Status]="Exact normalized name")
+		formatString: #,0.00;(#,0.00);–
+		displayFolder: Reconciliation
+		lineageTag: d2f0f066-a697-443b-bccb-772a8c0c861e
+
+	/// Name Match Coverage
+	measure 'Name Match Coverage' = DIVIDE([Matched Name Receipts],[Common Bank Receipts])
+		formatString: 0.0%
+		displayFolder: Reconciliation
+		lineageTag: 978cfc69-51ca-4f27-ba4d-b31275f60853
+
+	column Month
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 5cf3cb06-ee8f-4209-a20c-ac1f15f858d4
+		summarizeBy: none
+		sourceColumn: Month
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Party
+		dataType: string
+		lineageTag: 4978a57e-af01-4dfe-b852-e83eff6dc33d
+		summarizeBy: none
+		sourceColumn: Party
+
+	column 'Party Key'
+		dataType: string
+		lineageTag: a139639d-a97c-4528-9be0-0ecae802be7b
+		summarizeBy: none
+		sourceColumn: Party Key
+
+	column 'Match Status'
+		dataType: string
+		lineageTag: e1a93ed0-fab1-4c3a-8048-44fd3778975b
+		summarizeBy: none
+		sourceColumn: Match Status
+
+	column 'GST Sales'
+		dataType: double
+		lineageTag: f550a147-d1ef-498e-b8b9-968d59d2ad8b
+		summarizeBy: sum
+		sourceColumn: GST Sales
+
+	column 'GST Purchases'
+		dataType: double
+		lineageTag: 41c0fd12-7593-4c2a-8b62-c4fad6078729
+		summarizeBy: sum
+		sourceColumn: GST Purchases
+
+	column 'Bank Receipts'
+		dataType: double
+		lineageTag: 76f47f8d-412f-432b-bff1-1e28ed31a311
+		summarizeBy: sum
+		sourceColumn: Bank Receipts
+
+	column 'Bank Payments'
+		dataType: double
+		lineageTag: acec38e2-a580-4ac7-b8f1-a9b1983b8e31
+		summarizeBy: sum
+		sourceColumn: Bank Payments
+
+	column 'Sales Less Receipts'
+		dataType: double
+		lineageTag: 34d22991-0f35-4ac6-8db0-96cf0a43b8e9
+		summarizeBy: sum
+		sourceColumn: Sales Less Receipts
+
+	column 'Purchases Less Payments'
+		dataType: double
+		lineageTag: 69282331-134d-42fd-8801-ccc76db7491a
+		summarizeBy: sum
+		sourceColumn: Purchases Less Payments
+
+	partition 'Party Reconciliation' = m
+		mode: import
+		source =
+				let
+				  Rows = Json.Document(Binary.Decompress(Binary.FromText("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", BinaryEncoding.Base64), Compression.GZip)),
+				  Data = Table.FromRows(Rows, {"Month","Party","Party Key","Match Status","GST Sales","GST Purchases","Bank Receipts","Bank Payments","Sales Less Receipts","Purchases Less Payments"}),
+				  Typed = Table.TransformColumnTypes(Data, {{"Month", type nullable date},{"Party", type text},{"Party Key", type text},{"Match Status", type text},{"GST Sales", type nullable number},{"GST Purchases", type nullable number},{"Bank Receipts", type nullable number},{"Bank Payments", type nullable number},{"Sales Less Receipts", type nullable number},{"Purchases Less Payments", type nullable number}}, "en-US")
+				in Typed
+

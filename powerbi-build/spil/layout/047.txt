@@ -1,0 +1,132 @@
+
+--- PAGE 1 ---
+                                                                    Account Statement
+
+SUDARSHAN PHARMA INDUSTRIES LIMITED
+301 3rd Flr Aura Biplex                                                                             Cust. Reln. No.               301079096
+Above Kalyan Jewellers                                                                              Account No.                   0148095487
+Sv Rd Borivali W MUMBAI CITY                                                                        Period                        From 01/03/2026 To 31/03/2026
+Mumbai                                                                                              Currency                      INR
+MAHARASHTRA                                                                                         Branch                        MUMBAI - BKC 27
+INDIA                                                                                               Nomination Regd               N
+400092                                                                                              Nominee Name
+
+
+
+
+
+
+ Sl. No.              Date                       Description                Chq / Ref number                   Amount               Dr / Cr            Balance             Dr / Cr
+1        31/03/2026                      MMCCHG_SUDHPHAR_MA                                                    118.00                DR            -218,570,620.83           DR
+                                         R2026
+2        30/03/2026                      GST_0151_SHORT                         301079096                     11,242.50              DR            -218,570,502.83           DR
+                                         PF_301079096_SUDARSHA
+                                         N PHARMA INDUS
+3        30/03/2026                      0151_SHORT                             301079096                     62,458.33              DR            -218,559,260.33           DR
+                                         PF_301079096_SUDARSHA
+                                         N PHARMA INDUSTRIE
+4        30/03/2026                      Recd:IMPS/608911001409/N          IMPS-608911505848                     1.00                CR            -218,496,802.00           DR
+                                         SDLPB
+                                         Ser/KKBK/X0000/BeneV
+
+5        28/03/2026                      RTGS-SUDARSHAN                   FCM-260328M02AYG                  3,470,000.00             DR            -218,496,803.00           DR
+                                         PHARMA IND-
+                                         KKBKR22026032821913282
+
+6        28/03/2026                      GST_0151_RENEWAL                       301079096                    134,910.00              DR            -215,026,803.00           DR
+                                         PF_301079096_SUDARSHA
+                                         N PHARMA IND
+7        28/03/2026                      0151_RENEWAL                           301079096                    749,500.00              DR            -214,891,893.00           DR
+                                         PF_301079096_SUDARSHA
+                                         N PHARMA INDUSTR
+8        27/03/2026                      UTIBR62026032766296651          RTGSINW-0103664328                  515,200.00              CR            -214,142,393.00           DR
+                                         CADCHEM LABORATORIES
+                                         LIMI
+9        27/03/2026                      DEUTH00608600397 BAYER          NEFTINW-1534502656                 3,788,127.00             CR            -214,657,593.00           DR
+                                         CROPSCIENCE LIMITED
+                                         SUDARSH
+10       26/03/2026                      UBINR22026032601522772          RTGSINW-0103561430                 1,500,000.00             CR            -218,445,720.00           DR
+                                         SUDARSHAN PHARMA
+                                         INDUSTRI
+11       20/03/2026                      BARBQ26079998133 VIMAL          NEFTINW-1528608091                   54,280.00              CR            -219,945,720.00           DR
+                                         IMPEX SUDARSHAN
+                                         PHARMA INDU
+12       15/03/2026                      Loan Recovery For -                                                 791,628.80              DR            -220,000,000.00           DR
+                                         1368TL0100000144
+13       15/03/2026                      Loan Recovery For -                                                 302,443.00              DR            -219,208,371.20           DR
+                                         1368TL0100000144
+14       13/03/2026                      HDFCH00866817800 TATA           NEFTINW-1521611031                  791,991.68              CR            -218,905,928.20           DR
+                                         CAPITAL LIMITED
+
+--- PAGE 2 ---
+ Sl. No.               Date                         Description                 Chq / Ref number                    Amount               Dr / Cr             Balance              Dr / Cr
+                                          701 SUDARSHA
+
+15       11/03/2026                       HDFCR52026031180191231            RTGSINW-0102629744                    302,080.00               CR            -219,697,919.88            DR
+                                          MEHTAPHARMACEUTICALI
+                                          NDUST
+
+16       11/03/2026                       IFT-SUDARSHAN PHARMA                FCM-260311LQ83G7                    995,056.00               DR            -219,999,999.88            DR
+                                          INDUSTRI-FCM-
+                                          260311LQ83G7
+17       10/03/2026                       YESBR12026031000031666            RTGSINW-0102557964                    963,446.00               CR            -219,004,943.88            DR
+                                          TOPNOTCH CHEMICALS P
+                                          SUDA
+18       02/03/2026                       IB:Sent NEFT                           000516521420                     400,000.00               DR            -219,968,389.88            DR
+                                          KKBKH26061871519/SUDAR
+                                          SHAN PHARMA I
+19       02/03/2026                       IB:Sent NEFT                           000516521300                     500,000.00               DR            -219,568,389.88            DR
+                                          KKBKH26061871298/SUDAR
+                                          SHAN PHARMA I
+20       02/03/2026                       HDFCH00836117506 SAMI              NEFTINW-1508880219                   729,544.00               CR            -219,068,389.88            DR
+                                          SABINSA GROUP LIMITED
+                                          SUDARS
+21       02/03/2026                       ICICR42026030200527365            RTGSINW-0102119373                   1,343,372.00              CR            -219,797,933.88            DR
+                                          SUDARSHAN PHARMA
+                                          INDUSTRI
+22       01/03/2026                       Int.Coll:0148095487:02-02-                                             1,343,254.00              DR            -221,141,305.88            DR
+                                          2026 to 01-03-2026
+
+
+
+
+
+
+
+Opening balance                           as on 01/03/2026   INR -219,798,051.88
+Closing balance                           as on 31/03/2026   INR -218,570,620.83
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  You may call our 24-hour Customer Contact Centre at our number 1860 266 2666
+                                   Write to us at Customer Contact Centre. Kotak Mahindra Bank Ltd. Post Box Number 16344, Mumbai 400 013

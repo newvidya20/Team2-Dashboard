@@ -1,0 +1,25 @@
+model SudarshanPharmaCreditReview
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-IN
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation __PBI_TimeIntelligenceEnabled = 0
+
+annotation ReviewSource = SUDARSHAN PHARMA INDUSTRIES LIMITED ZIP; supplied review checklist; standalone statements.
+
+annotation PBI_ProTooling = ["MCP-PBIModeling","DevMode"]
+
+ref table 'Bank Transactions'
+ref table 'GST Monthly'
+ref table Period
+ref table Reconciliation
+ref table Financials
+ref table 'Finance Year'
+ref table 'Financial Parameters'
+ref table 'Loan Schedule'
+ref table 'CC Snapshot'
+ref table 'Review Coverage'
+

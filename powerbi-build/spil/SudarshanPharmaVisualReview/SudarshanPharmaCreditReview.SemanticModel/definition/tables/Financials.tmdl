@@ -1,0 +1,292 @@
+/// Standalone figures only, INR base units. FY2024 previous GAAP vs FY2025/26 Ind AS must be read with basis notes. Total debt includes current/noncurrent borrowings plus lease liabilities. Borrowing balances include accrued interest where source does. TNW deducts intangibles. No projected CMA actuals mixed in.
+table Financials
+	lineageTag: 68265e65-af5d-435a-88ce-92ba4b33b26d
+
+	/// Finance Sales Cr
+	measure 'Finance Sales Cr' = DIVIDE(SUM('Financials'[Sales]),10000000)
+		formatString: #,0.00
+		lineageTag: 4a4d1845-13ba-430a-be1b-0a0d33aa7c82
+
+	/// Finance PAT Cr
+	measure 'Finance PAT Cr' = DIVIDE(SUM('Financials'[PAT]),10000000)
+		formatString: #,0.00
+		lineageTag: bed25ddf-9e6f-4c70-b5bf-0a4ddb4a49b1
+
+	/// Finance EBITDA Cr
+	measure 'Finance EBITDA Cr' = DIVIDE(SUM('Financials'[EBITDA]),10000000)
+		formatString: #,0.00
+		lineageTag: c42d7797-0d5c-4d81-b228-d73d30ee421b
+
+	/// Finance Equity Cr
+	measure 'Finance Equity Cr' = DIVIDE(SUM('Financials'[Equity]),10000000)
+		formatString: #,0.00
+		lineageTag: d084faf2-876f-4844-b0ca-51203db0b0b1
+
+	/// Finance Debt Cr
+	measure 'Finance Debt Cr' = DIVIDE(SUM('Financials'[Total Debt]),10000000)
+		formatString: #,0.00
+		lineageTag: 8c492843-a85a-4e9a-8246-e7f6cca7db00
+
+	/// Finance CFO Cr
+	measure 'Finance CFO Cr' = DIVIDE(SUM('Financials'[Operating Cash Flow]),10000000)
+		formatString: #,0.00
+		lineageTag: 36c867c5-54ea-467a-aa15-7e73d00a4136
+
+	/// Debt Equity
+	measure 'Debt Equity' = DIVIDE(SUM('Financials'[Total Debt]),SUM('Financials'[Equity]))
+		formatString: 0.00"x"
+		lineageTag: 031ded00-ad6c-47f4-81a8-ab04f93b60c1
+
+	/// Current Ratio
+	measure 'Current Ratio' = DIVIDE(SUM('Financials'[Current Assets]),SUM('Financials'[Current Liabilities]))
+		formatString: 0.00"x"
+		lineageTag: 0f88cac7-45ed-40b5-8b80-fd1b0a228d43
+
+	/// Interest Cover
+	measure 'Interest Cover' = DIVIDE(SUM('Financials'[EBIT]),SUM('Financials'[Interest]))
+		formatString: 0.00"x"
+		lineageTag: 2ba529bb-2ed0-4a16-b94b-61663a198730
+
+	/// PAT Margin
+	measure 'PAT Margin' = DIVIDE(SUM('Financials'[PAT]),SUM('Financials'[Sales]))
+		formatString: 0.00%
+		lineageTag: eaeb177f-02a6-4a38-8464-00d8fa062425
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 177dcad9-1e31-467a-a423-98be4bb91787
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	column 'Statement Status'
+		dataType: string
+		lineageTag: 2f32b9d8-7b71-4fec-bc6e-0b18d119f373
+		summarizeBy: none
+		sourceColumn: Statement Status
+
+	column Sales
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 4b52bc08-3898-4026-8e91-f4a82fc97961
+		summarizeBy: none
+		sourceColumn: Sales
+
+	column 'Other Income'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 8fc7152c-db12-41b5-95c6-ab64fd5f264a
+		summarizeBy: none
+		sourceColumn: Other Income
+
+	column PAT
+		dataType: double
+		formatString: #,0.00
+		lineageTag: d7ec29fe-9df5-4745-868c-e762b4a9b633
+		summarizeBy: none
+		sourceColumn: PAT
+
+	column Tax
+		dataType: double
+		formatString: #,0.00
+		lineageTag: a8a5c26b-933b-41e8-88d9-484a65039156
+		summarizeBy: none
+		sourceColumn: Tax
+
+	column Interest
+		dataType: double
+		formatString: #,0.00
+		lineageTag: ff5e2e50-b313-4be9-91d6-3e6264a00e5b
+		summarizeBy: none
+		sourceColumn: Interest
+
+	column Depreciation
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 677be4d5-ffc0-40ba-a7db-f2fa881cea83
+		summarizeBy: none
+		sourceColumn: Depreciation
+
+	column Equity
+		dataType: double
+		formatString: #,0.00
+		lineageTag: fb77e600-743a-42da-93a0-0f8ad768fea5
+		summarizeBy: none
+		sourceColumn: Equity
+
+	column 'Noncurrent Borrowings'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 19fe0aa0-d188-4359-a989-ddc3a4148080
+		summarizeBy: none
+		sourceColumn: Noncurrent Borrowings
+
+	column 'Current Borrowings'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 3635116f-dee7-4257-9b02-906b4159df8d
+		summarizeBy: none
+		sourceColumn: Current Borrowings
+
+	column 'Lease Liabilities'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0b85f1d5-3dca-4c95-94e7-099fe16de70d
+		summarizeBy: none
+		sourceColumn: Lease Liabilities
+
+	column 'Unsecured Debt'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 5ddd0b5f-8f45-472a-82b1-38c2c1f23542
+		summarizeBy: none
+		sourceColumn: Unsecured Debt
+
+	column 'Current Assets'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0c572a70-c367-4c86-9ff6-4aa51b48dac2
+		summarizeBy: none
+		sourceColumn: Current Assets
+
+	column 'Current Liabilities'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 88c93780-929b-4f83-ac37-1645f259c0fe
+		summarizeBy: none
+		sourceColumn: Current Liabilities
+
+	column Inventory
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 88054fe4-6c8f-4ce2-acc7-9acfb050c367
+		summarizeBy: none
+		sourceColumn: Inventory
+
+	column Debtors
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 51a7be6d-9162-401b-a00b-238dc48dd0fb
+		summarizeBy: none
+		sourceColumn: Debtors
+
+	column Creditors
+		dataType: double
+		formatString: #,0.00
+		lineageTag: c6d211d8-9164-46e7-8ac2-3053aeeef57a
+		summarizeBy: none
+		sourceColumn: Creditors
+
+	column Purchases
+		dataType: double
+		formatString: #,0.00
+		lineageTag: ffdd38c7-ed95-4ae2-87cc-1bd38cb68a13
+		summarizeBy: none
+		sourceColumn: Purchases
+
+	column 'Material Consumed'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0f78e33d-04e0-41eb-b58c-ad274cbcc960
+		summarizeBy: none
+		sourceColumn: Material Consumed
+
+	column 'Inventory Change'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 5234cd41-a20c-4f47-996f-1858b6e0a110
+		summarizeBy: none
+		sourceColumn: Inventory Change
+
+	column 'Intangible Assets'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0f6f433c-3ac3-4515-8fd4-c9d10ec34ca4
+		summarizeBy: none
+		sourceColumn: Intangible Assets
+
+	column 'Total Assets'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 3fd8fae8-6eda-441f-bb7c-4d2dabbe3dfa
+		summarizeBy: none
+		sourceColumn: Total Assets
+
+	column 'Retained Earnings'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 6fc4a302-c35b-4270-a708-62135952368f
+		summarizeBy: none
+		sourceColumn: Retained Earnings
+
+	column 'Operating Cash Flow'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: d124f110-3d8a-4f85-a737-a1748b914a9d
+		summarizeBy: none
+		sourceColumn: Operating Cash Flow
+
+	column Basis
+		dataType: string
+		lineageTag: c4f63529-5cc6-4655-ac57-3a804ebabe02
+		summarizeBy: none
+		sourceColumn: Basis
+
+	column Source
+		dataType: string
+		lineageTag: e4dcfc55-7df0-4fbf-922d-51e671684022
+		summarizeBy: none
+		sourceColumn: Source
+
+	column 'Total Income'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: c0679f4d-529c-4af6-8892-d09766387544
+		summarizeBy: none
+		sourceColumn: Total Income
+
+	column EBIT
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 81212935-e82a-434a-becf-cc8a9f274e04
+		summarizeBy: none
+		sourceColumn: EBIT
+
+	column EBITDA
+		dataType: double
+		formatString: #,0.00
+		lineageTag: c43d1ce5-b4b7-47e4-b82c-5741b2ac059f
+		summarizeBy: none
+		sourceColumn: EBITDA
+
+	column 'Total Debt'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 0041f4fe-0051-43bd-a025-508688fe4df4
+		summarizeBy: none
+		sourceColumn: Total Debt
+
+	column TNW
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 09e33a27-12d8-41ef-9b8f-33a26d5217f4
+		summarizeBy: none
+		sourceColumn: TNW
+
+	column 'Outside Liabilities'
+		dataType: double
+		formatString: #,0.00
+		lineageTag: 9a05e156-cc37-4799-b056-c33c32a882ba
+		summarizeBy: none
+		sourceColumn: Outside Liabilities
+
+	column COGS
+		dataType: double
+		formatString: #,0.00
+		lineageTag: d47eed5e-acfb-4280-a89f-175f39fd1bfd
+		summarizeBy: none
+		sourceColumn: COGS
+
+	partition Financials = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/41Uy27kNhD8FUFnyuh3s7EnYwMHOcVITsHCB2VGyQo71hiasYPc8i35tHxJIImc0XF54qPZXawq9pcvLQFxR9Km9vH9OF6HY5vEVI0YAB4gkSvKNkVk1bLNLpS3aQDlGkEUt2A0VCgLkECIiIcoI4Vx5NiOIRFBeCkokJWtXDQir1CysKnssiQkhgwl1gBEaJsLuWbWssgkZdp5dqnxN3iUJYuU51A4V2BhWcvN9nkePsbz+6X58fHx+VPz+ennZpwOp/fjcGkuX8/ztbsO82vz+3mez3+N05/N6/ljeB2m66VN7dNvBCQdadMvLDfPPzw1//3zb/P2ZtgZJ4d1uYU1h/PrWz/31/Fj+NR8jJf3/nT6uzl8HQ7fNn0yI9/oQrKCkZRVC3QEW19RxVin28KZKMprhUSZN81e0mqHBebdDiuuebhc+9UbCiRR4hNF5JIHBQgLseK58o1GWC1DDlijGRxy0QpBKBZ8DwUjLtc0qq5sxNtxQuGagslEqsKkOXyVc03uIFBpUAL3gjdnNNrbMEnOGlQLRayMLT5RZigAtmGJuSISYCIrAogC1modM/qyvzrml8Ja89N0bB5/3cvajNMmtnZkzTy8nedrtcm69cc49dNh7E87q1CSpAn9bhXd51zEUQkqtLIC1Z/L7sSVbje7/V1kYPfyLHJSzPXTcGyq3I2xANv3CTOXKPGbbllAqjcwcjWEWb5bdPlfOwk8sUA9RSUHLWIz8E0aUrCwG+gQ3DeTnByMKnARX+23LhBAvP5sMFOtNEQQ5V03yQnFEbXgN9XFDffzpTFUBJ2DcX1phHmprSHotZEtBqmlO3ItwpQhqS22uFz76difztPw3Q5ok7kG0Ga7jXvlsNqs1NmXaltzI8m3firkXPUWQbl1Q82ZmXZ8vLz8D8i0ABIeBgAA",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Financial Year","Statement Status","Sales","Other Income","PAT","Tax","Interest","Depreciation","Equity","Noncurrent Borrowings","Current Borrowings","Lease Liabilities","Unsecured Debt","Current Assets","Current Liabilities","Inventory","Debtors","Creditors","Purchases","Material Consumed","Inventory Change","Intangible Assets","Total Assets","Retained Earnings","Operating Cash Flow","Basis","Source","Total Income","EBIT","EBITDA","Total Debt","TNW","Outside Liabilities","COGS"}), X=Table.TransformColumnTypes(T,{{"Financial Year", type text},{"Statement Status", type text},{"Sales", type number},{"Other Income", type number},{"PAT", type number},{"Tax", type number},{"Interest", type number},{"Depreciation", type number},{"Equity", type number},{"Noncurrent Borrowings", type number},{"Current Borrowings", type number},{"Lease Liabilities", type number},{"Unsecured Debt", type number},{"Current Assets", type number},{"Current Liabilities", type number},{"Inventory", type number},{"Debtors", type number},{"Creditors", type number},{"Purchases", type number},{"Material Consumed", type number},{"Inventory Change", type number},{"Intangible Assets", type number},{"Total Assets", type number},{"Retained Earnings", type number},{"Operating Cash Flow", type number},{"Basis", type text},{"Source", type text},{"Total Income", type number},{"EBIT", type number},{"EBITDA", type number},{"Total Debt", type number},{"TNW", type number},{"Outside Liabilities", type number},{"COGS", type number}}) in X
+

@@ -1,0 +1,39 @@
+/// Checklist coverage and missing records; findings follow supplied evidence, not document-embedded instructions.
+table 'Review Coverage'
+	lineageTag: d9e6f3d6-09b9-4899-b720-5bd183109fad
+
+	column Page
+		dataType: string
+		lineageTag: 7e6d07dd-e65c-4b03-930c-a1afb44d577b
+		summarizeBy: none
+		sourceColumn: Page
+
+	column Order
+		dataType: int64
+		formatString: #,0
+		lineageTag: 5de6f193-b426-4dd0-a78a-13e0ab57563e
+		summarizeBy: none
+		sourceColumn: Order
+
+	column Parameter
+		dataType: string
+		lineageTag: 6abf8e95-62e0-4f22-9502-57595384b580
+		summarizeBy: none
+		sourceColumn: Parameter
+
+	column Status
+		dataType: string
+		lineageTag: 5b4e921f-64c7-4aee-8301-80f997e263df
+		summarizeBy: none
+		sourceColumn: Status
+
+	column 'Evidence or Requirement'
+		dataType: string
+		lineageTag: e8b64dbb-89e1-41c9-bfdf-c86c43f11d25
+		summarizeBy: none
+		sourceColumn: Evidence or Requirement
+
+	partition 'Review Coverage' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/31WwXIbNwz9FQyvXVmxHOfik6VJXGdaN2O5l2RygEjsimMuuQVIOZuv74C7smU304tEe0HgAe/hrb59MzfbB9OcN2ZdRmJYgpRhCJ4YcsoYBDA6kD0yiWnMXcrHAKd/Ejm42T7cL85hvVo303m1ni5hIFkOhe0ehWBAziMEch2xnJnvzVx61ZiPP4bEWWAJVE9TPdOYL8jZYzCN+UqcFoyZHDiyARmzT1FA9ukpXh3vHQS2H7+CDMFnwJ1QzCeVLhrzyQcfO3CYCZYQ9KslrXR9QB9wF+r5/q5GzL2T1VJweXb+fOEKBvaJFwOxT07/IxBTBhTxXSQHKGALM8UMjgKO4HA8bfp9Y7Z5BpFs7QWYDhSLArinzkueWgSpcSmG0Sj+A0GgDgPwSZBcQd57AZdmIN5RzL4dwRbJqSd+LiNncBsz8WLHGO3+yKaAxag3dwQUfO9jnXXLqYeL9Qnyy8bcxsy46DiVATJjFKwTkhfCAGMsGIAOCsRqT598xGj1WUw6WufFhiQETDpVt5j1kVC7udk+zILJhWM6VGW+juwx272S+R+ePzTm9+0dDJxcsarXvkce/1+9eiEr/wKJwWfqZ6lOedcYH33s6qLcxjakJ1VrKvl4XD/8ZVTImdHmmv06BGB8Ai4xKswdBoxWB70n+0juCrStgMOgT5lsYifA1KcDuTNNqJQ4X7VKP2woTsE9xQVam0rM0CM/EktTh/YSPMmWSScnb+CvKnvEUTma01QKW2Llb5Ni67knB7+dJKyStH7gZDHA3w/3YKc4ASk7oXz1CldEnrXrBYQGXVYKIwTcUQjzdhyTvwF40ZjNnv4puhkf/7zVz8322Ixy9px77l6nHjOPUGtLU+XvyJUheDtpGH2oqhl73Ufdsvx2Lu8n6Y6LJy8ESoHGyhtjeCkesSclK6OPSmVM0JafP8d58VSexB29LXPZmM0GSvbBS01kGnPxDj6XSLB6t/oAEnGQfcqmMVu7J1cCgW5jnkhNJUvWycXuCnYYH0F3qDqab1ti3bXZExvovdRH833JOEKJeOznDbQPjfmjyojJafgSLMoeljBQxJB9VcHmWZA2qNe1OuJ59e/p4OkJEvvOq7wkFba0HLAj2FGbmFQ1KmMFNRQekswg7kmf+ODnmZy/YkO94CC13YrUfKE6gdkg6sqbi/VRJBDQPr743s324fauDs/HQ/KWpLKlPtX66kdTmgOyn/cTgy3VaX6NbtWY665j6uocUt+rGFPM+xO5+KAasKkfkL1Unq8H9kFZvlx8LmGsfJ/BRk1ARzQROIGzAX0PqYW2hACToBaBDqSufwrm1wAv5iVfnL4i6hiPzj4pT+1wSCJ+F+jo9KZRD331VlDaVOcwvzGe/WKWIJMlP6hCmaa3IAT/SIs28UIP0w8B6AmlsDL+/V+662xCdggAAA==",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Page","Order","Parameter","Status","Evidence or Requirement"}), X=Table.TransformColumnTypes(T,{{"Page", type text},{"Order", Int64.Type},{"Parameter", type text},{"Status", type text},{"Evidence or Requirement", type text}}) in X
+

@@ -1,0 +1,808 @@
+
+
+ms-pbi.pbi.microsoft.com/minerva/dataExploreView.html
+
+ms-pbi.pbi.microsoft.com/minerva/dataExploreView.html - Web content
+
+
+
+
+
+
+
+SudarshanPharmaCreditReview
+
+
+
+
+Save
+Undo
+Redo
+SudarshanPharmaCreditReview Last saved: Today at 5:19 PM
+SudarshanPharmaCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Data
+Get data
+Get data
+
+Excel workbook
+OneLake ​​catalog
+OneLake ​​catalog
+
+SQL Server
+Enter data
+Dataverse
+Recent sources
+Manage and connect to recent sources.
+Queries
+Transform data
+Transform data
+
+Refresh
+Refresh
+
+Relationships
+Manage relationships
+Calculations
+New measure
+Quick measure
+New column
+New table
+Security
+Manage roles
+View as
+Sensitivity
+Sensitivity
+Sensitivity
+Apply a label to classify the sensitivity of your report and protect its content.
+Share
+Publish
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+Formula bar
+
+Expand to full page
+
+Cancel
+
+Commit
+
+
+
+Data
+Data
+
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table CC Snapshot
+CC Snapshot
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Finance Year
+Finance Year
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financial Parameters
+Financial Parameters
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financials
+Financials
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table GST Monthly
+GST Monthly
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Loan Schedule
+Loan Schedule
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Period
+Period
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Reconciliation
+Reconciliation
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Review Coverage
+Review Coverage
+
+This field or table is visible in report view. Select to hide it.
+More options
+
+
+Some of the tables have incomplete or no data.
+
+
+
+
+
+
+
+10 results
+
+
+
+
+
+
+ms-pbi.pbi.microsoft.com/minerva/modelView.html
+
+ms-pbi.pbi.microsoft.com/minerva/modelView.html - Web content
+
+
+
+
+
+
+
+SudarshanPharmaCreditReview
+
+
+
+
+Save
+Undo
+Redo
+SudarshanPharmaCreditReview Last saved: Today at 5:19 PM
+SudarshanPharmaCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Data
+Get data
+Get data
+
+Queries
+Refresh
+Refresh
+
+Relationships
+Manage relationships
+Calculations
+New measure
+New column
+New table
+Calculation group
+Parameters
+New parameter
+New parameter
+Add parameters to visuals and DAX expressions to act as variables. Report readers can use slicers to adjust the inputs and see different outcomes.
+Security
+Manage roles
+View as
+Q&A
+Q&A setup
+Sensitivity
+Sensitivity
+Sensitivity
+Apply a label to classify the sensitivity of your report and protect its content.
+Share
+Publish
+
+
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+
+
+
+
+Many to one relationship from Bank Transactions to Period
+Many to one relationship from Financials to Finance Year
+Many to one relationship from Financial Parameters to Finance Year
+Many to one relationship from GST Monthly to Period
+Many to one relationship from Reconciliation to Period
+
+ Bank Transactions table 1 of 10 Unselected 27 Columns 
+
+
+Bank Transactions
+More options
+
+table content
+Collapse
+
+ CC Snapshot table 2 of 10 Unselected 8 Columns 
+
+
+CC Snapshot
+More options
+
+table content
+Collapse
+
+ Finance Year table 3 of 10 Unselected 1 Columns 
+
+
+Finance Year
+More options
+
+table content
+Collapse
+
+ Financial Parameters table 4 of 10 Unselected 7 Columns 
+
+
+Financial Parameters
+More options
+
+table content
+Collapse
+
+ Financials table 5 of 10 Unselected 44 Columns 
+
+
+Financials
+More options
+
+table content
+Collapse
+
+ GST Monthly table 6 of 10 Unselected 23 Columns 
+
+
+GST Monthly
+More options
+
+table content
+Collapse
+
+ Loan Schedule table 7 of 10 Unselected 9 Columns 
+
+
+Loan Schedule
+More options
+
+table content
+Collapse
+
+ Period table 8 of 10 Unselected 2 Columns 
+
+
+Period
+More options
+
+table content
+Collapse
+
+ Reconciliation table 9 of 10 Unselected 14 Columns 
+
+
+Reconciliation
+More options
+
+table content
+Collapse
+
+ Review Coverage table 10 of 10 Unselected 5 Columns 
+
+
+Review Coverage
+More options
+
+table content
+Collapse
+Previous pages
+Next pages
+
+All tables
+All tables
+New Layout
+
+Properties
+Properties
+Cards
+
+Cards
+Show the database in the header when applicable
+
+Show the database in the header when applicable
+Show related fields when card is collapsed
+
+Show related fields when card is collapsed
+Pin related fields to top of card
+
+Pin related fields to top of card
+
+
+Data
+Data
+
+Tables
+Model
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table CC Snapshot
+CC Snapshot
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Finance Year
+Finance Year
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financial Parameters
+Financial Parameters
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financials
+Financials
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table GST Monthly
+GST Monthly
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Loan Schedule
+Loan Schedule
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Period
+Period
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Reconciliation
+Reconciliation
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Review Coverage
+Review Coverage
+
+This field or table is visible in report view. Select to hide it.
+More options
+
+
+Zoom Out
+
+
+Zoom In
+100%
+Reset layout
+Fit to page
+
+Some of the tables have incomplete or no data.
+
+
+
+
+
+
+
+
+
+
+No results found
+
+
+ms-pbi.pbi.microsoft.com/minerva/daxQueryView.html
+
+ms-pbi.pbi.microsoft.com/minerva/daxQueryView.html - Web content
+
+
+
+
+
+
+
+SudarshanPharmaCreditReview
+
+
+
+
+Save
+Undo
+Redo
+SudarshanPharmaCreditReview Last saved: Today at 5:19 PM
+SudarshanPharmaCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Editing
+Format
+Comment
+Uncomment
+Find
+Replace
+Command palette
+Copilot
+Copilot
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+
+DAX queries will be saved to your model
+  They won't be visible when published in the Power BI service. 
+https://go.microsoft.com/fwlink/?linkid=2247952
+Learn more Opens in new window
+
+Expand
+Run the selected portion of the DAX query or the whole thing if nothing is selected (F5 or CTRL + SHIFT + E)
+
+Update model with changes (0)
+
+
+
+Editor content;Press Alt+F1 for Accessibility Options.
+
+Toggle results container
+
+Results
+Your query results will show up here
+Previous pages
+Next pages
+
+Query 1
+Query 1
+New query
+
+Data
+Data
+
+Tables
+Model
+Search
+Search
+
+
+
+Table Bank Transactions
+Bank Transactions
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table CC Snapshot
+CC Snapshot
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Finance Year
+Finance Year
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financial Parameters
+Financial Parameters
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Financials
+Financials
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table GST Monthly
+GST Monthly
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Loan Schedule
+Loan Schedule
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Period
+Period
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Reconciliation
+Reconciliation
+
+This field or table is visible in report view. Select to hide it.
+More options
+Table Review Coverage
+Review Coverage
+
+This field or table is visible in report view. Select to hide it.
+More options
+
+
+Query 1 of 1
+Zoom Out
+
+
+Zoom In
+Zoom level. Click to open the Zoom dialog box
+
+Copilot isn't available because you're not signed in.
+
+
+
+
+
+
+
+10 results
+
+
+ms-pbi.pbi.microsoft.com/minerva/tmdlView.html
+
+ms-pbi.pbi.microsoft.com/minerva/tmdlView.html - Web content
+
+
+
+
+
+
+
+
+SudarshanPharmaCreditReview
+
+
+
+
+Save
+Undo
+Redo
+SudarshanPharmaCreditReview Last saved: Today at 5:19 PM
+SudarshanPharmaCreditReview
+
+Search
+
+0 Suggestions available,
+Settings
+
+Using light theme
+
+Sign in
+
+
+Minimize
+Maximize
+Close
+
+
+File
+Ribbon tabs
+
+Home
+Help
+
+Share
+Share
+Share this document, and see who it's shared with.
+
+
+Clipboard
+Clipboard
+Editing
+Format
+Find
+Replace
+Command palette
+Switch ribbons
+
+Report view
+
+Table view
+
+Model view
+
+DAX query view
+
+TMDL View
+
+Switch to editing mode to apply your changes.
+
+Preview how the script would change the semantic model.
+
+
+Editor content;Press Alt+F1 for Accessibility Options.
+
+
+Problems 0
+Output 0
+Expand/Collapse toggle bottom
+
+Previous pages
+Next pages
+
+Script 1
+Script 1
+New script
+
+Data
+Data
+
+Tables
+Model
+
+
+View and organize all of the items in your semantic model. 
+Learn how 
+
+Close
+
+Search
+Search
+
+
+
+ Semantic model
+Semantic model
+More options
+ Calculation groups (0)
+More options
+ Cultures (0)
+More options
+ Expressions (0)
+More options
+ Functions (0)
+More options
+ Measures (0)
+Measures (32)
+More options
+ Perspectives (0)
+More options
+ Relationships (5)
+Relationships (5)
+More options
+ Roles (0)
+More options
+ Tables (10)
+Tables (10)
+More options
+
+
+Zoom Out
+
+
+Zoom In
+Zoom level. Click to open the Zoom dialog box
+
+Some of the tables have incomplete or no data.
+
+Edit your model with TMDL
+Edit your model with TMDL
+Close Dialog
+
+TMDL view is a feature-rich code editor that allows you to edit models quickly.
+Get started by dragging and dropping objects from the Data pane.
+Learn more about TMDL view
+
+Try it now
+
+10 results
+

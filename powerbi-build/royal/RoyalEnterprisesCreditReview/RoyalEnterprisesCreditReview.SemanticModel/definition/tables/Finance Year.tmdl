@@ -1,0 +1,14 @@
+/// Three statement years verified from document dates; FY2025-26 is provisional despite enclosing folder FY2026-27.
+table 'Finance Year'
+	lineageTag: b28b592f-eb1f-4a00-94d2-9827ba28c866
+
+	column 'Financial Year'
+		dataType: string
+		lineageTag: 2444b10e-b1bf-450c-8873-fd7ddc751a69
+		summarizeBy: none
+		sourceColumn: Financial Year
+
+	partition 'Finance Year' = m
+		mode: import
+		source = let R=Json.Document(Binary.Decompress(Binary.FromText("H4sIAAAAAAAA/4uOVjIyMDLWNTJRitVRAHNMdI1M4RxTXSMzpdhYAGr9VoInAAAA",BinaryEncoding.Base64),Compression.GZip)), T=Table.FromRows(R,{"Financial Year"}), X=Table.TransformColumnTypes(T,{{"Financial Year", type text}}) in X
+

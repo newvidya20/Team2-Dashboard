@@ -1,0 +1,56 @@
+[
+  {
+    "source": "BOB CAA- Pswd GPI064477 Jan-26 To Mar-26.pdf",
+    "rows": 406,
+    "debits": 22978310.1,
+    "credits": 24914970.73,
+    "first_balance": 322087.32,
+    "last_balance": 2258747.95,
+    "balance_errors": []
+  },
+  {
+    "source": "Pswd GPI064477 April-26 To June-26.pdf",
+    "rows": 498,
+    "debits": 32084672.13,
+    "credits": 33676335.6,
+    "first_balance": 2258747.95,
+    "last_balance": 3850411.42,
+    "balance_errors": []
+  },
+  {
+    "source": "Pswd GPI064477 Oct-25 To dec-25.pdf",
+    "rows": 598,
+    "debits": 53354134.44,
+    "credits": 52133216.41,
+    "first_balance": 1543005.35,
+    "last_balance": 322087.32,
+    "balance_errors": []
+  },
+  {
+    "source": "Pswd GPI064477- July-25 To Sep-25.pdf",
+    "rows": 591,
+    "debits": 56158739.58,
+    "credits": 55620923.0,
+    "first_balance": 2080821.93,
+    "last_balance": 1543005.35,
+    "balance_errors": []
+  },
+  {
+    "source": "ICICI CA July-25 To June-26.pdf",
+    "rows": 1374,
+    "debits": 242292788.73,
+    "credits": 249299255.43,
+    "first_balance": 175132.37,
+    "last_balance": 7136599.07,
+    "balance_errors": []
+  },
+  {
+    "source": "CA June-25 To June-26.pdf",
+    "rows": 2812,
+    "debits": 2346020981.0,
+    "credits": 2358361146.0,
+    "first_balance": 979574.0,
+    "last_balance": 13319739.0,
+    "balance_errors": []
+  }
+]

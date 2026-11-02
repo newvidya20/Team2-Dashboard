@@ -1,0 +1,20 @@
+relationship 'Period_GST Monthly'
+	fromColumn: 'GST Monthly'.Month
+	toColumn: Period.Month
+
+relationship 'Period_Bank Transactions'
+	fromColumn: 'Bank Transactions'.Month
+	toColumn: Period.Month
+
+relationship Period_Reconciliation
+	fromColumn: Reconciliation.Month
+	toColumn: Period.Month
+
+relationship Year_Financials
+	fromColumn: Financials.'Financial Year'
+	toColumn: 'Finance Year'.'Financial Year'
+
+relationship 'Year_Financial Parameters'
+	fromColumn: 'Financial Parameters'.'Financial Year'
+	toColumn: 'Finance Year'.'Financial Year'
+

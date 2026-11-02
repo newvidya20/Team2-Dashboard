@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "{\"message\":\"DAX query executed successfully, returned 3 rows in 165ms\",\"operation\":\"Execute\",\"data\":{\"rowCount\":3,\"isTruncated\":false,\"columns\":[{\"name\":\"Finance Year[Financial Year]\",\"dataType\":\"String\",\"isNullable\":true,\"ordinal\":0},{\"name\":\"[SalesCr]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":1},{\"name\":\"[PATCr]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":2},{\"name\":\"[DebtCr]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":3},{\"name\":\"[CurrentRatio]\",\"dataType\":\"Double\",\"isNullable\":true,\"ordinal\":4},{\"name\":\"[ParameterCount]\",\"dataType\":\"Int64\",\"isNullable\":true,\"ordinal\":5}],\"rows\":[{\"Finance Year[Financial Year]\":\"2023-24\",\"[SalesCr]\":465.5623,\"[PATCr]\":11.3553,\"[DebtCr]\":106.89,\"[CurrentRatio]\":1.4842557848751758,\"[ParameterCount]\":25},{\"Finance Year[Financial Year]\":\"2024-25\",\"[SalesCr]\":502.4934,\"[PATCr]\":14.0216,\"[DebtCr]\":176.6428,\"[CurrentRatio]\":1.2605383217844435,\"[ParameterCount]\":25},{\"Finance Year[Financial Year]\":\"2025-26\",\"[SalesCr]\":667.4985000000001,\"[PATCr]\":21.9816,\"[DebtCr]\":282.4836,\"[CurrentRatio]\":1.0846174519165814,\"[ParameterCount]\":25}],\"executionTimeMs\":165}}"
+    }
+  ],
+  "isError": false
+}

@@ -1,0 +1,57 @@
+relationship BankTransactionsMonth
+	fromColumn: 'Bank Transactions'.Month
+	toColumn: Calendar.Month
+
+relationship BankMonthlyMonth
+	fromColumn: 'Bank Monthly'.Month
+	toColumn: Calendar.Month
+
+relationship GSTMonthlyMonth
+	fromColumn: 'GST Monthly'.Month
+	toColumn: Calendar.Month
+
+relationship GSTPartiesMonth
+	fromColumn: 'GST Parties'.Month
+	toColumn: Calendar.Month
+
+relationship GSTStateMonth
+	fromColumn: 'GST State'.Month
+	toColumn: Calendar.Month
+
+relationship GSTFilingsMonth
+	fromColumn: 'GST Filings'.Month
+	toColumn: Calendar.Month
+
+relationship InternalTransfersMonth
+	fromColumn: 'Internal Transfers'.Month
+	toColumn: Calendar.Month
+
+relationship PartyReconciliationMonth
+	fromColumn: 'Party Reconciliation'.Month
+	toColumn: Calendar.Month
+
+relationship 8886c2f8-cea9-488c-987a-dccf8116d589
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Bank Transactions'.Date
+	toColumn: LocalDateTable_00f6959d-7f68-4363-bdfd-056921b93377.Date
+
+relationship a2c0ff21-3e8e-417a-925a-571cec68d8f0
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'GST Filings'.'Due Date'
+	toColumn: LocalDateTable_ec38411a-ea3a-4439-a4a6-2ab3bafce156.Date
+
+relationship 12506a57-f071-4fb0-9473-c948bc49bf60
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'GST Filings'.'Filing Date'
+	toColumn: LocalDateTable_0914043a-a4ab-423b-8ac7-ad526d059abb.Date
+
+relationship 7e3be6a0-ac0b-4015-a6ab-ebf92ba201f3
+	joinOnDateBehavior: datePartOnly
+	fromColumn: 'Internal Transfers'.Date
+	toColumn: LocalDateTable_e42982ff-ada0-4e8c-86b6-e31afcdf21a3.Date
+
+relationship c00cada5-03b6-4bfe-80dc-87de5db8573c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: Calendar.Month
+	toColumn: LocalDateTable_55b809d4-a4d1-4946-9f0b-70841a228a31.Date
+

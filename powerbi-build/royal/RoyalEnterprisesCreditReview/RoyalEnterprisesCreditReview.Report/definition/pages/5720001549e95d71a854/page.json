@@ -1,0 +1,46 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "5720001549e95d71a854",
+  "displayName": "4. Financial & Credit Analysis",
+  "displayOption": "FitToWidth",
+  "width": 1440,
+  "height": 1800,
+  "objects": {
+    "background": [
+      {
+        "properties": {
+          "color": {
+            "solid": {
+              "color": {
+                "expr": {
+                  "Literal": {
+                    "Value": "'#F3F6FA'"
+                  }
+                }
+              }
+            }
+          },
+          "transparency": {
+            "expr": {
+              "Literal": {
+                "Value": "0D"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "visualInteractions": [
+    {
+      "source": "0cdc5ec645e65c4d8bf3",
+      "target": "377902f12c2954a090ec",
+      "type": "NoFilter"
+    },
+    {
+      "source": "0cdc5ec645e65c4d8bf3",
+      "target": "60983206f52e5fcbb7bc",
+      "type": "NoFilter"
+    }
+  ]
+}

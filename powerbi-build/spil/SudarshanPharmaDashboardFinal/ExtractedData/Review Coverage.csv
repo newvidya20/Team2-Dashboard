@@ -1,0 +1,16 @@
+﻿Page,Order,Parameter,Status,Evidence or Requirement
+GST,1,Buyer / supplier totals and shares,Not supplied,"Need GSTR-1 B2B, GSTR-2B and sales/purchase party ledgers."
+GST,2,Exports / export share,Partial,Zero-rated declarations shown; export vs SEZ split absent.
+GST,3,Filing date / late fee,Available,ARN dates and section 5.1 late fee; prior-period fees not assigned as current delay days.
+GST,4,State / location revenue,Registration state only,Five legal registrations; this does not identify customer locations. Inter-branch supplies cannot be eliminated from 3B.
+GST,5,Intra-group transactions,Partial annual evidence,Financial notes disclose related-party loans; GST party turnover / related-party matching absent.
+GST,6,HSN product summary,Not supplied,Need GSTR-1 HSN tables or item ledger.
+Banking,1,Inflows / outflows / BTO,Extracted,"All raw running balances checked; overlapping records removed. BTO candidate excludes own-account markers, loan candidates and returns."
+Banking,2,Internal account transfers,Confirmed + candidates,Reciprocal UTR confirms subset; own-account narration is separately labelled as candidate.
+Banking,3,Cheque / EMI / ECS returns,Narration markers,"Entry counts, not deduplicated failed-payment events."
+Banking,4,Party-wise movements,Available,Narration names retained; no fuzzy identity merges.
+Banking,5,CC utilisation,30 June 2026 snapshot,"Schedule limits and outstanding; bank closing differences shown, missing limits stay unavailable."
+Banking,6,Loan credits / cash / penalties,Candidate classifications,Review original source/page before concluding purpose.
+Reconciliation,1,Party-wise GST vs banking,Pending party GST,3B returns lack customer GSTIN and invoices; no artificial party variances calculated.
+Reconciliation,2,Aggregate common months,Availability comparison,April 2025-July 2026. Coverage differs; no claim of full entity-level reconciliation.
+Reconciliation,3,Inter-registration GST elimination,Not possible from 3B,GST supplies can contain branch transfers; bank receipts are not a like-for-like sales measure.

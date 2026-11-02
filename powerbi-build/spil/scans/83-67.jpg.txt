@@ -1,0 +1,53 @@
+j Cash Flow Statement
+Cash flows are reported using the indirect method, whereby profit before tax is adjusted for the effects of
+transactions of a non-cash nature, any deferrals or accruals of past or future operating cash receipts or payments and
+item of income or expenses associated with investing or financing cash flows. The cash flows from operating,
+investing and financing activities are segregated.
+k Taxation
+The accounting treatment for the Income Tax in respect of the Company's income is based on the Accounting
+Standard on 'Accounting for Taxes on Income' (AS-22). The provision made for Income Tax in Accounts comprises
+both, the current tax and deferred tax. Provision for Current Tax is made on the assessable Income Tax rate
+applicable to the relevant assessment year after considering various deductions available under the Income Tax Act,
+1961.
+Deferred tax is recognized for all timing differences; being the differences between the taxable income and
+accounting income that originate in one period and are capable of reversal in one or more subsequent periods. Such
+deferred tax is quantified using the tax rates and laws enacted or substantively enacted as on the Balance Sheet date.
+The carrying amount of deferred tax asset/ liability is reviewed at each Balance Sheet date and consequential
+adjustments are carried out.
+I Investments :
+Investment which are readily realizable and intended to be held for not more than one year from the date on which
+such investments are made, are classified as current investments. All other investments are classified as non-current
+investments.
+On initial recognition, all investments are measured at cost. The cost comprises purchase price and directly
+attributable acquisition charges such as brokerage, fees and duties.
+m Inventories :
+Raw Materials have been valued at lower of cost or net realizable value. Cost is determined on FIFO basis. Cost of
+Finished Goods and semi-finished goods includes all Costs of Purchases, Conversion Cost and other cost Incurred in
+bringing the inventories to their present location and Condition. The Net realizable value is estimated selling price in
+the ordinary course of business less the estimated costs of Completion and estimated cost necessary to make the
+finished goods/product ready for sale. Inventories have been taken as valued and certified by the Management.
+n Provisions. contingent Liabilities and contingent assets:
+A provision is recognized if, as a result of a past event, the Company has a present legal obligation that is reasonably
+estimable, and it is probable that an outflow of economic benefits will be required to settle the obligation. Provisions
+are determined by the best estimate of the likely future outflow of economic benefits required to settle the obligation
+at the reporting date.
+Where no reliable estimate can be made, a disclosure is made as contingent liability. A disclosure for a contingent
+liability is also made when there is a possible obligation or a present obligation that may, but probably will not,
+require an outflow of resources. Where there is a possible obligation or a present obligation in respect of which the
+likelihood of outflow of resources is remote, no provision or disclosure is made.
+Contingent assets are neither recognized nor disclosed in the financial statements.
+o Operating Leases
+Lease contracts that do not transfer substantially all the risks and benefits of ownership of the assets to the Company
+are classified as operating leases. Where lease rentals are so structured that the rental outflow is higher in the later
+periods of lease term, such lease rentals are recognised in the statement of profit and loss on a straight line basis over
+the lease term. Other operating leases are recognised in the statement of profit and loss as per the terms of the lease
+contract.
+p Segment Reporting
+The Company is engaged in manufacturing of API, job work manufacturing in Pharmaceuticals Items and traders in
+chemicals and solvents. The Company is en a ed in the business of Speciality Chemicals only and therefore, there
+is only one reportable segment. Further rimarily operates in India. Therefore, no further information
+required to disclose as per "Accounti
+a
+2
+- ent Reporting".
+jShUN18Al
