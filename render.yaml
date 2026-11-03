@@ -1,0 +1,41 @@
+services:
+  - type: web
+    name: team2-hub
+    runtime: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: RENDER
+        value: "true"
+      - key: DATA_STORE
+        value: local
+      - key: GOOGLE_SHEETS_ID
+        value: 1kNFFjc3pvdQJ4Vc_AGbrzIDkPdiv3KsW3PFE7dIXaYI
+      - key: APPS_SCRIPT_URL
+        value: ""
+      - key: SHEETS_API_SECRET
+        generateValue: true
+      - key: SESSION_SECRET
+        generateValue: true
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: "465"
+      - key: SMTP_SECURE
+        value: "true"
+      - key: SMTP_USER
+        value: ""
+      - key: SMTP_PASSWORD
+        value: ""
+      - key: SMTP_FROM
+        value: ""
+      - key: ADMIN_EMAIL
+        value: ""
+      - key: TASK_EMAIL_TIMEZONE
+        value: ""
+      - key: TASK_DAILY_SUMMARY_HOUR
+        value: "18"

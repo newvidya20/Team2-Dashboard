@@ -22,16 +22,6 @@ To store the app's data in the spreadsheet instead, set `DATA_STORE=apps-script`
 
 Keep `SESSION_SECRET` in `.env.local` in either mode. The first signup in a new, empty data store creates the admin account. Passwords are stored as salted hashes in the selected data store, not as plain text.
 
-## Render deployment
-
-For a production host like Render, keep `DATA_STORE=apps-script` and configure the same Google Sheets bridge environment variables described above. Render sets `PORT` and `RENDER=true` automatically, so the app binds to `0.0.0.0` and serves the built frontend correctly. Use:
-
-- Build command: `npm install && npm run build`
-- Start command: `npm start`
-- Environment variables: `NODE_ENV=production`, `SESSION_SECRET`, `DATA_STORE=apps-script`, `GOOGLE_SHEETS_ID`, `APPS_SCRIPT_URL`, `SHEETS_API_SECRET`, and your SMTP settings if you want email notifications.
-
-The app stores live dashboard data in the Google Sheets-backed store and refreshes its dashboard data on a polling interval so changes appear without a manual reload. For Render, keep the data in Google Sheets instead of the local JSON file so all users share one source of truth.
-
 ## Run locally
 
 **Prerequisites:** Node.js

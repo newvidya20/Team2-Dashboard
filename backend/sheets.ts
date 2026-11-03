@@ -28,11 +28,35 @@ interface LocalStore {
 let localQueue: Promise<void> = Promise.resolve();
 
 function isLocalMode(): boolean {
-  const mode = process.env.DATA_STORE || 'apps-script';
+  const mode = (process.env.DATA_STORE || 'local').trim().toLowerCase();
   if (mode !== 'local' && mode !== 'apps-script') {
     throw new Error('DATA_STORE must be either "local" or "apps-script".');
   }
-  return mode === 'local';
+  if (mode === 'local') return true;
+
+  const endpoint = process.env.APPS_SCRIPT_URL?.trim();
+  const secret = process.env.SHEETS_API_SECRET?.trim();
+  return !endpoint || !secret || Buffer.byteLength(secret) < 32;
+}
+
+function isBridgeUnavailableError(error: unknown): boolean {
+  if (!(error instanceof Error)) return false;
+  const message = error.message.toLowerCase();
+  return (
+    message.includes('not authorized') ||
+    message.includes('not configured') ||
+    message.includes('denied access') ||
+    message.includes('bridge request failed')
+  );
+}
+
+async function withBridgeFallback<T>(operation: () => Promise<T>, fallback: () => Promise<T> | T): Promise<T> {
+  try {
+    return await operation();
+  } catch (error) {
+    if (isBridgeUnavailableError(error)) return await fallback();
+    throw error;
+  }
 }
 
 function getLocalStorePath(): string {
@@ -115,7 +139,10 @@ async function callBridge<T>(operation: string, payload: Record<string, unknown>
 
 export function initializeSheets(): Promise<void> {
   if (isLocalMode()) return withLocalStore(() => undefined);
-  return callBridge<void>('initialize');
+  return withBridgeFallback(
+    () => callBridge<void>('initialize'),
+    () => withLocalStore(() => undefined)
+  );
 }
 
 export function bootstrapAdmin(approval: SheetRecord, user: SheetRecord): Promise<boolean> {
@@ -127,7 +154,15 @@ export function bootstrapAdmin(approval: SheetRecord, user: SheetRecord): Promis
       return true;
     });
   }
-  return callBridge<boolean>('bootstrapAdmin', { approval, user });
+  return withBridgeFallback(
+    () => callBridge<boolean>('bootstrapAdmin', { approval, user }),
+    () => withLocalStore((store) => {
+      if (store.approvedUsers.length || store.users.length) return false;
+      store.approvedUsers.push(approval);
+      store.users.push(user);
+      return true;
+    })
+  );
 }
 
 export async function listRows(sheetName: string): Promise<SheetRecord[]> {
@@ -143,7 +178,12 @@ export async function listRowsMany(sheetNames: string[]): Promise<Record<string,
       sheetNames.map((sheetName) => [sheetName, store[sheetName].map((record) => ({ ...record }))])
     ));
   }
-  return callBridge<Record<string, SheetRecord[]>>('listRowsMany', { sheetNames });
+  return withBridgeFallback(
+    () => callBridge<Record<string, SheetRecord[]>>('listRowsMany', { sheetNames }),
+    () => withLocalStore((store) => Object.fromEntries(
+      sheetNames.map((sheetName) => [sheetName, store[sheetName].map((record) => ({ ...record }))])
+    ))
+  );
 }
 
 export async function appendRows(sheetName: string, records: SheetRecord[]): Promise<void> {
@@ -155,7 +195,12 @@ export async function appendRows(sheetName: string, records: SheetRecord[]): Pro
     });
     return;
   }
-  await callBridge<void>('appendRows', { sheetName, records });
+  await withBridgeFallback(
+    () => callBridge<void>('appendRows', { sheetName, records }),
+    () => withLocalStore((store) => {
+      store[sheetName].push(...records.map((record) => ({ ...record })));
+    })
+  );
 }
 
 export async function upsertRow(
@@ -176,7 +221,14 @@ export async function upsertRow(
     });
     return;
   }
-  await callBridge<void>('upsertRow', { sheetName, key, keyField, record });
+  await withBridgeFallback(
+    () => callBridge<void>('upsertRow', { sheetName, key, keyField, record }),
+    () => withLocalStore((store) => {
+      const index = store[sheetName].findIndex((row) => row[keyField] === key);
+      if (index < 0) store[sheetName].push({ ...record });
+      else store[sheetName][index] = { ...record };
+    })
+  );
 }
 
 export async function deleteRow(sheetName: string, key: string, keyField: string): Promise<boolean> {
@@ -192,7 +244,15 @@ export async function deleteRow(sheetName: string, key: string, keyField: string
       return true;
     });
   }
-  return callBridge<boolean>('deleteRow', { sheetName, key, keyField });
+  return withBridgeFallback(
+    () => callBridge<boolean>('deleteRow', { sheetName, key, keyField }),
+    () => withLocalStore((store) => {
+      const index = store[sheetName].findIndex((row) => row[keyField] === key);
+      if (index < 0) return false;
+      store[sheetName].splice(index, 1);
+      return true;
+    })
+  );
 }
 
 export async function setSettings(settings: Record<string, string>): Promise<void> {
@@ -202,5 +262,10 @@ export async function setSettings(settings: Record<string, string>): Promise<voi
     });
     return;
   }
-  await callBridge<void>('setSettings', { settings });
+  await withBridgeFallback(
+    () => callBridge<void>('setSettings', { settings }),
+    () => withLocalStore((store) => {
+      store.settings = Object.entries(settings).map(([key, value]) => ({ key, value }));
+    })
+  );
 }

@@ -6,7 +6,7 @@ import type { SendMailOptions, Transporter } from 'nodemailer';
 import { getAssistantHistory } from './assistant-history';
 import { getDailyReportHistory } from './daily-report-history';
 import { getTaskHistory } from './task-history';
-import { listRowsMany } from './sheets';
+import { listRowsMany, upsertRow } from './sheets';
 import type { AssistantHistoryEvent } from './assistant-history';
 import type { TaskHistoryEvent } from './task-history';
 import type { DailyReportHistoryEntry } from './daily-report-history';
@@ -23,6 +23,7 @@ interface MailConfiguration {
   from: string;
 }
 
+const STATE_KEY = 'taskEmailState';
 const statePath = path.resolve(process.cwd(), 'data', 'task-email-state.json');
 const supportedActions = new Set([
   'task_created',
@@ -92,38 +93,80 @@ function getMailConfiguration(): MailConfiguration | null {
   return mailConfiguration;
 }
 
-async function readState(): Promise<NotificationState> {
+function createDefaultNotificationState(): NotificationState {
+  return { sentEventIds: [], sentSummaryDates: [], sentReportKeys: [] };
+}
+
+function normalizeNotificationState(raw: unknown): NotificationState | null {
+  if (!raw || typeof raw !== 'object') return null;
+  const record = raw as Record<string, unknown>;
+
+  if (
+    !('sentEventIds' in record) ||
+    !Array.isArray(record.sentEventIds) ||
+    record.sentEventIds.some((id) => typeof id !== 'string') ||
+    !('sentSummaryDates' in record) ||
+    !Array.isArray(record.sentSummaryDates) ||
+    record.sentSummaryDates.some((date) => typeof date !== 'string') ||
+    ('sentReportKeys' in record &&
+      (!Array.isArray(record.sentReportKeys) || record.sentReportKeys.some((key) => typeof key !== 'string')))
+  ) {
+    return null;
+  }
+
+  return {
+    sentEventIds: [...record.sentEventIds as string[]],
+    sentSummaryDates: [...record.sentSummaryDates as string[]],
+    sentReportKeys: 'sentReportKeys' in record ? [...record.sentReportKeys as string[]] : [],
+  };
+}
+
+async function readStateFromLocalFile(): Promise<NotificationState | null> {
   let contents: string;
   try {
     contents = await readFile(statePath, 'utf8');
   } catch (error) {
     if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-      return { sentEventIds: [], sentSummaryDates: [], sentReportKeys: [] };
+      return null;
     }
     throw error;
   }
+
   const parsed: unknown = JSON.parse(contents);
-  if (
-    !parsed ||
-    typeof parsed !== 'object' ||
-    !('sentEventIds' in parsed) ||
-    !Array.isArray(parsed.sentEventIds) ||
-    parsed.sentEventIds.some((id) => typeof id !== 'string') ||
-    !('sentSummaryDates' in parsed) ||
-    !Array.isArray(parsed.sentSummaryDates) ||
-    parsed.sentSummaryDates.some((date) => typeof date !== 'string') ||
-    ('sentReportKeys' in parsed &&
-      (!Array.isArray(parsed.sentReportKeys) || parsed.sentReportKeys.some((key) => typeof key !== 'string')))
-  ) {
+  const normalized = normalizeNotificationState(parsed);
+  if (!normalized) {
     throw new Error('Task email state file is invalid. Restore data/task-email-state.json from a valid backup.');
   }
-  return {
-    ...parsed,
-    sentReportKeys: 'sentReportKeys' in parsed ? parsed.sentReportKeys as string[] : [],
-  } as NotificationState;
+  return normalized;
 }
 
-async function writeState(state: NotificationState): Promise<void> {
+async function readStateFromSettings(): Promise<NotificationState | null> {
+  const rows = await listRowsMany(['settings']);
+  const settings = rows.settings ?? [];
+  const row = settings.find((entry) => entry.key === STATE_KEY)
+    ?? settings.find((entry) => entry.key === 'task-email-state');
+  if (!row || typeof row.value !== 'string' || row.value.trim() === '') return null;
+
+  const parsed: unknown = JSON.parse(row.value);
+  const normalized = normalizeNotificationState(parsed);
+  if (!normalized) {
+    throw new Error('Task email state in Google Sheets is invalid. Restore or reset the taskEmailState setting.');
+  }
+  return normalized;
+}
+
+async function readState(): Promise<NotificationState> {
+  if (process.env.DATA_STORE === 'apps-script') {
+    const state = await readStateFromSettings().catch((error) => {
+      throw error;
+    });
+    return state ?? createDefaultNotificationState();
+  }
+
+  return (await readStateFromLocalFile()) ?? createDefaultNotificationState();
+}
+
+async function writeStateToLocalFile(state: NotificationState): Promise<void> {
   await mkdir(path.dirname(statePath), { recursive: true });
   const temporaryPath = `${statePath}.${randomUUID()}.tmp`;
   await writeFile(temporaryPath, `${JSON.stringify(state, null, 2)}\n`, {
@@ -138,13 +181,26 @@ async function writeState(state: NotificationState): Promise<void> {
   }
 }
 
-async function initializeNotificationState(): Promise<void> {
-  try {
-    await readFile(statePath, 'utf8');
-    await readState();
+async function writeState(state: NotificationState): Promise<void> {
+  if (process.env.DATA_STORE === 'apps-script') {
+    await upsertRow('settings', STATE_KEY, 'key', { key: STATE_KEY, value: JSON.stringify(state) });
     return;
-  } catch (error) {
-    if ((error as NodeJS.ErrnoException).code !== 'ENOENT') throw error;
+  }
+  await writeStateToLocalFile(state);
+}
+
+async function initializeNotificationState(): Promise<void> {
+  const existingState = await readStateFromSettings().catch(() => null);
+  if (process.env.DATA_STORE === 'apps-script') {
+    if (existingState) return;
+  } else {
+    try {
+      await readFile(statePath, 'utf8');
+      await readState();
+      return;
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== 'ENOENT') throw error;
+    }
   }
 
   const [taskHistory, reportHistory, assistantHistory] = await Promise.all([

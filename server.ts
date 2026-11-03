@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { initializeSheets } from './backend/sheets';
-import { registerApiRoutes, validateAuthConfiguration } from './backend/routes';
+import { ensureCanonicalAdminAssignment, registerApiRoutes, validateAuthConfiguration } from './backend/routes';
 import { startTaskEmailNotifications } from './backend/task-email-notifications';
 import { migrateAssistantTaskHistory } from './backend/task-history';
 
@@ -45,6 +45,7 @@ if (!isProduction) {
 }
 
 await initializeSheets();
+await ensureCanonicalAdminAssignment();
 await migrateAssistantTaskHistory();
 startTaskEmailNotifications();
 

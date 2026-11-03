@@ -92,6 +92,11 @@ function normalizeEmail(email: unknown): string {
   return typeof email === 'string' ? email.trim().toLowerCase() : '';
 }
 
+function getConfiguredAdminEmail(): string | null {
+  const email = process.env.ADMIN_EMAIL?.trim().toLowerCase();
+  return email && isValidEmail(email) ? email : null;
+}
+
 function isValidEmail(email: string): boolean {
   return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
 }
@@ -175,7 +180,47 @@ function readToken(token: string): { uid: string; exp: number } | null {
   }
 }
 
+export async function ensureCanonicalAdminAssignment(): Promise<void> {
+  const configuredAdminEmail = getConfiguredAdminEmail();
+  if (!configuredAdminEmail) return;
+
+  const [users, approvals] = await Promise.all([
+    listRows('users') as Promise<UserRecord[]>,
+    listRows('approvedUsers') as Promise<ApprovalRecord[]>,
+  ]);
+  const now = new Date().toISOString();
+
+  for (const approval of approvals) {
+    const email = normalizeEmail(approval.email);
+    const shouldBeAdmin = email === configuredAdminEmail;
+    if (approval.role !== (shouldBeAdmin ? 'admin' : 'member') || approval.active !== 'true') {
+      const nextApproval: ApprovalRecord = {
+        ...approval,
+        role: shouldBeAdmin ? 'admin' : 'member',
+        active: shouldBeAdmin ? 'true' : approval.active,
+        updatedAt: now,
+      };
+      await upsertRow('approvedUsers', approval.email, 'email', nextApproval);
+    }
+  }
+
+  for (const user of users) {
+    const email = normalizeEmail(user.email);
+    const shouldBeAdmin = email === configuredAdminEmail;
+    if (user.role !== (shouldBeAdmin ? 'admin' : 'member')) {
+      const nextUser: UserRecord = {
+        ...user,
+        role: shouldBeAdmin ? 'admin' : 'member',
+        active: shouldBeAdmin ? 'true' : user.active,
+        updatedAt: now,
+      };
+      await upsertRow('users', user.uid, 'uid', nextUser);
+    }
+  }
+}
+
 async function activeUserForUid(uid: string): Promise<{ user: UserRecord; approval: ApprovalRecord } | null> {
+  await ensureCanonicalAdminAssignment();
   const records = await listRowsMany(['users', 'approvedUsers']);
   const users = records.users as UserRecord[];
   const user = users.find((record) => record.uid === uid && record.active === 'true');
@@ -424,6 +469,7 @@ async function appendActivity(
 }
 
 async function getActiveProfiles(): Promise<UserProfile[]> {
+  await ensureCanonicalAdminAssignment();
   const rows = await listRowsMany(['users', 'approvedUsers']);
   const users = rows.users as UserRecord[];
   const approvals = rows.approvedUsers as ApprovalRecord[];
@@ -617,6 +663,7 @@ export function registerApiRoutes(app: Express): void {
       const email = normalizeEmail(req.body?.email);
       const password = req.body?.password;
       const displayName = typeof req.body?.displayName === 'string' ? req.body.displayName.trim() : '';
+      const configuredAdminEmail = getConfiguredAdminEmail();
       if (!isValidEmail(email) || !hasValidPassword(password)) {
         res.status(400).json({ error: 'Enter a valid email and password of at least 6 characters.' });
         return;
@@ -625,6 +672,10 @@ export function registerApiRoutes(app: Express): void {
         listRows('approvedUsers') as Promise<ApprovalRecord[]>,
         listRows('users') as Promise<UserRecord[]>,
       ]);
+      if (configuredAdminEmail && email !== configuredAdminEmail && !approvals.length && !users.length) {
+        res.status(403).json({ error: `The configured admin email is ${configuredAdminEmail}. Use that email to create the first administrator account.` });
+        return;
+      }
       let approval = approvals.find(
         (record) => normalizeEmail(record.email) === email && record.active === 'true'
       );
@@ -700,9 +751,18 @@ export function registerApiRoutes(app: Express): void {
     asyncRoute(async (req, res) => {
       const email = normalizeEmail(req.body?.email);
       const password = req.body?.password;
+      const configuredAdminEmail = getConfiguredAdminEmail();
       if (!isValidEmail(email) || typeof password !== 'string') {
         res.status(400).json({ error: 'Enter a valid email and password.' });
         return;
+      }
+      if (configuredAdminEmail && email !== configuredAdminEmail) {
+        const rows = await listRowsMany(['users', 'approvedUsers']);
+        const hasExistingUsers = (rows.users as UserRecord[]).length > 0 || (rows.approvedUsers as ApprovalRecord[]).length > 0;
+        if (!hasExistingUsers) {
+          res.status(403).json({ error: `The configured admin email is ${configuredAdminEmail}. Use that email to create the first administrator account.` });
+          return;
+        }
       }
       const records = await listRowsMany(['approvedUsers', 'users']);
       const approval = (records.approvedUsers as ApprovalRecord[]).find(
@@ -1538,7 +1598,8 @@ export function registerApiRoutes(app: Express): void {
     asyncRoute(async (req, res) => {
       const email = normalizeEmail(req.body?.email);
       const displayName = typeof req.body?.displayName === 'string' ? req.body.displayName.trim() : '';
-      const role = req.body?.role;
+      const configuredAdminEmail = getConfiguredAdminEmail();
+      const role = configuredAdminEmail && email === configuredAdminEmail ? 'admin' : req.body?.role;
       const capabilities = validCapabilities(req.body?.capabilities);
       const linkedInUrl = req.body?.linkedInUrl === undefined ? '' : req.body.linkedInUrl;
       const whatsappNumber = req.body?.whatsappNumber === undefined ? '' : req.body.whatsappNumber;
@@ -1547,6 +1608,10 @@ export function registerApiRoutes(app: Express): void {
         !isValidLinkedInUrl(linkedInUrl) || !isValidWhatsAppNumber(whatsappNumber)
       ) {
         res.status(400).json({ error: 'Enter valid member details, including a LinkedIn profile and WhatsApp number if provided.' });
+        return;
+      }
+      if (configuredAdminEmail && role === 'admin' && email !== configuredAdminEmail) {
+        res.status(400).json({ error: `Only the configured admin email (${configuredAdminEmail}) can be an admin. Other members must remain members.` });
         return;
       }
       if ((await listRows('approvedUsers') as ApprovalRecord[]).some((item) => normalizeEmail(item.email) === email)) {
@@ -1659,11 +1724,16 @@ export function registerApiRoutes(app: Express): void {
 
       const email = req.body?.email === undefined ? normalizeEmail(user.email) : normalizeEmail(req.body.email);
       const displayName = req.body?.displayName === undefined ? oldApproval.displayName : String(req.body.displayName).trim();
+      const configuredAdminEmail = getConfiguredAdminEmail();
       const role = req.body?.role === undefined ? oldApproval.role : req.body.role;
       const capabilities = req.body?.capabilities === undefined
         ? parseArray(oldApproval.capabilities)
         : validCapabilities(req.body.capabilities);
       const isActive = req.body?.active === false ? false : true;
+      if (configuredAdminEmail && role === 'admin' && email !== configuredAdminEmail) {
+        res.status(400).json({ error: `Only the configured admin email (${configuredAdminEmail}) can be an admin. Other members must remain members.` });
+        return;
+      }
       if (!isValidEmail(email) || !displayName || !validRole(role) || !capabilities) {
         res.status(400).json({ error: 'Enter a valid name, email, role, and capabilities list.' });
         return;
